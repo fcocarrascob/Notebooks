@@ -21,20 +21,20 @@ git branch --show-current
 
 #### Step 1: Estructura Base y Esquema del Agente
 
-- [ ] Crear directorios base:
+- [x] Crear directorios base:
 
 ```powershell
 New-Item -ItemType Directory -Force -Path wiki/standards, wiki/formulas, wiki/materials, wiki/concepts, wiki/applications, wiki/references, raw/pdf, raw/references
 ```
 
-- [ ] Crear archivo `.gitkeep` en cada directorio vacío de `raw/`:
+- [x] Crear archivo `.gitkeep` en cada directorio vacío de `raw/`:
 
 ```powershell
 New-Item -ItemType File -Force -Path raw/pdf/.gitkeep
 New-Item -ItemType File -Force -Path raw/references/.gitkeep
 ```
 
-- [ ] Copy and paste code below into `CLAUDE.md`:
+- [x] Copy and paste code below into `CLAUDE.md`:
 
 ```markdown
 # CLAUDE.md — Engineering Wiki Schema
@@ -354,7 +354,7 @@ updated: YYYY-MM-DD
 ```
 ```
 
-- [ ] Copy and paste code below into `wiki/index.md`:
+- [x] Copy and paste code below into `wiki/index.md`:
 
 ```markdown
 ---
@@ -401,7 +401,7 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 | *(vacío — se poblará en Step 5)* | |
 ```
 
-- [ ] Copy and paste code below into `wiki/log.md`:
+- [x] Copy and paste code below into `wiki/log.md`:
 
 ```markdown
 ---
@@ -420,12 +420,12 @@ Registro cronológico append-only de operaciones sobre la wiki.
 ```
 
 ##### Step 1 Verification Checklist
-- [ ] Existen los directorios: `wiki/standards/`, `wiki/formulas/`, `wiki/materials/`, `wiki/concepts/`, `wiki/applications/`, `wiki/references/`
-- [ ] Existen los directorios: `raw/pdf/`, `raw/references/`
-- [ ] `CLAUDE.md` existe en la raíz del proyecto y contiene secciones: Estructura de Directorios, Convenciones de Idioma, Formato de Páginas, Operaciones (Ingest/Query/Lint), Cross-References, Templates (5 tipos)
-- [ ] `wiki/index.md` existe con frontmatter YAML válido y categorías vacías
-- [ ] `wiki/log.md` existe con frontmatter YAML válido
-- [ ] No hay errores de sintaxis en ningún archivo markdown
+- [x] Existen los directorios: `wiki/standards/`, `wiki/formulas/`, `wiki/materials/`, `wiki/concepts/`, `wiki/applications/`, `wiki/references/`
+- [x] Existen los directorios: `raw/pdf/`, `raw/references/`
+- [x] `CLAUDE.md` existe en la raíz del proyecto y contiene secciones: Estructura de Directorios, Convenciones de Idioma, Formato de Páginas, Operaciones (Ingest/Query/Lint), Cross-References, Templates (5 tipos)
+- [x] `wiki/index.md` existe con frontmatter YAML válido y categorías vacías
+- [x] `wiki/log.md` existe con frontmatter YAML válido
+- [x] No hay errores de sintaxis en ningún archivo markdown
 
 #### Step 1 STOP & COMMIT
 **STOP & COMMIT:** Agent must stop here and wait for the user to test, stage, and commit the change.
