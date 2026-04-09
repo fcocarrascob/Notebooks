@@ -434,7 +434,7 @@ Registro cronológico append-only de operaciones sobre la wiki.
 
 #### Step 2: Páginas de Estándares Base
 
-- [ ] Copy and paste code below into `wiki/standards/ACI-318-25.md`:
+- [x] Copy and paste code below into `wiki/standards/ACI-318-25.md`:
 
 ```markdown
 ---
@@ -569,7 +569,7 @@ Código de diseño y construcción para concreto estructural en edificaciones y 
 - En Chile, ACI 318 se usa como referencia principal para hormigón armado, complementado con normativas locales (NCh)
 ```
 
-- [ ] Copy and paste code below into `wiki/standards/API-650.md`:
+- [x] Copy and paste code below into `wiki/standards/API-650.md`:
 
 ```markdown
 ---
@@ -649,7 +649,7 @@ El Annex E define un modelo de masas equivalentes para evaluar la respuesta sís
 - El método de Variable-Design-Point (§5.6.4) es más económico que el método 1-Foot para estanques de diámetro grande
 ```
 
-- [ ] Copy and paste code below into `wiki/standards/NCh2369-2025.md`:
+- [x] Copy and paste code below into `wiki/standards/NCh2369-2025.md`:
 
 ```markdown
 ---
@@ -772,7 +772,7 @@ Para $T > 0.16 R T_1$: $R^* = R$
 - La edición 2025 actualiza la zonificación sísmica respecto a la edición 2003
 ```
 
-- [ ] Actualizar `wiki/index.md` — reemplazar la sección Standards con:
+- [x] Actualizar `wiki/index.md` — reemplazar la sección Standards con:
 
 ```markdown
 ## Standards
@@ -784,12 +784,12 @@ Para $T > 0.16 R T_1$: $R^* = R$
 ```
 
 ##### Step 2 Verification Checklist
-- [ ] `wiki/standards/ACI-318-25.md` tiene frontmatter con campos: `standard_code`, `edition`, `scope[]`, `unit_system`, `region`, `domains[]`
-- [ ] `wiki/standards/API-650.md` tiene frontmatter con los mismos campos
-- [ ] `wiki/standards/NCh2369-2025.md` tiene frontmatter con los mismos campos
-- [ ] Las 3 páginas contienen secciones: Alcance, Estructura de Capítulos, Áreas de Aplicación, Fórmulas Relacionadas, Notas
-- [ ] `wiki/index.md` lista las 3 páginas bajo "Standards" con links válidos
-- [ ] Los links relativos en `related:` del frontmatter son rutas válidas (se verificarán cuando existan los archivos destino)
+- [x] `wiki/standards/ACI-318-25.md` tiene frontmatter con campos: `standard_code`, `edition`, `scope[]`, `unit_system`, `region`, `domains[]`
+- [x] `wiki/standards/API-650.md` tiene frontmatter con los mismos campos
+- [x] `wiki/standards/NCh2369-2025.md` tiene frontmatter con los mismos campos
+- [x] Las 3 páginas contienen secciones: Alcance, Estructura de Capítulos, Áreas de Aplicación, Fórmulas Relacionadas, Notas
+- [x] `wiki/index.md` lista las 3 páginas bajo "Standards" con links válidos
+- [x] Los links relativos en `related:` del frontmatter son rutas válidas (se verificarán cuando existan los archivos destino)
 
 #### Step 2 STOP & COMMIT
 **STOP & COMMIT:** Agent must stop here and wait for the user to test, stage, and commit the change.

@@ -14,7 +14,9 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 ## Standards
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 2)* | |
+| [ACI-318-25](standards/ACI-318-25.md) | Código de construcción para concreto estructural — edición 2025 SI |
+| [API-650](standards/API-650.md) | Estanques cilíndricos de acero soldado para almacenamiento |
+| [NCh2369-2025](standards/NCh2369-2025.md) | Diseño sísmico de estructuras e instalaciones industriales (Chile) |
 
 ## Formulas
 | Página | Descripción |
