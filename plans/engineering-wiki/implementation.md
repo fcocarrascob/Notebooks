@@ -798,7 +798,7 @@ Para $T > 0.16 R T_1$: $R^* = R$
 
 #### Step 3: Índice de Fórmulas
 
-- [ ] Copy and paste code below into `wiki/formulas/ACI-318-Ch10-Columns.md`:
+- [x] Copy and paste code below into `wiki/formulas/ACI-318-Ch10-Columns.md`:
 
 ```markdown
 ---
@@ -926,7 +926,7 @@ Usando $\rho_g = 2\%$: $A_{st} = 3{,}000$ mm² → 6 barras Ø25 ($A_s = 6 \time
 $$P_{n,max} = 0.80 [0.85 \times 28 \times (150{,}000 - 2{,}946) + 420 \times 2{,}946] = 3{,}790 \text{ kN}$$
 ```
 
-- [ ] Copy and paste code below into `wiki/formulas/API-650-Seismic.md`:
+- [x] Copy and paste code below into `wiki/formulas/API-650-Seismic.md`:
 
 ```markdown
 ---
@@ -1061,7 +1061,7 @@ $$m_i = 1{,}244{,}071 \times \frac{\tanh(0.866 \times 12/11)}{0.866 \times 12/11
 $$T_c = \frac{2\pi}{\sqrt{3.68 \times \tanh(3.68 \times 11/12)}} \times \sqrt{\frac{12}{9.81}} = 3.56 \text{ s}$$
 ```
 
-- [ ] Copy and paste code below into `wiki/formulas/NCh2369-Spectrum.md`:
+- [x] Copy and paste code below into `wiki/formulas/NCh2369-Spectrum.md`:
 
 ```markdown
 ---
@@ -1201,7 +1201,7 @@ Usando $R^* = R = 4$ (suponiendo $T_i > 0.16 R T_1$):
 $$S_a = \frac{1.2 \times 1.45 \times 0.729}{4} = 0.317g$$
 ```
 
-- [ ] Actualizar backlinks en estándares — agregar/actualizar la sección "Fórmulas Relacionadas" en cada archivo de estándares.
+- [x] Actualizar backlinks en estándares — agregar/actualizar la sección "Fórmulas Relacionadas" en cada archivo de estándares.
 
 En `wiki/standards/ACI-318-25.md`, la sección ya contiene el link correcto. No requiere cambios.
 
@@ -1209,7 +1209,7 @@ En `wiki/standards/API-650.md`, la sección ya contiene el link correcto. No req
 
 En `wiki/standards/NCh2369-2025.md`, la sección ya contiene el link correcto. No requiere cambios.
 
-- [ ] Actualizar `wiki/index.md` — reemplazar la sección Formulas con:
+- [x] Actualizar `wiki/index.md` — reemplazar la sección Formulas con:
 
 ```markdown
 ## Formulas
@@ -1221,12 +1221,12 @@ En `wiki/standards/NCh2369-2025.md`, la sección ya contiene el link correcto. N
 ```
 
 ##### Step 3 Verification Checklist
-- [ ] `wiki/formulas/ACI-318-Ch10-Columns.md` tiene frontmatter con: `standard_ref`, `chapter`, `section`, `variables[]`, `units`
-- [ ] `wiki/formulas/API-650-Seismic.md` tiene frontmatter con los mismos campos
-- [ ] `wiki/formulas/NCh2369-Spectrum.md` tiene frontmatter con los mismos campos
-- [ ] Cada fórmula contiene: ecuación LaTeX, tabla de variables con unidades, condiciones de aplicación, ejemplo numérico
-- [ ] Cross-refs bidireccionales: cada fórmula linka a su estándar y cada estándar lista la fórmula en "Fórmulas Relacionadas"
-- [ ] `wiki/index.md` sección Formulas lista las 3 páginas con links
+- [x] `wiki/formulas/ACI-318-Ch10-Columns.md` tiene frontmatter con: `standard_ref`, `chapter`, `section`, `variables[]`, `units`
+- [x] `wiki/formulas/API-650-Seismic.md` tiene frontmatter con los mismos campos
+- [x] `wiki/formulas/NCh2369-Spectrum.md` tiene frontmatter con los mismos campos
+- [x] Cada fórmula contiene: ecuación LaTeX, tabla de variables con unidades, condiciones de aplicación, ejemplo numérico
+- [x] Cross-refs bidireccionales: cada fórmula linka a su estándar y cada estándar lista la fórmula en "Fórmulas Relacionadas"
+- [x] `wiki/index.md` sección Formulas lista las 3 páginas con links
 
 #### Step 3 STOP & COMMIT
 **STOP & COMMIT:** Agent must stop here and wait for the user to test, stage, and commit the change.

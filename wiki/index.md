@@ -21,7 +21,9 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 ## Formulas
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 3)* | |
+| [ACI-318-Ch10-Columns](formulas/ACI-318-Ch10-Columns.md) | Diseño de columnas — flexo-compresión, esbeltez, refuerzo |
+| [API-650-Seismic](formulas/API-650-Seismic.md) | Análisis sísmico de estanques — masas, alturas, períodos |
+| [NCh2369-Spectrum](formulas/NCh2369-Spectrum.md) | Espectro sísmico de diseño — forma espectral, amortiguamiento, R* |
 
 ## Materials
 | Página | Descripción |
