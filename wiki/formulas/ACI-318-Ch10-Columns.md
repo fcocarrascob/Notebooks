@@ -9,11 +9,13 @@ units: "SI"
 tags: [columnas, flexo-compresión, hormigón, ACI]
 related:
   - ../standards/ACI-318-25.md
+  - ../formulas/ACI-318-Ch22-SectionalStrength.md
+  - ../formulas/ACI-318-Ch21-PhiFactors.md
   - ../materials/Concrete-Properties.md
   - ../materials/Steel-Reinforcing.md
   - ../applications/Column-Design-Workflow.md
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 ---
 
 # ACI 318-25 Cap. 10 — Diseño de Columnas
@@ -25,15 +27,23 @@ updated: 2026-04-09
 
 ## Fórmulas
 
+### Resistencia Axial Nominal ($P_o$) (§22.4.2.2)
+
+Para miembros no preesforzados:
+
+$$P_o = 0.85\,f'_c\,(A_g - A_{st}) + f_y\,A_{st}$$
+
+> $f_y$ limitado a máx. 550 MPa para este cálculo.
+
 ### Resistencia Axial Nominal Máxima
 
-Para columnas con estribos (§22.4.2):
+Para columnas con estribos (§22.4.2, Tabla 22.4.2.1):
 
-$$P_{n,max} = 0.80 \left[ 0.85 f'_c (A_g - A_{st}) + f_y A_{st} \right]$$
+$$P_{n,max} = 0.80\,P_o$$
 
-Para columnas con espiral (§22.4.2):
+Para columnas con espiral (§22.4.2, Tabla 22.4.2.1):
 
-$$P_{n,max} = 0.85 \left[ 0.85 f'_c (A_g - A_{st}) + f_y A_{st} \right]$$
+$$P_{n,max} = 0.85\,P_o$$
 
 **Variables:**
 | Símbolo | Descripción | Unidad |

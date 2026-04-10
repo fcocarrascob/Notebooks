@@ -9,7 +9,7 @@ related:
   - ../concepts/Seismic-Design-Principles.md
   - ../applications/Column-Design-Workflow.md
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 ---
 
 # Combinaciones de Carga
@@ -22,19 +22,19 @@ Las combinaciones de carga definen los escenarios de diseño que la estructura d
 
 ### Combinaciones Principales
 
-$$U_1 = 1.4D$$
+$$U_1 = 1.4D \tag{5.3.1a}$$
 
-$$U_2 = 1.2D + 1.6L + 0.5(L_r \text{ ó } S \text{ ó } R)$$
+$$U_2 = 1.2D + 1.6L + (0.5L_r \text{ ó } 0.3S \text{ ó } 0.5R) \tag{5.3.1b}$$
 
-$$U_3 = 1.2D + 1.6(L_r \text{ ó } S \text{ ó } R) + (L \text{ ó } 0.5W)$$
+$$U_3 = 1.2D + (1.6L_r \text{ ó } 1.0S \text{ ó } 1.6R) + (1.0L \text{ ó } 0.5W) \tag{5.3.1c}$$
 
-$$U_4 = 1.2D + 1.0W + L + 0.5(L_r \text{ ó } S \text{ ó } R)$$
+$$U_4 = 1.2D + 1.0W + 1.0L + (0.5L_r \text{ ó } 0.3S \text{ ó } 0.5R) \tag{5.3.1d}$$
 
-$$U_5 = 1.2D + 1.0E + L + 0.2S$$
+$$U_5 = 1.2D + 1.0E + 1.0L + 0.15S \tag{5.3.1e}$$
 
-$$U_6 = 0.9D + 1.0W$$
+$$U_6 = 0.9D + 1.0W \tag{5.3.1f}$$
 
-$$U_7 = 0.9D + 1.0E$$
+$$U_7 = 0.9D + 1.0E \tag{5.3.1g}$$
 
 ### Variables
 
@@ -70,6 +70,8 @@ donde:
 - $\rho$ = factor de redundancia (1.0 o 1.3)
 - $Q_E$ = efecto de fuerzas sísmicas horizontales
 - $S_{DS}$ = parámetro de aceleración espectral de diseño
+
+> **Nota ACI 318-25 / ASCE 7-22:** A partir del ACI 318-25, las cargas de nieve siguen ASCE/SEI 7-22 como cargas a nivel de resistencia (no de servicio). Por eso el factor para $S$ en $U_2$, $U_4$ = 0.3 (antes 0.5) y en $U_5$ = 0.15 (antes 0.2). El factor para $S$ en $U_3$ = 1.0 (antes 1.6).
 
 ## Estándares Relacionados
 

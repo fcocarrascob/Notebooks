@@ -1,0 +1,1747 @@
+--- ACI p.437 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 7: STRENGTH & SERVICEABILITY 437
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+R22.1—Scope
+R22.1.1 The provisions in this chapter apply where the 
+strength of the member is evaluated at critical sections.
+R22.1.2 Chapter 23 provides methods for designing 
+discontinuity regions where section-based methods do not 
+apply.
+R22.2—Design assumptions for moment and axial 
+strength
+R22.2.1 Equilibrium and strain compatibility
+R22.2.1.1 The flexural and axial strength of a member 
+calculated by the strength design method of the Code 
+requires that two basic conditions be satisfied: 1) equilib -
+rium; and 2) compatibility of strains. Equilibrium refers to 
+the balancing of forces acting on the cross section at nominal 
+strength. The relationship between the stress and strain for 
+the concrete and the reinforcement at nominal strength is 
+established within the design assumptions allowed by 22.2.
+R22.2.1.2 It is reasonable to assume a linear distribution 
+of strain over the depth of a reinforced concrete cross section 
+for bending moment up to nominal strength, except in deep 
+beams described in 9.9 and discontinuity regions addressed 
+in Chapter 23. This assumption allows the determination of 
+strain and corresponding stress in the reinforcement.
+R22.2.1.4 The change in strain for bonded prestressed 
+reinforcement is influenced by the change in strain at the 
+section under consideration. For unbonded prestressed rein-
+forcement, the change in strain is influenced by external 
+load, reinforcement location, and boundary conditions along 
+the length of the reinforcement. Current Code equations for 
+calculating fps for unbonded tendons, as provided in 20.3.2.4, 
+have been correlated with test results
+22.1—Scope
+22.1.1 This chapter shall apply to calculating nominal 
+strength at sections of members, including (a) through (g): 
+(a) Flexural strength
+(b) Axial strength or combined flexural and axial strength
+(c) One-way shear strength
+(d) Two-way shear strength
+(e) Torsional strength
+(f) Bearing
+(g) Shear friction
+22.1.2 Sectional strength requirements of this chapter 
+shall be satisfied unless the member or region of the member 
+is designed in accordance with Chapter 23.
+22.1.3 Design strength at a section shall be taken as the 
+nominal strength multiplied by the applicable strength 
+reduction factor ϕ given in Chapter 21.
+22.2—Design assumptions for moment and axial 
+strength
+22.2.1 Equilibrium and strain compatibility
+22.2.1.1 Equilibrium shall be satisfied at each section.
+22.2.1.2 Strain in concrete and nonprestressed reinforce -
+ment shall be assumed proportional to the distance from 
+neutral axis.
+22.2.1.3 Strain in prestressed concrete and in bonded and 
+unbonded prestressed reinforcement shall include the strain 
+due to effective prestress.
+22.2.1.4 Changes in strain for bonded prestressed rein -
+forcement shall be assumed proportional to the distance 
+from neutral axis.
+CHAPTER 22—SECTIONAL STRENGTH
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.438 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+438 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.2.2 Design assumptions for concrete
+R22.2.2.1 The maximum concrete compressive strain at 
+crushing of the concrete has been observed in tests of various 
+kinds to vary from 0.003 to higher than 0.008 under special 
+conditions. However, the strain at which strength of the 
+member is developed is usually 0.003 to 0.004 for members 
+of normal proportions, materials, and strength.
+R22.2.2.2 The tensile strength of concrete in flexure 
+(modulus of rupture) is a more variable property than the 
+compressive strength and is approximately 10 to 15 percent 
+of the compressive strength. Tensile strength of concrete 
+in flexure is conservatively neglected in calculating the 
+nominal flexural strength. The strength of concrete in 
+tension, however, is important in evaluating cracking and 
+deflections at service loads.
+R22.2.2.3 At high strain levels, the stress-strain relation -
+ship for concrete is nonlinear (stress is not proportional to 
+strain). As stated in 22.2.2.1, the maximum usable strain is 
+set at 0.003 for design.
+The actual distribution of concrete compressive stress 
+within a cross section is complex and usually not known 
+explicitly. The important properties of the concrete stress 
+distribution can be approximated closely using any one 
+of several different assumptions for the shape of the stress 
+distribution.
+R22.2.2.4 For design, the Code allows the use of an equiv-
+alent rectangular compressive stress distribution (stress 
+block) to replace the more detailed approximation of the 
+concrete stress distribution.
+R22.2.2.4.1 The equivalent rectangular stress distribution 
+does not represent the actual stress distribution in the compres-
+sion zone at nominal strength, but does provide essentially 
+the same nominal combined flexural and axial compressive 
+strength as obtained in tests (Mattock et al. 1961).
+R22.2.2.4.3 The values for β1 were determined experi -
+mentally. The lower limit of β1 is based on experimental data 
+from beams constructed with concrete strengths greater than 
+8000 psi (Leslie et al. 1976; Karr et al. 1978).
+22.2.2 Design assumptions for concrete
+22.2.2.1 Maximum strain at the extreme concrete compres-
+sion fiber shall be assumed equal to 0.003.
+22.2.2.2 Tensile strength of concrete shall be neglected in 
+flexural and axial strength calculations.
+22.2.2.3 The relationship between concrete compressive 
+stress and strain shall be represented by a rectangular, trap -
+ezoidal, parabolic, or other shape that results in prediction 
+of strength in substantial agreement with results of compre -
+hensive tests.
+22.2.2.4 The equivalent rectangular concrete stress distri-
+bution in accordance with 22.2.2.4.1 through 22.2.2.4.3 
+satisfies 22.2.2.3.
+22.2.2.4.1 Concrete stress of 0.85 fc′ shall be assumed 
+uniformly distributed over an equivalent compression zone 
+bounded by edges of the cross section and a line parallel 
+to the neutral axis located a distance a from the fiber of 
+maximum compressive strain, as calculated by: 
+ a  = β1c (22.2.2.4.1)
+22.2.2.4.2 Distance from the fiber of maximum compres -
+sive strain to the neutral axis, c, shall be measured perpen -
+dicular to the neutral axis.
+22.2.2.4.3 Values of β1 shall be in accordance with 
+Table 22.2.2.4.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.439 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 439
+R22.3—Flexural strength
+R22.3.2 Prestressed concrete members
+R22.3.2.2 Bond length for nontensioned prestressing 
+strand (Salmons and McCrate 1977 ; PCA 1980) should be 
+sufficient to develop the stress consistent with strain compat-
+ibility analysis at the critical section.
+Table 22.2.2.4.3—Values of β1 for equivalent 
+rectangular concrete stress distribution
+fc′, MPa β1
+17 ≤ fc′ ≤ 28 0.85 (a)
+28 < fc′ < 55  0.85 −   
+0.05 (  f  c   ′   – 28) 
+ _________ 7   (b)
+fc′ ≥ 55 0.65 (c)
+22.2.3 Design assumptions for nonprestressed reinforcement
+22.2.3.1 Deformed reinforcement used to resist tensile or 
+compressive forces shall conform to 20.2.1.
+22.2.3.2 Stress-strain relationship and modulus of elas -
+ticity for deformed reinforcement shall be idealized in accor-
+dance with 20.2.2.1 and 20.2.2.2.
+22.2.4 Design assumptions for prestressed reinforcement
+22.2.4.1 For members with bonded prestressed rein -
+forcement conforming to 20.3.1, stress at nominal flexural 
+strength, fps, shall be calculated in accordance with 20.3.2.3.
+22.2.4.2 For members with unbonded prestressed rein -
+forcement conforming to 20.3.1, fps shall be calculated in 
+accordance with 20.3.2.4.
+22.2.4.3 If the embedded length of the prestressed strand 
+is less than ℓd, the design stress of the prestressed strand 
+shall not exceed the value given in 25.4.8.3, as modified by 
+25.4.8.1(b).
+22.3—Flexural strength
+22.3.1 General
+22.3.1.1 Nominal flexural strength Mn shall be calculated 
+in accordance with the assumptions of 22.2.
+22.3.2 Prestressed concrete members
+22.3.2.1 Deformed reinforcement conforming to 20.2.1, 
+provided in conjunction with prestressed reinforcement, 
+shall be permitted to be considered to contribute to the 
+tensile force and be included in flexural strength calculations 
+at a stress equal to fy.
+22.3.2.2 Other nonprestressed reinforcement shall be 
+permitted to be considered to contribute to the flexural 
+strength if a strain compatibility analysis is performed to 
+calculate stresses in such reinforcement.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.440 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+440 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.3.3 Composite concrete members
+R22.3.3.1 The scope of Chapter 22 is intended to include 
+composite concrete flexural members. Where separate place-
+ments of concrete are designed to act as a unit, the interface 
+is designed for the forces that will be transferred across the 
+interface. Composite structural steel-concrete beams are not 
+covered in the Code. Design provisions for these types of 
+composite members are covered in ANSI/AISC 360.
+R22.4—Axial strength or combined flexural and 
+axial strength
+R22.4.2 Maximum axial compressive strength
+R22.4.2.1 To account for accidental eccentricity, the design 
+axial strength of a section in pure compression is limited to 
+80 to 85% of the nominal axial strength. These percentage 
+values approximate the axial strengths at eccentricity-to-
+depth ratios of 0.10 and 0.05 for tied and spirally reinforced 
+members conforming to 22.4.2.4 and 22.4.2.5, respectively. 
+The same axial load limitation applies to both cast-in-place 
+and precast compression members. The value of fy is limited to 
+80,000 psi because the compression capacity of the concrete is 
+likely to be reached before this stress is exceeded. The trans-
+verse reinforcement requirements for columns do not apply to 
+deep foundation members. Chapter 13 provides the detailing 
+requirements for these members.
+22.3.3 Composite concrete members
+22.3.3.1 Provisions of 22.3.3 apply to members constructed 
+in separate placements but connected so that all elements 
+resist loads as a unit.
+22.3.3.2 For calculation of Mn for composite concrete 
+slabs and beams, use of the entire composite section shall 
+be permitted.
+22.3.3.3 For calculation of Mn for composite concrete slabs 
+and beams, no distinction shall be made between shored and 
+unshored members.
+22.3.3.4 For calculation of Mn for composite concrete 
+members where the specified concrete compressive strength 
+of different elements varies, properties of the individual 
+elements shall be used in design. Alternatively, it shall be 
+permitted to use the value of fc′ for the element that results in 
+the most critical value of Mn.
+22.4—Axial strength or combined flexural and 
+axial strength
+22.4.1 General
+22.4.1.1 Nominal flexural and axial strength shall be 
+calculated in accordance with the assumptions of 22.2.
+22.4.2 Maximum axial compressive strength
+22.4.2.1 Nominal axial compressive strength Pn shall not 
+exceed Pn,max in accordance with Table 22.4.2.1, where Po 
+is calculated by Eq. (22.4.2.2) for nonprestressed members 
+and by Eq. (22.4.2.3) for prestressed members. The value of 
+fy shall be limited to a maximum of 550 MPa.
+Table 22.4.2.1—Maximum axial strength
+Member Transverse reinforcement Pn,max
+Nonprestressed
+Ties conforming to 22.4.2.4 0.80Po (a)
+Spirals conforming to 22.4.2.5 0.85Po (b)
+Prestressed
+Ties 0.80Po (c)
+Spirals 0.85Po (d)
+Deep 
+foundation 
+member
+Ties conforming to Ch. 13 0.80Po (e)
+22.4.2.2 For nonprestressed members, Po shall be calculated 
+by: 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.441 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 441
+R22.4.2.3 The effects of prestressing on the axial 
+strength of compression members are taken into account in 
+Eq. (22.4.2.3). Equation (22.4.2.3) is similar to Eq. (22.4.2.2) 
+for nonprestressed compression members. The effective 
+area of concrete subjected to the limiting stress of 0.85 fc′ 
+is reduced by the term Apd to account for the area of ducts, 
+sheathing, and prestressing reinforcement. A third term is 
+added to account for the reduction of column capacity due 
+to the prestress force. At nominal strength, the stress in 
+the prestressed reinforcement, fse, is decreased by 0.003 Ep, 
+where 0.003 is the assumed compressive strain at the axial 
+capacity of the member.
+R22.5—One-way shear strength
+R22.5.1 General
+R22.5.1.1 In a member without shear reinforcement, 
+shear is assumed to be resisted by the concrete. In a member 
+with shear reinforcement, a portion of the shear strength is 
+assumed to be provided by the concrete and the remainder 
+by the shear reinforcement.
+The one-way shear equations for nonprestressed concrete 
+were changed in the 2019 Code with the primary objectives 
+of including effect of member depth, commonly referred to 
+as the “size effect,” and the effects of the longitudinal rein -
+forcement ratio on shear strength.
+The shear strength is based on an average shear stress over 
+the effective cross section, bwd.
+Chapter 23  allows the use of the strut-and-tie method 
+in the shear design of any structural concrete member, or 
+discontinuity region in a member.
+ P o = 0.85fc′(Ag – Ast) + fyAst (22.4.2.2)
+where Ast is the total area of nonprestressed longitudinal 
+reinforcement.
+22.4.2.3 For prestressed members, Po shall be calculated 
+by: 
+ P o = 0.85fc′(Ag – Ast – Apd) + fyAst –(fse – 0.003Ep)Apt 
+  (22.4.2.3)
+where Apt is the total area of prestressing reinforcement, 
+and Apd is the total area occupied by duct, sheathing, and 
+prestressing reinforcement; the value of fse shall be at least 
+0.003Ep. For grouted, post-tensioned tendons, it shall be 
+permitted to assume Apd equals Apt.
+22.4.2.4 Tie reinforcement for lateral support of longitu -
+dinal reinforcement in compression members shall satisfy 
+10.7.6.2 and 25.7.2.
+22.4.2.5 Spiral reinforcement for lateral support of longi -
+tudinal reinforcement in compression members shall satisfy 
+10.7.6.3 and 25.7.3.
+22.4.3 Maximum axial tensile strength
+22.4.3.1 Nominal axial tensile strength of a nonprestressed 
+or prestressed member, Pnt, shall not be taken greater than 
+Pnt,max, calculated by: 
+ P nt,max = fyAst + (fse + Δfp)Apt (22.4.3.1)
+where ( fse + Δ fp) shall not exceed fpy, and Apt is zero for 
+nonprestressed members.
+22.5—One-way shear strength
+22.5.1 General
+22.5.1.1 Nominal one-way shear strength at a section, Vn, 
+shall be calculated by: 
+ Vn = Vc + Vs (22.5.1.1)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.442 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+442 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.5.1.2 The limit on cross-sectional dimensions in 
+22.5.1.2 is intended to control cracking under service load and 
+to minimize the likelihood of diagonal compression failure.
+R22.5.1.7 Openings in the web of a member can reduce 
+its shear strength. The effects of openings are discussed in 
+Section 4.7 of Joint ACI-ASCE Committee 426 (1973) , 
+Barney et al. (1977) , and Schlaich et al. (1987) . The strut-
+and-tie method as addressed in Chapter 23 can be used to 
+design members with openings.
+R22.5.1.8 Consideration of axial tension requires engi -
+neering judgment. Axial tension often occurs due to volume 
+changes, but it may be low enough not to be detrimental 
+to the performance of a structure with adequate expansion 
+joints and satisfying minimum longitudinal reinforcement 
+requirements. It may be desirable to design shear reinforce -
+ment to resist the total shear if there is uncertainty about the 
+magnitude of axial tension.
+R22.5.1.9 In a member of variable depth, the internal 
+shear at any section is increased or decreased by the vertical 
+component of the inclined flexural stresses.
+R22.5.1.10 and R.22.5.1.11 Reinforced concrete members, 
+such as columns and beams, may be subjected to biaxial 
+shear. For symmetrically reinforced circular sections, nominal 
+one-way shear strength about any axis is the same. There -
+fore, when a circular section is subjected to shear along two 
+centroidal axes, shear strength can be evaluated using the resul-
+tant shear. However, for rectangular and other cross sections, 
+calculating nominal one-way shear strength along the axis of 
+the resultant shear is not practical. Tests and analytical results 
+for columns have indicated that for biaxial shear loading, the 
+shear strength follows an elliptical interaction diagram that 
+requires calculating nominal one-way shear strength along two 
+orthogonal directions (Umehara and Jirsa 1984). Considering 
+shear along each centroidal axis independently can be uncon-
+servative. Thus, linear interaction accounts for biaxial shear.
+22.5.1.2 Cross-sectional dimensions shall be selected to 
+satisfy Eq. (22.5.1.2). 
+   V  u   ≤ ϕ  (    V  c   + 0.66 √ 
+_
+  f  c   ′     b  w   d )     (22.5.1.2)
+22.5.1.3 For nonprestressed members, Vc shall be calcu -
+lated in accordance with 22.5.5.
+22.5.1.4 For prestressed members, Vc shall be calculated 
+in accordance with 22.5.6 or 22.5.7.
+22.5.1.5 For calculation of Vc, Vci, and Vcw, λ shall be in 
+accordance with 19.2.4.
+22.5.1.6 Vs shall be calculated in accordance with 22.5.8.
+22.5.1.7 Effect of any openings in members shall be 
+considered in calculating Vn.
+22.5.1.8 Effect of axial tension due to creep and shrinkage 
+in members shall be considered in calculating Vc.
+22.5.1.9 Effect of inclined flexural compression in variable 
+depth members shall be permitted to be considered in calcu-
+lating Vc.
+22.5.1.10 The interaction of shear forces acting along 
+orthogonal axes shall be permitted to be neglected if (a) or 
+(b) is satisfied.
+(a)    
+ V  u,x  
+ ___ ϕ V  n,x     ≤ 0.5    (22.5.1.10a)
+(b)    
+ V  u,y  
+ ___ ϕ V  n,y     ≤ 0.5    (22.5.1.10b)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.443 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 443
+R22.5.2 Geometric assumptions
+R22.5.2.1 The computation of d for rectangular columns 
+and circular sections can be complicated considering varia -
+tions in axial load as well as multiple layers of reinforcement. 
+While the actual d can be used, simplified definitions of d 
+are provided. Experimental results indicate that d computed 
+as 80% of the overall column dimension is appropriate and 
+results in good accuracy (Sezen et al. 2021).
+Although the transverse reinforcement in a circular 
+section may not consist of straight legs, tests indicate that 
+Eq. (22.5.8.5.3) is conservative if d is taken as defined in 
+22.5.2.1 ( Faradji and Diaz de Cossio 1965 ; Khalifa and 
+Collins 1981).
+R22.5.2.2 Although the value of d may vary along the 
+span of a prestressed beam, studies (MacGregor and Hanson 
+1969) have shown that, for prestressed concrete members, d 
+need not be taken less than 0.8h. The beams considered had 
+some straight prestressed reinforcement or reinforcing bars 
+at the bottom of the section and had stirrups that enclosed the 
+longitudinal reinforcement.
+R22.5.3 Limiting material strengths
+R22.5.3.1 Because of a lack of test data and practical 
+experience with concretes having compressive strengths 
+greater than 70 MPa, the Code imposes a maximum value of 
+8.3 MPa on   √ 
+__
+   f  c   ′      for use in the calculation of shear strength of 
+concrete members. Exceptions to this limit are permitted in 
+beams and joists if the transverse reinforcement satisfies the 
+requirements in 22.5.3.2.
+R22.5.3.2 Based on the beam test results in Mphonde and 
+Frantz (1984) , Elzanaty et al. (1986) , Roller and Russell 
+(1990), Johnson and Ramirez (1989) , and Ozcebe et al. 
+(1999), an increase in the minimum amount of transverse 
+reinforcement is required for high-strength concrete. These 
+tests indicate a reduction in reserve shear strength occurs as fc′ 
+increases in beams reinforced with transverse reinforcement 
+providing an effective shear stress of 0.35 MPa. By providing 
+minimum transverse reinforcement, which increases as fc′ 
+increases, the reduction in shear strength is offset.
+R22.5.3.3 The upper limit of 420 MPa on the value of fy 
+and fyt used in design is intended to control diagonal crack 
+widths.
+22.5.1.11 If     
+ V  u,x  
+ ___ ϕ V  n,x      > 0.5  and     
+ V  u,y  
+ ___  ϕV  n,y     > 0.5  then Eq. (22.5.1.11) 
+shall be satisfied. 
+     
+ V  u,x  
+ ___  ϕV  n,x     +   
+ V  u,y  
+ ___ ϕ V  n,y      ≤ 1.5  (22.5.1.11)
+22.5.2 Geometric assumptions
+22.5.2.1 For calculation of Vc and Vs, it shall be permitted 
+to assume (a) through (d) : 
+(a) d equal to 0.8h for rectangular columns
+(b) d equal to 0.8 times the diameter for circular sections
+(c) bw equal to the diameter for solid circular sections
+(d) bw equal to twice the wall thickness for hollow circular 
+sections
+22.5.2.2 For calculation of Vc and Vs in prestressed 
+members, d shall be taken as the distance from the extreme 
+compression fiber to the centroid of prestressed and any 
+nonprestressed longitudinal reinforcement but need not be 
+taken less than 0.8h.
+22.5.3 Limiting material strengths
+22.5.3.1 The value of   √ 
+__
+   f  c   ′      used to calculate Vc, Vci, and Vcw 
+for one-way shear shall not exceed 8.3 MPa, unless allowed 
+in 22.5.3.2.
+22.5.3.2 Values of   √ 
+__
+   f  c   ′      greater than 8.3  MPa  shall be 
+permitted in calculating Vc, Vci, and Vcw for reinforced or 
+prestressed concrete beams and concrete joist construction 
+having minimum web reinforcement in accordance with 
+9.6.3.4 or 9.6.4.2.
+22.5.3.3 The values of fy and fyt used to calculate Vs shall 
+not exceed the limits in 20.2.2.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.444 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+444 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.5.4 Composite concrete members
+R22.5.4.1 The scope of Chapter 22 includes composite 
+concrete members. Composite structural steel-concrete 
+beams are not covered in the Code. Design provisions for 
+such composite members are covered in ANSI/AISC 360.
+R22.5.5 Vc for nonprestressed members
+R22.5.5.1 Test results for nonprestressed members 
+without shear reinforcement indicate that measured shear 
+strength, attributed to concrete, does not increase in direct 
+proportion with member depth. This phenomenon is often 
+referred to as “size effect.” For example, if member depth 
+doubles, shear at failure for the deeper beam may be less 
+than twice the shear at failure for the shallower beam (Sneed 
+and Ramirez 2010). Research (Angelakos et al. 2001; Lubell 
+et al. 2004 ; Brown et al. 2006 ; Becker and Buettner 1985 ; 
+Anderson 1978 ; Bažant et al. 2007 ) has shown that shear 
+stress at failure is lower for beams and slabs with increased 
+depth and a reduced area of longitudinal reinforcement. 
+Changes were made in the ACI 318-19 code (Kuchma et al. 
+2019) to account for size effect and the effect of longitudinal 
+reinforcement ratio on shear strength of members.
+In Table 22.5.5.1, for Av > Av,min, either equation for Vc may 
+be used. Equation (a) is provided as a simpler option.
+When calculating Vc by Table 22.5.5.1, an axial tension 
+force can cause Vc to have a negative value. In those cases, 
+the Code specifies that Vc should be taken equal to zero.
+The criteria column in Table 22.5.5.1 references Av,min, which 
+is defined in 7.6.3.3 for one-way slabs, 9.6.3.4 for beams, and 
+10.6.2.2 for columns and referenced throughout the Code.
+22.5.4 Composite concrete members
+22.5.4.1 This section shall apply to members constructed 
+in separate placements but connected so that all elements 
+resist loads as a unit.
+22.5.4.2 For calculation of Vn for composite concrete 
+members, no distinction shall be made between shored and 
+unshored members.
+22.5.4.3 For calculation of Vn for composite concrete 
+members where the specified concrete compressive strength, 
+unit weight, or other properties of different elements vary, 
+properties of the individual elements shall be used in design. 
+Alternatively, it shall be permitted to use the properties of 
+the element that results in the most critical value of Vn.
+22.5.4.4 If an entire composite concrete member is 
+assumed to resist vertical shear, it shall be permitted to 
+calculate Vc assuming a monolithically cast member of the 
+same cross-sectional shape.
+22.5.4.5 If an entire composite concrete member is 
+assumed to resist vertical shear, it shall be permitted to 
+calculate Vs assuming a monolithically cast member of the 
+same cross-sectional shape if shear reinforcement is fully 
+anchored into the interconnected elements in accordance 
+with 25.7.
+22.5.5 Vc for nonprestressed members
+22.5.5.1 For nonprestressed members, Vc shall be calcu -
+lated in accordance with Table 22.5.5.1 and 22.5.5.1.1 
+through 22.5.5.1.3.
+Table 22.5.5.1— Vc for nonprestressed members
+Criteria Vc
+Av ≥ Av,min Either of:
+   [  0.17λ  √ 
+__
+   f  c   ′     +    N  u   ___ 6 A  g     ]    b  w   d (a)
+  [0.66λ  ( ρ  w  )    1/3  √ 
+__
+   f  c   ′     +    N  u   ___ 6 A  g     ]  b  w  d (b)
+Av < Av,min    [  0.66  λ  s   λ   ( ρ  w  )    1/3   √ 
+__
+   f  c   ′     +    N  u   ___ 6 A  g     ]    b  w   d (c)
+Notes:
+1. Axial load Nu is positive for compression and negative for tension.
+2. Vc shall not be taken less than zero.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.445 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 445
+R22.5.5.1.1 Because of the compounded effect of λs and ρw 
+in Eq. 22.5.5.1c, Vc may tend to zero for large, lightly rein -
+forced concrete members. The lower bound 0.083λ  √ 
+__
+   f  c   ′     bwd is 
+intended to result in a concrete shear strength consistent with 
+earlier, successful practice.
+R22.5.5.1.3 The parameters within the size effect modi -
+fication factor, λs, are consistent with fracture mechanics 
+theory for reinforced concrete ( Bažant et al. 2007 ; Frosch 
+et al. 2017).
+R22.5.5.1.4 The use of Eq. (a) and (b) in Table 22.5.5.1 
+for steel fiber-reinforced concrete and associated dosages in 
+Chapter 26 are supported by experimental results (Dinh et al. 
+2010; Shoaib et al. 2014 ; Zarrinpour and Chao 2017 ). The 
+presence of steel fibers is not considered in determining the 
+value of Av,min. Requirements for steel fibers are included in 
+Chapter 26. 
+R22.5.6 Vc for prestressed members
+R22.5.6.1 Editions of the Code prior to 2025 included an 
+approximate method for the calculation of Vc for prestressed 
+members. This method was removed because the method in 
+Section 22.5.6.2 is a better predictor of shear strength.
+R22.5.6.2 Two types of inclined cracking occur in 
+concrete beams: web-shear cracking and flexure-shear 
+cracking. These two types of inclined cracking are illustrated 
+in Fig. R22.5.6.2. 
+Web-shear cracking begins from an interior point in a 
+member when the principal tensile stresses exceed the tensile 
+strength of the concrete. Flexure-shear cracking is initiated 
+by flexural cracking. When flexural cracking occurs, the 
+shear stresses in the concrete above the crack are increased. 
+The flexure-shear crack develops when the combined shear 
+and flexural-tensile stress exceeds the tensile strength of the 
+concrete.
+The nominal shear strength provided by the concrete, Vc, 
+is assumed equal to the lesser of Vci and Vcw. The derivations 
+of Eq. (22.5.6.2.1a) and Eq. (22.5.6.2.2) are summarized in 
+SP-10 (1965).
+22.5.5.1.1 Vc shall not be taken greater than 0.42 λ  √ 
+__
+   f  c   ′     bwd. 
+Vc need not be taken less than 0.083λ  √ 
+__
+   f  c   ′     bwd except in cases 
+(a) or (b): 
+(a) elements subjected to net axial tension
+(b) if 18.6.5.2 or 18.7.6.2.1 apply. 
+22.5.5.1.2 In Table 22.5.5.1, the value of Nu/6Ag shall not 
+be taken greater than 0.05fc′.
+22.5.5.1.3 The size effect modification factor, λs, shall be 
+determined by 
+   λ  s   =  
+√
+ 
+______
+   2 ____ 
+1 +   d _ 250  
+     ≤ 1  (22.5.5.1.3)
+22.5.5.1.4 For nonprestressed beams and one-way slabs 
+constructed with steel fiber-reinforced concrete, conforming 
+to 26.4.1.6.1(a), 26.4.2.2(h), and 26.12.8.1(a), Vc shall be 
+the greater of Eq. (a) and 1.3 times Equation (b) of Table 
+22.5.5.1. 
+22.5.6 Vc for prestressed members
+22.5.6.1 This section shall apply to the calculation of Vc 
+for post-tensioned and pretensioned members in regions 
+where the effective force in the prestressed reinforcement 
+is fully transferred to the concrete. For regions of preten -
+sioned members where the effective force in the prestressed 
+reinforcement is not fully transferred to the concrete, 22.5.7 
+shall govern the calculation of Vc.
+22.5.6.2 For prestressed members, Vc shall be permitted 
+to be the lesser of Vci calculated in accordance with 
+22.5.6.2.1 and Vcw calculated in accordance with 22.5.6.2.2 
+or 22.5.6.2.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.446 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+446 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Flexural and 
+flexure-shear
+Flexural and 
+flexure-shear
+Web-shear
+Web-shear
+Simple 
+support
+Continuous 
+support
+Applied load
+Fig. R22.5.6.3—Types of cracking in concrete beams.
+R22.5.6.2.1 In deriving Eq. (22.5.6.2.1a), it was assumed 
+that Vci is the sum of the shear required to cause a flexural 
+crack at the section in question given by:
+  V =   V  i    M  cre   _______  M  max      (R22.5.6.2.1a)
+plus an additional increment of shear required to change 
+the flexural crack to a flexure-shear crack. The externally 
+applied factored loads, from which Vi and Mmax are deter-
+mined, include superimposed dead load and live load. In 
+calculating Mcre for substitution into Eq. (22.5.6.2.1a), I and 
+yt are the properties of the section resisting the externally 
+applied loads.
+For a composite concrete member, where part of the dead 
+load is resisted by only a part of the section, appropriate 
+section properties should be used to calculate fd. The shear 
+due to dead loads, Vd, and that due to other loads, Vi, are 
+separated in this case. Vd is then the total shear force due 
+to unfactored dead load acting on that part of the section 
+resisting the dead loads acting prior to composite action 
+plus the unfactored superimposed dead load acting on the 
+composite member. The terms Vi and Mmax may be taken as
+ V i = Vu – Vd (R22.5.6.2.1b)
+ M max = Mu – Md (R22.5.6.2.1c)
+where Vu and Mu are the factored shear and moment due to 
+the total factored loads, and Md is the moment due to unfac-
+tored dead load (the moment corresponding to fd).
+For noncomposite, uniformly loaded beams, the total cross 
+section resists all the shear, and the live and dead load shear 
+force diagrams are similar. In this case, Eq. (22.5.6.2.1a) and 
+Eq. (22.5.6.2.1d) reduce to
+   V  ci   = 0.05λ  √ 
+_
+  f  c   ′     b  w   d +    V  u   M  ct   _____  M  u      (R22.5.6.2.1d)
+where
+ Mct = (I/yt)(0.5λ  √ 
+__
+   f  c   ′      + fpe) (R22.5.6.2.1e)
+22.5.6.2.1 The flexure-shear strength Vci shall be calcu -
+lated by (a) but need not be taken less than (b) or (c):
+(a)   V  ci   = 0.05λ  √ 
+_
+  f  c   ′     b  w    d  p   +  V  d   +   V  i    M  cre   _______  M  max      (22.5.6.2.1a)
+(b) For members with Apsfse < 0.4(Apsfpu+ Asfy), 
+   V  ci   = 0.14λ  √ 
+_
+  f  c   ′     b  w   d  (22.5.6.2.1b)
+(c) For members with Apsfse ≥ 0.4(Apsfpu+ Asfy), 
+   V  ci   = 0.17λ  √ 
+_
+  f  c   ′     b  w   d  (22.5.6.2.1c)
+where dp need not be taken less than 0.80 h, the values of 
+Mmax and Vi shall be calculated from the load combinations 
+causing maximum factored moment to occur at section 
+considered, and Mcre shall be calculated by:
+   M  cre   =   (    I __  y  t     )     (  0.5λ  √ 
+_
+  f  c   ′    +  f  pe   −  f  d   )     (22.5.6.2.1d)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.447 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 447
+The cracking moment Mct in the two preceding equations 
+represents the total moment, including dead load, required 
+to cause cracking at the extreme fiber in tension. This is 
+not the same as Mcre in Eq. (22.5.6.2.1a) where the cracking 
+moment is that due to all loads except the dead load. In Eq. 
+(22.5.6.2.1a), the dead load shear is added as a separate term.
+Mu is the factored moment on the beam at the section under 
+consideration, and Vu is the factored shear force occurring 
+simultaneously with Mu. Because the same section proper -
+ties apply to both dead and live load stresses, there is no 
+need to calculate dead load stresses and shears separately. 
+Mct reflects the total stress change from effective prestress 
+to a tension of 0.5λ  √ 
+__
+   f  c   ′     , assumed to cause flexural cracking.
+R22.5.6.2.2 Equation (22.5.6.2.2) is based on the assump-
+tion that web-shear cracking occurs at a shear level causing 
+a principal tensile stress of approximately 0.33 λ  √ 
+__
+   f  c   ′      at the 
+centroidal axis of the cross section. Vp is calculated from the 
+effective prestress force without load factors.
+R22.5.6.2.4 Generally, in unshored construction the prin-
+cipal tensile stresses due to dead load are caused before 
+composite action and principal tensile stresses due to live 
+load are caused after composite action is developed in a 
+member. In shored construction the principal tensile stresses 
+due to both the dead load and live load are caused after 
+composite action is developed.
+R22.5.7 Vc for pretensioned members in regions of 
+reduced prestress force
+R22.5.7.1 The effect of the reduced prestress near the ends 
+of pretensioned beams on the shear strength should be taken 
+into account. Provision 22.5.7.2 relates to the reduced shear 
+strength at sections within the transfer length of prestressed 
+reinforcement when bonding of prestressed reinforce -
+ment extends to the end of the member. Provision 22.5.7.3 
+relates to the reduced shear strength at sections within the 
+length over which some of the prestressed reinforcement is 
+not bonded to the concrete, or within the transfer length of 
+22.5.6.2.2 The web-shear strength Vcw shall be calculated 
+by: 
+              V  cw   =   (  0.29λ  √ 
+_
+  f  c   ′    + 0.3  f  pc   )    b  w    d  p   +  V  p    (22.5.6.2.2)
+where dp need not be taken less than 0.80 h, and Vp is the 
+vertical component of the effective prestress.
+22.5.6.2.3 As an alternative to 22.5.6.2.2, it shall be 
+permitted to calculate Vcw as the shear force corresponding 
+to dead load plus live load that results in a principal tensile 
+stress of 0.33λ  √ 
+__
+   f  c   ′      at location (a) or (b): 
+(a) Where the centroidal axis of the prestressed cross 
+section is in the web, the principal tensile stress shall be 
+calculated at the centroidal axis.
+(b) Where the centroidal axis of the prestressed cross 
+section is in the flange, the principal tensile stress shall 
+be calculated at the intersection of the flange and the web.
+22.5.6.2.4 In composite concrete members, the principal 
+tensile stress shall be calculated at the location specified in 
+22.5.6.2.3 for the composite section, considering superposi-
+tion of stresses calculated cross sections that resist the corre-
+sponding loads.
+22.5.7 Vc for pretensioned members in regions of reduced 
+prestress force
+22.5.7.1 When calculating Vc, the transfer length of 
+prestressed reinforcement, ℓtr, shall be assumed to be 50 db 
+for strand and 100db for wire.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.448 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+448 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+the prestressed reinforcement for which bonding does not 
+extend to the end of the beam.
+R22.5.8 One-way shear reinforcement
+R22.5.8.2 Provisions of 22.5.8.5 apply to all types of 
+transverse reinforcement, including stirrups, ties, hoops, 
+crossties, and spirals.
+R22.5.8.5 One-way shear strength provided by transverse 
+reinforcement
+R22.5.8.5.1 Design of shear reinforcement is based on 
+a modified truss analogy. In the truss analogy, the force in 
+vertical ties is resisted by shear reinforcement. Shear rein -
+forcement needs to be designed to resist only the shear 
+exceeding that which causes inclined cracking, provided the 
+diagonal members in the truss are assumed to be inclined at 
+45 degrees. The concrete is assumed to contribute to the shear 
+capacity through resistance across the concrete compressive 
+22.5.7.2 If bonding of strands extends to the end of the 
+member, (a) and (b) shall apply:
+(a) The effective prestress force shall be assumed to vary 
+linearly from zero at the end of the prestressed reinforce -
+ment to a maximum at a distance ℓtr from the end of the 
+prestressed reinforcement.
+(b) The reduced effective prestress force shall be used to 
+calculate Vcw in 22.5.6.2.
+22.5.7.3 If bonding of strands does not extend to the end 
+of the member, (a) and (b) shall apply:
+(a) The effective prestress force shall be assumed to vary 
+linearly from zero at the point where bonding commences 
+to a maximum at a distance ℓtr from that point.
+(b) The reduced effective prestress force shall be used to 
+calculate Vc in accordance with 22.5.6.2.
+22.5.8 One-way shear reinforcement
+22.5.8.1 At each section where Vu > ϕVc, transverse reinforce-
+ment shall be provided such that Eq. (22.5.8.1) is satisfied. 
+   V  s   ≥   V  u   _ ϕ   −  V  c    (22.5.8.1)
+22.5.8.2 For one-way members reinforced with transverse 
+reinforcement, Vs shall be calculated in accordance with 
+22.5.8.5.
+22.5.8.3 For one-way members reinforced with bent-up 
+longitudinal bars, Vs shall be calculated in accordance with 
+22.5.8.6.
+22.5.8.4 If more than one type of shear reinforcement is 
+provided to reinforce the same portion of a member, Vs shall 
+be the sum of the Vs values for the various types of shear 
+reinforcement.
+22.5.8.5 One-way shear strength provided by transverse 
+reinforcement
+22.5.8.5.1 In nonprestressed and prestressed members, 
+shear reinforcement satisfying (a), (b), or (c) shall be 
+permitted: 
+(a) Stirrups, ties, or hoops perpendicular to longitudinal 
+axis of member
+(b) Welded wire reinforcement with wires located perpen-
+dicular to longitudinal axis of member
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.449 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 449
+zone, aggregate interlock, and dowel action in an amount 
+equivalent to that which caused inclined cracking.
+Equations (22.5.8.5.3), (22.5.8.5.4), and (22.5.8.6.2a) are 
+presented in terms of nominal shear strength provided by 
+shear reinforcement, Vs. Where shear reinforcement perpen-
+dicular to the axis of the member is used, the required area of 
+shear reinforcement, Av, and its spacing, s, are calculated by
+     A  v   __ s   =    
+ (V  u   – ϕ V  c  )
+ _______ ϕ f  yt  d    (R22.5.8.5)
+R22.5.8.5.2 Although inclined stirrups crossing the plane 
+of the potential shear cracks are permitted, their use is not 
+appropriate where the direction of net shear reverses due to 
+changes in transient load.
+R22.5.8.5.4 To be effective, it is critical that inclined stir-
+rups cross potential shear cracks. If the inclined stirrups are 
+generally oriented parallel to the potential shear cracks, the 
+stirrups provide no shear strength.
+R22.5.8.5.6 Although the transverse reinforcement in a 
+circular section may not consist of straight legs, tests indicate 
+that Eq. (22.5.8.5.3) is conservative if d is taken as defined 
+in 22.5.2.2 ( Faradji and Diaz de Cossio 1965 ; Khalifa and 
+Collins 1981).
+R22.5.8.6 One-way shear strength provided by bent-up 
+longitudinal bars
+R22.5.8.6.1 To be effective, it is critical that the inclined 
+portion of the bent-up longitudinal bar cross potential shear 
+cracks. If the inclined bars are generally oriented parallel to 
+the potential shear cracks, the bars provide no shear strength.
+(c) Spiral reinforcement
+22.5.8.5.2 Inclined stirrups making an angle of at least 45 
+degrees with the longitudinal axis of the member and crossing 
+the plane of the potential shear crack shall be permitted to be 
+used as shear reinforcement in nonprestressed members.
+22.5.8.5.3 Vs for shear reinforcement in 22.5.8.5.1 shall be 
+calculated by: 
+   V  s   =   
+ A  v   f  yt  d
+ ____ s    (22.5.8.5.3)
+where s is the spiral pitch or the longitudinal spacing of 
+the shear reinforcement, and Av is given in 22.5.8.5.5 or 
+22.5.8.5.6.
+22.5.8.5.4 Vs for shear reinforcement in 22.5.8.5.2 shall be 
+calculated by: 
+   V  s   =    
+ A  v   f  yt   (sinα + cosα) d
+  _____________ s    (22.5.8.5.4)
+where α is the angle between the inclined stirrups and the 
+longitudinal axis of the member, s is measured parallel to 
+the longitudinal reinforcement, and Av is given in 22.5.8.5.5.
+22.5.8.5.5 For each rectangular tie, stirrup, hoop, or 
+crosstie, Av shall be the effective area of all bar legs or wires 
+within spacing s.
+22.5.8.5.6 For each circular tie or spiral, Av shall be two 
+times the area of the bar or wire within spacing s.
+22.5.8.6 One-way shear strength provided by bent-up 
+longitudinal bars
+22.5.8.6.1 The center three-fourths of the inclined portion 
+of bent-up longitudinal bars shall be permitted to be used as 
+shear reinforcement in nonprestressed members if the angle 
+α between the bent-up bars and the longitudinal axis of the 
+member is at least 30 degrees.
+22.5.8.6.2 If shear reinforcement consists of a single bar 
+or a single group of parallel bars having an area Av, all bent 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.450 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+450 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.6—Two-way shear strength
+Factored two-way shear stress due to shear and moment 
+transfer is calculated in accordance with the requirements of 
+8.4.4. Section 22.6 provides requirements for determining 
+nominal shear strength, either without shear reinforcement 
+or with shear reinforcement in the form of stirrups or headed 
+shear studs. Factored shear demand and strength are calcu -
+lated in terms of stress, permitting superposition of effects 
+from direct shear and moment transfer.
+Design provisions for shearheads have been eliminated 
+from the Code because this type of shear reinforcement is 
+seldom used in current practice. Shearheads may be designed 
+following the provisions of ACI CODE-318-14.
+R22.6.1 General
+R22.6.1.4 The critical section perimeter bo is defined in 
+22.6.4.
+the same distance from the support, Vs shall be the lesser of 
+(a) and (b):
+(a) Vs = Av fy sinα       (22.5.8.6.2a)
+(b) Vs = 0.25  √ 
+__
+   f  c   ′     bwd    (22.5.8.6.2b)
+where α is the angle between bent-up reinforcement and 
+longitudinal axis of the member.
+22.5.8.6.3 If shear reinforcement consists of a series of 
+parallel bent-up bars or groups of parallel bent-up bars at 
+different distances from the support, Vs shall be calculated 
+by Eq. (22.5.8.5.4).
+22.6—Two-way shear strength
+22.6.1 General
+22.6.1.1 Provisions 22.6.1 through 22.6.8 apply to the 
+nominal two-way shear strength of members with and 
+without shear reinforcement.
+22.6.1.2 Nominal two-way shear strength for members 
+without shear reinforcement shall be calculated by 
+ v n = vc (22.6.1.2)
+22.6.1.3 Nominal two-way shear strength for members 
+with shear reinforcement shall be calculated by 
+ v n = vc + vs (22.6.1.3)
+22.6.1.4 Two-way shear shall be resisted by a section with 
+a depth d and an assumed critical perimeter bo as defined in 
+22.6.4.
+22.6.1.5 vc for two-way shear shall be calculated in accor-
+dance with 22.6.5. For two-way shear in members with shear 
+reinforcement, vc shall not exceed the limits in 22.6.6.1.
+22.6.1.6 For calculation of vc, λ  shall be in accordance 
+with 19.2.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.451 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 451
+R22.6.3 Limiting material strengths
+R22.6.3.1 There are limited test data on the two-way shear 
+strength of high-strength concrete slabs. Until more expe -
+rience is obtained for two-way shear in slabs constructed 
+with concretes that have compressive strengths greater than 
+70 MPa, it is prudent to limit   √ 
+__
+   f  c   ′      to 8.3 MPa for the calcula-
+tion of shear strength.
+R22.6.3.2 The upper limit of 420 MPa on the value of fyt 
+used in design is intended to control cracking.
+R22.6.4 Critical sections for two-way shear
+R22.6.4.1 The critical section defined in 22.6.4.1(a) for 
+two-way shear in slabs and footings follows the perimeter at 
+the edge of the loaded area (Joint ACI-ASCE Committee 326 
+1962). Loaded area for two-way shear in slabs and footings 
+includes columns, concentrated loads, and reaction areas. 
+An idealized critical section located a distance d/2 from the 
+periphery of the loaded area is considered.
+For members of uniform thickness without shear rein -
+forcement, it is sufficient to check shear using one section. 
+For slabs with changes in thickness or with shear reinforce -
+ment, it is necessary to check shear at multiple sections as 
+defined in 22.6.4.1(a) and (b) and 22.6.4.2.
+For columns near an edge or corner, the critical perimeter 
+may extend to the edge of the slab.
+22.6.1.7 For two-way shear in members reinforced with 
+single- or multiple-leg stirrups, vs shall be calculated in 
+accordance with 22.6.7.
+22.6.1.8 For two-way shear in members reinforced with 
+headed shear stud reinforcement, vs shall be calculated in 
+accordance with 22.6.8.
+22.6.2 Effective depth
+22.6.2.1 For calculation of vc and vs for two-way shear, d 
+shall be the average of the effective depths in the two orthog-
+onal directions.
+22.6.2.2 For two-way shear in prestressed members, d 
+need not be taken less than 0.8h.
+22.6.3 Limiting material strengths
+22.6.3.1 The value of   √ 
+__
+   f  c   ′      used to calculate vc for two-way 
+shear shall not exceed 8.3 MPa.
+22.6.3.2 The value of fyt used to calculate vs shall not 
+exceed the limits in 20.2.2.4.
+22.6.4 Critical sections for two-way shear
+22.6.4.1 For two-way shear, critical sections shall be 
+located so that the perimeter bo is a minimum but need not 
+be closer than d/2 to (a) and (b): 
+(a) Edges or corners of columns, concentrated loads, or 
+reaction areas
+(b) Changes in slab or footing thickness, such as edges of 
+capitals, drop panels, or shear caps
+22.6.4.1.1 For square or rectangular columns, concentrated 
+loads, or reaction areas, critical sections for two-way shear 
+in accordance with 22.6.4.1(a) and (b) shall be permitted to 
+be defined assuming straight sides.
+22.6.4.1.2 For a circular or regular polygon-shaped 
+column, critical sections for two-way shear in accordance 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.452 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+452 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.6.4.2 For members reinforced for two-way shear with 
+stirrup or headed stud shear reinforcement, it is required to 
+check shear stress in concrete at a critical section located a 
+distance d/2 beyond the point where shear reinforcement is 
+discontinued. Calculated shear stress at this section must not 
+exceed the limits given in expressions (a) and (e) in Table 
+22.6.6.1. The shape of this outermost critical section should 
+correspond to the minimum value of bo, as depicted in Fig. 
+R22.6.4.2a, b, and c. Note that these figures depict slabs 
+reinforced with stirrups. The shape of the outermost critical 
+section is similar for slabs with headed shear reinforce -
+ment. The square or rectangular critical sections described 
+in 22.6.4.1.1 will not result in the minimum value of bo for 
+the cases depicted in these figures. Additional critical section 
+checks are required at a distance d/2 beyond any point where 
+variations in shear reinforcement occur, such as changes in 
+size, spacing, or configuration.
+d/2d/2
+d/2
+d/2
+Critical section 
+through slab shear 
+reinforcement 
+(first line of 
+stirrup legs)
+Critical section 
+outside slab shear 
+reinforcement 
+Plan Slab
+d/2
+Fig. R22.6.4.2a—Critical sections for two-way shear in slab 
+with shear reinforcement at interior column.
+with 22.6.4.1(a) and (b) shall be permitted to be defined 
+assuming a square column of equivalent area.
+22.6.4.2 For members reinforced for two-way shear with 
+headed shear reinforcement or single- or multi-leg stirrups, 
+a critical section with perimeter bo located d/2 beyond the 
+outermost peripheral line of shear reinforcement shall also 
+be considered. The shape of this critical section shall be a 
+polygon selected to minimize bo.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.453 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 453
+d/2
+Plan
+Slab
+d/2
+Slab edge
+Critical section 
+outside slab shear 
+reinforcement 
+Critical section 
+through slab shear 
+reinforcement (first 
+line of stirrup legs)
+d/2
+d/2
+Fig. R22.6.4.2b—Critical sections for two-way shear in slab 
+with shear reinforcement at edge column.
+Critical section 
+outside slab 
+shear 
+reinforcement 
+Critical section through slab 
+shear reinforcement (first line 
+of stirrup legs)
+d/2
+d/2
+d/2
+d/2Slab edge
+Plan
+Slab
+Fig. R22.6.4.2c—Critical sections for two-way shear in slab 
+with shear reinforcement at corner column.
+R22.6.4.3 Provisions for design of openings in slabs (and 
+footings) were developed in Joint ACI-ASCE Committee 
+326 (1962) . The locations of the effective portions of the 
+critical section near typical openings and free edges are 
+shown by the dashed lines in Fig. R22.6.4.3. Research (Joint 
+ACI-ASCE Committee 426 1974 ) has confirmed that these 
+provisions are conservative.
+Research (Genikomsou and Polak 2017 ) has shown that 
+when openings are located at distances greater than 4d from 
+the periphery of a column, the punching shear strength is the 
+same as that for a slab without openings.
+22.6.4.3 If an opening is located closer than 4 h from the 
+periphery of a column, concentrated load, or reaction area, 
+the portion of bo enclosed by straight lines projecting from 
+the centroid of the column, concentrated load or reaction 
+area and tangent to the boundaries of the opening shall be 
+considered ineffective.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.454 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+454 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Critical 
+section
+Free corner
+Regard 
+as free 
+edge
+Note: Openings shown are located within 10h of column.
+Opening
+Ineffective
+Fig. R22.6.4.3—Effect of openings and free edges (effective 
+perimeter shown with dashed lines).
+R22.6.5 Two-way shear strength provided by concrete in 
+members without shear reinforcement
+R22.6.5.2 Experimental evidence indicates that the 
+measured two-way concrete shear strength of members 
+without shear reinforcement does not increase in direct 
+proportion with member depth. This phenomenon is referred 
+to as the “size effect.” The modification factor λ s accounts 
+for the dependence of two-way shear strength of slabs on 
+effective depth. 
+For nonprestressed two-way slabs without a minimum 
+amount of shear reinforcement and with d > 250 mm, the 
+size effect specified in 22.5.5.1.3 reduces the shear strength 
+of two-way slabs below 0.33  √ 
+__
+   f  c   ′     bod (Hawkins and Ospina 
+2017; Dönmez and Bažant 2017).
+For square columns, the stress corresponding to the nominal 
+two-way shear strength provided by concrete in slabs 
+subjected to bending in two directions is limited to 0.33λs  √ 
+__
+   f  c   ′     . 
+However, tests ( Joint ACI-ASCE Committee 426 1974 ) 
+22.6.5 Two-way shear strength provided by concrete in 
+members without shear reinforcement
+22.6.5.1 For nonprestressed members,vc shall be calculated 
+in accordance with 22.6.5.2. For prestressed members, vc 
+shall be calculated in accordance with (a) or (b): 
+(a) 22.6.5.2
+(b) 22.6.5.5, if the conditions of 22.6.5.4 are satisfied
+22.6.5.2 vc shall be calculated in accordance with Table 
+22.6.5.2.
+Table 22.6.5.2—Two-way shear strength vc for 
+members without shear reinforcement
+vc
+Least of (a), (b), and (c):
+ 0.33  λ  s   λ  √ 
+_
+  f  c   ′    (a)
+   (  0.17 +    0.33  _ β   )    λ  s   λ  √ 
+_
+  f  c   ′    (b)
+   (  0.17 +    0.083α  s  d
+ ___  b  o     )    λ  s   λ  √ 
+_
+  f  c   ′    (c)
+Notes: (i) λs is the size effect factor given in 22.5.5.1.3. (ii) β is the ratio of long to short 
+sides of the column, concentrated load, or reaction area. (iii) αs is given in 22.6.5.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.455 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 455
+have indicated that the value of 0.33 λs  √ 
+__
+   f  c   ′      is unconservative 
+when the ratio β of the lengths of the long and short sides 
+of a rectangular column or loaded area is larger than 2.0. In 
+such cases, the actual shear stress on the critical section at 
+punching shear failure varies from a maximum of approxi -
+mately 0.33λs  √ 
+__
+   f  c   ′      around the corners of the column or loaded 
+area, down to 0.17λs  √ 
+__
+   f  c   ′      or less along the long sides between 
+the two end sections. Other tests ( Vanderbilt 1972) indicate 
+that vc decreases as the ratio bo/d increases. Expressions (b) 
+and (c) in Table 22.6.5.2 were developed to account for these 
+two effects.
+For shapes other than rectangular, β is taken to be the 
+ratio of the longest overall dimension of the effective loaded 
+area to the largest overall perpendicular dimension of the 
+effective loaded area, as illustrated for an L-shaped reaction 
+area in Fig. R22.6.5.2. The effective loaded area is that area 
+totally enclosing the actual loaded area, for which the perim-
+eter is a minimum.
+an
+bn
+Effective 
+load area
+Actual load area
+Critical 
+section 
+(22.6.4.1)
+an
+bn
+β = 
+Fig. R22.6.5.2—Value of β for a nonrectangular loaded area.
+R22.6.5.3 The terms “interior columns,” “edge columns,” 
+and “corner columns” in this provision refer to critical sections 
+with a continuous slab on four, three, and two sides, respectively.
+R22.6.5.4 For prestressed members, modified forms of 
+expressions (b) and (c) in Table 22.6.5.2 are specified. Research 
+(ACI PRC-423.3) indicates that the shear strength of two-way 
+prestressed slabs around interior columns is conservatively 
+calculated by the expressions in 22.6.5.5, where vc corresponds 
+to a diagonal tension failure of the concrete initiating at the crit-
+ical section defined in 22.6.4.1. The mode of failure differs from 
+a punching shear failure around the perimeter of the loaded 
+22.6.5.3 The value of αs is 40 for interior columns, 30 for 
+edge columns, and 20 for corner columns.
+22.6.5.4 For two-way shear in prestressed members, it 
+shall be permitted to calculate vc using 22.6.5.5, provided 
+that (a) through (c) are satisfied:
+(a) Bonded reinforcement is provided in accordance with 
+8.6.2.3 and 8.7.5.3
+(b) No portion of the column cross section is closer to a 
+discontinuous edge than four times the slab thickness h
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.456 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+456 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+area of a nonprestressed slab calculated using expression (b) in 
+Table 22.6.5.2. Consequently, the expressions in 22.6.5.5 differ 
+from those for nonprestressed slabs. Values for   √ 
+__
+   f  c   ′      and fpc are 
+restricted in design due to limited test data available beyond 
+the specified limits. When calculating fpc, loss of prestress due 
+to restraint of the slab by structural walls and other structural 
+elements should be taken into account. 
+R22.6.6 Two-way shear strength provided by concrete in 
+members with shear reinforcement
+Critical sections for members with shear reinforcement 
+are defined in 22.6.4.1 for the sections adjacent to the 
+column, concentrated load, or reaction area, and 22.6.4.2 
+for the section located just beyond the outermost peripheral 
+line of stirrup or headed shear stud reinforcement. Values 
+of maximum vc for these critical sections are given in Table 
+22.6.6.1. Limiting values of vu for the critical sections 
+defined in 22.6.4.1 are given in Table 22.6.6.3.
+The maximum vc and limiting value of vu at the innermost 
+critical section (defined in 22.6.4.1) are higher where headed 
+shear stud reinforcement is provided than the case where 
+stirrups are provided (refer to R8.7.7). Maximum vc values at 
+the critical sections defined in 22.6.4.2 beyond the outermost 
+peripheral line of shear reinforcement are independent of the 
+type of shear reinforcement provided.
+R22.6.6.1 For slabs with stirrups, the maximum value of 
+vc is taken as 0.17 λsλ  √ 
+__
+   f  c   ′      because the stirrups resist all the 
+shear beyond that at inclined cracking (which occurs at 
+approximately half the capacity of a slab without shear rein-
+forcement (that is, 0.5 × 0.33λsλ  √ 
+__
+   f  c   ′      = 0.17λsλ  √ 
+__
+   f  c   ′     ) (Hawkins 
+1974). The higher value of vc for slabs with headed shear stud 
+reinforcement is based on research (Elgabry and Ghali 1987). 
+(c) Effective prestress fpc in each direction is not less than 
+0.86 MPa
+22.6.5.5 For two-way shear in prestressed members 
+conforming to 22.6.5.4, vc shall be permitted to be the lesser 
+of (a) and (b)
+(a)   v  c   = 0.29λ  √ 
+_
+  f  c   ′    + 0.3  f  pc   +   
+ V  p  
+ ___  b  o  d    (22.6.5.5a)
+(b)   v  c   = 0. 083 (  1.5 +    α  s  d ___  b  o     )   λ  √ 
+_
+  f  c   ′    + 0.3  f  pc   +   
+ V  p  
+ ___  b  o  d    (22.6.5.5b)
+where αs is given in 22.6.5.3; the value of fpc is the average 
+of fpc in the two directions and shall not exceed 3.5 MPa; 
+Vp is the vertical component of all effective prestress forces 
+crossing the critical section; and the value of   √ 
+__
+   f  c   ′      shall not 
+exceed 5.8 MPa.
+22.6.6 Two-way shear strength provided by concrete in 
+members with shear reinforcement
+22.6.6.1 For members where shear reinforcement is 
+required to resist two-way shear, vc at critical sections shall 
+be calculated in accordance with Table 22.6.6.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.457 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 457
+R22.6.6.2 The size effect in slabs with d > 250 mm can 
+be mitigated if a minimum amount of shear reinforcement 
+is provided. The ability of ordinary (smooth) headed shear 
+stud reinforcement to effectively mitigate the size effect on 
+the two-way shear strength of slabs may be compromised 
+if studs longer than 250 mm are used. Until experimental 
+evidence becomes available, it is not permitted to use λs 
+equal to 1.0 for slabs with d > 250 mm without headed shear 
+stud reinforcement with stud shaft length not exceeding 
+250 mm. Stacking or “piggybacking” of headed shear studs, 
+as shown in Fig. R22.6.6.2, introduces an intermediate head 
+that contributes to further anchor the stacked stud.
+≤ 250 mm
+Or other 
+weld per 
+AWS D1.1
+≤ 250 mm
+Fig. R22.6.6.2—Stacking (piggybacking) of headed shear 
+stud reinforcement.
+Table 22.6.6.1—Two-way shear strength vc for 
+members with shear reinforcement
+Type of shear 
+reinforcement
+Critical 
+sections vc
+Stirrups All 0.17λsλ  √ 
+__
+   f  c   ′     (a)
+Headed 
+shear stud 
+reinforcement
+According 
+to 22.6.4.1
+Least 
+of (b), 
+(c), 
+and 
+(d):
+0.25λsλ  √ 
+__
+   f  c   ′     (b)
+   (  0.17 +   0.33 _ β   )    λ  s   λ  √ 
+__
+   f  c   ′      (c)
+   (  0.17 +    0.083α  s  d
+ ___   b  o     )    λ  s   λ  √ 
+__
+   f  c   ′     (d)
+According 
+to 22.6.4.2 0.17λsλ  √ 
+__
+   f  c   ′     (e)
+ 
+Notes: (i) λs is the size effect factor given in 22.5.5.1.3. (ii) β is the ratio of long to short 
+sides of the column, concentrated load, or reaction area. (iii) αs is given in 22.6.5.3.
+22.6.6.2 It shall be permitted to take λs as 1.0 if (a) or (b) 
+is satisfied: 
+(a) Stirrups are designed and detailed in accordance with 
+8.7.6 and Av/s ≥ 0.17  √ 
+__
+   f  c   ′     bo/fyt.
+(b) Smooth headed shear stud reinforcement with stud 
+shaft length not exceeding 250 mm is designed and 
+detailed in accordance with 8.7.7 and Av/s≥ 0.17  √ 
+__
+   f  c   ′     bo/fyt.
+22.6.6.3 For members with shear reinforcement, effec -
+tive depth shall be selected such that two-way shear stress 
+vu calculated at critical sections does not exceed the values 
+in Table 22.6.6.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.458 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+458 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R22.6.7 Two-way shear strength provided by single- or 
+multiple-leg stirrups
+R22.6.7.2 Because shear stresses are used for two-way 
+shear in this chapter, shear strength provided by transverse 
+reinforcement is averaged over the cross-sectional area of 
+the critical section.
+R22.6.8 Two-way shear strength provided by headed 
+shear stud reinforcement
+Tests (ACI PRC-421.1) show that headed shear stud rein-
+forcement mechanically anchored as close as practicable to 
+the top and bottom of slabs is effective in resisting punching 
+shear. The critical section beyond the shear reinforcement 
+is generally assumed to have a polygonal shape (refer to 
+Fig. R22.6.4.2a, R22.6.4.2b, and R22.6.4.2c). Equations 
+for calculating shear stresses on such sections are given in 
+ACI PRC-421.1.
+R22.6.8.2 Because shear stresses are used for two-way 
+shear in this chapter, shear strength provided by transverse 
+reinforcement is averaged over the cross-sectional area of 
+the critical section.
+Table 22.6.6.3—Maximum two-way shear stress vu 
+for members with shear reinforcement
+Type of shear 
+reinforcement
+Maximum vu at critical sections 
+defined in 22.6.4.1
+Stirrups ϕ0.5  √ 
+__
+   f  c   ′     (a)
+Headed shear stud 
+reinforcement ϕ0.66  √ 
+__
+   f  c   ′     (b)
+22.6.7 Two-way shear strength provided by single- or 
+multiple-leg stirrups
+22.6.7.1 Single- or multiple-leg stirrups fabricated from 
+bars or wires shall be permitted to be used as shear reinforce-
+ment in slabs and footings satisfying (a) and (b): 
+(a) d is at least 150 mm
+(b) d is at least 16db, where db is the diameter of the stirrups
+22.6.7.2 For members with stirrups, vs shall be calculated 
+by:
+   v  s   =   
+ A  v    f  yt  
+ ____  b  o  s    (22.6.7.2)
+where Av is the sum of the area of all legs of reinforcement 
+on one peripheral line that is geometrically similar to the 
+perimeter of the column section, and sis the spacing of 
+the peripheral lines of shear reinforcement in the direction 
+perpendicular to the column face.
+22.6.8 Two-way shear strength provided by headed shear 
+stud reinforcement
+22.6.8.1 Headed shear stud reinforcement shall be 
+permitted to be used as shear reinforcement in slabs and 
+footings if the placement and geometry of the headed shear 
+stud reinforcement satisfies 8.7.7.
+22.6.8.2 For members with headed shear stud reinforce -
+ment, vs shall be calculated by: 
+   v  s   =  
+ A  v    f  yt  
+ _  b  o   s    (22.6.8.2)
+where Av is the sum of the area of all shear studs on one 
+peripheral line that is geometrically similar to the perimeter 
+of the column section, and sis the spacing of the peripheral 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.459 ---
+CODE COMMENTARY
+22 Sect. Strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 459
+R22.7—Torsional strength
+The design for torsion in this section is based on a thin-
+walled tube space truss analogy. A beam subjected to torsion 
+is idealized as a thin-walled tube with the core concrete cross 
+section in a solid beam neglected as shown in Fig. R22.7(a). 
+Once a reinforced concrete beam has cracked in torsion, its 
+torsional strength is provided primarily by closed stirrups and 
+longitudinal bars located near the surface of the member. In 
+the thin-walled tube analogy, the strength is assumed to be 
+provided by the outer skin of the cross section roughly centered 
+on the closed stirrups. Both hollow and solid sections are 
+idealized as thin-walled tubes both before and after cracking. 
+In a closed thin-walled tube, the product of the shear stress 
+τ and the wall thickness t at any point in the perimeter is 
+known as the shear flow, q =  τt. The shear flow q due to 
+torsion acts as shown in Fig. R22.7(a) and is constant at 
+all points around the perimeter of the tube. The path along 
+which it acts extends around the tube at midthickness of the 
+walls of the tube. At any point along the perimeter of the 
+tube, the shear stress due to torsion is τ = T/(2Aot), where 
+Ao is the gross area enclosed by the shear flow path, shown 
+shaded in Fig. R22.7(b), and t is the thickness of the wall at 
+the point where τ is being calculated. For a hollow member 
+with continuous walls, Ao includes the area of the hole.
+The concrete contribution to torsional strength is ignored, 
+and in cases of combined shear and torsion, the concrete 
+contribution to shear strength does not need to be reduced. 
+The design procedure is derived and compared with test 
+results in MacGregor and Ghoneim (1995) and Hsu (1997).
+Detailed information on the thin-walled tube space truss 
+analogy is provided in ACI PRC-445.1.
+lines of headed shear stud reinforcement in the direction 
+perpendicular to the column face.
+22.6.8.3 If headed shear stud reinforcement is provided, 
+Av/s shall satisfy: 
+     A  v   __ s   ≥ 0.17  √ 
+_
+  f  c   ′       b  o   __  f  yt      (22.6.8.3)
+22.7—Torsional strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.460 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+460 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+(a) Thin-walled tube
+(b) Area enclosed by shear flow path
+Shear flow (q)
+T
+T
+Fig. R22.7—(a) Thin-walled tube; and (b) area enclosed by 
+shear flow path.
+R22.7.1 General
+R22.7.1.1 Torsional moments that do not exceed the 
+threshold torsion Tth will not cause a structurally signifi -
+cant reduction in either flexural or shear strength and can 
+be ignored.
+R22.7.2 Limiting material strengths
+R22.7.2.1 Because of a lack of test data and practical experi-
+ence with concretes having compressive strengths greater than 
+70 MPa, the Code imposes a maximum value of 8.3 MPa on   
+√ 
+__
+   f  c   ′      for use in the calculation of torsional strength. 
+R22.7.2.2 The upper limit of 420 MPa on the value of fy 
+and fyt used in design is intended to control diagonal crack 
+width.
+22.7.1 General
+22.7.1.1 This section shall apply to members if Tu ≥ ϕTth, 
+where ϕ is given in Chapter 21 and threshold torsion Tth is 
+given in 22.7.4. If Tu < ϕTth, it shall be permitted to neglect 
+torsional effects.
+22.7.1.2 Nominal torsional strength shall be calculated in 
+accordance with 22.7.6.
+22.7.1.3 For calculation of Tth and Tcr, λ shall be in accordance 
+with 19.2.4.
+22.7.2 Limiting material strengths
+22.7.2.1 The value of   √ 
+__
+   f  c   ′      used to calculate Tth and Tcr shall 
+not exceed 8.3 MPa.
+22.7.2.2 The values of fy and fyt for longitudinal and trans-
+verse torsional reinforcement shall not exceed the limits in 
+20.2.2.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

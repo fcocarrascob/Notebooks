@@ -9,7 +9,7 @@ related:
   - ../formulas/ACI-318-Ch10-Columns.md
   - ../concepts/Load-Combinations.md
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 ---
 
 # Propiedades del Concreto
@@ -56,6 +56,26 @@ $$\lambda_s = \sqrt{\frac{2}{1 + d/250}} \leq 1.0$$
 | 700 | 0.725 |
 
 > **Impacto:** Para losas gruesas industriales ($d > 300$ mm), $\lambda_s$ reduce significativamente $V_c$. No usar tablas de losas convencionales sin este factor.
+
+## Factor del Bloque de Compresión $\beta_1$ (ACI 318-25 §22.2.2.4.3)
+
+Usado para calcular la profundidad del bloque equivalente $a = \beta_1 c$:
+
+| $f'_c$ (MPa) | $\beta_1$ | Ecuación |
+|-------------|-----------|----------|
+| $17 \leq f'_c \leq 28$ | 0.85 | constante |
+| $28 < f'_c < 55$ | $0.85 - \dfrac{0.05(f'_c-28)}{7}$ | lineal |
+| $f'_c \geq 55$ | 0.65 | constante |
+
+| $f'_c$ [MPa] | $\beta_1$ |
+|-------------|----------|
+| 20 / 25 / 28 | 0.85 |
+| 30 | 0.836 |
+| 35 | 0.800 |
+| 40 | 0.764 |
+| 45 | 0.729 |
+| 50 | 0.693 |
+| ≥55 | 0.65 |
 
 ## Clases de Exposición (ACI 318-25, Cap. 19)
 

@@ -1,0 +1,2626 @@
+--- ACI p.393 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 6: MATERIALS & DURABILITY 393
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 19—CONCRETE: DESIGN AND DURABILITY REQUIREMENTS
+R19.1—Scope
+R19.2—Concrete design properties
+R19.2.1 Specified compressive strength 
+Requirements for concrete mixtures are based on the 
+philosophy that concrete should provide both adequate 
+strength and durability. The Code defines a minimum value of 
+fc′ for structural concrete. There is no limit on the maximum 
+value of fc′ except as required by specific Code provisions. 
+Concrete mixtures proportioned in accordance with 26.4.3 
+should achieve an average compressive strength that exceeds 
+the value of fc′ used in the structural design calculations. The 
+amount by which the average strength of concrete exceeds fc′ 
+is based on statistical concepts. When concrete is designed 
+to achieve a strength level greater than fc′, it ensures that 
+the concrete strength tests will have a high probability of 
+meeting the strength acceptance criteria in 26.12.3. The 
+durability requirements prescribed in Table 19.3.2.1 are to 
+be satisfied in addition to meeting the minimum fc′ of 19.2.1. 
+Under some circumstances, durability requirements may 
+dictate a higher fc′ than that required for structural purposes.
+Available test data do not include lower strength concrete 
+with Grade 690 reinforcement in special structural walls 
+(refer to R18.2.6).
+For design of special moment frames and special struc -
+tural walls used to resist earthquake forces, the Code limits 
+the maximum fc′ of lightweight concrete to 35 MPa. This 
+limit is imposed primarily because of a paucity of experi -
+mental and field data on the behavior of members made with 
+lightweight concrete subjected to displacement reversals in 
+the nonlinear range.
+Minimum concrete strengths are increased for special 
+seismic systems with fy > 550 MPa to enhance bar anchorage 
+and reduce the neutral axis depth for improved performance.
+The Code also limits fc′ for design of anchors to concrete. 
+The requirements are in 17.3.1. 
+19.1—Scope
+19.1.1 This chapter shall apply to concrete, including:
+(a) Properties to be used for design
+(b) Durability requirements
+19.1.2 This chapter shall apply to durability requirements 
+for grout used for bonded tendons in accordance with 19.4.
+19.2—Concrete design properties
+19.2.1 Specified compressive strength
+19.2.1.1 The value of fc′ shall be in accordance with (a) 
+through (d):
+(a) Limits for fc′ in Table 19.2.1.1. Limits apply to both 
+normalweight and lightweight concrete.
+(b) Durability requirements in Table 19.3.2.1
+(c) Structural strength requirements
+(d) fc′ for lightweight concrete in special moment frames 
+and special structural walls, and their foundations, shall 
+not exceed 35 MPa, unless demonstrated by experimental 
+evidence that members made with lightweight concrete 
+provide strength and toughness equal to or exceeding 
+those of comparable members made with normalweight 
+concrete of the same strength.
+Table 19.2.1.1—Limits for fc′
+Application
+Minimum 
+fc′, MPa
+General 17
+Foundations for structures assigned to SDC A, B, or C 17
+Foundations for Residential and Utility use and occupancy 
+classification with stud bearing wall construction two 
+stories or less assigned to SDC D, E, or F
+17
+Foundations for structures assigned to SDC D, E, or F 
+other than Residential and Utility use and occupancy 
+classification with stud bearing wall construction two 
+stories or less
+21
+Special moment frames
+Special structural walls with Grade 420 or 550 reinforcement 21
+Special structural walls with Grade 690 reinforcement 35
+Precast-nonprestressed driven piles
+Drilled shafts 28
+Precast-prestressed driven piles 35
+19.2.1.2 The specified compressive strength shall be used 
+for proportioning of concrete mixtures in 26.4.3 and for 
+testing and acceptance of concrete in 26.12.3.
+19.2.1.3 Unless otherwise specified, fc′ shall be based on 
+28-day tests. If other than 28 days, test age for fc′ shall be 
+indicated in the construction documents.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.394 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+394 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R19.2.2 Modulus of elasticity
+R19.2.2.1 Equations in 19.2.2.1 provide an estimate of Ec 
+for general design use. Studies leading to the expression for 
+Ec of concrete are summarized in Pauw (1960), where Ec is 
+defined as the slope of the line drawn from a stress of zero to 
+45 percent of the compressive strength using the stress-strain 
+curve of the concrete. This definition is slightly different 
+than the definition in ASTM C469. ASTM C469 defines Ec 
+using 40% of the compressive strength. 
+The modulus of elasticity is sensitive to a number of vari-
+ables including aggregate type, concrete constituents, mixture 
+proportions, bond between paste and aggregate, and the age of 
+the concrete. This sensitivity, coupled with the inherent vari-
+ability in the properties of the constituent materials and quality 
+control exercised during construction, can result in differences 
+between measured and calculated values for deflection, drift, 
+periods of vibration, and other quantities that depend on Ec. 
+Refer to ACI PRC-435 for more information on the use of Ec, 
+especially when used in deflection calculations.
+Modulus of elasticity determined by calculation using the 
+Code equations has been shown to be appropriate for most 
+applications based on many years of use. For some applica -
+tions, however, these equations may not provide sufficiently 
+accurate estimates of actual values. Larger differences between 
+measured and calculated values of Ec have been observed for 
+high-strength concrete (fc′ > 55 MPa), lightweight concrete, 
+and for mixtures with low coarse aggregate volume, as can 
+occur with self-consolidating concrete. Refer to ACI PRC-363, 
+ACI PRC-213, and ACI PRC-237 for more information.
+R19.2.2.2 For any project, Ec used for design may be speci-
+fied and verified by testing. Design conditions that are sensi-
+tive to the value of Ec may warrant testing. Examples include 
+applications where deflections are critical, tall buildings 
+or similar structures for which axial deformation or lateral 
+stiffness impact performance, and where estimation of Ec is 
+important to acceptable vibration or seismic performance.
+In cases where an unintended change of stiffness may have 
+an adverse effect on the design, such as for some seismic 
+applications, the licensed design professional may choose to 
+specify a range of acceptable values of Ec at a specified test 
+age. If a range of values of Ec is specified, details of a testing 
+program and acceptance criteria should be provided in the 
+construction documents.
+The licensed design professional may choose to specify 
+laboratory testing of Ec at multiple ages. It should be 
+recognized that the development of Ec over time cannot be 
+controlled with precision.
+19.2.1.4 For pretensioned members, f′ci shall be at least 
+21 MPa.
+19.2.2 Modulus of elasticity
+19.2.2.1 It shall be permitted to calculate Ec in accordance 
+with (a) or (b):
+(a) For values of wc between 1440 and 2560 kg/m3
+ Ec = wc1.50.043  √ 
+_
+ fc′    (in MPa) (19.2.2.1.a)
+(b) For normalweight concrete
+ Ec = 4700  √ 
+_
+ fc′      (in MPa) (19.2.2.1.b)
+19.2.2.2 It shall be permitted to specify Ec based upon 
+testing of concrete mixtures to be used in the Work in accor-
+dance with (a) through (c): 
+(a) Specified Ec shall be used for proportioning concrete 
+mixtures in accordance with 26.4.3.
+(b) Testing to verify that the specified Ec has been achieved 
+shall be conducted, and results shall be provided with the 
+mixture submittal.
+(c) Test age of measurement of Ec shall be 28 days or as 
+indicated in the construction documents.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.395 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 395
+R19.2.4 Lightweight concrete
+The modification factor λ is used to account for the reduced 
+mechanical properties of lightweight concrete compared with 
+normalweight concrete of the same compressive strength. 
+For design using lightweight concrete, shear strength, fric -
+tion properties, splitting resistance, bond between concrete 
+and reinforcement, and development length requirements 
+are not taken as equivalent to normalweight concrete of the 
+same compressive strength. The methodology for deter -
+mining λ was changed in the 2019 Code to include a new 
+method that is based on the equilibrium density of the 
+lightweight concrete. The new method allows the designer 
+to select a value for λ based on the equilibrium density of 
+the lightweight concrete that is used in design. Laboratory 
+testing on the specific mixture to be used in the structure can 
+be accomplished if the designer desires to determine a more 
+accurate value of λ ( Ivey and Buth 1967 ; Hanson 1961 ). 
+Table 19.2.4.1 is based on data from tests ( Graybeal 2014; 
+Greene and Graybeal 2013 , 2015) of concrete made with 
+many types of structural lightweight aggregate and having 
+a wide range of mixture proportions that resulted in equilib-
+rium densities over a range of 1440 to 2160 kg/m3.
+The second method for determining λ, which is retained 
+from the previous code, is based on the composition of aggre-
+gates. In most cases, local concrete and aggregate suppliers 
+have standard lightweight concrete mixtures and can provide 
+the volumetric fractions to determine the value of λ. In the 
+absence of such data, it is permissible to use the lower-bound 
+value of λ for the type of lightweight concrete specified. 
+This method is based on the assumption that, for equivalent 
+compressive strength levels, the tensile strength of light -
+weight concrete is a fixed fraction of the tensile strength of 
+normalweight concrete (Ivey and Buth 1967). The multipliers 
+used for λ are based on data from tests on concrete made with 
+many types of structural lightweight aggregate.
+A previously included method to calculate λ based on 
+splitting tensile strength and the corresponding value of 
+measured compressive strength was removed from the Code 
+in 2019.
+In editions of the Code prior to 2019, the upper limit on the 
+equilibrium density for lightweight concrete was 1840 kg/
+m3. With the lower limit for normalweight concrete estab -
+lished at 2160 kg/m 3, a 320 kg/m 3 range remained that was 
+undefined. In practice, to achieve an equilibrium density in 
+the range of 1840 to 2160 kg/m3, the use of some amount of 
+19.2.3 Modulus of rupture
+19.2.3.1 Modulus of rupture, fr, for concrete shall be 
+calculated by:
+ fr = 0.062λ  √ 
+_
+ fc′    (19.2.3.1)
+where the value of λ is in accordance with 19.2.4.
+19.2.4 Lightweight concrete
+19.2.4.1 Except as required in Table 25.4.2.5, the value 
+of λ shall be determined using Table 19.2.4.1(a) based on 
+the equilibrium density, wc, of the concrete mixture used in 
+design, or Table 19.2.4.1(b) based on the composition of the 
+aggregate in the concrete mixture assumed in the design.
+Table 19.2.4.1(a)—Values of λλ for lightweight 
+concrete based on equilibrium density
+wc, kg/m3 λ
+≤1600 0.75 (a)
+1600 < wc ≤ 2160 0.00047wc ≤ 1.0 (b)
+>2160 1.0 (c)
+Table 19.2.4.1(b)—Values of λλ for lightweight 
+concrete based on composition of aggregates
+Concrete Composition of aggregates λ
+All-lightweight Fine: ASTM C330M
+Coarse: ASTM C330M 0.75
+Lightweight, fine 
+blend
+Fine: Combination of 
+ASTM C330M and C33M
+Coarse: ASTM C330M
+0.75 to 0.85[1]
+Sand-lightweight Fine: ASTM C33M
+Coarse: ASTM C330M 0.85
+Sand-lightweight, 
+coarse blend
+Fine: ASTM C33M
+Coarse: Combination of 
+ASTM C330M and C33M
+0.85 to 1[2]
+[1]Linear interpolation from 0.75 to 0.85 is permitted based on the absolute volume of 
+normalweight fine aggregate as a fraction of the total absolute volume of fine aggregate.
+[2]Linear interpolation from 0.85 to 1 is permitted based on the absolute volume of 
+normalweight coarse aggregate as a fraction of the total absolute volume of aggregate.
+19.2.4.2 It shall be permitted to take λ as 0.75 for 
+lightweight concrete.
+19.2.4.3 The value of λ shall be taken as 1.0 for normal -
+weight concrete.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.396 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+396 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+lightweight aggregate is required. The 2019 Code removes 
+this undefined range by defining lightweight concrete as 
+having an equilibrium density from 1440 to 2160 kg/m3.
+R19.3—Concrete durability requirements
+The Code addresses concrete durability on the basis 
+of exposure categories and exposure classes as defined in 
+Table 19.3.1.1. The licensed design professional assigns 
+members in the structure to the appropriate exposure cate -
+gory and class. The assigned exposure classes, which are 
+based on the severity of exposure, are used to establish 
+the appropriate concrete properties from Table 19.3.2.1 to 
+include in the construction documents.
+The Code does not include provisions for especially severe 
+exposures, such as acids or high temperatures.
+R19.3.1 Exposure categories and classes 
+The Code addresses four exposure categories that affect 
+the requirements for concrete to ensure adequate durability:
+Exposure Category F  applies to concrete exposed to 
+moisture and cycles of freezing and thawing.
+Exposure Category S  applies to concrete in contact 
+with soil or water containing deleterious amounts of water-
+soluble sulfate ions.
+Exposure Category W applies to concrete in contact with 
+water.
+Exposure Category C  applies to concrete exposed to 
+conditions that require additional protection against corro -
+sion of reinforcement because of exposure to moisture, with 
+or without exposure to external sources of chlorides.
+Severity of exposure within each category is defined 
+by classes with increasing numerical values representing 
+increasingly severe exposure conditions. A classification of 
+0 is assigned if the exposure severity has negligible effect 
+(is benign) or the exposure category does not apply to 
+the member.
+The following discussion provides assistance for selecting 
+the appropriate exposure class for each of the exposure 
+categories. Members are required to be assigned to four 
+exposure classes, one for each exposure category, and are 
+also required to meet the most restrictive requirements of all 
+of these exposures. For example, an exterior elevated slab 
+subject to deicing salt application in a cold climate might be 
+assigned to Exposure Classes F2, S0, W2, and C2.
+Exposure Category F: Whether concrete is damaged by 
+cycles of freezing and thawing depends on the amount of 
+water in the pores of the concrete at the time of freezing 
+(Powers 1975 ). The amount of water present may be 
+described in terms of the degree of saturation of the concrete. 
+If the degree of saturation is high enough, there will be 
+sufficient water in the concrete pores to produce internal 
+tensile stresses large enough to cause cracking when the 
+water freezes and expands. The entire member need not be 
+19.3—Concrete durability requirements
+19.3.1 Exposure categories and classes
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.397 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 397
+saturated to be susceptible to damage. For example, if the 
+top 10 mm of a slab or outer 6 mm of a wall is saturated, 
+those portions are vulnerable to damage from freezing and 
+thawing, regardless of how dry the interior may be.
+For any portion of a member to be resistant to freezing 
+and thawing, that portion of the concrete needs to have suffi-
+cient entrained air and adequate strength. Adequate strength 
+is obtained by requiring a low w/cm, which also reduces 
+the pore volume and increases resistance to water penetra -
+tion. Entrained air makes it more difficult for the concrete 
+to become saturated and allows for expansion of the water 
+when it freezes.
+Exposure class varies with degree of exposure to water, 
+as this will influence the likelihood that any portion of the 
+concrete will be saturated when exposed to cyclic freezing 
+and thawing. Conditions that increase the potential for satu-
+ration include longer-duration or more-frequent contact 
+with water without intervening drainage or drying periods. 
+The likelihood that concrete in a member will be saturated 
+depends on project location, member location and orienta -
+tion in the structure, and climate. Records of performance of 
+similar members in existing structures in the same general 
+location can also provide guidance in assigning exposure 
+classes. Various deicing chemicals can increase water absorp-
+tion and retention (Spragg et al. 2011), which would enable 
+the concrete to become saturated more readily, increasing 
+the risk of freezing and thawing damage and scaling. 
+Plain concrete with minimal reinforcement and metallic 
+embedments subjected to deicing chemical application 
+assigned to Exposure Class F2 should also be assigned to 
+Exposure Class C2.
+Exposure Category F  is subdivided into three exposure 
+classes:
+(a) Exposure Class F0 is assigned to concrete that will not 
+be exposed to cycles of freezing and thawing.
+(b) Exposure Class F1 is assigned to concrete that will 
+be exposed to cycles of freezing and thawing and that 
+will have limited exposure to water. Limited exposure to 
+water implies some contact with water and water absorp -
+tion; however, it is not anticipated that the concrete will 
+absorb sufficient water to become saturated. The licensed 
+design professional should review the exposure condi -
+tions carefully to support the decision that the concrete is 
+not anticipated to become saturated before freezing. Even 
+though concrete in this exposure class is not expected to 
+become saturated, a minimum entrained air content of 3.5 
+to 6% is required to reduce the potential for damage in 
+case portions of the concrete member become saturated.
+ (c) Exposure Class F2 is assigned to concrete that will 
+be exposed to cycles of freezing and thawing and that 
+will have frequent exposure to water. Frequent exposure 
+to water implies that some portions of the concrete will 
+absorb sufficient water such that over time they will have 
+the potential to be saturated before freezing. If there is 
+doubt about whether to assign Exposure Classes F1 or F2 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.398 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+398 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+to a member, the more conservative choice, F2, should 
+be selected. If scaling is a concern, Exposure Class F2 
+is appropriate. Exposure Class F3 has been deleted in 
+the 2025 edition of the Code as redundant because it is 
+equivalent to a combination of Exposure Classes F2 and 
+C2. Furthermore, Exposure Class F3 incorrectly implied 
+that scaling is only possible in the presence of deicing 
+chemicals. 
+Table R19.3.1 provides examples of concrete members for 
+each of these exposure classes.
+Table R19.3.1—Examples of structural members in 
+Exposure Category F
+Exposure class Examples
+F0
+• Members in climates where freezing temperatures 
+will not be encountered
+• Members inside structures and not exposed 
+to freezing
+• Foundations not exposed to freezing
+• Members buried in soil below the design 
+frost depth
+F1
+• Members not subject to ponding of water or 
+snow and ice accumulation, such as exterior walls, 
+beams, girders, and slabs not in direct contact 
+with soil
+• Foundation walls likely to be saturated
+F2
+• Members subject to ponding of water or 
+snow and ice accumulation, such as exterior 
+elevated slabs
+• Foundation or basement walls extending above 
+grade that have snow and ice buildup against them
+• Horizontal and vertical members in contact with 
+soil above the design frost depth
+Exposure Category S  is subdivided into four exposure 
+classes:
+(a) Exposure Class S0 is assigned for conditions where 
+the water-soluble sulfate concentration in contact with 
+concrete is low and injurious sulfate attack is not a concern.
+(b) Exposure Classes S1, S2, and S3 are assigned for 
+structural concrete members in direct contact with soluble 
+sulfates in soil or water. The severity of exposure increases 
+from Exposure Class S1 to S3 based on the more critical 
+value of measured water-soluble sulfate concentration 
+in soil or the concentration of dissolved sulfate in water. 
+Seawater exposure is classified as Exposure Class S1. 
+Exposure Category W is subdivided into three exposure 
+classes:
+(a) Members are assigned to Exposure Class W0 if they 
+are dry in service.
+(b) Members are assigned to Exposure Class W1 if they 
+may be exposed to continuous contact with water, to 
+intermittent sources of water, or can absorb water from 
+surrounding soil. Members assigned to W1 do not require 
+concrete with low permeability. 
+(c) Members are assigned to Exposure Class W2 if they may 
+be exposed to continuous contact with water, to intermittent 
+sources of water, or can absorb water from surrounding soil, 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.399 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 399
+and if the penetration of water through the concrete might 
+reduce durability or serviceability. Members assigned to 
+W2 require concrete with low permeability.
+Exposure Category C is subdivided into three exposure 
+classes:
+ (a) Exposure Class C0 is assigned to concrete members 
+not exposed to moisture in service.
+ (b) Exposure Class C1 is assigned to concrete members 
+requiring protection against reinforcement corrosion due 
+to exposure to moisture, but not to external sources of 
+chlorides in service. Because of the potential exposure 
+to moisture, the limits on water-soluble chloride ions in 
+the concrete materials are more stringent for this exposure 
+class than for Exposure Class C0. 
+ (c) Exposure Class C2 is assigned to concrete members 
+requiring additional protection against reinforcement 
+corrosion or concrete degradation due to exposure to mois-
+ture and external sources of chlorides in service. Exam -
+ples of exposure to external sources of chlorides include 
+concrete in direct contact with deicing chemicals, salt, 
+industrial chloride solutions, salt water, brackish water, 
+seawater, spray from these sources, and airborne chlorides. 
+Depending on prevailing winds, humidity, and geography, 
+it is possible for airborne chlorides to reach inland up to 
+1.6 kilometers from the source, and sometimes farther. In 
+cases of intracoastal or intercoastal waterways, salt lakes, 
+and other chloride-containing bodies of water, there may 
+not be significant quantities of airborne chlorides that 
+would require Exposure Class C2. In cases such as islands 
+surrounded by salt water or low-lying coastal regions 
+with strong onshore winds, chloride exposure at greater 
+distances may need to be addressed. ACI PRC-362.1  
+provides guidance for the consideration of exposure to 
+external chlorides that extend up to 5 kilometers from the 
+source. The licensed design professional should consider 
+local conditions and the long-term chloride penetration and 
+corrosion performance of existing structures to at least 1.6 
+kilometers from the source, and sometimes farther when 
+establishing the corrosion exposure class. 
+R19.3.1.1 
+ (b) Scaling is local flaking or peeling away of the near-
+surface portion of hardened concrete or mortar. Horizontal 
+concrete members that are subject to wetting are most 
+susceptible to scaling. If exposed to an external source of 
+chlorides from deicing or other chemicals, salts, brackish 
+water, seawater, spray, or airborne chlorides from these 
+sources, scaling will be exacerbated. Resistance to freezing 
+19.3.1.1 The licensed design professional shall assign 
+exposure classes in accordance with (a) and (b) and the 
+severity of the anticipated exposure of members for each 
+category in Table 19.3.1.1.
+ (a) Plain concrete exposed to freezing and thawing shall 
+be assigned to Exposure Class F2 or Exposure Classes F2 
+and C2 depending on potential exposure to chlorides and 
+the presence of reinforcement, embedments, or both. 
+ (b) Concrete potentially susceptible to freezing and 
+thawing scaling shall be assigned to Exposure Class F2 
+or Exposure Classes F2 and C2 depending on potential 
+exposure to chlorides. 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.400 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+400 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R19.3.2 Requirements for concrete mixtures 
+For the Exposure Classes addressed by the Code, dura -
+bility is impacted by the resistance of the concrete to fluid 
+or ion (chloride or sulfate) penetration. This resistance is 
+primarily affected by the w/cm and the types of cementi -
+tious and supplementary cementitious materials used in the 
+concrete. The Code provides limits on w/cm in Table 19.3.2.1 
+to achieve the intended durability. Combinations of the 
+materials listed in Table 26.4.1.1.1(a) are also commonly 
+used to improve durability. Refer to ACI PRC-201.2  for 
+guidance on appropriate concrete mixtures for specific 
+exposure conditions.
+Because w/cm of concrete cannot be accurately verified 
+in the field using standard test methods, strength tests are 
+used as a surrogate. Representative values for minimum fc′ 
+have been assigned to each w/cm limit in Table 19.3.2.1. 
+The acceptance criteria for strength tests in 26.12 establish 
+a basis to indicate that the maximum w/cm has not been 
+exceeded. For this approach to be reliable, the values of fc′ 
+specified in construction documents should be consistent 
+with the maximum w/cm. Considering the wide range of 
+Table 19.3.1.1—Exposure categories and classes
+Category Class Condition
+Freezing and 
+thawing (F)
+F0 Concrete not exposed to freezing-and-
+thawing cycles
+F1 Concrete exposed to freezing-and-thawing 
+cycles with limited exposure to water
+F2 Concrete exposed to freezing-and-thawing 
+cycles with frequent exposure to water
+Sulfate (S)
+Water-soluble sulfate 
+(SO42–) in soil, 
+percent by mass[1]
+Dissolved sulfate 
+(SO42–) in water, 
+ppm[2]
+S0 SO42– < 0.10 SO42– < 150
+S1 0.10 ≤ SO42– < 0.20 150 ≤ SO42– < 
+1500 or seawater
+S2 0.20 ≤ SO42– ≤ 2.00 1500 ≤ SO42– ≤ 
+10,000
+S3 SO42– > 2.00 SO42– >10,000
+In contact with 
+water (W)
+W0 Concrete dry in service
+W1 Concrete in contact with water where low 
+permeability is not required
+W2 Concrete in contact with water where low 
+permeability is required
+Corrosion 
+protection of 
+reinforcement (C)
+C0 Concrete dry or protected from moisture
+C1 Concrete exposed to moisture but not to an 
+external source of chlorides
+C2
+ Concrete exposed to moisture and an 
+external source of chlorides from deicing 
+or other chemicals, salt, brackish water, 
+seawater, spray, or airborne chlorides from 
+these sources. 
+[1]Percent sulfate by mass in soil shall be determined by ASTM C1580.
+[2]Concentration of dissolved sulfates in water, in ppm, shall be determined by 
+ASTM D516.
+19.3.2 Requirements for concrete mixtures
+and thawing scaling requires appropriate selection of 
+materials, proper finishing, and proper curing. Causes and 
+prevention of scaling are discussed in ACI PRC-302.1 and 
+ACI PRC-201.2. 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.401 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 401
+materials and concrete mixtures possible, including regional 
+variations, the minimum fc′ limit in Table 19.3.2.1 associated 
+with the maximum w/cm should not be considered absolute. 
+The average strength of concrete mixtures for a given w/cm 
+can in some cases be considerably higher than the average 
+strength expected for the representative value of fc′. For a 
+given exposure class, the licensed design professional may 
+choose to specify a higher value of fc′ than listed in the table 
+to obtain better consistency between the maximum w/cm and 
+fc′. This improves the confidence that concrete complies with 
+the w/cm limit if the strength acceptance criteria are satisfied.
+As stated in the footnote to Table 19.3.2.1, maximum  
+w/cm limits are not specified for lightweight concrete 
+because the amount of mixing water that is absorbed by the 
+lightweight aggregates makes calculation of w/cm uncertain. 
+Therefore, only a minimum fc′ is specified to achieve the 
+required durability.
+Table 19.3.2.1 provides the requirements for concrete on 
+the basis of the assigned exposure classes. The most restric-
+tive requirements are applicable. For example, a member 
+assigned to Exposure Class W1 and Exposure Class S2 
+would require concrete to comply with a maximum w/cm of 
+0.45 and a minimum fc′ of 31 MPa because the requirement 
+for Exposure Class S2 is more restrictive than the require -
+ment for Exposure Class W1.
+Exposure Classes F1 and F2: In addition to complying 
+with a maximum w/cm limit and a minimum fc′, strength for 
+durability, concrete for members subject to freezing-and-
+thawing exposures is required to be air entrained in accor -
+dance with 19.3.3.1. 
+Exposure Classes S1, S2, and S3:  Table 19.3.2.1 lists 
+the appropriate types of cement and the maximum w/cm 
+and minimum fc′ for various sulfate exposure conditions. In 
+selecting cement for sulfate resistance, the principal consid-
+eration is its tricalcium aluminate (C3A) content.
+The use of fly ash (ASTM C618, Class F), natural pozzo-
+lans (ASTM C618, Class N), silica fume ( ASTM C1240), 
+or slag cement ( ASTM C989) has been shown to improve 
+the sulfate resistance of concrete ( Li and Roy 1986 ; 
+ACI PRC-233 ; ACI PRC-234 ). Therefore, Footnote [7] to 
+Table 19.3.2.1 provides a performance option to determine 
+the appropriate amounts of these materials to use in combi -
+nation with the specific cement types listed. ASTM C1012 
+is permitted to be used to evaluate the sulfate resistance of 
+mixtures using combinations of cementitious materials in 
+accordance with 26.4.2.2(c).
+Some ASTM C595  and ASTM C1157 blended cements 
+can meet the testing requirements of  26.4.2.2.(c) without 
+addition of pozzolans or slag cement to the blended cement 
+as manufactured.
+Note that sulfate-resisting cement will not increase resis -
+tance of concrete to some chemically aggressive solutions—
+for example, sulfuric acid. The construction documents 
+should explicitly cover such cases.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.402 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+402 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+In addition to the proper selection of cementitious mate -
+rials, other requirements for durable concrete exposed to 
+water-soluble sulfates are essential, such as w/cm, strength, 
+consolidation, uniformity, cover of reinforcement, and moist 
+curing to develop the potential properties of the concrete.
+Exposure Class S1:  ASTM C150  Type II cement is 
+limited to a maximum C3A content of 8 percent and is accept-
+able for use in Exposure Class S1. Blended cements under 
+ASTM C595 with the MS designation, which indicates the 
+cement meets requirements for moderate sulfate resistance, 
+are also appropriate for use. Under ASTM C1157, the appro-
+priate designation for moderate sulfate exposure is Type MS.
+Seawater is listed under Exposure Class S1 (moderate 
+exposure) in Table 19.3.1.1, even though it generally contains 
+more than 1500 ppm SO42–. Less expansion is produced by a 
+given cement in seawater compared with freshwater with the 
+same sulfate content ( ACI 201.2R). Therefore, seawater is 
+included in the same exposure class as solutions with lower 
+sulfate concentrations. Portland cement with C 3A up to 10 
+percent is allowed in concrete mixtures exposed to seawater 
+if the maximum w/cm is limited to 0.40 (refer to the footnote 
+to Table 19.3.2.1).
+Exposure Class S2:  ASTM C150 Type V cement is 
+limited to a maximum C3A content of 5 percent and is accept-
+able for use in Exposure Class S2. The appropriate binary 
+and ternary blended cements under ASTM C595 include the 
+suffix (HS) as part of their designation, which indicates the 
+cement conforms to requirements for high sulfate resistance. 
+Under ASTM C1157, the appropriate designation for severe 
+sulfate exposure is Type HS.
+Exposure Class S3 (Option 1):  The benefit of the addi -
+tion of pozzolan or slag cement allows for a greater w/cm 
+than required for Option 2. The amounts of supplementary 
+cementitious materials are based on records of successful 
+service or testing in accordance with 26.4.2.2(c).
+Exposure Class S3 (Option 2): This option allows the use 
+of ASTM C150 Type V portland cement meeting the optional 
+limit of 0.040 percent maximum expansion, ASTM C595 
+binary and ternary blended cements with the (HS) suffix 
+in their designation, and ASTM C1157 Type HS cements 
+without the use of additional pozzolan or slag cement, 
+but it instead requires a lower w/cm than that required for 
+Option 1. This lower w/cm reduces the permeability of the 
+concrete and thus increases sulfate resistance ( Lenz 1992). 
+Use of this lower w/cm permits a shorter testing period to 
+qualify the sulfate resistance of a cementitious system in 
+accordance with 26.4.2.2(c).
+In addition to the proper selection of cementitious mate -
+rials, other requirements for durable concrete exposed to 
+water-soluble sulfates are essential, such as low w/cm, 
+strength, adequate consolidation, uniformity, adequate cover 
+of reinforcement, and sufficient moist curing to develop the 
+potential properties of the concrete.
+Exposure Class W1:  This exposure class does not have 
+specific requirements for low permeability. However, 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.403 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 403
+because of the exposure to water, the Code (26.4.2.2(d)) has a 
+requirement to demonstrate that aggregates used in concrete 
+are not alkali reactive according to ASTM C1778 . If the 
+aggregates are alkali-silica reactive, the Code (26.4.2.2(d)) 
+also requires submission of proposed mitigation measures. 
+The Code (26.4.2.2(d)) prohibits the use of aggregates that 
+are alkali-carbonate reactive.
+Exposure Class W2:  This exposure class requires low 
+concrete permeability. The primary means to obtain a 
+concrete with low permeability is to reduce w/cm. For a 
+given w/cm, permeability can be reduced by optimizing 
+the cementitious materials used in the concrete mixture. 
+In addition, because of the exposure to water, the Code 
+(26.4.2.2(d)) has a requirement to demonstrate that aggre -
+gates used in concrete are not alkali reactive according to 
+ASTM C1778. If the aggregates are alkali-silica reactive, 
+the Code (26.4.2.2(d)) also requires submission of proposed 
+mitigation measures. The Code (26.4.2.2(d)) prohibits the 
+use of aggregates that are alkali-carbonate reactive.
+Exposure Class C2:  For concrete in Exposure Class 
+C2, the maximum w/cm, minimum specified compressive 
+strength, and minimum cover are the basic requirements to 
+be considered. Conditions should be evaluated for structures 
+exposed to chlorides, such as in parking structures where 
+chlorides may be tracked in by vehicles, or in structures 
+near seawater. Coated reinforcement, corrosion-resistant 
+steel reinforcement, corrosion-inhibiting admixtures, sealers, 
+membranes, and cover greater than the minimum required 
+in 20.5 can provide additional protection under such condi -
+tions. Use of slag cement meeting ASTM C989 or fly ash 
+meeting ASTM C618 and higher values of specified compres-
+sive strength provide increased protection. Use of silica fume 
+meeting ASTM C1240 with an appropriate high-range water 
+reducing admixture conforming to ASTM C494, Types F and 
+G, can also provide additional protection ( Ozyildirim and 
+Halstead 1988). The use of ASTM C1202 to test concrete 
+mixtures proposed for use will provide additional information 
+on their resistance to chloride ion penetration. 
+Chloride limits for Exposure Category C: For Exposure 
+Classes C0, C1, and C2, the chloride ion limits apply to the 
+chlorides contributed from the concrete materials, not from 
+the environment surrounding the concrete. Even for Expo -
+sure Class C0, water-soluble chlorides introduced from the 
+concrete materials can potentially induce corrosion of the 
+reinforcement and must be limited for both nonprestressed 
+and prestressed concrete, regardless of external exposure. For 
+nonprestressed concrete, the permitted maximum amount of 
+water-soluble chloride ions incorporated into the concrete, 
+depends on the degree of exposure to an anticipated external 
+source of moisture and chlorides. For prestressed concrete, 
+the same limit of 0.06% chloride ion by mass of cementi -
+tious material applies regardless of exposure. The limits on 
+chloride ion content for prestressed concrete are reduced 
+from those for nonprestressed concrete because corrosion of 
+prestressed reinforcement generally has more severe conse -
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.404 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+404 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+quences than corrosion of nonprestressed reinforcement. 
+Corrosion-induced reduction in the cross-sectional area of 
+the prestressed reinforcement may result in fracture of the 
+steel (ACI PRC-222).
+Some admixtures contain intentionally added chlorides, 
+and many admixtures contain trace or background amounts 
+of chlorides as an impurity in the ingredients. The Code 
+does not impose limits on chloride ion content for admix -
+tures. The total chloride ion content of admixtures measured 
+by the supplier should be used when calculating the chlo -
+ride ion content of concrete to meet the requirements of 
+Table 19.3.2.1. 
+The presence of chloride ions may increase the corrosion 
+rate of embedded aluminum such as conduits, especially 
+if the aluminum is in contact with embedded steel and the 
+concrete is in a humid environment (Woods 1966). Require-
+ments for protecting aluminum embedments from corrosion 
+are given in 20.6.3 and 26.8.2.
+Allowable chloride limits are based on the mass of total 
+cementitious materials rather than portland cement alone. 
+This change was made in ACI CODE-318-19 to reflect find-
+ings that demonstrate the beneficial effects of supplementary 
+cementitious materials (SCMs) in reducing permeability and 
+binding chlorides, thus helping to inhibit corrosion ( Wilson 
+and Tennis 2021 ). Because there are diminishing chloride 
+binding effects with increasing amounts of SCMs, the Code 
+(26.4.2.2(d)) limits the mass of SCMs that can be used to 
+calculate the allowable amount of chloride ions in concrete 
+(Tepke et al. 2016).
+Additional information on the effects of chlorides on the 
+corrosion of steel reinforcement is given in ACI PRC-201.2, 
+which provides guidance on concrete durability, and 
+ACI PRC-222, which provides guidance on factors that 
+impact corrosion of metals in concrete. Requirements for the 
+evaluation of chloride ion content are provided in 26.4.2.2.
+R19.3.2.1 
+ (c) The requirements for plain concrete members in Expo-
+sure Class C2 may be relaxed because of the reduced like-
+lihood of problems caused by reinforcement or embed -
+ment corrosion. The licensed design professional should 
+consider the details of the minimal reinforcement and 
+embedments to be included in plain concrete members 
+to ensure that the less restrictive requirements are appro -
+priate for the specific project.
+19.3.2.1 Based on the exposure classes assigned from 
+19.3.1, concrete mixtures shall conform to the requirements 
+given in Table 19.3.2.1, and as indicated in (a) through (c):
+ (a) Specified compressive strength, fc′, shall be the greater 
+of that required for structural design of the member and 
+the greatest minimum fc′ in Table 19.3.2.1 assigned for 
+durability considering all Exposure Categories.
+ (b) The chloride ion content of concrete mixtures shall 
+meet the requirements of Table 19.3.2.1 as determined in 
+accordance with 26.4.2.2(d). 
+ (c) For plain concrete assigned to Exposure Class C2, the 
+licensed design professional shall assign concrete require-
+ments according to (i) through (iii) depending on potential 
+exposure to chlorides and the presence of reinforcement, 
+embedments, or both.
+ (i) Limit on water-soluble chloride ion content in 
+concrete from those in Table 19.3.2.1 
+(ii) Maximum w/cm of 0.45
+(iii) Minimum fc′ of 31 MPa
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.405 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 405
+R19.3.3 Additional requirements for freezing-and-thawing 
+exposure
+R19.3.3.1 A table of required air contents for concrete 
+to resist damage from cycles of freezing and thawing is 
+included in the Code, based on guidance provided for propor-
+tioning concrete mixtures in ACI PRC-211.1. Entrained air 
+will not protect concrete containing coarse aggregates that 
+undergo disruptive volume changes when frozen in a satu -
+rated condition.
+Table 19.3.2.1—Requirements for concrete by exposure class
+Exposure class Maximum w/cm[1,2]
+Minimum fc′, 
+MPa
+Additional requirements
+Air content
+F0 N/A 17 N/A
+F1 0.55 24 Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete
+F2 0.45 31 Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete
+Cementitious materials[3] — Types
+Calcium chloride admixtureASTM C150 ASTM C595 ASTM C1157
+S0 N/A 17 No type 
+restriction
+No type 
+restriction
+No type 
+restriction No restriction
+S1 0.50 28 II[4][5] Types with (MS) 
+designation MS No restriction
+S2 0.45 31 V[5] Types with (HS) 
+designation HS Not permitted
+S3
+Option 1 0.45 31 V plus pozzolan 
+or slag cement[6]
+Types with (HS) 
+designation plus 
+pozzolan or slag 
+cement[6]
+HS plus pozzolan 
+or slag cement[6] Not permitted
+Option 2 0.40 35 V[7] Types with (HS) 
+designation HS Not permitted
+W0 N/A 17 None
+W1 N/A 17 26.4.2.2(d)
+W2 0.50 28 26.4.2.2(d)
+Maximum water-soluble chloride 
+ion (Cl–) content in concrete, 
+percent by mass of cementitious 
+materials
+Nonprestressed 
+concrete
+Prestressed 
+concrete
+C0 N/A 17 1.00 0.06
+C1 N/A 17 0.30 0.06
+C2[8] 0.40 35 0.15 0.06
+[1]The w/cm is calculated on all cementitious and supplementary cementitious materials in the concrete mixture.
+[2]The maximum w/cm limits do not apply to lightweight concrete.
+[3]Alternative combinations of cementitious materials to those listed are permitted for all sulfate exposure classes when tested for sulfate resistance and meeting the criteria in 
+26.4.2.2(b).
+[4]For seawater exposure, other types of portland cements with tricalcium aluminate (C3A) contents up to 10 percent are permitted if the w/cm does not exceed 0.40.
+[5]Other available types of cement such as Type I or Type III are permitted in Exposure Classes S1 or S2 if the C3A contents are less than 8 percent for Exposure Class S1 or less than 
+5 percent for Exposure Class S2.
+[6]The amount of the specific source of the pozzolan or slag cement to be used shall be at least the amount that has been determined by service record to improve sulfate resistance 
+when used in concrete containing Type V cement. Alternatively, the amount of the specific source of the pozzolan or slag cement to be used shall be at least the amount tested in 
+accordance with ASTM C1012 and meeting the criteria in 26.4.2.2(b).
+[7]If Type V cement is used as the sole cementitious material, the optional sulfate resistance requirement of 0.040 percent maximum expansion in ASTM C150 shall be specified.
+[8]Concrete cover shall be in accordance with 20.5.1.4.
+19.3.3 Additional requirements for freezing-and-thawing 
+exposure
+19.3.3.1 Concrete assigned to freezing-and-thawing 
+Exposure Classes F1 and F2 shall be air entrained. Except 
+as permitted in 19.3.3.6, air content shall conform to 
+Table 19.3.3.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.406 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+406 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R19.3.3.2 The sampling of fresh concrete for acceptance 
+based on air content is usually performed as the concrete is 
+discharged from a mixer or a transportation unit (for example, 
+a ready mixed concrete truck) to the conveying equipment 
+used to transfer the concrete to the forms. ASTM C172 
+primarily covers sampling of concrete as it is discharged 
+from a mixer or a transportation unit, but recognizes that 
+specifications may require sampling at other points such as 
+discharge from a pump. Table 19.3.3.1 was developed for 
+testing as-delivered concrete. ASTM C231 is applicable to 
+normalweight concrete and ASTM C173 is applicable to 
+normalweight or lightweight concrete.
+If the licensed design professional requires measurement 
+of air content of fresh concrete at additional sampling loca -
+tions, such requirements should be stated in the construction 
+documents, including the sampling protocol, test methods to 
+be used, and the criteria for acceptance.
+R19.3.3.3 Adding air-entraining admixtures improves 
+freezing-and-thawing resistance of wet-mix shotcrete ( ACI 
+PRC-506). Having air contents before placement as speci -
+fied in Table 19.3.3.3 will provide required performance in 
+freezing and thawing. Air contents greater than those speci -
+fied will not improve shotcrete performance because once 
+adequate air content for durability is achieved, there is no 
+further benefit. As in all concrete, too much in-place air will 
+reduce strength.
+Dry-mix shotcrete without air entrainment has performed 
+well in freezing-and-thawing environments with no expo -
+sure to saltwater or deicing salts (ACI PRC-506; Seege-
+brecht et al. 1989 ). For exposure to saltwater or deicing 
+salts, air-entraining admixtures, in either a wet or dry form, 
+can be added to dry-mix shotcrete to provide the required 
+air content for durability in these exposures ( Bertrand and 
+Vezina 1994). The higher air content of wet-mix shotcrete 
+sampled at the point of delivery accounts for expected air 
+losses during shooting.
+Table 19.3.3.1—Total air content for concrete 
+exposed to cycles of freezing and thawing
+Nominal maximum 
+aggregate size, mm
+Target air content, %
+F1 F2
+10 6.0 7.5
+13 5.5 7.0
+19 5.0 6.0
+25 4.5 6.0
+40 4.5 5.5
+50 4.0 5.0
+75 3.5 4.5
+19.3.3.2 Concrete shall be sampled in accordance with 
+ASTM C172 , and air content shall be measured in accor -
+dance with ASTM C231 or ASTM C173.
+19.3.3.3 Wet-mix shotcrete assigned to freezing-and-
+thawing Exposure Classes F1 or F2 shall be air entrained. 
+Dry-mix shotcrete assigned to freezing-and-thawing Expo -
+sure Class F2 and corrosion protection Exposure Class C2 
+shall be air entrained. Except as permitted in 19.3.3.6, air 
+content shall conform to Table 19.3.3.3.
+Table 19.3.3.3—Total air content for shotcrete 
+exposed to cycles of freezing and thawing
+Mixture 
+type
+Sampling 
+location
+Target air content, %
+F1 F2 F2 and C2
+Wet-mix 
+shotcrete
+Before 
+placement 5.0 6.0 6.0
+Dry-mix 
+shotcrete In-place N/A[1] N/A[1] 4.5
+[1]Entrained air is not required in dry-mix shotcrete for these exposure classes.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.407 ---
+CODE COMMENTARY
+19  Concrete
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 407
+R19.3.3.5 If the licensed design professional requires 
+measurement of air content of fresh dry-mix shotcrete, such 
+requirements are to be stated in the construction documents, 
+including the sampling frequency, sampling protocol, test 
+methods to be used, and the criteria for acceptance. 
+The air content required for dry-mix shotcrete is for 
+sampling of in-place shotcrete. This air content can be veri -
+fied by taking cores from shotcrete test panels for analysis 
+in accordance with ASTM C457. During the mixture devel-
+opment process, shotcrete test panels may be prepared with 
+different amounts of air-entraining admixture and cored to 
+determine a dosage that will provide the required amount of 
+air after placement.
+The use of ASTM C457 for quality control during 
+construction is not practical. Although there are no standard 
+tests for air content of dry-mix shotcrete during construc -
+tion, there are industry accepted methods for testing. These 
+methods involve obtaining samples of dry-mix shotcrete and 
+performing standard tests such as ASTM C231 to determine 
+air content.
+Field measurements of air content of dry-mix shotcrete 
+have been obtained by shooting the material directly into a 
+bowl of an air meter (Betrand and Vezina 1994). Samples for 
+air content testing can also be taken from material shot into 
+test panels, into a wheelbarrow, or onto the ground. These 
+samples can then be used for testing in accordance with 
+ASTM C231 (Zhang 2015).
+R19.3.3.6 This section permits a 1.0 percentage point 
+lower air content for concrete with fc′ equal to or greater 
+than 35 MPa. Such higher-strength concretes, which have a 
+lower w/cm and porosity, have greater resistance to cycles of 
+freezing and thawing.
+R19.3.4 Additional requirements for chloride ion content
+R19.3.4.1 Corrosion of galvanized steel sheet or stay-in-
+place galvanized steel forms may occur, especially in humid 
+environments or where drying is inhibited by the thickness 
+of the concrete, coatings, or impermeable coverings. If stay-
+in-place galvanized steel forms are used, the maximum chlo-
+ride limit of 0.30% is required. For more severe environ -
+ments, such as for concrete in Exposure Class C2, a more 
+stringent limit of 0.15% would be required.
+At the time of design, the licensed design professional may 
+not know if aluminum embedments or stay-in-place galva -
+nized steel forms will be used. Use of aluminum embed -
+ments is covered in 26.8.2. Use of stay-in-place galvanized 
+steel forms is covered in 26.4.2.2.
+19.3.3.4 Wet-mix shotcrete shall be sampled in accor -
+dance with ASTM C172, and air content shall be measured 
+in accordance with ASTM C231 or ASTM C173.
+19.3.3.5 Dry-mix shotcrete shall be sampled and air 
+content shall be measured as directed by the licensed design 
+professional.
+19.3.3.6 For fc′ ≥ 35  MPa, reduction of air content indi -
+cated in Table 19.3.3.1 and 19.3.3.3 by 1.0 percentage point 
+is permitted.
+19.3.4 Additional requirements for chloride ion content
+19.3.4.1 Nonprestressed concrete that will be cast against 
+stay-in-place galvanized steel forms shall comply with the 
+chloride ion limits for Exposure Class C1 unless a more 
+stringent limit is required by other project conditions.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.408 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+408 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R19.4—Grout durability requirements19.4—Grout durability requirements
+19.4.1 Water-soluble chloride ion content of grout for 
+bonded tendons shall not exceed 0.06% when tested in 
+accordance with ASTM C1218, measured by mass of chlo -
+ride ion to mass of cementitious materials.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.409 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 6: MATERIALS & DURABILITY 409
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 20—STEEL REINFORCEMENT PROPERTIES, DURABILITY, AND 
+EMBEDMENTS
+R20.1—Scope
+R20.1.1 Materials permitted for use as reinforcement 
+are specified. Other metal elements, such as inserts, anchor 
+bolts, or plain bars for dowels at isolation or contraction 
+joints, are not normally considered reinforcement under the 
+provisions of this Code. Fiber-reinforced polymer (FRP) 
+reinforcement is not addressed in the Code. ACI Committee 
+440 has developed guidelines for the use of FRP reinforce -
+ment (ACI PRC-440.1 and ACI PRC-440.2) and a code for 
+design of members reinforced with glass fiber-reinforced 
+polymer (GFRP) bars (ACI CODE-440.11).
+R20.2—Nonprestressed bars and wires
+R20.2.1 Material properties
+R20.2.1.2 The majority of nonprestressed steel bar rein -
+forcement exhibits actual stress-strain behavior that is 
+sharply yielding or sharp-kneed (elasto-plastic stress-strain 
+behavior). However, bars of higher strength grade, steel wire, 
+coiled steel bar, and stainless steel bars and wire generally 
+do not exhibit sharply-yielding stress-strain behavior, but 
+instead are gradually-yielding. The method used to measure 
+yield strength of reinforcement needs to provide for both 
+types of reinforcement stress-strain relationships.
+Paulson et al. (2013)  considered reinforcement manufac -
+tured during 2008 through 2012, and found that the offset 
+method (0.2% offset), provides for a reasonable estimate of 
+the strength of reinforced concrete structures.
+The yield strength is determined by the manufacturer 
+during tensile tests performed at the mill on samples of rein-
+forcement. Test methods for determining yield strength of 
+steel, including the offset method and yield point by halt-of-
+force method, are referenced either in the ASTM standards 
+for nonprestressed bars and wire or in ASTM A370 Test 
+Methods and Definitions.
+R20.2.1.3 ASTM A615-24, Table 2 includes the minimum 
+ratio of actual tensile strength to actual yield strength. 
+ASTM A706, Supplementary Requirements S1 are neces-
+sary to be specified in the project specifications and general 
+notes. ASTM requires the bar purchaser to specify the 
+Supplementary Requirements S1. Refer to R26.6.1.1. 
+ Low-alloy steel deformed bars conforming to ASTM A706 
+are intended for applications where controlled tensile prop -
+erties are required. ASTM A706 also includes restrictions 
+on chemical composition to enhance weldability for Grades 
+20.1—Scope
+20.1.1 This chapter shall apply to steel reinforcement  and 
+shall govern for (a) through (c):
+(a) Material properties
+(b) Properties to be used for design
+(c) Durability requirements, including minimum specified 
+cover requirements
+20.1.2 Provisions of 20.6 shall apply to embedments.
+20.2—Nonprestressed bars and wires
+20.2.1 Material properties
+20.2.1.1 Nonprestressed bars and wires shall be deformed, 
+except plain bars or wires are permitted for use in spirals.
+20.2.1.2 Yield strength of nonprestressed bars and wires 
+shall be determined by either (a) or (b):
+(a) The offset method, using an offset of 0.2% in accor -
+dance with ASTM A370
+(b) The yield point by the halt-of-force method, provided 
+the nonprestressed bar or wire has a sharp-kneed or well-
+defined yield point
+20.2.1.3 Deformed bars shall conform to (a), (b), (c), 
+(d), or (e), except bar sizes larger than No. 57 shall not be 
+permitted:
+(a) ASTM A615 – carbon steel
+ (b) ASTM A706 including Supplementary Requirements 
+S1 – low-alloy steel
+(c) ASTM A996 – axle steel and rail steel; bars from rail 
+steel shall be Type R
+(d) ASTM A955 – stainless steel
+(e) ASTM A1035 – low-carbon chromium steel
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.410 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+410 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+420, 550, and 690. Use of ASTM A706  reinforcement 
+requires specifying the Supplementary Requirements S1 of 
+this standard, “Additional Requirements for Bars Used in 
+Earthquake Resistant Structures.” This supplement includes 
+the deformation radius requirements, and uniform elonga -
+tion requirements in Table S1.1 of the supplement. 
+ Rail-steel deformed bars used with  the Code are required 
+to conform to ASTM A996 , including the provisions for 
+Type R bars. Type R bars are required to meet more restric-
+tive provisions for bend tests than other types of rail steel.
+ Stainless steel deformed bars are used in applications 
+where high corrosion resistance or controlled magnetic 
+permeability are required.
+ Low-carbon chromium steel is a high-strength mate -
+rial that is permitted for use as transverse reinforcement 
+for confinement in special earthquake-resistant structural 
+systems and spirals in columns. Refer to Tables 20.2.2.4(a) 
+and (b). ASTM A1035 provides requirements for bars of two 
+minimum yield strength levels—690 MPa and 830 MPa—
+designated as Grade 690 and Grade 830, respectively, but 
+the maximum fyt permitted for design calculations in  the 
+Code is limited in accordance with 20.2.2.3.
+ In 2015, ASTM A615  included bar sizes larger than 
+No. 57, and in 2016, ASTM A1035 also included bar sizes 
+larger than No. 57. Bar sizes larger than No. 57 are not 
+permitted by  the Code due to the lack of information on their 
+performance including bar bends and development lengths.
+R20.2.1.4 Plain bars are permitted only for spiral rein -
+forcement used as transverse reinforcement for columns, 
+transverse reinforcement for shear and torsion, or confining 
+reinforcement for splices.
+R20.2.1.6 The limitation to Class HA head dimensions 
+from Annex A1 of ASTM A970 is due to a lack of test 
+data for headed deformed bars that do not meet Class HA 
+dimensional requirements. Heads not conforming to Class 
+HA limits on bar deformation obstructions and bearing 
+face features have been shown to provide lower anchorage 
+strength than the heads used in the tests that serve as the 
+basis for 25.4.4 (Shao et al. 2016).
+R20.2.1.7 Plain wire is permitted only for spiral reinforce-
+ment and in welded plain wire reinforcement, the latter of 
+which is considered deformed. Stainless steel wire and stain-
+less steel welded wire reinforcement are used in applications 
+where high corrosion resistance or controlled magnetic 
+permeability is required. The physical and mechanical 
+property requirements for deformed stainless steel wire 
+and deformed and plain welded wire reinforcement under 
+20.2.1.4 Plain bars for spiral reinforcement shall conform 
+to ASTM A615, A706, A955, or A1035.
+20.2.1.5 Welded deformed bar mats shall conform to 
+ASTM A184. Deformed bars used in welded deformed bar 
+mats shall conform to ASTM A615 or A706.
+20.2.1.6 Headed deformed bars shall conform to 
+ASTM A970, including Annex A1 requirements for Class 
+HA head dimensions.
+20.2.1.7 Deformed wire, plain wire, welded deformed 
+wire reinforcement, and welded plain wire reinforcement 
+shall conform to (a) or (b), except that yield strength shall be 
+determined in accordance with 20.2.1.2:
+(a) ASTM A1064 – carbon steel
+(b) ASTM A1022 – stainless steel
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.411 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 411
+ASTM A1022  are the same as those for deformed wire, 
+deformed welded wire reinforcement, and plain welded wire 
+reinforcement under ASTM A1064.
+R20.2.1.7.1 An upper limit is placed on the size of deformed 
+wire because test results Rutledge and Devries (2002) have 
+shown that MD290 wire will achieve only approximately 
+60% of the bond strength in tension given by Eq. (25.4.2.4a).
+R20.2.2 Design properties
+R20.2.2.1 For deformed reinforcement, it is reason -
+ably accurate to assume that the stress in reinforcement is 
+proportional to strain below the specified yield strength fy. 
+The increase in strength due to strain hardening of the rein -
+forcement is neglected for nominal strength calculations. In 
+nominal strength calculations, the force developed in tension 
+or compression reinforcement is calculated as:
+if εs < εy (yield strain)
+ A s fs = AsEsεs
+if εs ≥ εy
+ A s fs = Asfy
+where εs is the value from the strain diagram at the location 
+of the reinforcement.
+R20.2.2.4 Tables 20.2.2.4(a) and 20.2.2.4(b) limit the 
+maximum values of yield strength to be used in design 
+calculations for nonprestressed deformed reinforcement and 
+nonprestressed plain spiral reinforcement, respectively.
+20.2.1.7.1 Deformed wire sizes MD25  through MD200  
+shall be permitted.
+20.2.1.7.2 Deformed wire sizes larger than MD200 shall 
+be permitted in welded wire reinforcement if treated as plain 
+wire for calculation of development and splice lengths in 
+accordance with 25.4.7 and 25.5.4, respectively.
+20.2.1.7.3 Except as permitted for welded wire reinforce-
+ment used as stirrups in accordance with 25.7.1, spacing of 
+welded intersections in welded wire reinforcement in the 
+direction of calculated stress shall not exceed (a) or (b):
+(a) 400 mm for welded deformed wire reinforcement
+(b) 300 mm for welded plain wire reinforcement
+20.2.2 Design properties
+20.2.2.1 For nonprestressed bars and wires, the stress 
+below fy shall be Es times steel strain. For strains greater than 
+that corresponding to fy, stress shall be considered indepen -
+dent of strain and equal to fy.
+20.2.2.2 Modulus of elasticity, Es, for nonprestressed bars 
+and wires shall be permitted to be taken as 200,000 MPa.
+20.2.2.3 Yield strength for nonprestressed bars and wires 
+shall be based on the specified grade of reinforcement and 
+shall not exceed the values given in 20.2.2.4 for the associ -
+ated applications.
+20.2.2.4 Types of nonprestressed bars and wires to be 
+specified for particular structural applications shall be in 
+accordance with Table 20.2.2.4(a) for deformed reinforce -
+ment and Table 20.2.2.4(b) for plain reinforcement.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.412 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+412 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Grade 690 reinforcement is now permitted to resist tension 
+and compression in some applications. For reinforcement 
+resisting compression, strain compatibility calculations indi-
+cate that stresses are not likely to exceed 550 MPa before 
+strain in unconfined concrete reaches the strain limit of 
+0.003 unless special confinement reinforcement is provided 
+to increase the limiting concrete compressive strain. For 
+beams, the deflection provisions of 24.2 and the limitations 
+on distribution of flexural reinforcement of 24.3 become 
+increasingly critical as fy increases.
+In Table 20.2.2.4(a), for deformed reinforcement in 
+special moment frames and special structural walls, the 
+use of longitudinal reinforcement with strength substan -
+tially higher than that assumed in design will lead to higher 
+shear and bond stresses at the time of development of yield 
+moments. These conditions may lead to brittle failures in 
+shear or bond and should be avoided even if such failures 
+may occur at higher loads than those anticipated in design. 
+Therefore, ASTM A706 specifies both a lower and an upper 
+limit on the actual yield strength of the steel and requires a 
+minimum tensile-to-yield strength ratio. ASTM A615 rein-
+forcement is not permitted as longitudinal reinforcement in 
+special seismic systems (refer to R20.2.2.5). For reinforce -
+ment resisting compression, strain compatibility calculations 
+indicate that stresses are not likely to exceed 550 MPa before 
+strain in unconfined concrete reaches the strain limit of 
+0.003 unless special confinement reinforcement is provided 
+to increase the limiting concrete compressive strain.
+The maximum value of yield strength for calculation 
+purposes is limited to 690 MPa for both nonprestressed 
+deformed reinforcement and plain spiral reinforcement in 
+Tables 20.2.2.4(a) and (b), respectively, when used for lateral 
+support of longitudinal bars or for concrete confinement. 
+The research that supports this limit for confinement is given 
+in Saatcioglu and Razvi (2002) , Pessiki et al. (2001) , and 
+Richart et al. (1929) . For reinforcement in special moment 
+frames and special structural walls, the research that indi -
+cated that higher yield strengths can be used effectively for 
+confinement reinforcement is given in Budek et al. (2002) , 
+Muguruma and Watanabe (1990), and Sugano et al. (1990).
+The limit of 420 MPa on the values of fy and fyt used in 
+design for most shear and torsional reinforcement is intended 
+to control the width of inclined cracks under service-level 
+gravity loads. The higher yield strength of 550 MPa permitted 
+in shear design for welded deformed wire reinforcement 
+is also intended to control width of inclined cracks and is 
+based on Guimaraes et al. (1992), Griezic et al. (1994), and 
+Furlong et al. (1991) . In particular, full-scale beam tests 
+described in Griezic et al. (1994) indicated that the widths 
+of inclined shear cracks at service load levels were less for 
+beams reinforced with smaller diameter welded deformed 
+wire reinforcement cages designed on the basis of a yield 
+strength of 520 MPa than beams reinforced with deformed 
+Grade 420 stirrups.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.413 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 413
+For strength-level earthquake load effects, tests of members 
+using higher strength reinforcement have shown acceptable 
+behavior (Wallace 1998; Aoyama 2001; Budek et al. 2002 ; 
+Sokoli and Ghannoum 2016 ; Cheng et al. 2016 ; Huq et al. 
+2018; Weber-Kamin et al. 2020), leading to the allowance of 
+ASTM A706 Grade 550 reinforcement for special seismic 
+systems and ASTM A706 Grade 690 for special structural 
+walls in the 2019 Code, as indicated in Table 20.2.2.4(a).
+Footnote [6] of Table 20.2.2.4(a) is provided because 
+ASTM A1064 and A1022 only require the welds to develop 
+240 MPa in the interconnected wires. Hoops, stirrups, and 
+other elements used in special seismic systems should have 
+anchorages that are capable of developing 1.25fy or 1.25fyt, as 
+applicable, or tensile strength of the bar or wire, whichever 
+is less, so that moderate ductility capacity can be achieved. 
+A welded product that is capable of developing these stress 
+limits could be approved for use through Code Section 1.10.
+Footnote [3] of Table 20.2.2.4(a) limiting slab and beam 
+bars passing through or extending from special structural 
+walls to reinforcement meeting 20.2.2.5 provides for greater 
+ductility of these members that are not designated as part of 
+the seismic-force-resisting system but are likely to undergo 
+large nonlinear rotational demands.
+The 550 MPa limit on fy for ties of members or regions of 
+members designed using the strut-and-tie method is imposed 
+because of scarcity of test data justifying a higher limit. The 
+yield strength fy of “other” ties is limited to 420 MPa for 
+consistency with the usage “shear.”
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.414 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+414 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Table 20.2.2.4(a)—Nonprestressed deformed reinforcement
+Usage Application
+Maximum value of 
+fy or fyt permitted 
+for design  
+calculations, MPa
+Applicable ASTM specification
+Deformed bars Deformed wires
+Welded wire 
+reinforcement
+Welded 
+deformed 
+bar mats
+Flexure; axial force; 
+and shrinkage and 
+temperature
+Special 
+seismic 
+systems
+Special moment 
+frames 550
+A706[2] Not permitted Not permitted Not permitted
+Special 
+structural walls[1] 690
+Other 690[3] [4]
+A615, A706, 
+A955, A996, 
+A1035
+A1064, A1022 A1064, A1022 A184[5]
+Lateral support of 
+longitudinal bars; or 
+concrete confinement
+Special seismic systems 690
+A615, A706, 
+A955, A996, 
+A1035
+A1064, A1022 A1064[6], 
+A1022[6] Not permitted
+Spirals 690
+A615, A706, 
+A955, A996, 
+A1035
+A1064, A1022 Not permitted Not permitted
+Other 550 A615, A706, 
+A955, A996 A1064, A1022 A1064, A1022 Not permitted
+Shear [7] 
+Special 
+seismic 
+systems[8]
+Special moment 
+frames[9] 550
+A615, A706, 
+A955, A996 A1064, A1022 A1064[6], 
+A1022[6] Not permittedSpecial 
+structural 
+walls[10]
+690
+Spirals 420 A615, A706, 
+A955, A996 A1064, A1022 Not permitted Not permitted
+Shear friction 420 A615, A706, 
+A955, A996 A1064, A1022 A1064, A1022 Not permitted
+Stirrups, ties, hoops
+420
+A615, A706, 
+A955, A996, 
+A1035
+A1064, A1022
+A1064 and 
+A1022 welded 
+plain wire
+Not permitted
+550 Not permitted Not permitted
+A1064 and 
+A1022 welded 
+deformed wire
+Not permitted
+Torsion Longitudinal and transverse 420 A615, A706, 
+A955, A996 A1064, A1022 A1064, A1022 Not permitted
+Anchor reinforcement
+ Seismic Design Category 
+(SDC) C, D, E, or F 550 A706[11] Not permitted Not permitted Not permitted
+Other 550 A615, A706, 
+A955, A996 A1064, A1022 A1064, A1022 A184[5]
+Regions designed using 
+strut-and-tie method
+Longitudinal ties 550 A615, A706, 
+A955, A996 A1064, A1022 A1064, A1022 Not permitted
+Other 420
+[1]All components of special structural walls, including coupling beams and wall piers.
+[2] Reinforcement shall comply with 20.2.2.5. 
+[3]In slabs and beams not part of a special seismic system, bars that pass through or extend from special structural walls shall  comply with 20.2.2.5.
+[4]Longitudinal reinforcement with fy > 550 MPa is not permitted for intermediate moment frames and ordinary moment frames resisting earthquake demands E.
+[5]Welded deformed bar mats shall be permitted to be assembled using only ASTM A615 or A706 deformed bars of Grade 420 or Grade 550.
+[6]ASTM A1064 and A1022 are not permitted in special seismic systems if the weld is required to resist stresses in response to confinement, lateral support of longitudinal bars, shear, 
+or other actions.
+[7]Steel fiber reinforcement for shear shall conform to ASTM A820 in accordance with 26.4.1.6.1.
+[8]This application also includes shear reinforcement with a maximum value of 550 MPa fy or fyt permitted for design calculations for diaphragms and foundations for load combina-
+tions including earthquake forces if part of a building with a special seismic system.
+[9]Shear reinforcement in this application includes stirrups, ties, hoops, and spirals in special moment frames.
+[10]Shear reinforcement in this application includes all transverse reinforcement in special structural walls, coupling beams, and wall piers. Diagonal bars in coupling beams shall 
+comply with  20.2.2.5. 
+[11]Anchor reinforcement shall comply with 20.2.2.6. 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.415 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 415
+R20.2.2.5 Additional requirements for ASTM A706 rein-
+forcement are provided in 20.2.1.3(b). Refer to R18.2.6 
+for commentary regarding the requirements in 20.2.1.3(b) 
+for a tensile strength greater than the yield strength of 
+the reinforcement. 
+ASTM A706 reinforcement is required because of its 
+inelastic fatigue performance and its controlled mechan -
+ical properties and chemical composition. ASTM A615 
+reinforcement is not permitted as longitudinal reinforce -
+ment to resist moments and axial forces in special seismic 
+systems because of concern associated with low-cycle 
+fatigue behavior (Slavin and Ghannoum 2015) and because 
+the mechanical properties and chemical composition of 
+ASTM A615 reinforcement are less restricted.
+R20.3—Prestressing strands, wires, and bars
+R20.3.1 Material properties
+R20.3.1.1 Because low-relaxation prestressing rein -
+forcement is addressed in a supplementary requirement to 
+ASTM A421, which applies only if low-relaxation material 
+is specified, the appropriate ASTM reference is listed as a 
+separate entity.
+20.2.2.5 Deformed nonprestressed longitudinal reinforce-
+ment resisting earthquake-induced moment, axial force, or both, 
+in special seismic systems shall comply with ASTM A706, 
+Grade 420, 550, or 690 for special structural walls and 
+ASTM A706 Grade 420 or 550 for special moment frames.
+20.2.2.6 Anchor reinforcement in Seismic Design Cate -
+gory (SDC) C, D, E, or F shall comply with ASTM A706 
+Grade 420 or 550. 
+20.3—Prestressing strands, wires, and bars
+20.3.1 Material properties
+20.3.1.1 Except as required in 20.3.1.3 for special moment 
+frames and special structural walls, prestressing reinforce -
+ment shall conform to (a), (b), (c), or (d):
+(a) ASTM A416 – strand
+(b) ASTM A421 – wire
+(c) ASTM A421 – low-relaxation wire including Supple -
+mentary Requirement S1, “Low-Relaxation Wire and 
+Relaxation Testing”
+(d) ASTM A722 – high-strength bar
+20.3.1.2 Prestressing strands, wires, and bars not listed in 
+ASTM A416, A421, or A722 are permitted provided they 
+conform to minimum requirements of these specifications 
+and are shown by test or analysis not to impair the perfor -
+mance of the member.
+20.3.1.3 Prestressing reinforcement resisting earthquake-
+induced moment, axial force, or both, in special moment 
+frames, special structural walls, and all components of 
+special structural walls including coupling beams and wall 
+piers, cast using precast concrete shall comply with ASTM 
+A416 or ASTM A722.
+Table 20.2.2.4(b)—Nonprestressed plain spiral reinforcement
+Usage Application
+Maximum value of fy or 
+fyt permitted for design 
+calculations, MPa
+Applicable ASTM specification
+Plain bars Plain wires
+Lateral support of longitudinal 
+bars; or concrete confinement
+Spirals in special seismic systems 690 A615, A706, A955, A1035 A1064, A1022
+Spirals 690 A615, A706, A955, A1035 A1064, A1022
+Shear Spirals 420 A615, A706, A955, A1035 A1064, A1022
+Torsion in nonprestressed beams Spirals 420 A615, A706, A955, A1035 A1064, A1022
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.416 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+416 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R20.3.2 Design properties
+R20.3.2.1 Default values of Ep between 197,000 and 
+200,000 MPa are commonly used for design purposes. 
+More accurate values based on tests or the manufactur -
+er’s reports may be needed for elongation checks during 
+stressing.
+R20.3.2.2 ASTM A416  specifies two grades of strand 
+tensile strength: 1725 and 1860 MPa.
+ASTM A421 specifies tensile strengths of 1620, 1655, and 
+1725 MPa, depending on the diameter and type of wire. For 
+the most common diameter, 6 mm, ASTM A421 specifies a 
+tensile strength of 1655 MPa.
+R20.3.2.3 Stress in bonded prestressed reinforcement at 
+nominal flexural strength, fps
+R20.3.2.3.1 Use of Eq. (20.3.2.3.1) may underestimate the 
+strength of beams with high percentages of reinforcement 
+and, for more accurate evaluations of their strength, the strain 
+compatibility and equilibrium method should be used. If part 
+of the prestressed reinforcement is in the compression zone, a 
+strain compatibility and equilibrium method should be used.
+The γp term in Eq. (20.3.2.3.1) and Table 20.3.2.3.1 reflects 
+the influence of different types of prestressing reinforcement 
+on the value of fps. Table R20.3.2.3.1 shows prestressing 
+reinforcement type and the associated ratio fpy/fpu.
+20.3.2 Design properties
+20.3.2.1 Modulus of elasticity, Ep, for prestressing rein -
+forcement shall be determined from tests or as reported by 
+the manufacturer.
+20.3.2.2 Tensile strength, fpu, shall be based on the speci -
+fied grade or type of prestressing reinforcement and shall not 
+exceed the values given in Table 20.3.2.2.
+Table 20.3.2.2—Prestressing strands, wires, and 
+bars
+Type
+Maximum value of fpu 
+permitted for design 
+calculations, MPa
+Applicable ASTM 
+Specification
+Strand (stress-
+relieved and 
+low-relaxation)
+1860 A416
+Wire (stress-
+relieved and 
+low-relaxation)
+1725
+A421
+A421, including 
+Supplementary 
+Requirement S1 
+“Low-Relaxation Wire 
+and Relaxation Testing”
+High-strength bar 1035 A722
+20.3.2.3 Stress in bonded prestressed reinforcement at 
+nominal flexural strength, fps
+20.3.2.3.1 As an alternative to a more accurate calcula -
+tion of fps based on strain compatibility, values of fps calcu-
+lated in accordance with Eq. (20.3.2.3.1) shall be permitted 
+for members with bonded prestressed reinforcement if all 
+prestressed reinforcement is in the tension zone and fse ≥ 
+0.5fpu.
+            f  ps   =  f  pu    {1 –   
+γp
+ _ β1
+   [ρp  
+fpu
+ _ fc′   +   d _ dp
+     
+ fy
+ _  fc′    (ρ – ρ′) ] }    (20.3.2.3.1)
+where γp is in accordance with Table 20.3.2.3.1.
+If compression reinforcement is considered for the calcu -
+lation of fps by Eq. (20.3.2.3.1), (a) and (b) shall be satisfied.
+(a) If d′ exceeds 0.15 dp, the compression reinforcement 
+shall be neglected in Eq. (20.3.2.3.1).
+Table R20.3.2.3.1—Ratio of fpy/fpu associated with 
+reinforcement type
+Prestressing reinforcement type fpy/fpu
+High-strength 
+prestressing bars
+ASTM A722 Type I (Plain) ≥0.85
+ASTM A722 Type II (Deformed) ≥0.80
+Stress-relieved strand 
+and wire
+ASTM A416
+ASTM A421 ≥0.85
+Low-relaxation strand 
+and wire
+ASTM A416
+ASTM A421 ≥0.90
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.417 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 417
+R20.3.2.3.1(a) If d′ is large, the strain in compression rein-
+forcement can be considerably less than its yield strain. In 
+such a case, the compression reinforcement does not influ -
+ence fps as favorably as implied by Eq. (20.3.2.3.1). For this 
+reason, if d′ exceeds 0.15 dp, Eq. (20.3.2.3.1) is applicable 
+only if the compression reinforcement is neglected.
+ R20.3.2.3.1(b) The ρ′ term in Eq. (20.3.2.3.1) reflects 
+the increased value of fps obtained when compression rein -
+forcement is provided in a beam with a large reinforcement 
+index. If the term [ρp( fpu/fc′ ) + (d/dp)(fy/fc′ )(ρ – ρ′)] is small, 
+the neutral axis depth is small, the compressive reinforce -
+ment does not develop its yield strength, and Eq. (20.3.2.3.1) 
+becomes unconservative. For this reason, the term [ ρp( fpu/
+fc′ ) + ( d/dp)( fy/fc′ )(ρ – ρ′)] may not be taken less than 
+0.17 if compression reinforcement is taken into account 
+when calculating fps. The compression reinforcement may 
+be conservatively neglected when using Eq. (20.3.2.3.1) 
+by taking ρ′ as zero, in which case the term [ ρp( fpu/fc′ ) +  
+(d/dp)( fy/fc′ )(ρ)] may be less than 0.17 and an acceptable 
+value of fps is obtained.
+R20.3.2.4 Stress in unbonded prestressed reinforcement at 
+nominal flexural strength, fps
+R20.3.2.4.1 The term [fse + 70 + fc′/(300ρp)] reflects results 
+of tests on members with unbonded tendons and span-to-
+depth ratios greater than 35 (one-way slabs, flat plates, and 
+flat slabs) ( Mojtahedi and Gamble 1978 ). These tests also 
+indicate that the term [ fse + 70 + fc′/(100ρp)], formerly used 
+for all span-depth ratios, overestimates the amount of stress 
+increase in such members. Although these same tests indi -
+cate that the moment strength of those shallow members 
+designed using [ fse + 70 + fc′/(100ρp)] meets the factored 
+load strength requirements, this reflects the effect of the 
+Code requirements for minimum bonded reinforcement as 
+well as the limitation on concrete tensile stress that often 
+control the amount of prestressing force provided.
+R20.3.2.5 Permissible tensile stresses in prestressed 
+reinforcement
+R20.3.2.5.1 Because of the high yield strength of low-
+relaxation strand and wire meeting the requirements of 
+ASTM A416 and ASTM A421  including Supplementary 
+Requirement S1 “Low-Relaxation Wire and Relaxation 
+Testing,” it is appropriate to specify permissible stresses 
+(b) If compression reinforcement is included in 
+Eq. (20.3.2.3.1), the term
+         [ρp   
+fpu
+ _ fc′   +   d _ dp
+     
+fy
+ _ fc′   (ρ – ρ′) ]   
+shall not be taken less than 0.17.
+Table 20.3.2.3.1—Values of γγp for use in Eq. (20.3.2.3.1)
+fpy/fpu γp
+≥0.80 0.55
+≥0.85 0.40
+≥0.90 0.28
+20.3.2.3.2 For pretensioned strands, the strand design 
+stress at sections of members located within ℓd from the free 
+end of strand shall not exceed that calculated in accordance 
+with 25.4.8.3.
+20.3.2.4 Stress in unbonded prestressed reinforcement at 
+nominal flexural strength, fps
+20.3.2.4.1 As an alternative to a more accurate calcu -
+lation of fps, values of fps calculated in accordance with 
+Table 20.3.2.4.1 shall be permitted for members prestressed 
+with unbonded tendons if fse ≥ 0.5fpu.
+Table 20.3.2.4.1—Approximate values of fps at 
+nominal flexural strength for unbonded tendons
+ℓn/h fps
+≤35 The least of:
+fse + 70 + fc′/(100ρp)
+fse + 420
+fpy
+>35 The least of:
+fse + 70 + fc′/(300ρp)
+fse + 210
+fpy
+20.3.2.5 Permissible tensile stresses in prestressed 
+reinforcement
+20.3.2.5.1 The tensile stress in prestressed reinforcement 
+shall not exceed the limits in Table 20.3.2.5.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.418 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+418 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+in terms of specified minimum ASTM yield strength along 
+with the specified minimum ASTM tensile strength. Because 
+of the higher allowable initial prestressed reinforcement 
+stresses permitted since the 1983 Code, final stresses can 
+be greater. For structures subject to corrosive conditions or 
+repeated loadings, consideration should be given to limiting 
+the final stress.
+The margin between the maximum stress during stressing 
+and the maximum stress immediately prior to force transfer 
+for pretensioned strands allows the manufacturer to stress the 
+strands to compensate for prestress losses accrued between 
+stressing and force transfer.
+R20.3.2.6 Prestress losses
+R20.3.2.6.1 ACI PRC-423.10 provides a comprehensive 
+treatment of the estimation of prestress losses.
+Actual losses, greater or smaller than the calculated values, 
+have little effect on the design strength of the member, but 
+affect service load behavior (deflections, camber, cracking 
+load) and connections. At service loads, overestimation of 
+prestress losses can be almost as detrimental as underestima-
+tion because the former can result in excessive camber and 
+horizontal movement.
+R20.3.2.6.2 Estimation of friction losses in post-tensioned 
+tendons is addressed in the Post-Tensioning Manual (TAB.1). 
+Values of the wobble and curvature friction coefficients to be 
+used for the particular types of prestressing reinforcement 
+and particular types of ducts should be obtained from the 
+manufacturers of the tendons. An unrealistically low estimate 
+of the friction loss can lead to improper camber, or potential 
+deflection, of the member and inadequate prestress. Overes-
+timation of the friction may result in extra prestressing force. 
+This could lead to excessive camber and excessive short -
+ening of a member. If the friction factors are determined to 
+be less than those assumed in the design, the tendon stressing 
+should be adjusted to provide only that prestressing force in 
+the critical portions of the structure required by the design.
+When safety or serviceability of the structure may be 
+involved, the acceptable range of prestressing reinforcement 
+jacking forces or other limiting requirements should either 
+be given or approved by the licensed design professional in 
+conformance with the permissible stresses of 20.3.2.5 and 24.5.
+Table 20.3.2.5.1—Maximum permissible tensile 
+stresses in prestressed reinforcement 
+Stage Location Maximum tensile stress
+During stressing At jacking end Least of:
+0.94fpy
+0.80fpu
+Maximum 
+jacking force 
+recommended by 
+the supplier of 
+anchorage device
+Immediately prior 
+to force transfer
+At jacking end 
+of pretensioned 
+strands
+0.75fpu
+Immediately after 
+force transfer
+At post-tensioning 
+anchorage devices 
+and couplers
+0.70fpu
+20.3.2.6 Prestress losses
+20.3.2.6.1 Prestress losses shall be considered in the 
+calculation of the effective tensile stress in the prestressed 
+reinforcement, fse, and shall include (a) through (f):
+(a) Prestressed reinforcement seating at transfer
+(b) Elastic shortening of concrete
+(c) Creep of concrete
+(d) Shrinkage of concrete
+(e) Relaxation of prestressed reinforcement
+(f) Friction loss due to intended or unintended curvature in 
+post-tensioning tendons
+20.3.2.6.2 Calculated friction loss in post-tensioning 
+tendons shall be based on experimentally determined wobble 
+and curvature friction coefficients.
+20.3.2.6.3 Where loss of prestress in a member is 
+anticipated due to connection of the member to adjoining 
+construction, such loss of prestress shall be included in 
+design calculations.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.419 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 419
+R20.4—Headed shear stud reinforcement
+R20.4.1 The configuration of the studs for headed shear 
+stud reinforcement differs from the configuration of the 
+headed-type shear studs prescribed in Section 7 of AWS D1.1 
+(2015) and referenced for use in Chapter 17  of this Code 
+(Fig. R20.4.1). Ratios of the head to shank cross-sectional 
+areas of the AWS D1.1 studs range from approximately 2.5 
+to 4. In contrast, ASTM A1044 requires the area of the head 
+of headed shear stud reinforcement to be at least 10 times 
+the area of the shank. Thus, the AWS D1.1 headed studs 
+are not suitable for use as headed shear stud reinforcement. 
+The base rail, where provided, anchors one end of the studs; 
+ASTM A1044 specifies material width and thickness of the 
+base rail that are sufficient to provide the required anchorage 
+without yielding for stud shank diameters of 9.5, 12.7, 15.9, 
+and 19.1 mm. In ASTM A1044, the minimum specified yield 
+strength of headed shear studs is 350 MPa.
+Headed shear studs also differ from headed deformed bars, 
+which are required to conform to 20.2.1.6 and may be used 
+as an alternative to hooks for anchoring transverse reinforce-
+ment as permitted in 25.7.1.8.
+20.4—Headed shear stud reinforcement
+20.4.1 Headed shear stud reinforcement and stud assem -
+blies shall conform to ASTM A1044.
+R20.5—Provisions for durability of steel 
+reinforcement
+R20.5.1 Specified concrete cover
+This section addresses concrete cover over reinforcement 
+and does not include requirements for concrete cover over 
+embedments such as pipes, conduits, and fittings, which are 
+addressed in 20.6.5.
+Shank diameter
+Headed shear stud
+reinforcement
+Headed deformed bar
+conforming to 20.2.1.6
+Headed shear studs
+per AWS D1.1
+Shank diameter
+≥ √10 × (shank diameter)
+(√2.5 to 2) × (shank diameter)≥√5db
+db
+Fig. R20.4.1— Example stud head configurations .
+20.5—Provisions for durability of steel 
+reinforcement
+20.5.1 Specified concrete cover
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.420 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+420 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R20.5.1.1 Concrete cover as protection of reinforcement 
+from weather and other effects is measured from the concrete 
+surface to the outermost surface of the reinforcement to 
+which the cover requirement applies. Where concrete cover 
+is prescribed for a class of structural members, it is measured 
+to the outer edge of stirrups, ties, or spirals if transverse rein-
+forcement encloses main bars; to the outermost layer of bars 
+if more than one layer is used without stirrups or ties; to the 
+metal end fitting or duct of post-tensioning tendons; or to the 
+outermost part of the head on headed bars.
+The condition “exposed to weather or in contact with 
+ground” refers to direct exposure to moisture changes and not 
+just to temperature changes. The term “exposed to weather” 
+also includes exposure to moisture and airborne chlorides as 
+described in R19.3.1. Slab soffits are not usually considered 
+directly exposed unless subject to road spray from deicing 
+chemicals or airborne chlorides, or alternate wetting and 
+drying, (including that due to condensation conditions or 
+direct leakage from exposed top surface, run off, or similar 
+effects), or both.
+Alternative methods of protecting the reinforcement from 
+weather may be provided if they are equivalent to the addi -
+tional concrete cover required by the Code. When approved 
+by the building official under the provisions of 1.10, rein-
+forcement with alternative protection from weather may not 
+have concrete cover less than the cover required for rein -
+forcement not exposed to weather.
+Development length provisions given in Chapter 25 are a 
+function of cover over the reinforcement. To meet require -
+ments for development length, it may be necessary to use 
+cover greater than the minimums specified in 20.5.1.
+R20.5.1.2 Concrete floor finishes may be considered for 
+nonstructural purposes such as cover for reinforcement 
+and fire protection. Provisions should be made, however, 
+to ensure that the concrete finish will not spall off, thus 
+resulting in decreased cover. Furthermore, considerations 
+for development of reinforcement require minimum mono -
+lithic concrete cover in accordance with 20.5.1.3.
+R20.5.1.3 Specified concrete cover requirements
+20.5.1.1 Unless the general building code requires a 
+greater concrete cover for fire protection, the minimum 
+specified concrete cover shall be in accordance with 20.5.1.2 
+through 20.5.1.4.
+20.5.1.2 It shall be permitted to consider concrete floor 
+finishes as part of required cover for nonstructural purposes.
+20.5.1.3 Specified concrete cover requirements
+20.5.1.3.1 Nonprestressed cast-in-place concrete members 
+shall have specified concrete cover for reinforcement at least 
+that given in Table 20.5.1.3.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.421 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 421
+R20.5.1.3.3 The lesser cover thicknesses for precast 
+construction reflect the greater control for proportioning, 
+placing, and curing inherent in precasting. Manufactured 
+under plant conditions does not imply that precast members 
+should be manufactured in a plant. Structural elements 
+precast at the job site will also qualify under this section if 
+the control of form dimensions, placing of reinforcement, 
+quality control of concrete, and curing procedures are equal 
+to that normally expected in a plant.
+Concrete cover to pretensioned strand as described in this 
+section is intended to provide minimum protection from 
+weather and other effects. Such cover may not be sufficient 
+to transfer or develop the stress in the strand, and it may be 
+necessary to increase the cover accordingly.
+Table 20.5.1.3.1—Specified concrete cover for 
+cast-in-place nonprestressed concrete members
+Concrete 
+exposure Member Reinforcement
+Specified 
+cover, mm
+Cast against and 
+permanently 
+incontact with 
+ground
+All All 75 mm
+Exposed to weather 
+or in contact with 
+ground
+All
+No. 19 through No. 
+57 bars 50 mm
+No. 16 bar, 
+MW200 or MD200 
+wire, and smaller
+40 mm
+Not exposed 
+to weather or 
+in contact with 
+ground
+Slabs, joists, 
+and walls
+No. 43 and No. 57 
+bars 40 mm
+No. 36 bar and 
+smaller 19 mm
+Beams, 
+columns, 
+pedestals, and 
+tension ties
+Primary 
+reinforcement, 
+stirrups, ties, 
+spirals, and hoops
+40 mm
+20.5.1.3.2 Cast-in-place prestressed concrete members 
+shall have specified concrete cover for reinforcement, ducts, 
+and end fittings at least that given in Table 20.5.1.3.2.
+Table 20.5.1.3.2—Specified concrete cover for 
+cast-in-place prestressed concrete members
+Concrete exposure Member Reinforcement
+Specified 
+cover, mm
+Cast against and 
+permanently in 
+contact with ground
+All All 75
+Exposed to weather 
+or in contact with 
+ground
+Slabs, joists, 
+and walls All 25
+All other All 40
+Not exposed to 
+weather or in 
+contact with ground
+Slabs, joists, 
+and walls All 19
+Beams, 
+columns, and 
+tension ties
+Primary 
+reinforcement 40
+Stirrups, ties, 
+spirals, and hoops 25
+20.5.1.3.3 Precast nonprestressed or prestressed concrete 
+members manufactured under plant conditions shall have 
+specified concrete cover for reinforcement, ducts, and end 
+fittings at least that given in Table 20.5.1.3.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.422 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+422 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Table 20.5.1.3.3—Specified concrete cover for 
+precast-nonprestressed or prestressed concrete 
+members manufactured under plant conditions
+Concrete 
+exposure Member Reinforcement
+Specified 
+cover, mm
+Exposed to 
+weather or 
+in contact 
+with ground
+Walls
+No. 43 and No. 57 bars; 
+tendons larger than 40 
+mm diameter
+40
+No. 36 bars and smaller; 
+MW200 and MD200 
+wire and smaller; tendons 
+and strands 40 mm 
+diameter and smaller
+19
+All other
+No. 43 and No. 57 bars; 
+tendons larger than 40 
+mm diameter
+50
+No. 19 through No. 36 
+bars; tendons and strands 
+larger than 16 mm 
+diameter through 40 mm 
+diameter
+40
+No. 16 bar, MW200 
+or MD200 wire, and 
+smaller; tendons and 
+strands 16 mm diameter 
+and smaller
+30
+Not exposed 
+to weather 
+or in contact 
+with ground
+Slabs, joists, 
+and walls
+No. 43 and No. 57 bars; 
+tendons larger than 
+40 mm diameter
+30
+Tendons and strands 40 
+mm diameter and smaller 19
+No. 36 bar, MW200 or 
+MD200 wire, and smaller 16 
+Beams, 
+columns, 
+pedestals, 
+and tension 
+ties
+Primary reinforcement
+Greater of 
+db and 16 
+and need not 
+exceed 40 
+Stirrups, ties, spirals, and 
+hoops 10
+20.5.1.3.4 Deep foundation members shall have speci -
+fied concrete cover for reinforcement at least that given in 
+Table 20.5.1.3.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.423 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 423
+R20.5.1.3.6 Concrete cover requirements for headed shear 
+stud reinforcement are illustrated in Fig. R20.5.1.3.6.
+Table 20.5.1.3.4—Specified concrete cover for 
+deep foundation members
+Concrete exposure
+Deep  
+foundation 
+member type Reinforcement
+Specified 
+cover, 
+mm
+Cast against and 
+permanently in 
+contact with ground, 
+not enclosed by steel 
+pipe, tube permanent 
+casing, or stable rock 
+socket
+Cast-in-place All 75
+Enclosed by steel 
+pipe, tube, permanent 
+casing, or stable rock 
+socket
+Cast-in-place All 40
+Permanently in 
+contact with ground
+Precast-
+nonprestressed
+All 40
+Precast-
+prestressed
+Exposed to seawater
+Precast-
+nonprestressed All 65
+Precast-
+prestressed All 50
+20.5.1.3.5 For bundled bars, specified concrete cover shall 
+be at least the smaller of (a) and (b):
+(a) The equivalent diameter of the bundle
+(b) 50 mm
+and for concrete cast against and permanently in contact 
+with ground, the specified cover shall be at least 75 mm.
+20.5.1.3.6 For headed shear stud reinforcement, specified 
+concrete cover for the heads and base rails shall be at least 
+that required for the reinforcement in the member.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.424 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+424 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+db
+Maximum cover to head (8.7.7)
+= (db /2) + specified cover
+Tension flexural
+reinforcement
+Specified cover
+Maximum cover to head (8.7.7)
+= (db /2) + specified cover
+Specified cover
+Tension flexural
+reinforcement
+(a) Slab with top and bottom bars
+(b) Footing with only bottom bars
+db
+Fig. R20.5.1.3.6—Concrete cover requirements for headed 
+shear stud reinforcement.
+R20.5.1.4 Specified concrete cover requirements for 
+corrosive environments
+Corrosive environments are defined in 19.3.1, R19.3.1, 
+and R19.3.2. Additional information on corrosion in parking 
+structures is given in ACI PRC-362.1.
+R20.5.1.4.1 Where concrete will be exposed to external 
+sources of chlorides in service, such as deicing chemicals, 
+brackish water, seawater, spray from these sources, and 
+airborne chlorides as described in R19.3.1, concrete should 
+be proportioned to satisfy the requirements for the appli -
+cable exposure class in Chapter 19. These include maximum 
+w/cm, minimum strength for normalweight and lightweight 
+20.5.1.4 Specified concrete cover requirements for corro-
+sive environments
+20.5.1.4.1 In corrosive environments or other severe 
+exposure conditions, the specified concrete cover shall be 
+increased as deemed necessary. The applicable requirements 
+for concrete based on exposure categories in 19.3 shall be 
+satisfied, or other protection shall be provided.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.425 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 425
+concrete, and maximum chloride ion in the concrete. Addi -
+tionally, for corrosion protection, a specified concrete cover 
+for reinforcement not less than 50 mm for walls and slabs 
+and not less than 65 mm for other members is recommended. 
+For precast concrete members manufactured under plant 
+control conditions, a specified concrete cover not less than 
+40 mm for walls and slabs and not less than 50 mm for other 
+members is recommended.
+R20.5.2 Nonprestressed coated reinforcement
+R20.5.2.1 Zinc-coated (hot-dipped galvanized) bars 
+(ASTM A767), epoxy-coated bars (ASTM A775 and A934), 
+and zinc and epoxy dual-coated bars ( ASTM A1055) are 
+used in applications where corrosion resistance of reinforce-
+ment is of particular concern such as in parking structures, 
+bridge structures, and other highly corrosive environments. 
+R20.5.3 Corrosion protection for unbonded prestressing 
+reinforcement
+R20.5.3.1 Material for corrosion protection of unbonded 
+prestressing reinforcement should have the properties identi-
+fied in 19.1 of Breen et al. (1994).
+Typically, sheathing is a continuous, seamless, high-
+density polyethylene material that is extruded directly onto 
+the coated prestressing reinforcement.
+20.5.1.4.2 For prestressed concrete members classified as 
+Class T or C in 24.5.2 and exposed to corrosive environments 
+or other severe exposure categories such as those given in 
+19.3, the specified concrete cover for prestressed reinforce -
+ment shall be at least one and one-half times the cover in 
+20.5.1.3.2 for cast-in-place members and in 20.5.1.3.3 for 
+precast members.
+20.5.1.4.3 If the precompressed tension zone is not 
+in tension under sustained loads, 20.5.1.4.2 need not be 
+satisfied.
+20.5.2 Nonprestressed coated reinforcement
+20.5.2.1 Nonprestressed coated reinforcement shall 
+conform to Table 20.5.2.1.
+Table 20.5.2.1—Nonprestressed coated 
+reinforcement
+Type of 
+coating
+Applicable ASTM specifications
+Bar Wire Welded wire
+Zinc-coated A767 Not permitted A1060
+Epoxy-coated A775 or A934 A884 A884
+Zinc and epoxy 
+dual-coated A1055 Not permitted Not permitted
+20.5.2.2 Deformed bars to be zinc-coated, epoxy-coated, 
+or zinc and epoxy dual-coated shall conform to 20.2.1.3(a), 
+(b), or (c).
+20.5.2.3 Wire and welded wire reinforcement to be epoxy-
+coated shall conform to 20.2.1.7(a).
+20.5.3 Corrosion protection for unbonded prestressing 
+reinforcement
+20.5.3.1 Unbonded prestressing reinforcement shall be 
+encased in sheathing, and the space between the prestressing 
+reinforcement and the sheathing shall be completely filled 
+with a material formulated to inhibit corrosion. Sheathing 
+shall be watertight and continuous over the unbonded length.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.426 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+426 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R20.5.4 Corrosion protection for grouted tendons
+R20.5.4.2 Water in ducts may cause corrosion of the 
+prestressing reinforcement, may lead to bleeding and segre-
+gation of grout, and may cause distress to the surrounding 
+concrete if subjected to freezing conditions. A corrosion inhib-
+itor should be used to provide temporary corrosion protec -
+tion if prestressing reinforcement is exposed in the ducts for 
+prolonged periods of time before grouting (ACI SPEC-423.7).
+R20.5.5 Corrosion protection for post-tensioning anchor-
+ages, couplers, and end fittings
+R20.5.5.1 For recommendations regarding protection, 
+refer to ACI PRC-423.3 and ACI SPEC-423.7.
+R20.5.6 Corrosion protection for external post-tensioning
+R20.5.6.1 Corrosion protection can be achieved by a 
+variety of methods. The corrosion protection provided should 
+be suitable to the environment in which the tendons are 
+located. Some conditions will require that the prestressing 
+reinforcement be protected by concrete cover or by cement 
+grout in polyethylene or metal tubing; other conditions will 
+permit the protection provided by coatings such as paint 
+or grease. Corrosion protection methods should meet the 
+fire protection requirements of the general building code, 
+unless the installation of external post-tensioning is to only 
+improve serviceability.
+20.5.3.2 The sheathing shall be connected to all stressing, 
+intermediate, and fixed anchorages in a watertight fashion.
+20.5.3.3 Unbonded single-strand tendons shall be 
+protected to provide resistance to corrosion in accordance 
+with ACI SPEC-423.7.
+20.5.4 Corrosion protection for grouted tendons
+20.5.4.1 Ducts for grouted tendons shall be grout-tight 
+and nonreactive with concrete, prestressing reinforcement, 
+grout, and corrosion inhibitor admixtures.
+20.5.4.2 Ducts shall be maintained free of water.
+20.5.4.3 Ducts for grouted single-wire, single-strand, or 
+single-bar tendons shall have an inside diameter at least 6 mm 
+larger than the diameter of the prestressing reinforcement.
+20.5.4.4 Ducts for grouted multiple wire, multiple strand, 
+or multiple bar tendons shall have an inside cross-sectional 
+area at least two times the cross-sectional area of the 
+prestressing reinforcement.
+20.5.5 Corrosion protection for post-tensioning anchor -
+ages, couplers, and end fittings
+20.5.5.1 Anchorages, couplers, and end fittings shall be 
+protected to provide long-term resistance to corrosion.
+20.5.6 Corrosion protection for external post-tensioning
+20.5.6.1 External tendons and tendon anchorage regions 
+shall be protected to provide resistance to corrosion.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.427 ---
+CODE COMMENTARY
+20  Reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 6: MATERIALS & DURABILITY 427
+R20.6—Embedments
+R20.6.1 The placement of nonstructural embedments such 
+as conduit and piping in stress-critical regions and joints 
+should be avoided. Where unavoidable, care should be taken 
+to ensure that the embedments will not impair the strength or 
+serviceability of the structure. The contractor should not be 
+permitted to install conduits, pipes, ducts, or sleeves that are 
+not shown in the construction documents or not approved by 
+the licensed design professional.
+R20.6.3 The Code prohibits the use of aluminum in struc-
+tural concrete unless it is effectively protected. Coatings 
+and coverings prevent aluminum reaction with concrete, 
+which can cause expansion and cracking. Electrical isolation 
+prevents electrolytic reactions with steel or other embedded 
+metals, which can cause corrosion. The presence of chlo -
+ride ions in the concrete increases the rate of reaction in 
+both cases. Aluminum electrical conduits present a special 
+problem because of likely contact with reinforcing steel 
+and any stray electric current accelerates the adverse reac -
+tion. Provision prohibits calcium chloride or any admixture 
+containing chloride, other than background amounts as an 
+impurity in the admixture ingredients, from being used in 
+concrete with aluminum embedments.
+20.6—Embedments
+20.6.1 Embedments shall not significantly impair the 
+strength of the structure and shall not reduce fire protection.
+20.6.2 Embedment materials shall not be harmful to 
+concrete or reinforcement.
+20.6.3 Aluminum embedments shall be coated or covered 
+to prevent aluminum-concrete reaction and electrically 
+isolated to prevent electrolytic action between aluminum 
+and steel or other embedded metals.
+20.6.4 Reinforcement with an area at least 0.002 times the 
+area of the concrete section shall be provided perpendicular 
+to pipe embedments.
+20.6.5 Specified concrete cover for pipe embedments with 
+their fittings shall be at least 40 mm for concrete exposed to 
+earth or weather, and at least 19 mm for concrete not exposed 
+to weather, or not in contact with ground.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.428 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+428 ACI 318-25: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+Notes
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

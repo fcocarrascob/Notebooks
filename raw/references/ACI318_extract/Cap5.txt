@@ -1,0 +1,401 @@
+--- ACI p.69 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 2: LOADS & ANALYSIS 69
+CODE COMMENTARY
+5 Loads
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 5—LOADS
+R5.1—Scope
+R5.1.1 The loading provisions of this chapter are intended 
+for the design of new structures and analytical strength eval-
+uation of existing structures. Loads, load factors, and load 
+combinations for evaluation of structures during construc -
+tion are presented in ASCE/SEI 37.
+R5.2—General
+R5.2.1 The loading provisions in this chapter are associ -
+ated with dead, live, wind, rain, snow, earthquake, lateral 
+earth pressure, fluid, flood, ice, tornado, tsunami, water 
+in soil, restraint of volume change and differential settle -
+ment loads such as those recommended in ASCE/SEI 7 . 
+The commentary to Appendix C of ASCE/SEI 7 provides 
+service-level wind and snow loads for serviceability checks; 
+however, these loads are not appropriate for strength design. 
+ If the service loads specified by the general building code 
+differ from those of ASCE/SEI 7, the general building code 
+governs. However, if the nature of the loads contained in 
+a general building code differs considerably from ASCE/
+SEI 7 loads, some provisions of the Code may need modifi-
+cation to reflect the difference.
+ ASCE/SEI 7 provides maps used to determine wind, 
+snow, ice, seismic, and tornado loads for the United States 
+and its territories. The loads for wind, snow, ice, seismic, 
+and tornadoes are provided at the strength-level. If the Code 
+is used in other locations, the design professional should 
+confirm the loads used in design are strength-level loads.
+R5.2.2 Seismic Design Categories (SDCs) in the Code are 
+adopted directly from ASCE/SEI 7. 
+ Design requirements for earthquake-resistant structures in 
+the Code are determined by the SDC to which the structure 
+is assigned. In general, the SDC relates to seismic hazard 
+level, soil type, occupancy, and building use. Assignment of 
+a building to an SDC is under the jurisdiction of the general 
+building code rather than the Code.
+ In the absence of a general building code that prescribes 
+SDC, it is the intent of Committee 318 that application of 
+provisions for earthquake-resistant design be consistent with 
+national standards or model building codes such as ASCE/
+SEI 7, IBC, and NFPA 5000. 
+R5.3—Load factors and combinations
+R5.3.1 The required strength U is expressed in terms of 
+factored loads. Factored loads are the loads specified in the 
+general building code multiplied by appropriate load factors. 
+If the load effects such as internal forces and moments are 
+linearly related to the loads, the required strength U may be 
+expressed in terms of load effects multiplied by the appro -
+priate load factors with the identical result. If the load effects 
+5.1—Scope
+5.1.1 This chapter shall apply to selection of load factors 
+and combinations used in design, except as permitted in 
+Chapter 27.
+5.2—General
+5.2.1 Loads shall include self-weight; applied loads; and 
+effects of prestressing, earthquakes, restraint of volume 
+change, and differential settlement.
+5.2.2 Loads and Seismic Design Categories (SDCs) shall 
+be in accordance with the general building code, or deter -
+mined by the building official. 
+5.2.3 Live load reductions shall be permitted in accor -
+dance with the general building code or, in the absence of a 
+general building code, in accordance with ASCE/SEI 7.
+5.3—Load factors and combinations
+5.3.1 Required strength U shall be at least equal to the 
+effects of factored loads in Table 5.3.1, with exceptions and 
+additions in 5.3.3 through 5.3.16.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.70 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+70 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+are nonlinearly related to the loads, such as frame P-delta 
+effects, the loads are factored before determining the load 
+effects (Rogowsky and Wight 2010 ). Typical practice for 
+foundation design is discussed in R13.2.6.1. Nonlinear finite 
+element analysis using factored load cases is discussed in 
+R6.9.3.
+The factor assigned to each load is influenced by the 
+degree of accuracy to which the load effect usually can be 
+calculated and the variation that might be expected in the 
+load during the lifetime of the structure. Dead loads, because 
+they are more accurately determined and less variable, are 
+assigned a lower load factor than live loads. Load factors 
+also account for variability in the structural analysis used to 
+calculate moments and shears.
+The Code gives load factors for specific combinations of 
+loads. In assigning factors to combinations of loading, some 
+consideration is given to the probability of simultaneous 
+occurrence. While most of the usual combinations of load -
+ings are included, it should not be assumed that all cases 
+are covered.
+Due regard is to be given to the sign (positive or nega -
+tive) in determining U for combinations of loadings, as one 
+type of loading may produce effects of opposite sense to that 
+produced by another type. The load combinations with 0.9D 
+are included for the case where a higher dead load reduces 
+the effects of other loads. The loading case may also be crit-
+ical for tension-controlled column sections. In such a case, 
+a reduction in compressive axial load or development of 
+tension with or without an increase in moment may result in 
+a critical load combination.
+Consideration should be given to various combinations of 
+loading to determine the most critical design condition. This 
+is particularly true when strength is dependent on more than 
+one load effect, such as strength for combined flexure and 
+axial load or shear strength in members with axial load.
+If unusual circumstances require greater reliance on the 
+strength of particular members than circumstances encoun -
+tered in usual practice, some reduction in the stipulated 
+strength reduction factors ϕ or increase in the stipulated 
+load factors may be appropriate for such members.
+Rain load R in Eq. (5.3.1b), (5.3.1c), and (5.3.1d) should 
+account for all likely accumulations of water. Roofs should be 
+designed with sufficient slope or camber to ensure adequate 
+drainage accounting for any long-term deflection of the roof 
+due to the dead loads. If deflection of roof members may 
+result in ponding of water accompanied by increased deflec-
+tion and additional ponding, the design should ensure that 
+this process is self-limiting.
+Model building codes and standards refer to earthquake 
+forces at the strength level, and the corresponding load 
+factor is 1.0 ( ASCE/SEI 7; 2021 IBC). In the absence of a 
+general building code that prescribes strength level earth -
+quake effects, a higher load factor on E would be required. 
+The load effect E in model building codes and design load 
+reference standards includes the effect of both horizontal and 
+Table 5.3.1—Load combinations
+Load combination Equation Primary load
+U = 1.4D (5.3.1a) D
+U = 1.2D + 1.6L + 
+(0.5Lr or 0.3S or 0.5R) (5.3.1b) L
+U = 1.2D + (1.6Lr or 
+1.0S or 1.6R) + (1.0L 
+or 0.5W)
+(5.3.1c) Lr or S or R
+U = 1.2D + 1.0W + 
+1.0L + (0.5Lr or 0.3S 
+or 0.5R)
+(5.3.1d) W
+U = 1.2D + 1.0E + 
+1.0L + 0.15S (5.3.1e) E
+U = 0.9D + 1.0W (5.3.1f) W
+U = 0.9D + 1.0E (5.3.1g) E
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.71 ---
+CODE COMMENTARY
+5 Loads
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 71
+vertical ground motions (as Eh and Ev, respectively). The 
+effect for vertical ground motions is applied as an addition 
+to or subtraction from the dead load effect (D), and it applies 
+to all structural elements, whether part of the seismic force-
+resisting system or not, unless specifically excluded by the 
+general building code.
+In ASCE/SEI 7-22, snow loads were changed to strength-
+level loads from the service-level loads that had been speci-
+fied in prior versions of ASCE/SEI 7 . The change from 
+service to strength-level is reflected in the modifications in 
+the load factor for snow loads in Table 5.3.1.
+R5.3.3 The load modification factor in this provision is 
+different than the live load reductions based on the loaded 
+area that may be allowed in the general building code. 
+The live load reduction, based on loaded area, adjusts the 
+nominal live load ( L0 in ASCE/SEI 7) to L. The live load 
+reduction, as specified in the general building code, can  
+be used in combination with the 0.5 load factor specified in 
+this provision.
+R5.3.5 In ASCE/SEI 7-05, wind loads are consistent with 
+service-level design; a wind load factor of 1.6 is appropriate 
+for use in Eq. (5.3.1d) and (5.3.1f) and a wind load factor 
+of 0.8 is appropriate for use in Eq. (5.3.1c). ASCE/SEI 7-22 
+prescribes wind loads for strength-level design and the wind 
+load factor is 1.0. Design wind speeds for strength-level 
+design are based on storms with mean recurrence intervals 
+of 300, 700, 1700, and 3000 years depending on the risk 
+category of the structure. The higher load factors in 5.3.5 
+apply where service-level wind loads corresponding to a 
+50-year mean recurrence interval are used for design.
+R5.3.6 Several strategies can be used to accommodate 
+movements due to volume change and differential settle -
+ment. Restraint of such movements can cause significant 
+member forces and moments, such as tension in slabs and 
+shear forces and moments in vertical members. Forces due 
+to T effects are not commonly calculated and combined 
+with other load effects. Rather, designs rely on successful 
+past practices using compliant structural members and 
+ductile connections to accommodate differential settlement 
+5.3.2 The effect of one or more loads not acting simultane-
+ously shall be investigated.
+5.3.3 The load factor on live load L in Eq. (5.3.1c), 
+(5.3.1d), and (5.3.1e) shall be permitted to be reduced to 0.5 
+except for (a), (b), or (c):
+(a) Garages
+(b) Areas occupied as places of public assembly
+(c) Areas where L is greater than 4.8 kN/m2
+5.3.4 If applicable, L shall include (a) through (f):
+(a) Concentrated live loads
+(b) Vehicular loads
+(c) Crane loads
+(d) Loads on hand rails, guardrails, and vehicular barrier 
+systems
+(e) Impact effects
+(f) Vibration effects
+5.3.5 If wind load W is provided at service-level loads, 
+1.6W shall be used in place of 1.0 W in Eq. (5.3.1d) and 
+(5.3.1f), and 0.8 W shall be used in place of 0.5 W in Eq. 
+(5.3.1c).
+5.3.6 The structural effects of forces due to restraint of 
+volume change and differential settlement T shall be consid-
+ered in combination with other loads if the effects of T can 
+adversely affect structural safety or performance. The load 
+factor for T shall be established considering the uncertainty 
+associated with the likely magnitude of T, the probability 
+that the maximum effect of T will occur simultaneously with 
+other applied loads, and the potential adverse consequences 
+if the effect of T is greater than assumed. The load factor on 
+T shall not have a value less than 1.0.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.72 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+72 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+and volume change movement while providing the needed 
+resistance to gravity and lateral loads. Expansion joints and 
+construction closure strips are used to limit volume change 
+movements based on the performance of similar structures. 
+Shrinkage and temperature reinforcement, which may 
+exceed the required flexural reinforcement, is commonly 
+proportioned based on gross concrete area rather than calcu-
+lated force.
+Where structural movements can lead to damage of 
+nonductile elements, calculation of the predicted force 
+should consider the inherent variability of the expected 
+movement and structural response.
+A long-term study of the volume change behavior of 
+precast concrete buildings ( Klein and Lindenberg 2009 ) 
+recommends procedures to account for connection stiffness, 
+thermal exposure, member softening due to creep, and other 
+factors that influence T forces.
+Fintel et al. (1986)  provides information on the magni -
+tudes of volume change effects in tall structures and recom-
+mends procedures for including the forces resulting from 
+these effects in design.
+R5.3.8 The required load factors for lateral pressures from 
+soil, water in soil, and other materials, reflect their vari -
+ability and the possibility that the materials may be removed. 
+The commentary of ASCE/SEI 7 includes additional useful 
+discussion pertaining to load factors for H.
+R5.3.9 Areas subject to flooding are defined by flood 
+hazard maps, usually maintained by local governmental 
+jurisdictions.
+R5.3.10 Ice buildup on a structural member increases the 
+applied load and the projected area exposed to wind. ASCE/
+SEI 7 provides maps of probable ice thicknesses due to 
+5.3.7 If fluid load F is present, it shall be included in the 
+load combination equations of 5.3.1 in accordance with (a), 
+(b), (c), or (d):
+(a) If F acts alone or adds to the effects of D, it shall be 
+included with a load factor of 1.4 in Eq. (5.3.1a).
+(b) If F adds to the primary load, it shall be included with a 
+load factor of 1.2 in Eq. (5.3.1b) through (5.3.1e).
+(c) If the effect of F is permanent and counteracts the 
+primary load, it shall be included with a load factor of 0.9 
+in Eq. (5.3.1g).
+(d) If the effect of F is not permanent but, when present, 
+counteracts the primary load, F shall not be included in 
+Eq. (5.3.1a) through (5.3.1g).
+5.3.8 If lateral earth pressure H is present, it shall be 
+included in the load combination equations of 5.3.1 in accor-
+dance with (a), (b), or (c):
+(a) If H acts alone or adds to the primary load effect, it 
+shall be included with a load factor of 1.6.
+(b) If the effect of H is permanent and counteracts the 
+primary load effect, it shall be included with a load factor 
+of 0.9.
+(c) If the effect of H is not permanent but, when present, 
+counteracts the primary load effect, H shall not be included.
+5.3.9 If a structure is in a flood zone, the flood loads and 
+the appropriate load factors and combinations of ASCE/
+SEI  7 shall be used.
+5.3.10 If a structure is subjected to forces from atmo -
+spheric ice loads, the ice loads and the appropriate load 
+factors and combinations of ASCE/SEI 7 shall be used.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.73 ---
+CODE COMMENTARY
+5 Loads
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 73
+freezing rain, with concurrent 3-second gust speeds, for a 
+50-year return period.
+R5.3.11 For some critical structures, wind loads resulting 
+from tornadoes are included in the basic load combinations 
+of ASCE/SEI 7. ASCE/SEI 7 provides a map and a proce -
+dure to estimate loads associated with tornadoes acting on 
+the main wind-force-resisting system, components, and 
+cladding.
+R5.3.12 For some structures, loads resulting from tsunamis 
+are considered in design. ASCE/SEI 7 provides a map and 
+procedures to determine loads associated with tsunamis.
+R5.3.13 The alternate method in ASCE/SEI 7 allows the 
+effect of ground water pressure to be decoupled from soil 
+pressure. The basic method in ASCE/SEI 7 includes water 
+pressure as a part of the earth pressure and does not account 
+for uncertainty in the groundwater elevation. The load factor 
+on earth pressure effectively increases the density of water, 
+which is technically inconsistent. Additional information on 
+this method is presented in the commentary of ASCE/SEI 7.
+R5.3.14 For statically indeterminate structures, the 
+internal load effects due to reactions induced by prestressing 
+forces, sometimes referred to as secondary moments, can be 
+significant (Bondy 2003 ; Lin and Thornton 1972 ; Collins 
+and Mitchell 1997).
+R5.3.15 The load factor of 1.2 applied to the maximum 
+tendon jacking force results in a design load of about 113% 
+of the specified prestressing reinforcement yield strength, 
+but not more than 96% of the nominal tensile strength of 
+the prestressing reinforcement. This compares well with the 
+maximum anchorage capacity, which is at least 95% of the 
+nominal tensile strength of the prestressing reinforcement.
+5.3.11 For structures required to resist loads from torna -
+does, the tornado loads and appropriate load factors and 
+combinations of ASCE/SEI 7 shall be used.
+5.3.12 For structures required to resist loads from tsunamis, 
+the loads and appropriate load factors and combinations of 
+ASCE/SEI 7 shall be used.
+5.3.13 For structures subjected to loads from water in soil, 
+the alternate method for loads from water in soil of ASCE/
+SEI 7 shall be permitted.
+5.3.14 Required strength U shall include internal load 
+effects due to reactions induced by prestressing with a load 
+factor of 1.0.
+5.3.15 For post-tensioned anchorage zone design, a load 
+factor of 1.2 shall be applied to the maximum prestressing 
+reinforcement jacking force.
+5.3.16 Load factors for the effects of prestressing used 
+with the strut-and-tie method shall be included in the load 
+combination equations of 5.3.1 in accordance with (a) or (b):
+(a) A load factor of 1.2 shall be applied to the prestressing 
+effects where the prestressing effects increase the net force 
+in struts or ties.
+(b) A load factor of 0.9 shall be applied to the prestressing 
+effects where the prestressing effects reduce the net force 
+in struts or ties.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.74 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+74 ACI 318-25: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+Notes
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

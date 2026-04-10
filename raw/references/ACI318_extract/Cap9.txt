@@ -1,0 +1,1892 @@
+--- ACI p.141 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 3: MEMBERS 141
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 9—BEAMS
+R9.1—Scope
+R9.1.1 Composite structural steel-concrete beams are not 
+covered in this chapter. Design provisions for composite 
+beams are covered in ANSI/AISC 360.
+R9.2—General
+R9.2.3 Stability
+R9.2.3.1 Tests (Hansell and Winter 1959 ; Sant and Blet -
+zacker 1961) have shown that laterally unbraced reinforced 
+concrete beams, even when very deep and narrow, will not 
+fail prematurely by lateral buckling, provided the beams are 
+loaded without lateral eccentricity that causes torsion.
+If laterally unbraced beams are loaded eccentrically or 
+with slight inclination, stresses and deformations from such 
+loading can become detrimental for narrow, deep beams 
+with long unsupported lengths. Lateral supports spaced 
+closer than 50b may be required for such loading conditions.
+R9.2.3.2 In post-tensioned beams where the prestressed 
+reinforcement has intermittent contact with an oversize duct, 
+the beam can buckle due to the axial prestressing force, as 
+the beam can deflect laterally while the prestressed rein -
+forcement does not. If the prestressed reinforcement is in 
+continuous contact with the beam being prestressed or is part 
+of an unbonded tendon with the sheathing not excessively 
+larger than the prestressed reinforcement, the prestressing 
+force cannot buckle the beam.
+9.1—Scope
+9.1.1 This chapter shall apply to the design of nonpre -
+stressed and prestressed beams, including:
+(a) Composite beams of concrete elements constructed 
+in separate placements but connected so that all elements 
+resist loads as a unit
+(b) One-way joist systems in accordance with 9.8
+(c) Deep beams in accordance with 9.9
+9.2—General
+9.2.1 Materials
+9.2.1.1 Design properties for concrete shall be selected to 
+be in accordance with Chapter 19.
+9.2.1.2 Design properties for steel reinforcement shall be 
+selected to be in accordance with Chapter 20.
+9.2.1.3 Materials, design, and detailing requirements for 
+embedments in concrete shall be in accordance with 20.6.
+9.2.2 Connection to other members
+9.2.2.1 For cast-in-place construction, joints shall satisfy 
+Chapter 15.
+9.2.2.2 For precast construction, connections shall satisfy 
+the force transfer requirements of 16.2.
+9.2.3 Stability
+9.2.3.1 If a beam is not continuously laterally braced, (a) 
+and (b) shall be satisfied:
+(a) Spacing of lateral bracing shall not exceed 50 times the 
+least width of compression flange or face.
+(b) Spacing of lateral bracing shall take into account 
+effects of eccentric loads.
+9.2.3.2 In prestressed beams, buckling of thin webs and 
+flanges shall be considered. If there is intermittent contact 
+between prestressed reinforcement and an oversize duct, 
+member buckling between contact points shall be considered.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.142 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+142 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.2.4 T-beam construction
+R9.2.4.1 For monolithic or composite concrete construc -
+tion, the beam includes a portion of the slab as a flange.
+R9.2.4.3 Refer to R7.5.2.3.
+R9.2.4.4 Two examples of the section to be considered in 
+torsional design are provided in Fig. R9.2.4.4.
+hf
+hf
+bw
+bw
+hb
+hb
+hb ≤ 4hf
+bw + 2hb ≤ bw + 8hf 
+Fig. R9.2.4.4—Examples of the portion of slab to be included 
+with the beam for torsional design.
+R9.3—Design limits
+R9.3.1 Minimum beam depth
+Minimum depths in 9.3.1.1 are independent of loading. 
+These minimum depths are not applicable to beams with 
+unusually heavy superimposed sustained loads. Deflections 
+should be calculated for such situations.
+R9.3.1.1 For application of this provision to composite 
+concrete beams, refer to R9.3.2.2.
+9.2.4 T-beam construction
+9.2.4.1 In T-beam construction, flange and web concrete 
+shall be placed monolithically or made composite in accor -
+dance with 16.4.
+9.2.4.2 Effective flange width shall be in accordance with 
+6.3.2.
+9.2.4.3 For T-beam flanges where the primary flexural slab 
+reinforcement is parallel to the longitudinal axis of the beam, 
+reinforcement in the flange perpendicular to the longitudinal 
+axis of the beam shall be in accordance with 7.5.2.3.
+9.2.4.4 For torsional design according to 22.7, the over -
+hanging flange width used to calculate Acp, Ag, and pcp shall 
+be in accordance with (a) and (b):
+(a) The overhanging flange width shall include that portion 
+of slab on each side of the beam extending a distance equal 
+to the projection of the beam above or below the slab, 
+whichever is greater, but not greater than four times the 
+slab thickness.
+(b) The overhanging flanges shall be neglected in cases 
+where the parameter Acp2/pcp for solid sections or Ag2/pcp 
+for hollow sections calculated for a beam with flanges is 
+less than that calculated for the same beam ignoring the 
+flanges.
+9.3—Design limits
+9.3.1 Minimum beam depth
+9.3.1.1 For nonprestressed beams not supporting or 
+attached to partitions or other construction likely to be 
+damaged by large deflections, overall beam depth h shall 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.143 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 143
+R9.3.1.1.1 The modification for fy should provide conser-
+vative results for typical reinforcement ratios and for values 
+of fy between 280 and 690 MPa.
+R9.3.1.1.2 The modification for lightweight concrete 
+is based on the results and discussions in ACI PRC-213 . 
+No correction is given for concretes with wc greater than 
+1840 kg/m3 because the correction term would be close to 
+unity in this range.
+R9.3.2 Calculated deflection limits
+R9.3.2.2 The limits in Table 9.3.1.1 apply to the entire 
+depth of nonprestressed composite concrete beams shored 
+during construction so that, after removal of temporary 
+supports, the dead load is resisted by the full composite 
+section. In unshored construction, the beam depth of concern 
+depends on if the deflection being considered occurs before 
+or after the attainment of effective composite action.
+Additional deflections due to excessive creep and 
+shrinkage caused by premature loading should be consid -
+ered. This is especially important at early ages when the 
+moisture content is high and the strength is low.
+satisfy the limits in Table 9.3.1.1, unless the calculated 
+deflection limits of 9.3.2 are satisfied.
+Table 9.3.1.1—Minimum depth of nonprestressed 
+beams
+Support condition Minimum h[1]
+Simply supported ℓ/16
+One end continuous ℓ/18.5
+Both ends continuous ℓ/21
+Cantilever ℓ/8
+[1]Expressions applicable for normalweight concrete and fy = 420 MPa. For other 
+cases, minimum h shall be modified in accordance with 9.3.1.1.1 through 9.3.1.1.3, 
+as appropriate.
+9.3.1.1.1 For fy other than 420 MPa, the expressions in 
+Table 9.3.1.1 shall be multiplied by (0.4 + fy/700).
+9.3.1.1.2 For nonprestressed beams made of lightweight 
+concrete having wc in the range of 1440 to 1840 kg/m 3, 
+the expressions in Table 9.3.1.1 shall be multiplied by the 
+greater of (a) and (b):
+(a) 1.65 – 0.0003wc
+(b) 1.09
+9.3.1.1.3 For nonprestressed composite concrete beams 
+made of a combination of lightweight and normalweight 
+concrete, shored during construction, and where the light -
+weight concrete is in compression, the modifier of 9.3.1.1.2 
+shall apply.
+9.3.1.2 The thickness of a concrete floor finish shall 
+be permitted to be included in h if it is placed monolithi -
+cally with the beam or if the floor finish is designed to be 
+composite with the beam in accordance with 16.4.
+9.3.2 Calculated deflection limits
+9.3.2.1 For nonprestressed beams not satisfying 9.3.1 
+and for prestressed beams, immediate and time-dependent 
+deflections shall be calculated in accordance with 24.2 and 
+shall not exceed the limits in 24.2.2.
+9.3.2.2 For nonprestressed composite concrete beams 
+satisfying 9.3.1, deflections occurring after the member 
+becomes composite need not be calculated. Deflections 
+occurring before the member becomes composite shall be 
+investigated unless the precomposite depth also satisfies 
+9.3.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.144 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+144 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.3.3 Reinforcement strain limit in nonprestressed beams
+R9.3.3.1 The effect of this limitation is to restrict the rein-
+forcement ratio in nonprestressed beams to mitigate brittle 
+flexural behavior in case of an overload. In the 2019 Code, 
+the previous minimum strain limit of 0.004 for nonpre -
+stressed flexural members was replaced with the require -
+ment that beams be tension-controlled.
+R9.4—Required strength
+R9.4.3 Factored shear
+R9.4.3.2 The closest inclined crack to the support of the 
+beam in Fig. R9.4.3.2a will extend upward from the face of 
+the support reaching the compression zone approximately d 
+from the face of the support. If loads are applied to the top 
+of the beam, the stirrups across this crack need only resist 
+the shear force due to loads acting beyond d (right free body 
+in Fig. R9.4.3.2a). Loads applied to the beam between the 
+face of the support and the point d away from the face are 
+transferred directly to the support by compression in the 
+web above the crack. Accordingly, the Code permits design 
+for a maximum factored shear Vu at a distance d from the 
+9.3.3 Reinforcement strain limit in nonprestressed beams
+9.3.3.1 Nonprestressed beams with Pu < 0.10fc′Ag shall be 
+tension controlled in accordance with Table 21.2.2.
+9.3.4 Stress limits in prestressed beams
+9.3.4.1 Prestressed beams shall be classified as Class U, T, 
+or C in accordance with 24.5.2.
+9.3.4.2 Stresses in prestressed beams immediately after 
+transfer and at service loads shall not exceed permissible 
+stresses in 24.5.3 and 24.5.4.
+9.4—Required strength
+9.4.1 General
+9.4.1.1 Required strength shall be calculated in accor -
+dance with the factored load combinations in Chapter 5.
+9.4.1.2 Required strength shall be calculated in accor -
+dance with the analysis procedures in Chapter 6.
+9.4.1.3 For prestressed beams, effects of reactions induced 
+by prestressing shall be considered in accordance with 
+5.3.14.
+9.4.2 Factored moment
+9.4.2.1 For beams built integrally with supports, Mu at 
+the support shall be permitted to be calculated at the face of 
+support.
+9.4.3 Factored shear
+9.4.3.1 For beams built integrally with supports, Vu at the 
+support shall be permitted to be calculated at the face of 
+support.
+9.4.3.2 Sections between the face of support and a critical 
+section located d from the face of support for nonprestressed 
+beams and h/2 from the face of support for prestressed beams 
+shall be permitted to be designed for Vu at that critical section 
+if (a) through (c) are satisfied:
+(a) Support reaction, in direction of applied shear, intro -
+duces compression into the end region of the beam
+(b) Loads are applied at or near the top surface of the beam
+(c) No concentrated load occurs between the face of 
+support and critical section
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.145 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 145
+support for nonprestressed beams and at a distance h/2 for 
+prestressed beams.
+In Fig. R9.4.3.2b, loads are shown acting near the bottom 
+of a beam. In this case, the critical section is taken at the 
+face of the support. Loads acting near the support should 
+be transferred across the inclined crack extending upward 
+from the support face. The shear force acting on the critical 
+section should include all loads applied below the potential 
+inclined crack.
+Typical support conditions where the shear force at a 
+distance d from the support may be used include:
+(a) Beams supported by bearing at the bottom of the beam, 
+such as shown in Fig. R9.4.3.2(c)
+(b) Beams framing monolithically into a column, as illus -
+trated in Fig. R9.4.3.2(d)
+Typical support conditions where the critical section is 
+taken at the face of support include:
+(a) Beams framing into a supporting member in tension, 
+such as shown in Fig. R9.4.3.2(e). Shear within the 
+connection should also be investigated and special corner 
+reinforcement should be provided.
+(b) Beams for which loads are not applied at or near the 
+top, as shown in Fig. R9.4.3.2b.
+(c) Beams loaded such that the shear at sections between 
+the support and a distance d from the support differs radi-
+cally from the shear at distance d. This commonly occurs 
+in brackets and in beams where a concentrated load is 
+located close to the support, as shown in Fig. R9.4.3.2(f).
+VM
+R
+d
+TT
+CC
+Critical section
+∑Avfyt
+Fig. R9.4.3.2a—Free body diagrams of the end of a beam.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.146 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+146 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+VM
+R
+TT
+CC
+Beam ledge
+Critical section
+∑Avfyt
+Fig. R9.4.3.2b—Location of critical section for shear in a 
+beam loaded near bottom.
+Vu
+Vu
+d
+dd
+Vu Vu
+Vu
+d
+(c) (d)
+(e) (f)
+Fig. R9.4.3.2(c), (d), (e), (f)—Typical support conditions for 
+locating factored shear force Vu.
+R9.4.4 Factored torsion
+R9.4.4.3 A beam framing into one side of a girder near its 
+support causes a concentrated shear and torsional moment 
+on the girder at that location.
+9.4.4 Factored torsion
+9.4.4.1 Unless determined by a more detailed analysis, it 
+shall be permitted to take the torsional loading from a slab as 
+uniformly distributed along the beam.
+9.4.4.2 For beams built integrally with supports, Tu at the 
+support shall be permitted to be calculated at the face of 
+support.
+9.4.4.3 Sections between the face of support and a critical 
+section located d from the face of support for nonprestressed 
+beams or h/2 from the face of support for prestressed beams 
+shall be permitted to be designed for Tu at that critical section 
+unless a concentrated torsional moment occurs within this 
+distance. In that case, the critical section shall be taken at the 
+face of the support.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.147 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 147
+R9.5—Design strength
+R9.5.1 General
+R9.5.1.1 The general condition ϕSn ≥ U indicates that all 
+forces and moments that are relevant for a given structure 
+need to be considered.
+R9.5.2 Moment
+R9.5.2.2 Beams resisting significant axial forces require 
+consideration of the combined effects of axial forces and 
+moments. These beams are not required to satisfy the provi-
+sions of Chapter 10, but are required to satisfy the require -
+ments for ties or spirals defined in Table 22.4.2.1. For slender 
+beams with significant axial loads, consideration should be 
+given to slenderness effects as required for columns in 6.2.5.
+R9.5.4 Torsion
+R9.5.4.3 The requirements for torsional reinforcement 
+and shear reinforcement are added and stirrups are provided 
+to supply at least the total amount required. Because the 
+9.4.4.4 It shall be permitted to reduce Tu in accordance 
+with 22.7.3. 
+9.5—Design strength
+9.5.1 General
+9.5.1.1 For each applicable factored load combination, 
+design strength at all sections shall satisfy ϕSn ≥ U including 
+(a) through (d). Interaction between load effects shall be 
+considered.
+(a) ϕMn ≥ Mu
+(b) ϕVn ≥ Vu
+(c) ϕTn ≥ Tu
+(d) ϕPn ≥ Pu
+9.5.1.2 ϕ shall be determined in accordance with 21.2.
+9.5.2 Moment
+9.5.2.1 If Pu < 0.10fc′Ag, Mn shall be calculated in accor -
+dance with 22.3.
+9.5.2.2 If Pu ≥ 0.10fc′Ag, Mn shall be calculated in accor -
+dance with 22.4.
+9.5.2.3 For prestressed beams, external tendons shall 
+be considered as unbonded tendons in calculating flexural 
+strength, unless the external tendons are effectively bonded 
+to the concrete along the entire length.
+9.5.3 Shear
+9.5.3.1 Vn shall be calculated in accordance with 22.5.
+9.5.3.2 For composite concrete beams, horizontal shear 
+strength Vnh shall be calculated in accordance with 16.4.
+9.5.4 Torsion
+9.5.4.1 If Tu < ϕTth, where Tth is given in 22.7, it shall be 
+permitted to neglect torsional effects. The minimum rein -
+forcement requirements of 9.6.4 and the detailing require -
+ments of 9.7.5 and 9.7.6.3 need not be satisfied.
+9.5.4.2 Tn shall be calculated in accordance with 22.7.
+9.5.4.3 Longitudinal and transverse reinforcement 
+required for torsion shall be added to that required for the Vu, 
+Mu, and Pu that act in combination with the torsion.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.148 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+148 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+reinforcement area Av for shear is defined in terms of all the 
+legs of a given stirrup while the reinforcement area At for 
+torsion is defined in terms of one leg only, the addition of 
+transverse reinforcement area is calculated as follows:
+  Total  (     A  v+t   __ s   )    =    A  v   __ s   + 2   A  t   __ s     (R9.5.4.3)
+If a stirrup group has more than two legs for shear, only 
+legs adjacent to the sides of the beam are included in this 
+summation because inner legs would be ineffective for 
+resisting torsion.
+Torsion causes an axial tensile force in the longitudinal 
+reinforcement balanced by the force in the diagonal concrete 
+compression struts. In a nonprestressed beam, the tensile 
+force must be resisted by longitudinal reinforcement having 
+an axial tensile strength of Aℓfy. This reinforcement is in 
+addition to the required flexural reinforcement and is distrib-
+uted uniformly inside and around the perimeter of the closed 
+transverse reinforcement so that the resultant of Aℓfy acts 
+along the axis of the member. 
+The longitudinal reinforcement required for torsion is 
+added at each section to the longitudinal reinforcement 
+required for bending moment that acts concurrently with 
+torsion. If the maximum bending moment occurs at one 
+section, while the maximum torsional moment occurs at 
+another, the total longitudinal reinforcement required may 
+be less than that obtained by adding the maximum flexural 
+reinforcement, plus the maximum torsional reinforcement. 
+In such a case, the required longitudinal reinforcement  
+should be evaluated at multiple locations.
+R9.5.4.4 In a prestressed beam, reinforcing bars 
+with strength Aℓ fy may be added, or overstrength of the 
+prestressed reinforcement can be used to resist some of the 
+axial force Aℓfy. The stress in the prestressed reinforcement 
+at nominal strength will be between fse and fps. A portion of 
+the Aℓ fy force can be resisted by a force of ApsΔfpt in the 
+prestressed reinforcement. The stress required to resist the 
+bending moment can be calculated as Mu/(ϕ0.9dpAps). For 
+pretensioned strands, the stress that can be developed near 
+the free end of the strand can be calculated using the proce -
+dure illustrated in Fig. R25.4.8.3.
+R9.5.4.5 Longitudinal tension due to torsion is offset 
+in part by compression in the flexural compression zone, 
+allowing a reduction in longitudinal torsional reinforcement 
+required in the compression zone.
+R9.5.4.6 An example of an alternative design that satisfies 
+this provision can be found in Zia and Hsu (2004) , which 
+has been extensively used for design of precast, prestressed 
+concrete spandrel beams with h/bt ≥ 3 and closed stirrups. 
+The PCI Design Handbook (PCI MNL-120 ) describes 
+9.5.4.4 For prestressed beams, the total area of longi -
+tudinal reinforcement, As and Aps, at each section shall be 
+designed to resist Mu at that section, plus an additional 
+concentric longitudinal tensile force equal to Aℓ fy, based on 
+Tu at that section.
+9.5.4.5 It shall be permitted to reduce the area of longi -
+tudinal torsional reinforcement in the flexural compression 
+zone by an amount equal to Mu/(0.9dfy), where Mu occurs 
+simultaneously with Tu at that section, except that the 
+longitudinal reinforcement area shall not be less than the 
+minimum required in 9.6.4.
+9.5.4.6 For solid sections with an aspect ratio h/bt ≥ 3, 
+it shall be permitted to use an alternative design procedure, 
+provided the adequacy of the procedure has been shown by 
+analysis and substantial agreement with results of compre -
+hensive tests. The minimum reinforcement requirements of 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.149 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 149
+this procedure,which was experimentally verified by tests 
+described in Klein (1986).
+R9.5.4.7 Tests ( Lucier et al. 2011a ) demonstrate that 
+properly designed open web reinforcement is an effective 
+alternative to traditional closed stirrups for precast span -
+drels with h/bt ≥ 4.5. Lucier et al. (2011b) presents a design 
+procedure that satisfies this provision for slender spandrels 
+and describes the limited conditions to which the procedure 
+applies.
+R9.6—Reinforcement limits
+R9.6.1 Minimum flexural reinforcement in nonprestressed 
+beams
+R9.6.1.1 This provision is intended to result in flexural 
+strength exceeding the cracking strength by a margin. The 
+objective is to produce a beam that will be able to sustain 
+loading after the onset of flexural cracking, with visible 
+cracking and deflection, thereby warning of possible over -
+load. Beams with less reinforcement may sustain sudden 
+failure with the onset of flexural cracking.
+In practice, this provision controls reinforcement design 
+only for beams with cross sections larger than those required 
+for flexural strength. With a small amount of tension rein -
+forcement required for strength, the calculated moment 
+strength using cracked section analysis becomes less than 
+that of the corresponding unreinforced concrete section 
+calculated from its modulus of rupture. To prevent a sudden 
+failure after cracking, a minimum amount of tension rein -
+forcement is required in both positive and negative moment 
+regions.
+R9.6.1.2 If the flange of a section is in tension, the amount 
+of tension reinforcement needed to make the strength of the 
+reinforced section equal that of the unreinforced section is 
+approximately twice that for a rectangular section or that of 
+a flanged section with the flange in compression. A larger 
+amount of minimum tension reinforcement is particularly 
+necessary in cantilevers and other statically determinate 
+beams where there is no possibility for redistribution of 
+moments.
+R9.6.2 Minimum flexural reinforcement in prestressed 
+beams
+R9.6.2.1 Minimum flexural reinforcement is required for 
+reasons similar to those discussed in R9.6.1.1 for nonpre -
+stressed beams.
+9.6.4 need not be satisfied, but the detailing requirements of 
+9.7.5 and 9.7.6.3 apply.
+9.5.4.7 For solid precast sections with an aspect ratio h/bt ≥ 
+4.5, it shall be permitted to use an alternative design proce -
+dure and open web reinforcement, provided the adequacy 
+of the procedure and reinforcement have been shown by 
+analysis and substantial agreement with results of compre -
+hensive tests. The minimum reinforcement requirements of 
+9.6.4 and detailing requirements of 9.7.5 and 9.7.6.3 need 
+not be satisfied.
+9.6—Reinforcement limits
+9.6.1 Minimum flexural reinforcement in nonprestressed 
+beams
+9.6.1.1 A minimum area of flexural reinforcement, As,min, 
+shall be provided at every section where tension reinforce -
+ment is required by analysis.
+9.6.1.2 As,min shall be the larger of (a) and (b), except as 
+provided in 9.6.1.3. For a statically determinate beam with 
+a flange in tension, the value of bw shall be the smaller of bf 
+and 2bw. The value of fy shall be limited to a maximum of 
+80,000 psi.
+(a)     
+ 0.25 √ 
+__
+   f  c   ′    
+ ____  f  y     b  w   d 
+(b)     1.4  ___  f  y     b  w   d 
+9.6.1.3 If As provided at every section is at least one-third 
+greater than As required by analysis, 9.6.1.1 and 9.6.1.2 need 
+not be satisfied.
+9.6.2 Minimum flexural reinforcement in prestressed 
+beams
+9.6.2.1 For beams with bonded prestressed reinforcement, 
+total quantity of As and Aps shall be adequate to develop a 
+factored load at least 1.2 times the cracking load calculated 
+on the basis of fr defined in 19.2.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.150 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+150 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Abrupt flexural failure immediately after cracking does 
+not occur when the prestressed reinforcement is unbonded 
+(ACI PRC-423.3); therefore, this requirement does not apply 
+to members with unbonded tendons.
+R9.6.2.3 Minimum bonded reinforcement is required by 
+the Code in beams prestressed with unbonded tendons to 
+ensure flexural behavior at ultimate beam strength, rather 
+than tied arch behavior, to limit crack width and spacing 
+at service load when concrete tensile stresses exceed the 
+modulus of rupture, and to ensure acceptable behavior at all 
+loading stages. The minimum amount of bonded reinforce -
+ment is based on research comparing the behavior of bonded 
+and unbonded post-tensioned beams ( Mattock et al. 1971 )
+and is independent of reinforcement fy.
+R9.6.3 Minimum shear reinforcement
+R9.6.3.1 Shear reinforcement restrains the growth of 
+inclined cracking so that ductility of the beam is improved 
+and a warning of failure is provided. In an unreinforced 
+web, the formation of inclined cracking might lead directly 
+to failure without warning. Such reinforcement is of great 
+value if a beam is subjected to an unexpected tensile force 
+or overload.
+The exception for beams constructed using steel fiber-
+reinforced concrete is intended to provide a design alterna -
+tive to the use of shear reinforcement, as defined in 22.5.8.5, 
+for beams with longitudinal flexural reinforcement in which 
+Vu does not exceed ϕVc, where Vc is the greater of Eq. (a) 
+and 1.3 times Eq. (b) of Table 22.5.5.1. Chapter 26 speci-
+fies design information and compliance requirements that 
+need to be incorporated into the construction documents 
+when steel fiber-reinforced concrete is used for this purpose. 
+Fiber-reinforced concrete beams with hooked or crimped 
+steel fibers, in dosages as required by 26.4.2.2(h), have been 
+shown through laboratory tests to exhibit shear strengths 
+greater than 0.29  √ 
+_
+  fc'        bwd ( Parra-Montesinos 2006 ). Shear 
+strengths exceeding Vc can be obtained in steel fiber-rein -
+forced concrete beams without stirrups meeting the criteria 
+in Rows (c) and (d) of Table 9.6.3.1. A smaller depth and a 
+concrete strength limit of 42 MPa for lightweight concrete 
+used in steel fiber-reinforced concrete beams are specified 
+due to limited experimental data (Shoaib et al. 2014; Zarrin-
+pour and Chao 2017). There are no data for the use of steel 
+fibers as shear reinforcement in concrete beams exposed to 
+chlorides from deicing chemicals, salt, salt water, brackish 
+water, seawater, or spray from these sources. Where steel 
+fibers are used as shear reinforcement in corrosive environ -
+ments, corrosion protection should be considered.
+Joists are excluded from the minimum shear reinforce -
+ment requirement as indicated because there is a possibility 
+of load sharing between weak and strong areas.
+For repeated loading of beams, the possibility of inclined 
+diagonal tension cracks forming at stresses smaller than 
+9.6.2.2 For beams with both flexural and shear design 
+strength at least twice the required strength, 9.6.2.1 need not 
+be satisfied.
+9.6.2.3 For beams with unbonded tendons, the minimum 
+area of bonded deformed longitudinal reinforcement As,min 
+shall be:
+ A s,min = 0.004Act (9.6.2.3)
+where Act is the area of that part of the cross section between 
+the flexural tension face and the centroid of the gross section.
+9.6.3 Minimum shear reinforcement
+9.6.3.1 For nonprestressed beams, minimum area of shear 
+reinforcement, Av,min, shall be provided in all regions where 
+Vu > ϕλ  √ 
+_
+  fc'        bwd except for the cases in Table 9.6.3.1. For 
+these cases, at least Av,min shall be provided where Vu > ϕVc.
+Table 9.6.3.1—Cases where Av,min is not required if 
+Vu ≤ ϕVc
+Beam type Conditions
+Shallow depth h ≤ 250 mm (a)
+Integral with slab h ≤ greater of 2.5tf or 
+0.5bw and h ≤ 600 mm (b)
+Constructed with 
+steel fiber-reinforced 
+concrete conforming 
+to 26.4.1.6.1(a), 
+26.4.2.2(h), and 
+26.12.8.1(a) and 
+Vu < ϕVc, where 
+Vc is computed in 
+accordance with 
+22.5.5.1.4
+For normalweight 
+concrete with fc′ < 
+70 MPa and Grade 420 
+MPa or Grade 
+550 MPa longitudinal 
+reinforcement:
+h ≤ 1 m 
+(c)
+For lightweight 
+concrete with fc′ 
+≤ 42 MPa and 
+Grade 420 longitudinal 
+reinforcement: 
+h  ≤  600 mm
+(d)
+One-way joist system In accordance with 
+9.8 (e)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.151 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 151
+under static loading should be taken into account in design. 
+In these instances, use of at least the minimum shear rein -
+forcement expressed by 9.6.3.4 is recommended even 
+though tests or calculations based on static loads show that 
+shear reinforcement is not required.
+R9.6.3.2 Even when Vu is less than 0.5ϕVc, the use of some 
+web reinforcement is recommended in all thin-web, post-
+tensioned members such as joists, waffle slabs, beams, and 
+T-beams, to reinforce against tensile forces in webs resulting 
+from local deviations from the design tendon profile and to 
+provide a means of supporting the tendons during construc -
+tion. If sufficient support is not provided, lateral wobble and 
+local deviations from the parabolic tendon profile assumed 
+in design may result during placement of the concrete. In 
+such cases, deviations in the tendons tend to straighten out 
+when tendons are stressed. This process may impose large 
+tensile stresses in webs, and severe cracking may develop if 
+no web reinforcement is provided. Unintended curvature of 
+tendons, and resulting tensile stresses in webs, may be mini-
+mized by securely tying tendons to stirrups that are rigidly 
+held in place by other elements of the reinforcement cage. 
+The recommended maximum spacing of stirrups used for 
+this purpose is the smaller of 1.5h or 1.2 m. If applicable, the 
+shear reinforcement provisions of 9.6.3 and 9.7.6.2.2 will 
+require closer stirrup spacings.
+R9.6.3.3 When a beam is tested to demonstrate that its 
+shear and flexural strengths are adequate, the test strengths 
+are considered the nominal strengths Vn and Mn. Consid -
+ering these strengths as nominal values ensures that if actual 
+material strengths in the field were less than specified, or 
+the member dimensions were in error such as to result in 
+a reduced member strength, a satisfactory margin of safety 
+will be retained due to the strength reduction factor ϕ.
+R9.6.3.4 Tests (Roller and Russell 1990 ) have indicated 
+the need to increase the minimum area of shear reinforce -
+ment as concrete strength increases to prevent sudden shear 
+failures when inclined cracking occurs. Therefore, expres -
+sions (a) and (c) in Table 9.6.3.4 provide for a gradual 
+increase in the minimum area of transverse reinforcement 
+with increasing concrete strength. Expressions (b) and (d) 
+in Table 9.6.3.4 provide for a minimum area of transverse 
+reinforcement independent of concrete strength and govern 
+for concrete strengths less than 30 MPa.
+Tests ( Olesen et al. 1967 ) of prestressed beams with 
+minimum web reinforcement based on 9.6.3.4 indicate that 
+the lesser of Av,min from expressions (c) and (e) is sufficient 
+to develop ductile behavior. Expression (e) is discussed in 
+Olesen et al. (1967).
+9.6.3.2 For prestressed beams, a minimum area of shear 
+reinforcement, Av,min, shall be provided in all regions where 
+Vu > 0.5ϕVc except for the cases in Table 9.6.3.1. For these 
+cases, at least Av,min shall be provided where Vu > ϕVc.
+9.6.3.3 If shown by testing that the required Mn and Vn 
+can be developed, 9.6.3.1 and 9.6.3.2 need not be satisfied. 
+Such tests shall simulate effects of differential settlement, 
+creep, shrinkage, and temperature change, based on a real -
+istic assessment of these effects occurring in service.
+9.6.3.4 If shear reinforcement is required and torsional 
+effects can be neglected according to 9.5.4.1, Av,min shall be 
+in accordance with Table 9.6.3.4.
+Table 9.6.3.4—Required Av,min
+Beam type Av,min/s
+Nonprestressed and 
+prestressed with
+Apsfse < 0.4(Apsfpu + Asfy)
+Greater 
+of:
+ 0.062  √ 
+_
+ fc'     b  w   __  f  yt      (a)
+ 0.35   b  w   __  f  yt     (b)
+Prestressed with
+Apsfse ≥ 0.4(Apsfpu + Asfy)
+Lesser 
+of:
+Greater of:
+ 0.062  √ 
+_
+ fc'     b  w   __  f  yt      (c)
+ 0.35   b  w   __  f  yt     (d)
+   
+ A  ps   f  pu  
+ _____ 80 f  yt  d      √ 
+_______
+   d __  b  w       (e)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.152 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+152 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.6.4 Minimum torsional reinforcement
+R9.6.4.2 Although there are a limited number of tests of 
+high-strength concrete beams in torsion, the equation for the 
+minimum area of transverse closed stirrups has been made 
+consistent with calculations required for minimum shear 
+reinforcement discussed in R9.6.3.4 .
+R9.6.4.3 Under combined torsion and shear, the torsional 
+cracking moment decreases with applied shear, which leads 
+to a reduction in torsional reinforcement required to prevent 
+brittle failure immediately after cracking. When subjected 
+to pure torsion, reinforced concrete beam specimens with 
+less than 1 percent torsional reinforcement by volume have 
+failed at first torsional cracking ( MacGregor and Ghoneim 
+1995). Equation 9.6.4.3(a) is based on a 2:1 ratio of torsion 
+stress to shear stress and results in a torsional reinforce -
+ment volumetric ratio of approximately 0.5 percent ( Hsu 
+1968). Tests of prestressed concrete beams have shown that 
+a similar amount of longitudinal reinforcement is required.
+R9.7—Reinforcement detailing
+R9.7.2 Reinforcement spacing
+9.6.4 Minimum torsional reinforcement
+9.6.4.1 A minimum area of torsional reinforcement shall 
+be provided in all regions where Tu ≥ ϕTth in accordance with 
+22.7.
+9.6.4.2 If torsional reinforcement is required, minimum 
+transverse reinforcement (Av + 2 At)min/s shall be the greater 
+of (a) and (b):
+(a)  0.062  √ 
+_
+ fc'         bw
+ _ fyt
+   
+(b)  0.35   bw
+ _ fyt
+   
+9.6.4.3 If torsional reinforcement is required, minimum 
+area of longitudinal reinforcement Aℓ,min shall be the lesser 
+of (a) and (b):
+(a)    
+0.42 √ 
+__
+   f  c   ′     A  cp  
+ _____  f  y     −   (     A  t   __ s   )    p  h    
+ f  yt  
+ __  f  y      
+(b)    
+0.42 √ 
+__
+   f  c   ′     A  cp  
+ _____  f  y     −   (    0.175 b  w   ____  f  yt      )    p  h     
+ f  yt  
+ __  f  y     
+9.7—Reinforcement detailing
+9.7.1 General
+9.7.1.1 Concrete cover for reinforcement shall be in accor-
+dance with 20.5.1.
+9.7.1.2 Development lengths of deformed and prestressed 
+reinforcement shall be in accordance with 25.4.
+9.7.1.3 Splices of deformed reinforcement shall be in 
+accordance with 25.5.
+9.7.1.4 Along development and lap splice lengths of 
+longitudinal bars with fy ≥ 550 MPa, transverse reinforce -
+ment shall be provided such that Ktr shall not be smaller than 
+0.5db.
+9.7.1.5 Bundled bars shall be in accordance with 25.6. 
+9.7.2 Reinforcement spacing
+9.7.2.1 Minimum spacing s shall be in accordance with 
+25.2.
+9.7.2.2 For nonprestressed and Class C prestressed beams, 
+spacing of bonded longitudinal reinforcement closest to the 
+tension face shall not exceed s given in 24.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.153 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 153
+R9.7.2.3 For relatively deep beams, skin reinforcement 
+should be placed near vertical faces of the tension zone to 
+control cracking in the web (Frantz and Breen 1980; Frosch 
+2002), as shown in Fig. R9.7.2.3. Without skin reinforce -
+ment, the width of cracks in the web may exceed the crack 
+widths at the level of the flexural tension reinforcement.
+The size of skin reinforcement is not specified; research 
+has indicated that the spacing rather than bar size is of 
+primary importance (Frosch 2002). Bar sizes No. 10 to 
+No. 16, or welded wire reinforcement with a minimum area 
+of 210 mm2 per meter of depth, are typically provided.
+h
+s
+s
+s
+s
+h/2
+h/2
+h
+s
+s
+s
+s
+Skin reinforcement
+Reinforcement in tension, positive bending
+Reinforcement in tension, negative bending
+Skin reinforcement
+Fig. R9.7.2.3—Skin reinforcement for beams and joists with 
+h > 900 mm.
+R9.7.3 Flexural reinforcement in nonprestressed beams
+R9.7.3.2 Critical sections for a typical continuous beam 
+are indicated with a “c” for points of maximum stress or an 
+“x” for points where bent or terminated tension reinforce -
+ment is no longer required to resist flexure (Fig. R9.7.3.2). 
+For uniform loading, the positive reinforcement extending 
+into the support is more likely governed by the require -
+ments of 9.7.3.8.1 or 9.7.3.8.3 than by development length 
+measured from a point of maximum moment or the bar 
+cutoff point.
+9.7.2.3 For nonprestressed and Class C prestressed beams 
+with h exceeding 900 mm, longitudinal skin reinforcement 
+shall be uniformly distributed on both side faces of the beam 
+for a distance h/2 from the tension face. Spacing of skin rein-
+forcement shall not exceed s given in 24.3.2, where cc is the 
+clear cover from the skin reinforcement to the side face. It 
+shall be permitted to include skin reinforcement in strength 
+calculations if a strain compatibility analysis is made.
+9.7.3 Flexural reinforcement in nonprestressed beams
+9.7.3.1 Calculated tensile or compressive force in rein -
+forcement at each section of the beam shall be developed on 
+each side of that section.
+9.7.3.2 Critical locations for development of reinforce -
+ment are points of maximum stress and points along the span 
+where bent or terminated tension reinforcement is no longer 
+required to resist flexure.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.154 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+154 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Section 25.4.2.1, or 9.7.3.8,
+or ℓdc for compression when
+bottom bars used as 
+compression reinforcement
+Bars a
+cx
+cx
+cx
+c
+x
+Bars b
+≥ (d or 12db)
+≥ ℓd
+≥ (d or 12db)
+≥ ℓd
+P.I.
+Diameter of bars a 
+limited by Section 9.7.3.8.3 
+at point of inflection
+Points of 
+inflection (P.I.)
+Moment 
+strength 
+of bars b
+Moment 
+strength 
+of bars a
+Face of support
+Embedment 
+of bars a ≥ ℓd
+≥ ℓd
+Mid-span of 
+member
+≥ (d, 12db or ℓn /16)
+Moment 
+Curve
+Fig. R9.7.3.2—Development of flexural reinforcement in a 
+typical continuous beam.
+R9.7.3.3 Moment diagrams customarily used in design 
+are approximate; some shifting of the location of maximum 
+moments may occur due to changes in loading, settlement of 
+supports, lateral loads, or other causes. A diagonal tension 
+crack in a flexural member without stirrups may shift the 
+location of the calculated tensile stress approximately a 
+distance d toward a point of zero moment. If stirrups are 
+provided, this effect is less severe, although still present to 
+some extent.
+To provide for shifts in the location of maximum moments, 
+the Code requires the extension of reinforcement a distance 
+d or 12 db beyond the point at which it is calculated to be 
+no longer required to resist flexure, except as noted. Cutoff  
+points of bars to meet this requirement are illustrated in 
+Fig. R9.7.3.2. If different bar sizes are used, the extension 
+should be in accordance with the diameter of the bar being 
+terminated.
+R9.7.3.4 Local peak stresses exist in the remaining bars 
+wherever adjacent bars are cut off in tension regions. In 
+Fig. R9.7.3.2, an “x” is used to indicate the point where 
+terminated tension reinforcement is no longer required 
+to resist flexure. If bars were cut off at this location (the 
+required cutoff point is beyond location “x” in accordance 
+with 9.7.3.3), peak stresses in the continuing reinforcement 
+(bars b) would reach fy at “x”. Therefore, the continuing rein-
+forcement is required to have a full ℓd extension as indicated.
+9.7.3.3 Reinforcement shall extend beyond the point at 
+which it is no longer required to resist flexure for a distance 
+equal to the greater of d and 12 db, except at supports of 
+simply-supported spans and at free ends of cantilevers.
+9.7.3.4 Continuing flexural tension reinforcement shall 
+have an embedment length at least ℓd beyond the point 
+where bent or terminated tension reinforcement is no longer 
+required to resist flexure.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.155 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 155
+R9.7.3.5 Reduced shear strength and loss of ductility can 
+occur where bars are cut off in a tension zone, such as in 
+Fig. R9.7.3.2 (Ferguson and Matloob 1959). Flexural cracks 
+tend to open at low load levels wherever any reinforcement 
+is terminated in a tension zone. If stress in the continuing 
+reinforcement and shear strength are each near their limiting 
+values, diagonal tension cracking tends to develop prema -
+turely from these flexural cracks. Diagonal cracks are less 
+likely to form where shear stress is low (9.7.3.5(a)) or flexural 
+reinforcement stress is low (9.7.3.5(b)). Diagonal cracks can 
+be restrained by closely spaced stirrups (9.7.3.5(c)). These 
+requirements are not intended to apply to tension splices that 
+are covered by 25.5.
+R9.7.3.7 A bar bent to the far face of a beam and continued 
+there may be considered effective in satisfying 9.7.3.3 to the 
+point where the bar crosses the mid-depth of the member.
+R9.7.3.8 Termination of reinforcement
+R9.7.3.8.1 Positive moment reinforcement is extended 
+into the support to provide for shifting of moments due to 
+changes in loading, settlement of supports, and lateral loads. 
+It also enhances structural integrity.
+For precast beams, tolerances and reinforcement cover 
+should be considered to avoid bearing on plain concrete 
+where reinforcement has been discontinued.
+R9.7.3.8.2 Development of positive moment reinforce -
+ment at the support is required for beams that are part of the 
+primary lateral-load-resisting system to provide ductility in 
+the event of moment reversal.
+R9.7.3.8.3 The diameter of positive moment tension rein-
+forcement is limited to ensure that the bars are developed in a 
+length short enough such that the moment capacity is greater 
+than the applied moment over the entire length of the beam. 
+As illustrated in the moment diagram of Fig. R9.7.3.8.3(a), 
+the slope of the moment diagram is Vu, while the slope of 
+moment development is Mn/ℓd, where Mn is the nominal 
+flexural strength of the cross section. By sizing reinforce -
+ment such that the capacity slope Mn/ℓd equals or exceeds the 
+demand slope Vu, proper development is provided. There -
+fore, Mn/Vu represents the available development length. 
+Under favorable support conditions, a 30% increase for Mn/
+Vu is permitted when the ends of reinforcement are confined 
+by a compressive reaction.
+9.7.3.5 Flexural tension reinforcement shall not be termi -
+nated in a tension zone unless (a), (b), or (c) is satisfied:
+(a) Vu ≤ (2/3)ϕVn at the cutoff point
+(b) For No. 36 bars and smaller, continuing reinforcement 
+provides double the area required for flexure at the cutoff  
+point and Vu ≤ (3/4)ϕVn
+(c) Stirrup or hoop area in excess of that required for shear 
+and torsion is provided along each terminated bar or wire 
+over a distance (3/4)d from the cutoff point. Excess stirrup 
+or hoop area shall be at least 0.41 bws/fyt. Spacing s shall 
+not exceed d/(8βb)
+9.7.3.6 Adequate anchorage shall be provided for tension 
+reinforcement where reinforcement stress is not directly 
+proportional to moment, such as in sloped, stepped, or 
+tapered beams, or where tension reinforcement is not parallel 
+to the compression face.
+9.7.3.7 Development of tension reinforcement by bending 
+across the web to be anchored or made continuous with rein-
+forcement on the opposite face of beam shall be permitted.
+9.7.3.8 Termination of reinforcement
+9.7.3.8.1 At simple supports, at least one-third of the 
+maximum positive moment reinforcement shall extend along 
+the beam bottom into the support at least 150 mm, except for 
+precast beams where such reinforcement shall extend at least 
+to the center of the bearing length.
+9.7.3.8.2 At other supports, at least one-fourth of the 
+maximum positive moment reinforcement shall extend 
+along the beam bottom into the support at least 150 mm 
+and, if the beam is part of the primary lateral-load-resisting 
+system, shall develop fy in tension at the face of the support.
+9.7.3.8.3 At simple supports and points of inflection, db 
+for positive moment tension reinforcement shall be limited 
+such that ℓd for that reinforcement satisfies (a) or (b). If rein-
+forcement terminates beyond the centerline of supports by a 
+standard hook, head, or mechanical anchorage in accordance 
+with 25.4.5, (a) or (b) need not be satisfied.
+(a) ℓd ≤ (1.3Mn/Vu + ℓa) if end of reinforcement is confined 
+by a compressive reaction
+(b) ℓd ≤ (Mn/Vu + ℓa) if end of reinforcement is not confined 
+by a compressive reaction
+Mn is calculated assuming all reinforcement at the section 
+is stressed to fy, and Vu is calculated at the section. At a 
+support, ℓa is the embedment length beyond the center of the 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.156 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+156 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Application of this provision is illustrated in 
+Fig. R9.7.3.8.3(b) for simple supports and in Fig. 
+R9.7.3.8.3(c) for points of inflection. 
+The ℓa limitation at points of inflection is provided because 
+test data are not available to show that a long end anchorage 
+length will be effective in developing a bar that has only 
+a short length between a point of inflection and a point of 
+maximum stress.
+support. At a point of inflection, ℓa is the embedment length 
+beyond the point of inflection limited to the greater of d and 
+12db.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.157 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 157
+Vu
+Mn for reinforcement
+continuing into supportVu
+1
+ℓd
+Max. ℓd
+1.3Mn /VuEnd anchorage ℓa
+Embedment 
+length Max. ℓd
+Mn /Vu
+Maximum effective embedment
+length limited to d or 12db for ℓa
+Note: The 1.3 factor is applicable only if the reaction
+confines the ends of the reinforcement
+Capacity slope Mn
+ℓd
+() ≥ Demand slope (Vu )
+ℓd
+Mn
+Vu
+≤
+(a) Positive Mu Diagram
+(b) Maximum ℓd at simple support
+(c) Maximum ℓd for bars “a” at point of inflection
+Bars a
+P.I.
+Fig. R9.7.3.8.3—Determination of maximum bar size 
+according to 9.7.3.8.3.
+9.7.3.8.4 At least one-third of the negative moment rein -
+forcement at a support shall have an embedment length 
+beyond the point of inflection at least the greatest of d, 12db, 
+and ℓn/16.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.158 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+158 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.7.4 Flexural reinforcement in prestressed beams
+R9.7.4.1 External tendons are often attached to the 
+concrete beam at various locations between anchorages, 
+such as midspan, quarter points, or third points, for desired 
+load balancing effects, for tendon alignment, or to address 
+tendon vibration concerns. Consideration should be given to 
+effects caused by the tendon profile shifting in relationship 
+to the concrete centroid as the member deforms under effects 
+of post-tensioning and applied load.
+R9.7.4.2 The requirements of 9.7.3 provide that bonded 
+reinforcement required for flexural strength under factored 
+loads is developed to achieve tensile or compressive forces.
+R9.7.4.4 Termination of deformed reinforcement in beams 
+with unbonded tendons
+R9.7.4.4.1 Research (Odello and Mehta 1967) on contin-
+uous spans shows that minimum lengths required by 9.6.2.3 
+provide satisfactory behavior under service load and factored 
+load conditions.
+R9.7.5 Longitudinal torsional reinforcement
+R9.7.5.1 Longitudinal reinforcement is needed to resist 
+the sum of the longitudinal tensile forces due to torsion. 
+The centroid of the additional longitudinal reinforcement 
+for torsion should approximately coincide with the centroid 
+of the section. The Code accomplishes this by requiring the 
+longitudinal torsional reinforcement be distributed around 
+the perimeter of the closed stirrups. Longitudinal bars or 
+tendons are required in each corner of the stirrups to provide 
+anchorage for the stirrup legs. Corner bars have also been 
+found to be effective in developing torsional strength and 
+controlling cracks.
+R9.7.5.3 The distance (bt + d) beyond the point at which 
+longitudinal torsional reinforcement is no longer required 
+is greater than that used for shear and flexural reinforce -
+9.7.4 Flexural reinforcement in prestressed beams
+9.7.4.1 External tendons shall be attached to the member 
+in a manner that maintains the specified eccentricity between 
+the tendons and the concrete centroid through the full range 
+of anticipated member deflections.
+9.7.4.2 If nonprestressed reinforcement is required to 
+satisfy flexural strength, the detailing requirements of 9.7.3 
+shall be satisfied.
+9.7.4.3 Termination of prestressed reinforcement
+9.7.4.3.1 Post-tensioned anchorage zones shall be 
+designed and detailed in accordance with 25.9.
+9.7.4.3.2 Post-tensioning anchorages and couplers shall be 
+designed and detailed in accordance with 25.8.
+9.7.4.4 Termination of deformed reinforcement in beams 
+with unbonded tendons
+9.7.4.4.1 Length of deformed reinforcement required by 
+9.6.2.3 shall be in accordance with (a) and (b):
+(a) At least ℓn/3 in positive moment areas and be centered 
+in those areas
+(b) At least ℓn/6 on each side of the face of support in nega-
+tive moment areas
+9.7.5 Longitudinal torsional reinforcement
+9.7.5.1 If torsional reinforcement is required, longitu -
+dinal torsional reinforcement shall be distributed around the 
+perimeter of closed stirrups that satisfy 25.7.1.6 or hoops 
+with a spacing not greater than 300 mm. The longitudinal 
+reinforcement shall be inside the stirrup or hoop, and at least 
+one longitudinal bar or tendon shall be placed in each corner.
+9.7.5.2 Longitudinal torsional reinforcement shall have a 
+diameter at least 0.042 times the transverse reinforcement 
+spacing, but not less than 10 mm.
+9.7.5.3 Longitudinal torsional reinforcement shall extend 
+for a distance of at least ( bt + d) beyond the point required 
+by analysis.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.159 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 159
+ment because torsional diagonal tension cracks develop in a 
+helical form. The same distance is required by 9.7.6.3.2 for 
+transverse torsional reinforcement.
+R9.7.5.4 Development length should be provided beyond 
+the interior face of the support. For bars, this may require 
+hooks or heads.Alternatively, horizontal U-shaped bars may 
+be lapspliced with the longitudinal torsional reinforcement.
+R9.7.6 Transverse reinforcement
+R9.7.6.2 Shear
+R9.7.6.2.1 If a reinforced concrete beam is cast mono -
+lithically with a supporting beam and intersects one or both 
+side faces of a supporting beam, the soffit of the supporting 
+beam may be subject to premature failure unless additional 
+transverse reinforcement, commonly referred to as hanger 
+reinforcement, is provided ( Mattock and Shen 1992 ). The 
+hanger reinforcement (Fig. R9.7.6.2.1), placed in addition to 
+other transverse reinforcement, is provided to transfer shear 
+from the end of the supported beam. Research indicates that 
+if the bottom of the supported beam is at or above middepth 
+of the supporting beam or if the factored shear transferred 
+from the supported beam is less than 0.25  √ 
+_
+ fc'   bwd, hanger 
+reinforcement is not required.
+d
+bw
+Supporting
+beam
+Hanger reinforcement
+Other transverse 
+reinforcement not shown
+Supported beam
+Fig. R9.7.6.2.1—Hanger reinforcement for shear transfer.
+9.7.5.4 Longitudinal torsional reinforcement shall be 
+developed at the face of the support at both ends of the beam.
+9.7.6 Transverse reinforcement
+9.7.6.1 General
+9.7.6.1.1 Transverse reinforcement shall be in accordance 
+with this section. The most restrictive requirements shall 
+apply.
+9.7.6.1.2 Details of transverse reinforcement shall be in 
+accordance with 25.7.
+9.7.6.2 Shear
+9.7.6.2.1 If required, shear reinforcement shall be provided 
+using stirrups, hoops, or longitudinal bent bars.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.160 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+160 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.7.6.2.2 Reduced stirrup spacing across the beam width 
+provides a more uniform transfer of diagonal compression 
+across the beam web, enhancing shear capacity. Laboratory 
+tests (Leonhardt and Walther 1964; Anderson and Ramirez 
+1989; Lubell et al. 2009) of wide members with large spacing 
+of legs of shear reinforcement across the member width indi-
+cate that the nominal shear capacity is not always achieved. 
+The intent of this provision is to provide multiple stirrup legs 
+across wide beams and one-way slabs that require stirrups.
+R9.7.6.3 Torsion
+R9.7.6.3.1 Stirrups are required to be closed because 
+inclined cracking due to torsion may occur on all faces 
+of a member, and because the concrete cover spalls off at 
+high torsional moments. Guidance on designing stirrups for 
+torsion is provided in R25.7.1.6.
+R9.7.6.3.2 The distance (bt + d) beyond the point at which 
+transverse torsional reinforcement is no longer required is 
+greater than that used for shear and flexural reinforcement 
+because torsional diagonal tension cracks develop in a 
+helical form. The same distance is required by 9.7.5.3 for 
+longitudinal torsional reinforcement.
+R9.7.6.3.3 Spacing of transverse torsional reinforce -
+ment is limited to ensure development of torsional strength 
+of the beam, prevent excessive loss of torsional stiffness 
+after cracking, and control crack widths. For a square cross 
+section, the ph/8 limitation requires stirrups at approximately 
+d/2, which corresponds to 9.7.6.2.
+R9.7.6.3.4 Transverse torsional reinforcement in a hollow 
+section should be located in the outer half of the wall thick -
+ness effective for torsion where the wall thickness can be 
+taken as Aoh/ph.
+9.7.6.2.2 Maximum spacing of legs of shear reinforce -
+ment along the length of the member and across the width 
+of the member shall be in accordance with Table 9.7.6.2.2.
+Table 9.7 .6.2.2—Maximum spacing of legs of shear 
+reinforcement
+Required Vs
+Maximum s, mm
+Nonprestressed 
+beam Prestressed beam
+Along 
+length
+Across 
+width
+Along 
+length
+Across 
+width
+ ≤ 0.33  √ 
+_
+ fc'    b  w   d Lesser of:
+d/2 d 3h/4 3h/2
+600 mm
+ > 0.33 √ 
+_
+ fc'    b  w   d Lesser of:
+d/4 d/2 3h/8 3h/4
+300 mm
+9.7.6.2.3 Inclined stirrups and longitudinal bars bent to 
+act as shear reinforcement shall be spaced so that every 
+45-degree line, extending d/2 toward the reaction from mid-
+depth of member to longitudinal tension reinforcement, shall 
+be crossed by at least one line of shear reinforcement.
+9.7.6.2.4 Longitudinal bars bent to act as shear reinforce -
+ment, if extended into a region of tension, shall be contin -
+uous with longitudinal reinforcement and, if extended into 
+a region of compression, shall be anchored d/2 beyond mid-
+depth of member.
+9.7.6.3 Torsion
+9.7.6.3.1 If required, transverse torsional reinforcement 
+shall be closed stirrups satisfying 25.7.1.6 or hoops.
+9.7.6.3.2 Transverse torsional reinforcement shall extend 
+a distance of at least ( bt + d) beyond the point required by 
+analysis.
+9.7.6.3.3 Spacing of transverse torsional reinforcement 
+shall not exceed the lesser of ph/8 and 300 mm. 
+9.7.6.3.4 For hollow sections, the distance from the 
+centerline of the transverse torsional reinforcement to the 
+inside face of the wall of the hollow section shall be at least 
+0.5Aoh/ph.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.161 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 161
+R9.7.6.4 Lateral support of compression reinforcement
+R9.7.6.4.1 Compression reinforcement in beams should 
+be enclosed by transverse reinforcement to prevent buckling.
+R9.7.7 Structural integrity reinforcement in cast-in-place 
+beams
+Experience has shown that overall integrity of a structure 
+can be substantially enhanced by minor changes in detailing 
+of reinforcement and connections. It is the intent of this 
+section of the Code to improve redundancy and ductility 
+in structures so that in the event of damage to a major 
+supporting element or an abnormal loading event, resulting 
+damage may be localized and the structure will have a higher 
+probability of maintaining overall stability.
+With damage to a support, top reinforcement that is 
+continuous over the support, but not confined by stirrups, 
+will tend to tear out of the concrete and will not provide the 
+catenary action required to bridge the damaged support. By 
+making a portion of the bottom reinforcement continuous, 
+catenary action can be provided.
+If the depth of a continuous beam changes at a support, 
+bottom reinforcement in the deeper member should be termi-
+nated into the support with a standard hook or headed bar to 
+develop in tension in accordance with 25.4 by substituting a 
+bar stress of 1.25fy for fy and the bottom reinforcement in the 
+shallower member should also extend into the joint and be 
+similarly developed.
+9.7.6.4 Lateral support of compression reinforcement
+9.7.6.4.1 Transverse reinforcement shall be provided 
+throughout the distance where longitudinal compression 
+reinforcement is required. Lateral support of longitudinal 
+compression reinforcement shall be provided by closed stir-
+rups or hoops in accordance with 9.7.6.4.2 through 9.7.6.4.4.
+9.7.6.4.2 Size of transverse reinforcement shall be at least 
+(a) or (b). Deformed wire or welded wire reinforcement of 
+equivalent area shall be permitted.
+(a) No. 10 for longitudinal bars No. 32 and smaller
+(b) No. 13 for longitudinal bars No. 36 and larger and for 
+longitudinal bundled bars
+9.7.6.4.3 Spacing of transverse reinforcement shall not 
+exceed the least of (a) through (c):
+(a) 16db of longitudinal reinforcement
+(b) 48db of transverse reinforcement
+(c) Least dimension of beam
+9.7.6.4.4 Longitudinal compression reinforcement shall 
+be arranged such that every corner and alternate compres -
+sion bar shall be enclosed by the corner of the transverse 
+reinforcement with an included angle of not more than 135 
+degrees, and no bar shall be farther than 150 mm clear on 
+each side along the transverse reinforcement from such an 
+enclosed bar.
+9.7.7 Structural integrity reinforcement in cast-in-place 
+beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.162 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+162 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Development of bottom bars for structural integrity is 
+clarified in the 2025 Code to develop 1.25fy, recognizing that 
+standard development is intended to develop the specified fy. 
+R9.7.7.1 Requiring continuous top and bottom reinforce -
+ment in perimeter or spandrel beams provides a continuous 
+tie around the structure. One-half of the top flexural rein -
+forcement is required to extend past the point of inflection 
+by 9.7.3.8.4 and be further extended and spliced at or near 
+midspan as required by 9.7.7.5. Similarly, the bottom rein -
+forcement required to extend into the support in 9.7.3.8.2 
+should be made continuous or spliced with bottom reinforce-
+ment from the adjacent span. At noncontinuous supports, 
+longitudinal reinforcement is anchored as required by 
+9.7.7.4.
+The spacing limits of transverse reinforcement enclosing 
+integrity reinforcement are intended to allow beams to 
+accommodate the rotational demands associated with large 
+vertical displacements that occur after the unintended loss 
+of a vertical-load-carrying member. Tests by Rivera-Cruz 
+et al. (2021) demonstrated that beams with spacing of trans-
+verse reinforcement spacing in compliance with SDC A or B 
+may form wide diagonal cracks in the hinge region that limit 
+the rotational capacity of beams experiencing large vertical 
+displacements. Beams with spacing of transverse rein -
+forcement in compliance with the requirements for SDC C 
+through F were observed to develop end rotations associated 
+with large vertical displacements, allowing the development 
+of alternate load paths after loss of a vertical load carrying 
+member (Lew et al. 2014).
+R9.7.7.2 At noncontinuous supports, longitudinal rein -
+forcement is anchored as required by 9.7.7.4.
+R9.7.7.3 In the case of walls providing vertical support, 
+longitudinal reinforcement should pass through or be 
+anchored in the wall.
+9.7.7.1 For beams along the perimeter of the structure, 
+structural integrity reinforcement shall be in accordance 
+with (a) through (c):
+(a) At least one-fourth of the maximum positive moment 
+reinforcement, but not less than two bars or strands, shall 
+be continuous
+(b) At least one-sixth of the negative moment reinforce -
+ment at the support, but not less than two bars or strands, 
+shall be continuous
+ (c) Longitudinal structural integrity reinforcement shall be 
+enclosed by closed stirrups in accordance with 25.7.1.6 
+or hoops along the clear span of the beam with a spacing 
+not greater than d/2 for nonprestressed beams or 3 h/4 for 
+prestressed beams. At each supported end of the beam, the 
+closed stirrup or hoop spacing shall not exceed the least of 
+(i) through (iv) over a length of at least 2 h from the face 
+of the support.
+  (i) d/4 for nonprestressed beams or 3 h/8 for 
+prestressed beams 
+ (ii) 8db of the smallest longitudinal bar enclosed
+ (iii) 24db of the closed stirrup or hoop 
+ (iv) 300 mm
+9.7.7.2 For other than perimeter beams, structural integ -
+rity reinforcement shall be in accordance with (a) or (b):
+(a) At least one-quarter of the maximum positive moment 
+reinforcement, but not less than two bars or strands, shall 
+be continuous.
+(b) Longitudinal reinforcement shall be enclosed by 
+closed stirrups in accordance with 25.7.1.6 or hoops along 
+the clear span of the beam.
+9.7.7.3 Longitudinal structural integrity reinforcement 
+shall pass through the region bounded by the longitudinal 
+reinforcement of the column.
+9.7.7.4 Longitudinal structural integrity reinforcement 
+at noncontinuous supports shall be developed in tension in 
+accordance with 25.4 by substituting a bar stress of 1.25fy for 
+fy at the face of the support.
+9.7.7.5 If splices are necessary in continuous structural 
+integrity reinforcement, the reinforcement shall be spliced 
+in accordance with (a) and (b):
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.163 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 163
+R9.8—Nonprestressed one-way joist systems
+R9.8.1 General
+Empirical limits established for nonprestressed reinforced 
+concrete joist floors are based on successful past perfor -
+mance of joist construction using common joist forming 
+systems. For prestressed joist construction, this section may 
+be used as a guide.
+R9.8.1.4 A limit on maximum spacing of ribs is required 
+because of provisions permitting higher shear strengths and 
+less concrete cover for the reinforcement for these relatively 
+small, repetitive members.
+R9.8.1.5 This increase in shear strength is justified on the 
+basis of: 1) satisfactory performance of joist construction 
+designed with higher calculated shear strengths specified in 
+previous Codes which allowed comparable shear stresses; 
+and 2) potential for redistribution of local overloads to adja-
+cent joists.
+(a) Positive moment reinforcement shall be spliced at or 
+near the support
+(b) Negative moment reinforcement shall be spliced at or 
+near midspan
+9.7.7.6 Splices shall be mechanical or welded in accor -
+dance with 25.5.7 or Class B tension lap splices in accor -
+dance with 25.5.2.
+9.8—Nonprestressed one-way joist systems
+9.8.1 General
+9.8.1.1 Nonprestressed one-way joist construction consists 
+of a monolithic combination of regularly spaced ribs and a 
+top slab designed to span in one direction.
+9.8.1.2 Width of ribs shall be at least 4 in. at any location 
+along the depth.
+9.8.1.3 Overall depth of ribs, excluding slab thickness, 
+shall not exceed 3.5 times the minimum width.
+9.8.1.4 Clear spacing between ribs shall not exceed 750 mm.
+9.8.1.5 Vc shall be permitted to be taken as 1.1 times the 
+value calculated in 22.5.
+9.8.1.6 For structural integrity, at least one bottom bar 
+in each joist shall be continuous and shall be developed in 
+tension in accordance with 25.4 by substituting a bar stress 
+of 1.25fy for fy at the face of supports.
+9.8.1.7 Reinforcement perpendicular to the ribs shall be 
+provided in the slab as required for flexure, considering 
+load concentrations, and shall be at least that required for 
+shrinkage and temperature in accordance with 24.4.
+9.8.1.8 One-way joist construction not satisfying the limi-
+tations of 9.8.1.1 through 9.8.1.4 shall be designed as slabs 
+and beams.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.164 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+164 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.9—Deep beams
+R9.9.1 General
+R9.9.1.1 Behavior of deep beams is discussed in Schlaich 
+et al. (1987) , Rogowsky and MacGregor (1986) , Marti 
+(1985), and Crist (1966). This provision applies if loads are 
+applied on the top of the beam and the beam is supported 
+on its bottom face. If loads are applied through the sides 
+or bottom of such a member, the strut-and-tie method, as 
+defined in Chapter 23, should be used to design reinforce -
+ment to internally transfer the loads to the top of the beam 
+and distribute them to adjacent supports.
+R9.9.1.2 The Code does not contain detailed require -
+ments for designing deep beams for moment, except that a 
+nonlinear strain distribution should be considered. Guidance 
+for design of deep beams for flexure is given in Chow et al. 
+(1953), Portland Cement Association (1946) , and Park and 
+Paulay (1975).
+R9.9.2 Dimensional limits
+R9.9.2.1 This limit imposes a dimensional restriction to 
+control cracking under service loads and to guard against 
+diagonal compression failures in deep beams.
+9.8.2 Joist systems with structural fillers
+9.8.2.1 If permanent burned clay or concrete tile fillers of 
+material having a unit compressive strength at least equal to 
+fc′ in the joists are used, 9.8.2.1.1 and 9.8.2.1.2 shall apply.
+9.8.2.1.1 Slab thickness over fillers shall be at least the 
+greater of one-twelfth the clear distance between ribs and 
+40 mm.
+9.8.2.1.2 For calculation of shear and negative moment 
+strength, it shall be permitted to include the vertical shells of 
+fillers in contact with the ribs. Other portions of fillers shall 
+not be included in strength calculations.
+9.8.3 Joist systems with other fillers
+9.8.3.1 If fillers not complying with 9.8.2.1 or removable 
+forms are used, slab thickness shall be at least the greater of 
+one-twelfth the clear distance between ribs and 50 mm.
+9.9—Deep beams
+9.9.1 General
+9.9.1.1 Deep beams are members that are loaded on one 
+face and supported on the opposite face such that strut-like 
+compression elements can develop between the loads and 
+supports and that satisfy (a) or (b):
+(a) Clear span does not exceed four times the overall 
+member depth h
+(b) Concentrated loads exist within a distance 2h from the 
+face of the support
+9.9.1.2 Deep beams shall be designed taking into account 
+nonlinear distribution of longitudinal strain over the depth 
+of the beam.
+9.9.1.3 The strut-and-tie method in accordance with 
+Chapter 23 is deemed to satisfy 9.9.1.2.
+9.9.2 Dimensional limits
+9.9.2.1 Except as permitted by 23.4.4, deep beam dimen-
+sions shall be selected such that:
+   V  u   ≤ ϕ0.83  √ 
+_
+ fc'    b  w   d  (9.9.2.1)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.165 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 165
+R9.9.3 Reinforcement limits
+R9.9.3.1 The minimum reinforcement requirements of 
+this section are intended to control the width and propagation 
+of inclined cracks. Tests ( Rogowsky and MacGregor 1986 ; 
+Marti 1985; Crist 1966) have shown that  in a deep beam, 
+reinforcement perpendicular to the longitudinal axis of the 
+member is more effective for member shear strength than 
+shear reinforcement parallel to the longitudinal axis of the 
+member; however, the specified minimum reinforcement is 
+the same in both directions to control the growth and width 
+of diagonal cracks.
+R9.9.4 Reinforcement detailing
+R9.9.4.3 Figure R9.9.4.3 illustrates the spacing require -
+ments for the distributed reinforcement defined in 9.9.3.1. 
+Spacing determined by the requirements of 9.9.4.3 and 
+9.9.4.4 is dependent on the cross-sectional dimensions and 
+can be more stringent than the requirements in 23.5.
+9.9.3 Reinforcement limits
+9.9.3.1 Distributed reinforcement  in deep beams shall be 
+at least that required in (a) and (b):
+ (a) The area of transverse distributed reinforcement over 
+the longitudinal distance std shall be Atd ≥ 0.0025bwstd
+ (b) The area of longitudinal distributed reinforcement in 
+each layer spaced over the vertical distance sℓd shall be 
+Aℓd  ≥ 0.0025bwsℓd
+9.9.3.2 The minimum area of flexural tension reinforce -
+ment, As,min, shall be determined in accordance with 9.6.1.
+9.9.4 Reinforcement detailing
+9.9.4.1 Concrete cover shall be in accordance with 20.5.1.
+9.9.4.2 Minimum spacing for longitudinal reinforcement 
+shall be in accordance with 25.2.
+9.9.4.3 Spacing of distributed reinforcement required in 
+9.9.3.1 shall not exceed the lesser of d/5 and 300 mm.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.166 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+166 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R9.9.4.4 To the extent practicable, multiple curtains of 
+reinforcement, whether parallel with the beam depth or 
+width, should be placed symmetrically with respect to the 
+center planes of the beam. The spacing limit of 600 mm is 
+consistent with the maximum spacing of shear reinforce -
+ment legs in 9.7.6.2.2.
+R9.9.4.5 In deep beams, stress in longitudinal reinforce -
+ment is more uniform along the length than that of a beam 
+that is not deep. High reinforcement stresses normally limited 
+to the center region of a beam can extend to the supports 
+in deep beams. Thus, ends of longitudinal reinforcement in 
+9.9.4.4 For deep beams having a width > 200 mm, distrib-
+uted reinforcement required by 9.9.3.1 shall be placed in 
+accordance with (a) and (b):
+ (a) At least two curtains of reinforcement shall be provided 
+with one near each side face. 
+ (b) Spacing swd between any adjacent curtains shall not 
+exceed 600 mm.
+9.9.4.5 Development of tension reinforcement shall 
+account for distribution of stress in reinforcement that is not 
+directly proportional to the bending moment.
+Typical strut from strut-and-tie model
+~
+std
+h
+bw bw
+swd
+Section A-A
+Narrow member 
+Elevation View
+Section A-A
+Wide member 
+sℓd
+Aℓd
+for layer
+Atd
+Aℓd
+bw sℓd
+Atd
+≥ 0.0025
+swd ≤ 600 mm
+≥ 0.0025bw std
+A
+A
+swd
+Fig. R9.9.4.3—Distributed reinforcement in deep beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.167 ---
+CODE COMMENTARY
+9  Beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 167
+deep beams may require positive anchorage in the form of 
+standard hooks, bar heads, or other mechanical anchorage 
+at supports.
+R9.9.4.6 Use of the strut-and-tie method for design of 
+deep beams illustrates that tensile forces in the bottom tie 
+reinforcement need to be anchored at the face of the support. 
+From this consideration, tie reinforcement should be contin-
+uous or developed at the face of the support (Rogowsky and 
+MacGregor 1986).
+9.9.4.6 At simple supports, positive moment tension 
+reinforcement shall develop fy in tension at the face of the 
+support. If a deep beam is designed using Chapter 23, the 
+positive moment tension reinforcement shall be anchored in 
+accordance with 23.8.4 and 23.8.5.
+9.9.4.7 At interior supports, (a) and (b) shall be satisfied:
+(a) Negative moment tension reinforcement shall be 
+continuous with that of the adjacent spans.
+(b) Positive moment tension reinforcement shall be contin-
+uous or spliced with that of the adjacent spans.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

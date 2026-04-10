@@ -1,0 +1,594 @@
+--- ACI p.169 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 3: MEMBERS 169
+CODE COMMENTARY
+10  Columns
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 10—COLUMNS
+R10.1—Scope
+R10.1.1 Composite structural steel-concrete columns are 
+not covered in this chapter.  Design provisions for composite 
+columns are covered in ANSI/AISC 360.
+R10.3—Design limits
+R10.3.1 Dimensional limits
+R10.3.1.1 Explicit minimum sizes for columns are not 
+specified to permit the use of reinforced concrete columns 
+with small cross sections in lightly loaded structures. If 
+small cross sections are used, ACI SPEC-117  and ACI 
+ITG-7 specify more restrictive tolerances on reinforcement 
+placement and member dimensions.
+R10.3.1.2 In some cases, the gross area of a column is 
+larger than necessary to resist the factored load. In those 
+cases, the minimum reinforcement percentage is given in 
+10.6.1.1 and may be calculated on the basis of the required 
+area rather than the provided area, but the area of reinforce -
+ment cannot be less than 0.5 percent of the actual cross-
+sectional area.
+10.1—Scope
+10.1.1 This chapter shall apply to the design of nonpre -
+stressed and prestressed columns, including reinforced 
+concrete pedestals.
+10.1.2 Design of plain concrete pedestals shall be in accor-
+dance with Chapter 14.
+10.2—General
+10.2.1 Materials
+10.2.1.1 Design properties for concrete shall be selected to 
+be in accordance with Chapter 19.
+10.2.1.2 Design properties for steel reinforcement shall be 
+selected to be in accordance with Chapter 20.
+10.2.1.3 Materials, design, and detailing requirements for 
+embedments in concrete shall be in accordance with 20.6.
+10.2.2 Connection to other members
+10.2.2.1 For cast-in-place construction, joints shall satisfy 
+Chapter 15.
+10.2.2.2 For precast construction, connections shall satisfy 
+the force transfer requirements of 16.2.
+10.2.2.3 Connections of columns to foundations shall 
+satisfy 16.3.
+10.3—Design limits
+10.3.1 Dimensional limits
+10.3.1.1 For columns with a square, octagonal, or other 
+shaped cross section, it shall be permitted to base gross area 
+considered, required reinforcement, and design strength on 
+a circular section with a diameter equal to the least lateral 
+dimension of the actual shape.
+10.3.1.2 For columns with cross sections larger than 
+required by considerations of loading, it shall be permitted 
+to base gross area considered, required reinforcement, and 
+design strength on a reduced effective area, not less than 
+one-half the total area. This provision shall not apply to 
+columns in special moment frames or columns not part of 
+the seismic-force-resisting system required to be designed in 
+accordance with Chapter 18.
+10.3.1.3 For columns built monolithically with a concrete 
+wall, the outer limits of the effective cross section of the 
+column shall not be taken greater than 40 mm outside the 
+transverse reinforcement.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.170 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+170 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R10.4—Required strength
+R10.4.2 Factored axial force and moment
+R10.4.2.1 The critical load combinations may be difficult 
+to discern without checking each combination. As illus -
+trated in Fig. R10.4.2.1, considering only the factored load 
+combinations associated with maximum axial force (LC1) 
+and maximum bending moment (LC2) does not necessarily 
+provide a code-compliant design for other load combina -
+tions such as LC3.
+(ɸɸMn , ɸɸPn )
+LC1
+LC2
+LC3
+Acceptable 
+region
+Axial load, P
+MumaxMu 1 Mu 3
+Moment, M
+P0
+Pumax
+Pu 3
+Pu 2
+(Mn , Pn )
+Fig. R10.4.2.1—Critical column load combination.
+10.3.1.4 For columns with two or more interlocking 
+spirals, outer limits of the effective cross section shall be 
+taken at a distance outside the spirals equal to the minimum 
+required concrete cover.
+10.3.1.5 If a reduced effective area is considered according 
+to 10.3.1.1 through 10.3.1.4, structural analysis and design 
+of other parts of the structure that interact with the column 
+shall be based on the actual cross section.
+10.4—Required strength
+10.4.1 General
+10.4.1.1 Required strength shall be calculated in accor -
+dance with the factored load combinations in Chapter 5.
+10.4.1.2 Required strength shall be calculated in accor -
+dance with the analysis procedures in Chapter 6.
+10.4.2 Factored axial force and moment
+10.4.2.1 Pu and Mu occurring simultaneously for each 
+applicable factored load combination shall be considered.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.171 ---
+CODE COMMENTARY
+10  Columns
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 171
+R10.5—Design strength
+R10.5.1 General
+R10.5.1.1 Refer to R9.5.1.1.
+R10.5.4 Torsion
+R10.5.4.1 Torsion acting on columns in buildings is typi-
+cally negligible and is rarely a governing factor in the design 
+of columns.
+R10.6—Reinforcement limits
+R10.6.1 Minimum and maximum longitudinal reinforcement
+R10.6.1.1 Minimum longitudinal reinforcement is neces -
+sary to provide resistance to bending and axial load, and to 
+reduce the effects of creep and shrinkage of the concrete 
+under sustained compressive stresses. Creep and shrinkage 
+effects cause force transfer from the concrete to the rein -
+forcement, and the resultant increase in reinforcement 
+stress becomes greater as the reinforcement ratio decreases. 
+A minimum limit is placed on the reinforcement ratio to 
+prevent reinforcement from yielding under sustained service 
+loads (Richart 1933).
+The maximum longitudinal reinforcement ratiois 
+provided to ensure that concrete can be effectively consoli -
+dated around the bars and to ensure that columns designed 
+according to the Code are similar to the test specimens by 
+which the Code was calibrated. The 0.08 limit applies at 
+all sections, including splice regions and joints, which may 
+include dowels. Longitudinal reinforcement in columns 
+should usually not exceed 4 percent if the column bars are 
+required to be lap spliced, as the lap splice zone will have 
+twice as much reinforcement if all lap splices occur at the 
+same location.
+10.5—Design strength
+10.5.1 General
+10.5.1.1 For each applicable factored load combination, 
+design strength at all sections shall satisfy ϕSn ≥ U, including 
+(a) through (d). Interaction between load effects shall be 
+considered:
+(a) ϕPn ≥ Pu
+(b) ϕMn ≥ Mu
+(c) ϕVn ≥ Vu
+(d) ϕTn ≥ Tu
+10.5.1.2 ϕ shall be determined in accordance with 21.2.
+10.5.2 Axial force and moment
+10.5.2.1 Pn and Mn shall be calculated in accordance with 
+22.4.
+10.5.3 Shear
+10.5.3.1 Vn shall be calculated in accordance with 22.5.
+10.5.4 Torsion
+10.5.4.1 If Tu ≥ ϕTth, where Tth is given in 22.7, torsion 
+shall be considered in accordance with Chapter 9.
+10.6—Reinforcement limits
+10.6.1 Minimum and maximum longitudinal reinforcement
+10.6.1.1 For nonprestressed columns and for prestressed 
+columns with an average compressive stress, due to effective 
+prestress force only, less than 1.6 MPa, area of longitudinal 
+reinforcement shall be at least 0.01 Ag but shall not exceed 
+0.08Ag.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.172 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+172 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R10.6.2 Minimum shear reinforcement
+R10.6.2.1 The basis for minimum shear reinforcement is 
+the same for columns and beams. Refer to R9.6.3 for more 
+information.
+R10.7—Reinforcement detailing
+R10.7.3 Longitudinal reinforcement
+R10.7.3.1 At least four longitudinal bars are required 
+when bars are enclosed by rectangular ties or circular ties. 
+For other tie shapes, one bar should be provided at each apex 
+or corner. For bars enclosed by spirals, at least six bars are 
+required.
+If the number of bars in a circular arrangement is less than 
+eight, the orientation of the bars may significantly affect the 
+moment strength of eccentrically loaded columns and should 
+be considered in design.
+10.6.1.2 For oversized columns, as permitted in 10.3.1.2, 
+the minimum area of longitudinal reinforcement shall not be 
+less than 0.005Ag.
+10.6.2 Minimum shear reinforcement
+10.6.2.1 A minimum area of shear reinforcement, Av, shall 
+be provided in all regions where Vu > 0.5ϕVc.
+10.6.2.2 If shear reinforcement is required, Av,min shall be 
+the greater of (a) and (b):
+(a) 0.062  √ 
+_
+ fc'      b  w  s ___  f  yt     
+(b)  0.35   b  w  s ___  f  yt     
+10.7—Reinforcement detailing
+10.7.1 General
+10.7.1.1 Concrete cover for reinforcement shall be in 
+accordance with 20.5.1.
+10.7.1.2 Development lengths of deformed and prestressed 
+reinforcement shall be in accordance with 25.4.
+10.7.1.3 Along development and lap splice lengths of 
+longitudinal bars with fy ≥ 550 MPa, transverse reinforce -
+ment shall be provided such that Ktr shall not be smaller than 
+0.5db.
+10.7.1.4 Bundled bars shall be in accordance with 25.6.
+10.7.2 Reinforcement spacing
+10.7.2.1 Minimum spacing s shall be in accordance with 
+25.2.
+10.7.3 Longitudinal reinforcement
+10.7.3.1 For nonprestressed columns and for prestressed 
+columns with an average compressive stress, due to effec -
+tive prestress force only, less than 1.6 MPa, the minimum 
+number of longitudinal bars shall be (a), (b), or (c):
+(a) Three within triangular ties
+(b) Four within rectangular or circular ties
+(c) Six enclosed by spirals or for columns of special 
+moment frames enclosed by circular hoops
+10.7.4 Offset bent longitudinal reinforcement
+10.7.4.1 The slope of the inclined portion of an offset 
+bent longitudinal bar relative to the longitudinal axis of the 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.173 ---
+CODE COMMENTARY
+10  Columns
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 173
+R10.7.5 Splices of longitudinal reinforcement
+R10.7.5.1 General
+R10.7.5.1.2 Frequently, the basic gravity load combina -
+tion will govern the design of the column itself, but a load 
+combination including wind or earthquake effects may 
+induce greater tension in some column bars. Each bar splice 
+should be designed for the maximum calculated bar tensile 
+force.
+R10.7.5.1.3 For the purpose of calculating ℓd for tension 
+lap splices in columns with offset bars, Fig. R10.7.5.1.3 
+illustrates the clear spacing to be used.
+Clear spacing
+Bars in column 
+above
+Offset bars from 
+column below
+Fig. R10.7.5.1.3—Offset column bars.
+R10.7.5.2 Lap splices
+In columns subject to moment and axial force, tensile 
+stresses may occur on one face of the column for moderate 
+and large eccentricities as shown in Fig. R10.7.5.2. If such 
+stresses occur, 10.7.5.2.2 requires tension splices to be used.
+The splice requirements have been formulated on the basis 
+that a compression lap splice has a tensile strength of at 
+least 0.25fy. Therefore, even if column bars are designed for 
+compression according to 10.7.5.2.1, some tensile strength 
+is inherently provided.
+column shall not exceed 1 in 6. Portions of bar above and 
+below an offset shall be parallel to axis of column.
+10.7.4.2 If the column face is offset 75 mm or more, longi-
+tudinal bars shall not be offset bent and separate dowels, 
+lap spliced with the longitudinal bars adjacent to the offset 
+column faces, shall be provided.
+10.7.5 Splices of longitudinal reinforcement
+10.7.5.1 General
+10.7.5.1.1 Lap splices, mechanical splices, butt-welded 
+splices, and end-bearing splices shall be permitted.
+10.7.5.1.2 Splices shall satisfy requirements for all 
+factored load combinations.
+10.7.5.1.3 Splices of deformed reinforcement shall be in 
+accordance with 25.5 and, if applicable, shall satisfy the 
+requirements of 10.7.5.2 for lap splices or 10.7.5.3 for end-
+bearing splices.
+10.7.5.2 Lap splices
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.174 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+174 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+All bars in 
+compression, 
+see 10.7.5.2.1 
+fs > 0.5fy on 
+tension face 
+of member, 
+see Table 
+10.7.5.2.2
+(Class B 
+splices 
+required)
+M
+P
+Interaction
+diagram
+0 ≤ fs ≤ 0.5fy on tension 
+face of member, 
+see Table 10.7.5.2.2
+(Class A splices allowed 
+with certain conditions)
+Fig. R10.7.5.2—Lap splice requirements for columns.
+R10.7.5.2.1 Reduced lap lengths are permitted if the lap 
+splice is enclosed throughout its length by sufficient ties. 
+The tie leg areas perpendicular to each direction are calcu -
+lated separately. An example is provided in Fig. R10.7.5.2.1, 
+where four legs are effective in one direction and two legs in 
+the other direction.
+Compression lap lengths may also be reduced if the 
+lap splice is enclosed throughout its length by spirals that 
+provide increased splitting resistance.
+h2
+h1
+Direction 1: 4Ab ≥ 0.0015h1s
+Direction 2: 2Ab ≥ 0.0015h2s
+where Ab is the area of the tie
+Direction 2
+Direction 1
+Fig. R10.7.5.2.1—Example of application of 10.7.5.2.1(a).
+10.7.5.2.1 If the bar force due to factored loads is compres-
+sive, compression lap splices shall be permitted. It shall be 
+permitted to decrease the compression lap splice length in 
+accordance with (a) or (b), but the lap splice length shall be 
+at least 12 in.
+(a) For tied columns, where ties throughout the lap splice 
+length have an effective area not less than 0.0015 hs in 
+both directions, lap splice length shall be permitted to be 
+multiplied by 0.83. Tie legs perpendicular to dimension h 
+shall be considered in calculating effective area.
+(b) For spiral columns, where spirals throughout the lap 
+splice length satisfy 25.7.3, lap splice length shall be 
+permitted to be multiplied by 0.75.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.175 ---
+CODE COMMENTARY
+10  Columns
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 175
+R10.7.5.3 End-bearing splices
+R10.7.5.3.1 Details for end-bearing splices are provided 
+in 25.5.6.
+R10.7.6 Transverse reinforcement
+R10.7.6.1 General
+R10.7.6.1.4 All longitudinal bars in compression should 
+be enclosed within transverse reinforcement. Where longitu-
+dinal bars are arranged in a circular pattern, only one circular 
+tie per specified spacing is required. This requirement can 
+be satisfied with a continuous circular tie (helix), that has a 
+maximum pitch equal to the required tie spacing.
+It is prudent to provide ties at each end of lap spliced 
+bars, above and below end-bearing splices, and at minimum 
+spacing immediately below sloping regions of offset 
+bent bars.
+Precast columns with cover less than 40 mm, prestressed 
+columns without nonprestressed longitudinal bars, columns 
+constructed with concrete using coarse aggregate with a 
+nominal maximum size of 10 mm, wall-like columns, and 
+other unusual columns may require closer spacing of trans -
+verse reinforcement.
+10.7.5.2.2 If the bar force due to factored loads is tensile, 
+tension lap splices shall be in accordance with Table 
+10.7.5.2.2. 
+Table 10.7 .5.2.2—Tension lap splice class
+Tensile 
+bar stress Splice details Splice type
+≤0.5fy
+≤50% bars spliced at any section and lap 
+splices on adjacent bars staggered by at 
+least ℓd
+Class A
+Other Class B
+>0.5fy All cases Class B
+10.7.5.3 End-bearing splices
+10.7.5.3.1 If the bar force due to factored loads is compres-
+sive, end-bearing splices shall be permitted provided the 
+splices are staggered or additional bars are provided at splice 
+locations. The continuing bars in each face of the column 
+shall have a tensile strength at least 0.25 fy times the area of 
+the vertical reinforcement along that face.
+10.7.6 Transverse reinforcement
+10.7.6.1 General
+10.7.6.1.1 Transverse reinforcement shall satisfy the most 
+restrictive requirements for reinforcement spacing.
+10.7.6.1.2 Details of transverse reinforcement shall be in 
+accordance with 25.7.2 for ties, 25.7.3 for spirals, or 25.7.4 
+for hoops.
+10.7.6.1.3 For prestressed columns with an average 
+compressive stress, due to effective prestress force only,  
+greater than or equal to 1.6 MPa, transverse ties or hoops 
+need not satisfy the 16db spacing requirement of 25.7.2.1.
+10.7.6.1.4 Longitudinal reinforcement shall be laterally 
+supported using ties or hoops in accordance with 10.7.6.2 
+or spirals in accordance with 10.7.6.3, unless tests and struc-
+tural analyses demonstrate adequate strength and feasibility 
+of construction.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.176 ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+176 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R10.7.6.1.5 and R10.7.6.1.6 Confinement improves load 
+transfer from the anchor bolts and mechanical couplers to 
+the column or pedestal where concrete may crack in the 
+vicinity of the bolts and mechanical couplers. Such cracking 
+may occur due to unanticipated forces caused by tempera -
+ture, restrained shrinkage, and accidental impact during 
+construction.
+R10.7.6.2 Lateral support of longitudinal bars using ties 
+or hoops
+R10.7.6.2.2 For rectangular columns, beams or brackets 
+framing into all four sides at the same elevation are consid -
+ered to provide restraint over a joint depth equal to that of the 
+shallowest beam or bracket. For columns with other shapes, 
+four beams framing into the column from two orthogonal 
+directions are considered to provide equivalent restraint. 
+R10.7.6.3 Lateral support of longitudinal bars using spirals
+R10.7.6.3.2 Refer to R10.7.6.2.2.
+10.7.6.1.5 If anchor bolts are placed in the top of a column 
+or pedestal, the bolts shall be enclosed by transverse rein -
+forcement that also surrounds at least four longitudinal bars 
+within the column or pedestal. The transverse reinforcement 
+shall be distributed within 125 mm of the top of the column 
+or pedestal and shall consist of at least two No. 13 or three 
+No. 10 ties or hoops.
+10.7.6.1.6 If mechanical couplers or extended bars for 
+connection to a precast element are placed in the ends of 
+columns or pedestals, the mechanical couplers or extended 
+bars shall be enclosed by transverse reinforcement. The 
+transverse reinforcement shall be distributed within 125 mm 
+of the ends of the column or pedestal and shall consist of at 
+least two No. 13 or three No. 10 ties or hoops.
+10.7.6.2 Lateral support of longitudinal bars using ties or 
+hoops
+10.7.6.2.1 In any story, the bottom tie or hoop shall be 
+located not more than one-half the tie or hoop spacing above 
+the top of footing or slab.
+10.7.6.2.2 In any story, the top tie or hoop shall be located 
+not more than one-half the tie or hoop spacing below the 
+lowest horizontal reinforcement in the slab, drop panel, or 
+shear cap. If beams or brackets frame into all sides of the 
+column, the top tie or hoop shall be located not more than 
+75 mm below the lowest horizontal reinforcement in the 
+shallowest beam or bracket.
+10.7.6.3 Lateral support of longitudinal bars using spirals
+10.7.6.3.1 In any story, the bottom of the spiral shall be 
+located at the top of footing or slab.
+10.7.6.3.2 In any story, the top of the spiral shall be located 
+in accordance with Table 10.7.6.3.2.
+Table 10.7 .6.3.2 —Spiral extension requirements at 
+top of column
+Framing at column end Extension requirements
+Beams or brackets frame into all 
+sides of the column
+Extend to the level of the lowest 
+horizontal reinforcement in 
+members supported above.
+Beams or brackets do not frame 
+into all sides of the column
+Extend to the level of the lowest 
+horizontal reinforcement in 
+members supported above.
+Additional column ties shall 
+extend above termination of spiral 
+to bottom of slab, drop panel, or 
+shear cap.
+Columns with capitals
+Extend to the level at which the 
+diameter or width of capital is 
+twice that of the column.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.177 ---
+CODE COMMENTARY
+10  Columns
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 177
+10.7.6.4 Lateral support of offset bent longitudinal bars
+10.7.6.4.1 Where longitudinal bars are offset, horizontal 
+support shall be provided by ties, hoops, spirals, or parts 
+of the floor construction and shall be designed to resist 
+1.5 times the horizontal component of the calculated force in 
+the inclined portion of the offset bar.
+10.7.6.4.2 If transverse reinforcement is provided to resist 
+forces that result from offset bends, ties, hoops, or spirals 
+shall be placed not more than 150 mm from points of bend.
+10.7.6.5 Shear
+10.7.6.5.1 If required, shear reinforcement shall be 
+provided using ties, hoops, or spirals.
+10.7.6.5.2 Maximum spacing of shear reinforcement shall 
+be in accordance with Table 10.7.6.5.2.
+Table 10.7 .6.5.2—Maximum spacing of shear 
+reinforcement
+Vs
+Maximum s, mm
+Nonprestressed 
+column
+Prestressed 
+column
+ ≤ 0.33 √ 
+_
+ fc'    b  w   d Lesser of:
+d/2 3h/4
+600
+ > 0.33 √ 
+_
+ fc'    b  w   d Lesser of:
+d/4 3h/8
+300
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- ACI p.178 ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+178 ACI 318-25: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+Notes
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
