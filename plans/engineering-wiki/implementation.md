@@ -1860,7 +1860,7 @@ La distancia libre entre el nivel del líquido y el techo debe ser $\geq d_s$ pa
 
 #### Step 5: Referencias Cruzadas y Documentación
 
-- [ ] Copy and paste code below into `wiki/references/Standards-by-Domain.md`:
+- [x] Copy and paste code below into `wiki/references/Standards-by-Domain.md`:
 
 ```markdown
 ---
@@ -1941,7 +1941,7 @@ Mapa de dominios de ingeniería a estándares aplicables y páginas de la wiki.
 | Tuberías | ASME B31.3, API 570 | ⬜ |
 ```
 
-- [ ] Copy and paste code below into `wiki/references/Chile-Specific-Variants.md`:
+- [x] Copy and paste code below into `wiki/references/Chile-Specific-Variants.md`:
 
 ```markdown
 ---
@@ -2024,7 +2024,7 @@ Documentación de diferencias entre la práctica chilena y los estándares inter
 | NCh2745 | Análisis y diseño de edificios con aislación sísmica |
 ```
 
-- [ ] Copy and paste code below into `README_WIKI.md` (en la raíz del proyecto):
+- [x] Copy and paste code below into `README_WIKI.md` (en la raíz del proyecto):
 
 ```markdown
 # Wiki de Ingeniería Estructural
@@ -2098,7 +2098,7 @@ El esquema completo del agente está en [`CLAUDE.md`](CLAUDE.md). Incluye:
 - Workflows detallados de ingest/query/lint
 ```
 
-- [ ] Reemplazar el contenido completo de `wiki/index.md` con la versión final:
+- [x] Reemplazar el contenido completo de `wiki/index.md` con la versión final:
 
 ```markdown
 ---
@@ -2153,7 +2153,7 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 | [Chile-Specific-Variants](references/Chile-Specific-Variants.md) | Diferencias entre práctica chilena y estándares internacionales |
 ```
 
-- [ ] Reemplazar el contenido completo de `wiki/log.md` con la primera entrada:
+- [x] Reemplazar el contenido completo de `wiki/log.md` con la primera entrada:
 
 ```markdown
 ---
@@ -2194,13 +2194,13 @@ Registro cronológico append-only de operaciones sobre la wiki.
 ```
 
 ##### Step 5 Verification Checklist
-- [ ] `wiki/references/Standards-by-Domain.md` mapea 3 dominios (hormigón, estanques, sismo) a sus códigos
-- [ ] `wiki/references/Chile-Specific-Variants.md` documenta diferencias NCh vs códigos internacionales en tablas comparativas
-- [ ] `README_WIKI.md` existe en la raíz y tiene secciones: Estructura, Operaciones (Ingest/Query/Lint), Convenciones de Idioma, Relación con Notebooks, Configuración
-- [ ] `wiki/index.md` lista TODAS las páginas (3 standards, 3 formulas, 2 materials, 2 concepts, 2 applications, 2 references = 14 páginas)
-- [ ] `wiki/log.md` tiene la entrada: `## [2026-04-09] setup | Estructura inicial de la wiki`
-- [ ] Todos los links relativos en frontmatter `related:` apuntan a archivos que existen
-- [ ] Todos los links en el cuerpo de las páginas son rutas relativas válidas
+- [x] `wiki/references/Standards-by-Domain.md` mapea 3 dominios (hormigón, estanques, sismo) a sus códigos
+- [x] `wiki/references/Chile-Specific-Variants.md` documenta diferencias NCh vs códigos internacionales en tablas comparativas
+- [x] `README_WIKI.md` existe en la raíz y tiene secciones: Estructura, Operaciones (Ingest/Query/Lint), Convenciones de Idioma, Relación con Notebooks, Configuración
+- [x] `wiki/index.md` lista TODAS las páginas (3 standards, 3 formulas, 2 materials, 2 concepts, 2 applications, 2 references = 14 páginas)
+- [x] `wiki/log.md` tiene la entrada: `## [2026-04-09] setup | Estructura inicial de la wiki`
+- [x] Todos los links relativos en frontmatter `related:` apuntan a archivos que existen
+- [x] Todos los links en el cuerpo de las páginas son rutas relativas válidas
 
 #### Step 5 STOP & COMMIT
 **STOP & COMMIT:** Agent must stop here and wait for the user to test, stage, and commit the change.

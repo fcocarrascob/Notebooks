@@ -46,4 +46,5 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 ## References
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 5)* | |
+| [Standards-by-Domain](references/Standards-by-Domain.md) | Mapa de dominios → estándares aplicables |
+| [Chile-Specific-Variants](references/Chile-Specific-Variants.md) | Diferencias entre práctica chilena y estándares internacionales |
