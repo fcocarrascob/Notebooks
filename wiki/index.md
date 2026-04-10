@@ -28,17 +28,20 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 ## Materials
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 4)* | |
+| [Concrete-Properties](materials/Concrete-Properties.md) | Propiedades del concreto: f'c, Ec, fr, clases de exposición, factor λs |
+| [Steel-Reinforcing](materials/Steel-Reinforcing.md) | Acero de refuerzo: grados, áreas de barras, restricciones sísmicas |
 
 ## Concepts
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 4)* | |
+| [Seismic-Design-Principles](concepts/Seismic-Design-Principles.md) | Principios de diseño sísmico: zonificación, suelos, espectro, amortiguamiento |
+| [Load-Combinations](concepts/Load-Combinations.md) | Combinaciones de carga ACI 318-25 §5.3, LRFD, aplicación industrial |
 
 ## Applications
 | Página | Descripción |
 |--------|------------|
-| *(vacío — se poblará en Step 4)* | |
+| [Column-Design-Workflow](applications/Column-Design-Workflow.md) | Workflow de diseño de columnas de hormigón armado según ACI 318-25 |
+| [Tank-Seismic-Analysis](applications/Tank-Seismic-Analysis.md) | Análisis sísmico de estanques cilíndricos con API 650 + NCh2369 |
 
 ## References
 | Página | Descripción |

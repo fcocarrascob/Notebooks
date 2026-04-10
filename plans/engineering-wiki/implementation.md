@@ -1235,7 +1235,7 @@ En `wiki/standards/NCh2369-2025.md`, la sección ya contiene el link correcto. N
 
 #### Step 4: Base de Conocimiento — Materiales, Conceptos y Aplicaciones
 
-- [ ] Copy and paste code below into `wiki/materials/Concrete-Properties.md`:
+- [x] Copy and paste code below into `wiki/materials/Concrete-Properties.md`:
 
 ```markdown
 ---
@@ -1319,7 +1319,7 @@ $$\lambda_s = \sqrt{\frac{2}{1 + d/250}} \leq 1.0$$
 - Fibras de acero (30–50 kg/m³ ASTM A820) incrementan $V_c$ aprox. 30% y reducen fisuración en losas industriales
 ```
 
-- [ ] Copy and paste code below into `wiki/materials/Steel-Reinforcing.md`:
+- [x] Copy and paste code below into `wiki/materials/Steel-Reinforcing.md`:
 
 ```markdown
 ---
@@ -1390,7 +1390,7 @@ Para elementos en zonas sísmicas especiales (ACI 318-25, Cap. 18):
 - El recubrimiento mínimo protege al acero de la corrosión; es la primera línea de defensa
 ```
 
-- [ ] Copy and paste code below into `wiki/concepts/Seismic-Design-Principles.md`:
+- [x] Copy and paste code below into `wiki/concepts/Seismic-Design-Principles.md`:
 
 ```markdown
 ---
@@ -1511,7 +1511,7 @@ $$P_{din} = DAF \times P_{estática}$$
 - API 650, Annex E
 ```
 
-- [ ] Copy and paste code below into `wiki/concepts/Load-Combinations.md`:
+- [x] Copy and paste code below into `wiki/concepts/Load-Combinations.md`:
 
 ```markdown
 ---
@@ -1601,7 +1601,7 @@ donde:
 - ASCE 7-22: Minimum Design Loads (fuente principal de combinaciones)
 ```
 
-- [ ] Copy and paste code below into `wiki/applications/Column-Design-Workflow.md`:
+- [x] Copy and paste code below into `wiki/applications/Column-Design-Workflow.md`:
 
 ```markdown
 ---
@@ -1697,7 +1697,7 @@ $$\frac{1}{P_{ni}} = \frac{1}{P_{nx}} + \frac{1}{P_{ny}} - \frac{1}{P_0}$$
 - [Combinaciones de Carga](../concepts/Load-Combinations.md)
 ```
 
-- [ ] Copy and paste code below into `wiki/applications/Tank-Seismic-Analysis.md`:
+- [x] Copy and paste code below into `wiki/applications/Tank-Seismic-Analysis.md`:
 
 ```markdown
 ---
@@ -1820,7 +1820,7 @@ La distancia libre entre el nivel del líquido y el techo debe ser $\geq d_s$ pa
 - [NCh2369-2025](../standards/NCh2369-2025.md)
 ```
 
-- [ ] Actualizar `wiki/index.md` — reemplazar las secciones Materials, Concepts y Applications con:
+- [x] Actualizar `wiki/index.md` — reemplazar las secciones Materials, Concepts y Applications con:
 
 ```markdown
 ## Materials
@@ -1843,15 +1843,15 @@ La distancia libre entre el nivel del líquido y el techo debe ser $\geq d_s$ pa
 ```
 
 ##### Step 4 Verification Checklist
-- [ ] `wiki/materials/Concrete-Properties.md` tiene tabla de grados con $f'_c$, $E_c$, $f_r$ y fórmula de $E_c = 4700\sqrt{f'_c}$
-- [ ] `wiki/materials/Concrete-Properties.md` incluye tabla de $\lambda_s$ por espesor efectivo $d$
-- [ ] `wiki/materials/Steel-Reinforcing.md` tiene tabla de áreas de barras y grados ASTM A615
-- [ ] `wiki/concepts/Seismic-Design-Principles.md` explica zonificación, clasificación de suelo, amortiguamiento, factores R
-- [ ] `wiki/concepts/Seismic-Design-Principles.md` contiene referencias a NCh2369 y ACI 318
-- [ ] `wiki/concepts/Load-Combinations.md` lista las 7 combinaciones de ACI 318-25 §5.3
-- [ ] `wiki/applications/Column-Design-Workflow.md` tiene procedimiento completo sin links a notebooks
-- [ ] `wiki/applications/Tank-Seismic-Analysis.md` combina API 650 (masas) + NCh2369 (espectro)
-- [ ] `wiki/index.md` secciones Materials, Concepts, Applications están actualizadas con links
+- [x] `wiki/materials/Concrete-Properties.md` tiene tabla de grados con $f'_c$, $E_c$, $f_r$ y fórmula de $E_c = 4700\sqrt{f'_c}$
+- [x] `wiki/materials/Concrete-Properties.md` incluye tabla de $\lambda_s$ por espesor efectivo $d$
+- [x] `wiki/materials/Steel-Reinforcing.md` tiene tabla de áreas de barras y grados ASTM A615
+- [x] `wiki/concepts/Seismic-Design-Principles.md` explica zonificación, clasificación de suelo, amortiguamiento, factores R
+- [x] `wiki/concepts/Seismic-Design-Principles.md` contiene referencias a NCh2369 y ACI 318
+- [x] `wiki/concepts/Load-Combinations.md` lista las 7 combinaciones de ACI 318-25 §5.3
+- [x] `wiki/applications/Column-Design-Workflow.md` tiene procedimiento completo sin links a notebooks
+- [x] `wiki/applications/Tank-Seismic-Analysis.md` combina API 650 (masas) + NCh2369 (espectro)
+- [x] `wiki/index.md` secciones Materials, Concepts, Applications están actualizadas con links
 
 #### Step 4 STOP & COMMIT
 **STOP & COMMIT:** Agent must stop here and wait for the user to test, stage, and commit the change.
