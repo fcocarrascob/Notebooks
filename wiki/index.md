@@ -26,7 +26,8 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 | [ACI-318-Ch21-PhiFactors](formulas/ACI-318-Ch21-PhiFactors.md) | Factores φ de reducción — tabla completa, zonas de transición |
 | [ACI-318-Ch22-SectionalStrength](formulas/ACI-318-Ch22-SectionalStrength.md) | Resistencia seccional — bloque β1, Vc, Vs, Po, interacción |
 | [API-650-Seismic](formulas/API-650-Seismic.md) | Análisis sísmico de estanques — masas, alturas, períodos |
-| [NCh2369-Spectrum](formulas/NCh2369-Spectrum.md) | Espectro sísmico de diseño — forma espectral, amortiguamiento, R* |
+| [NCh2369-Spectrum](formulas/NCh2369-Spectrum.md) | Espectro sísmico de diseño — forma espectral, parámetros Tabla 6, R*, cortes min/max |
+| [NCh2369-Ch4-LoadCombinations](formulas/NCh2369-Ch4-LoadCombinations.md) | Combinaciones ASD y LRFD, simultaneidad direccional, categorías de importancia |
 
 ## Materials
 | Página | Descripción |

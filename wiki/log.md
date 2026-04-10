@@ -10,6 +10,26 @@ Registro cronológico append-only de operaciones sobre la wiki.
 
 ---
 
+## [2026-04-10] ingest | NCh2369-2025.pdf — Ingesta del estándar completo
+
+**Operación:** Ingesta del PDF oficial `raw/pdf/NCh2369-2025.pdf` (248 páginas, edición 2025).
+
+**Páginas creadas:**
+- `formulas/NCh2369-Ch4-LoadCombinations.md` — Cap. 4: combinaciones ASD/LRFD, simultaneidad 100%+30%+30%, categorías I-IV
+
+**Páginas actualizadas con correcciones CRÍTICAS:**
+- `standards/NCh2369-2025.md` — **CORRECCIONES:** estructura de capítulos reescrita (§4=General, §5=Análisis, no §5/6/7); tabla de zonas sísmicas corregida (A0 ≠ Ar: Ar=1.4·A0); Tabla 6 parámetros de suelo completamente reemplazada (valores erróneos en versión anterior); agregada Tabla 7 resumen R/ξ y parámetros de estanques
+- `formulas/NCh2369-Spectrum.md` — **CORRECCIONES:** advertencia A0 vs Ar; Tabla 6 parámetros de suelo correctos (todos los valores cambiaron); fórmulas de espectro horizontal y vertical verificadas contra §5.4.2; factor η recalculado correctamente; ejemplo actualizado con datos correctos
+
+**Archivos de extracción intermedios:**
+- `raw/references/NCh2369_extract/Cap4_General.txt` — Cap. 4 (9 pág.)
+- `raw/references/NCh2369_extract/Cap5_Analisis.txt` — Cap. 5 (50 pág.) — espectros, AEE, AME, Tablas 2-7
+- `raw/references/NCh2369_extract/Cap7_Equipos.txt` — Cap. 7 (5 pág.) — Tabla 8: Rp
+- `raw/references/NCh2369_extract/Cap11_Estanques.txt` — Cap. 11 (18 pág.) — estanques cilíndricos, anclajes
+- `raw/references/NCh2369_extract/AnnexB_Cargas.txt` — Anexo B (4 pág.) — filosofía ASD/LRFD
+
+---
+
 ## [2026-04-10] ingest | ACI 318-25_SI.pdf — Ingesta del estándar completo
 
 **Operación:** Ingesta del PDF oficial `raw/pdf/ACI 318-25_SI.pdf` (702 páginas, primera edición junio 2025).
