@@ -2,7 +2,7 @@
 title: "Índice de la Wiki de Ingeniería"
 type: index
 created: 2026-04-09
-updated: 2026-04-10
+updated: 2026-04-13
 ---
 
 # Índice — Wiki de Ingeniería Estructural
@@ -21,6 +21,8 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 ## Formulas
 | Página | Descripción |
 |--------|------------|
+| [ACI-318-Ch7-OneWaySlabs](formulas/ACI-318-Ch7-OneWaySlabs.md) | Losas unidireccionales — espesores mínimos, refuerzo mínimo, retracción, terminación de barras |
+| [ACI-318-Ch8-TwoWaySlabs](formulas/ACI-318-Ch8-TwoWaySlabs.md) | Losas bidireccionales — espesores mínimos, punzonamiento, transferencia M losa-columna, detallado |
 | [ACI-318-Ch9-Beams](formulas/ACI-318-Ch9-Beams.md) | Diseño de vigas — profundidades mínimas, flexión, corte, torsión |
 | [ACI-318-Ch10-Columns](formulas/ACI-318-Ch10-Columns.md) | Diseño de columnas — flexo-compresión, esbeltez, refuerzo |
 | [ACI-318-Ch21-PhiFactors](formulas/ACI-318-Ch21-PhiFactors.md) | Factores φ de reducción — tabla completa, zonas de transición |

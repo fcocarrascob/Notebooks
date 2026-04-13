@@ -1,0 +1,1880 @@
+--- PDF idx 111 (doc p.111) ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 3: MEMBERS 111
+CODE COMMENTARY
+8 Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 8—TWO-WAY SLABS
+R8.1—Scope
+R8.1.1 The design methods given in this chapter are 
+based on analysis of results of an extensive series of tests 
+(Burns and Hemakom 1977; Gamble et al. 1969; Gerber and 
+Burns 1971; Guralnick and LaFraugh 1963 ; Hatcher et al. 
+1965, 1969; Hawkins 1981; Jirsa et al. 1966 ; PTI DC20.8; 
+Smith and Burns 1974 ; Scordelis et al. 1959 ; Vanderbilt 
+et al. 1969 ; Xanthakis and Sozen 1963 ) and well-estab -
+lished performance records of various slab systems. The 
+fundamental design principles are applicable to all planar 
+structural systems subjected to transverse loads. Several 
+specific design rules, as well as historical precedents, limit 
+the types of structures to which this chapter applies. General 
+slab systems that may be designed according to this chapter 
+include flat slabs, flat plates, slabs with beams in both direc-
+tions, and waffle slabs. Slabs with paneled ceilings are 
+two-way, wide-band, beam systems.
+Slabs-on-ground that do not transmit vertical loads from 
+other parts of the structure to the soil are excluded.
+For slabs with beams, the design procedures of this chapter 
+apply only where beams are located at the panel edges and 
+where beams are supported by columns or other essentially 
+nondeflecting supports at the corners of the panel. Two-way 
+slabs with beams in one direction, with both slab and beams 
+supported by girders in the other direction, may be designed 
+under the general requirements of this chapter. Such designs 
+should be based upon analysis compatible with the deflected 
+position of the supporting beams and girders.
+For slabs supported on walls, the design procedures in this 
+chapter treat the wall as a beam of infinite stiffness; there -
+fore, each wall should support the entire length of an edge of 
+the panel (refer to 8.4.1.7). Each wall with a width less than 
+a full panel length can be treated as a column support.
+R8.2—General
+R8.2.1 This section permits a design to be based directly 
+on fundamental principles of structural mechanics, provided 
+it can be demonstrated all strength and serviceability criteria 
+are satisfied. Design of the slab may be achieved through 
+combined use of classic solutions based on a linearly elastic 
+continuum, numerical solutions based on discrete elements, 
+or yield-line analyses, including, in all cases, evaluation of 
+the stress conditions around supports in relation to shear, 
+torsion, and flexure, as well as the effects of reduced stiffness 
+of elements due to cracking and support geometry. 
+The direct design method and equivalent frame method 
+are only suitable for orthogonal frames subject to gravity 
+loads.
+R8.2.2 Refer to R7.2.1.
+8.1—Scope
+8.1.1 This chapter shall apply to the design of nonpre -
+stressed and prestressed slabs reinforced for flexure in 
+two directions, with or without beams between supports, 
+including (a) through (d):
+(a) Solid slabs
+(b) Slabs cast on stay-in-place, noncomposite steel deck
+(c) Composite slabs of concrete elements constructed in 
+separate placements but connected so that all elements 
+resist loads as a unit
+(d) Two-way joist systems in accordance with 8.8
+8.2—General
+8.2.1 A slab system shall be permitted to be designed 
+by any procedure satisfying equilibrium and geometric 
+compatibility, provided that design strength at every section 
+is at least equal to required strength, and all serviceability 
+requirements are satisfied. The direct design method or the 
+equivalent frame method is permitted.
+8.2.2 The effects of concentrated loads, slab openings, and 
+slab voids shall be considered in design.
+8.2.3 Slabs prestressed with an average effective compres-
+sive stress less than 0.9 MPa shall be designed as nonpre -
+stressed slabs.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 112 (doc p.112) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+112 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.2.4 Drop panel dimensions specified in 8.2.4 are 
+necessary when reducing the amount of negative moment 
+reinforcement following 8.5.2.2 or to satisfy minimum slab 
+thicknesses permitted in 8.3.1.1. If the dimensions are less 
+than specified in 8.2.4, the projection may be used as a 
+shear cap to increase the shear strength of the slab. For slabs 
+with changes in thickness, it is necessary to check the shear 
+strength at multiple sections (refer to 22.6.4.1(b)).
+R8.2.7 Connections to other members
+R8.2.7.1 Calculation of the design strength of a slab 
+system requires consideration of the transmission of load 
+from the slab to the columns by  moment , torsion, and shear.
+R8.3—Design limits
+R8.3.1 Minimum slab thickness
+Minimum slab thicknesses in 8.3.1.1 and 8.3.1.2 are inde-
+pendent of loading and concrete modulus of elasticity. These 
+minimum thicknesses are not applicable to slabs with unusu-
+ally heavy superimposed sustained loads or for concrete 
+with modulus of elasticity significantly lower than that of 
+normalweight concrete. Deflections should be calculated for 
+such situations.
+R8.3.1.1 Minimum thicknesses in Table 8.3.1.1 are those 
+that have been developed through the years. Use of longitu-
+dinal reinforcement with fy > 550 MPa may result in larger 
+long-term deflections than in the case of fy ≤ 550 MPa unless 
+service stresses in reinforcement calculated for cracked 
+sections are less than 40,000 psi. For fy > 550 MPa, deflec-
+tions are required to be calculated.
+8.2.4 A drop panel in a nonprestressed slab, where used 
+to reduce the minimum required thickness in accordance 
+with 8.3.1.1 or the quantity of deformed negative moment 
+reinforcement at a support in accordance with 8.5.2.2, shall 
+satisfy (a) and (b):
+(a) The drop panel shall project below the slab at least 
+one-fourth of the adjacent slab thickness.
+(b) The drop panel shall extend in each direction from the 
+centerline of support a distance not less than one-sixth the 
+span length measured from center-to-center of supports in 
+that direction.
+8.2.5 A shear cap, where used to increase the critical 
+section for shear at a slab-column joint, shall project below 
+the slab soffit and extend horizontally from the face of the 
+column a distance at least equal to the thickness of the 
+projection below the slab soffit. 
+8.2.6 Materials
+8.2.6.1 Design properties for concrete shall be selected to 
+be in accordance with Chapter 19.
+8.2.6.2 Design properties for steel reinforcement shall be 
+selected to be in accordance with Chapter 20.
+8.2.6.3 Materials, design, and detailing requirements for 
+embedments in concrete shall be in accordance with 20.6.
+8.2.7 Connections to other members
+8.2.7.1 For cast-in-place construction, joints shall satisfy 
+Chapter 15.
+8.3—Design limits
+8.3.1 Minimum slab thickness
+8.3.1.1 For nonprestressed slabs without interior beams 
+spanning between supports on all sides, having a maximum 
+ratio of long-to-short span of 2, overall slab thickness h shall 
+not be less than the limits in Table 8.3.1.1, and shall be at 
+least the value in (a) or (b), unless the calculated deflection 
+limits of 8.3.2 are satisfied:
+(a) Slabs without drop panels as given in 8.2.4.....125 mm.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 113 (doc p.113) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 113
+R8.3.1.2 For panels having a ratio of long-to-short span 
+greater than 2, use of expressions (b) and (d) of Table 8.3.1.2 
+may give unrealistic results. For such panels, the rules 
+applying to one-way construction in 7.3.1 should be used.
+R8.3.1.3 A concrete floor finish may be considered for 
+strength purposes only if it is cast monolithically with the 
+slab. A bonded concrete overlay or other separate concrete 
+finish is permitted to be included in h if composite action is 
+provided in accordance with 16.4.
+(b) Slabs with drop panels as given in 8.2.4..........100 mm.
+For fy exceeding 550 MPa, 8.3.2 shall be satisfied.
+Table 8.3.1.1—Minimum thickness of nonprestressed two-way slabs without interior beams (mm)[1]
+fy, MPa[2]
+Without drop panels[3] With drop panels[3]
+Exterior panels
+Interior panels
+Exterior panels
+Interior panels
+Without edge 
+beams
+With edge 
+beams[4]
+Without edge 
+beams
+With edge 
+beams[4]
+280 ℓn/33 ℓn/36 ℓn/36 ℓn/36 ℓn/40 ℓn/40
+420 ℓn/30 ℓn/33 ℓn/33 ℓn/33 ℓn/36 ℓn/36
+550 ℓn/27 ℓn/30 ℓn/30 ℓn/30 ℓn/33 ℓn/33
+[1]ℓn is the clear span in the long direction, measured face-to-face of supports (mm).
+[2]For fy between the values given in the table, minimum thickness shall be calculated by linear interpolation. Minimum thickness values shall not be extrapolated for fy exceeding 
+550 MPa.
+[3]Drop panels as given in 8.2.4.
+[4]Slabs with beams between columns along exterior edges. Exterior panels shall be considered to be without edge beams if αf is less than 0.8.
+8.3.1.2 For nonprestressed slabs with beams spanning 
+between supports on all sides, overall slab thickness h shall 
+satisfy the limits in Table 8.3.1.2, unless the calculated 
+deflection limits of 8.3.2 are satisfied.
+Table 8.3.1.2—Minimum thickness of 
+nonprestressed two-way slabs with beams 
+spanning between supports on all sides
+αfm[1]
+Minimum h, in.
+αfm ≤ 0.2 8.3.1.1 applies (a)
+0.2 < αfm ≤ 2.0 Greater of:    
+ ℓ  n    (  0.8 +   
+ f  y  
+ __ 1400    )   
+ _______________ 36 + 5β  (    α  fm   − 0.2 )     (b)[1],[2]
+5.0 (c)
+αfm > 2.0 Greater of:   
+ ℓ  n    (  0.8 +   
+ f  y  
+ _ 1400    )   
+ _______________ 36 + 9β   (d)
+3.5 (e)
+[1]αfm is the average value of αf for all beams on edges of a panel.
+[2]ℓn is the clear span in the long direction, measured face-to-face of beams (in.).
+[3]β is the ratio of clear spans in long to short directions of slab.
+8.3.1.2.1 At discontinuous edges of slabs conforming to 
+8.3.1.2, an edge beam with αf  ≥ 0.80 shall be provided, or the 
+minimum thickness required by (b) or (d) of Table 8.3.1.2 
+shall be increased by at least 10% in the panel with a discon-
+tinuous edge.
+8.3.1.3 The thickness of a concrete floor finish shall be 
+permitted to be included in h if it is placed monolithically 
+with the floor slab, or if the floor finish is designed to be 
+composite with the floor slab in accordance with 16.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 114 (doc p.114) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+114 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.3.2 Calculated deflection limits
+R8.3.2.1 For prestressed flat slabs continuous over two 
+or more spans in each direction, the span-thickness ratio 
+generally should not exceed 42 for floors and 48 for roofs; 
+these limits may be increased to 48 and 52, respectively, if 
+calculations verify that both short- and long-term deflec -
+tion, camber, and vibration frequency and amplitude are not 
+objectionable.
+R8.3.2.2 If any portion of a composite concrete member is 
+prestressed, or if the member is prestressed after the compo-
+nents have been cast, the provisions of 8.3.2.1 apply and 
+deflections are to be calculated. For nonprestressed concrete 
+composite members, deflections need to be calculated and 
+compared with the limiting values in Table 24.2.2, only when 
+the thickness of the member or the precast part of the member 
+is less than the minimum thickness given in Table 8.3.1.1. In 
+unshored construction, the thickness of concern depends on 
+whether the deflection before or after the attainment of effec-
+tive composite action is being considered.
+R8.3.3 Reinforcement strain limit in nonprestressed slabs
+R8.3.3.1 The basis for a reinforcement strain limit for 
+two-way slabs is the same as that for beams. Refer to R9.3.3 
+for additional information.
+R8.4—Required strength
+R8.4.1 General
+R8.4.1.2 To determine service and factored moments as 
+well as shears in prestressed slab systems, numerical analysis 
+is required rather than simplified approaches such as the direct 
+design method. The equivalent frame method of analysis as 
+contained in the 2014 edition of the Code is a numerical method 
+that has been shown by tests of large structural models to satis-
+factorily predict factored moments and shears in prestressed 
+slab systems (Smith and Burns 1974 ; Burns and Hemakom 
+8.3.1.4 If single- or multiple-leg stirrups are used as shear 
+reinforcement, the slab thickness shall be sufficient to satisfy 
+the requirements for d in 22.6.7.1.
+8.3.2 Calculated deflection limits
+8.3.2.1 Immediate and time-dependent deflections shall be 
+calculated in accordance with 24.2 and shall not exceed the 
+limits in 24.2.2 for two-way slabs given in (a) through (c): 
+(a) Nonprestressed slabs not satisfying 8.3.1
+(b) Nonprestressed slabs without interior beams spanning 
+between the supports on all sides and having a ratio of 
+long-to-short span exceeding 2.0
+(c) Prestressed slabs
+8.3.2.2 For nonprestressed composite concrete slabs 
+satisfying 8.3.1.1 or 8.3.1.2, deflections occurring after the 
+member becomes composite need not be calculated. Deflec-
+tions occurring before the member becomes composite shall 
+be investigated, unless the precomposite thickness also satis-
+fies 8.3.1.1 or 8.3.1.2.
+8.3.3 Reinforcement strain limit in nonprestressed slabs
+8.3.3.1 Nonprestressed slabs shall be tension-controlled in 
+accordance with Table 21.2.2.
+8.3.4 Stress limits in prestressed slabs
+8.3.4.1 Prestressed slabs shall be designed as Class U with 
+ft ≤ = 0.50  √ 
+_
+ fc  ' . Other stresses in prestressed slabs immedi -
+ately after transfer and at service loads shall not exceed the 
+permissible stresses in 24.5.3 and 24.5.4.
+8.4—Required strength
+8.4.1 General
+8.4.1.1 Required strength shall be calculated in accor -
+dance with the factored load combinations in Chapter 5.
+8.4.1.2 Required strength shall be calculated in accor -
+dance with the analysis procedures given in Chapter 6.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 115 (doc p.115) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 115
+1977; Hawkins 1981; PTI DC20.8; Gerber and Burns 1971; 
+Scordelis et al. 1959 ). The referenced research also shows 
+that analysis using prismatic sections or other approxima -
+tions of stiffness may provide erroneous and unsafe results. 
+Moment redistribution for prestressed slabs is permitted in 
+accordance with 6.6.5. PTI DC20.8 provides guidance for 
+prestressed concrete slab systems.
+R8.4.1.7 A panel includes all flexural elements between 
+column centerlines. Thus, the column strip includes the 
+beam, if any.
+R8.4.1.8 Two examples of monolithic or composite 
+concrete beams, including the slab as a flange, are provided 
+in Fig. R8.4.1.8.
+8.4.1.3 For prestressed slabs, effects of reactions induced 
+by prestressing shall be considered in accordance with 
+5.3.14.
+8.4.1.4 For a slab system supported by columns or walls, 
+dimensions c1, c2, and ℓn shall be based on an effective 
+support area. The effective support area is the intersection of 
+the bottom surface of the slab, or drop panel or shear cap if 
+present, with the largest right circular cone, right pyramid, or 
+tapered wedge whose surfaces are located within the column 
+and the capital or bracket and are oriented no greater than 45 
+degrees to the axis of the column.
+8.4.1.5 A column strip is a design strip with a width on 
+each side of a column centerline equal to the lesser of 0.25ℓ2 
+and 0.25ℓ1. A column strip shall include beams within the 
+strip, if present.
+8.4.1.6 A middle strip is a design strip bounded by two 
+column strips.
+8.4.1.7 A panel is bounded by column, beam, or wall 
+centerlines on all sides.
+8.4.1.8 For monolithic or composite concrete construction 
+supporting two-way slabs, a beam includes that portion of 
+slab, on each side of the beam extending a distance equal 
+to the projection of the beam above or below the slab, 
+whichever is greater, but not greater than four times the slab 
+thickness.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 116 (doc p.116) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+116 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+hf
+hf
+bw
+bw
+hb
+hb
+hb ≤ 4hf
+bw + 2hb ≤ bw + 8hf 
+Fig. R8.4.1.8—Examples of the portion of slab to be included 
+with the beam under 8.4.1.8.
+R8.4.2 Factored moment
+R8.4.2.2 Factored slab moment resisted by the column
+R8.4.2.2.1 This section is concerned primarily with slab 
+systems without beams.
+R8.4.2.2.3 All reinforcement resisting that part of the 
+moment to be transferred to the column by flexure should be 
+placed within bslab.
+8.4.1.9 Combining the results of a gravity load analysis 
+with the results of a lateral load analysis shall be permitted.
+8.4.2 Factored moment
+8.4.2.1 For slabs built integrally with supports, Mu at the 
+support shall be permitted to be calculated at the face of 
+support.
+8.4.2.2 Factored slab moment resisted by the column
+8.4.2.2.1 If gravity, wind, earthquake, or other loads cause 
+a transfer of moment between the slab and column, a frac -
+tion of Msc, the factored slab moment resisted by the column 
+at a joint, shall be transferred by flexure in accordance with 
+8.4.2.2.2 through 8.4.2.2.5.
+8.4.2.2.2 The fraction of factored slab moment resisted 
+by the column, γf Msc, shall be assumed to be transferred by 
+flexure, where γf shall be calculated by: 
+   γ  f   =   1 _________ 
+1 +  (  2 _ 3  )  √ 
+__
+    b  1   __  b  2      
+     (8.4.2.2.2)
+ 
+8.4.2.2.3 The effective slab width bslab for resisting γfMsc 
+shall be the width of column, capital, or shear cap plus 1.5 h 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 117 (doc p.117) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 117
+R8.4.2.2.4 Some modification in the distribution of Msc 
+transferred by shear and flexure at both exterior and interior 
+columns is possible. Interior, exterior, and corner columns 
+refer to slab-column connections for which the critical 
+perimeter for rectangular columns has four, three, and two 
+sides, respectively.
+At exterior columns, for Msc resisted about an axis parallel 
+to the edge, the portion of moment transferred by eccen -
+tricity of shear γvMsc may be reduced, provided that the 
+factored shear at the column (excluding the shear produced 
+by moment transfer) does not exceed the limits given in 
+Table 8.4.2.2.4. Tests ( Moehle 1988 ; ACI PRC-352.1 )  
+indicate that there is no significant interaction between shear 
+and Msc at the exterior column in such cases. Note that as 
+γvMsc is decreased, γfMsc is increased.
+At interior columns, some modification in the distribu -
+tionof Msc transferred by shear and flexure is possible, but 
+with more severe limitations than for exterior columns with 
+the slab span perpendicular to the edge. For interior columns 
+and for exterior columns with the slab span parallel to the 
+edge, Msc transferred by flexure is permitted to be increased 
+following the limits given in Table 8.4.2.2.4. 
+If the factored shear for a slab-column connection is 
+larger than the shear limits in Table 8.4.2.2.4, the permitted 
+increase in γfMsc may lead to brittle behavior of the slab-
+column connection because all of the reinforcement provided 
+cannot be developed. Modifications for interior slab-column 
+connections in this provision are permitted only where the 
+slab has flexural ductility. So, the reinforcement required to 
+develop γfMsc within the effective slab width should have a 
+net tensile strain εt not less than εty + 0.008, where the value 
+of εty is determined in 21.2.2. The use of Eq. (8.4.2.2.2) 
+without the modification permitted in this provision will 
+generally indicate overstress conditions on the connection. 
+If reversal of moments occurs at opposite faces of an inte -
+rior column, both top and bottom reinforcement should be 
+concentrated within bslab. A ratio of top-to-bottom reinforce-
+ment of approximately 2 is appropriate.
+of slab or 1.5h of slab plus drop panel if present, on each side 
+of the column, capital, or shear cap.
+8.4.2.2.4 For nonprestressed slabs, where the limita -
+tions on vuv and εt in Table 8.4.2.2.4 are satisfied, γf shall be 
+permitted to be increased to the maximum modified values 
+provided in Table 8.4.2.2.4, where vc is calculated in accor-
+dance with 22.6.5.
+Table 8.4.2.2.4—Maximum modified values of γf for nonprestressed two-way slabs
+Column location Span direction vuv εt (within bslab) Maximum modified γf
+Corner column Either direction ≤0.5ϕvc ≥εty + 0.003 1.0
+Edge column
+Perpendicular to the edge ≤0.75ϕvc ≥εty + 0.003 1.0
+Parallel to the edge ≤0.4ϕvc ≥εty + 0.008    1.25 _________ 
+1 +  (  2 _ 3  )  √ 
+__
+    b  1   __  b  2      
+   ≤ 1.0 
+Interior column Either direction ≤0.4ϕvc ≥εty + 0.008    1.25 _________ 
+1 +  (  2 _ 3  )  √ 
+__
+    b  1   __  b  2      
+   ≤ 1.0 
+8.4.2.2.5 Concentration of reinforcement over the column 
+by closer spacing or additional reinforcement shall be used 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 118 (doc p.118) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+118 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.4.4 Factored two-way shear
+R8.4.4.2 Factored two-way shear stress due to shear and 
+factored slab moment resisted by the column
+R8.4.4.2.2 Hanson and Hanson (1968)  found that where 
+moment is transferred between a column and a slab, 60% 
+of the moment should be considered transferred by flexure 
+across the perimeter of the critical section defined in 22.6.4.1, 
+and 40% by eccentricity of the shear about the centroid of 
+the critical section. For rectangular columns, the portion of 
+moment transferred by flexure increases as the width of the 
+face of the critical section resisting moment increases.
+to resist moment on the effective slab width defined in 
+8.4.2.2.2 and 8.4.2.2.3.
+8.4.2.2.6 The fraction of Msc not calculated to be resisted 
+by flexure shall be assumed to be resisted by eccentricity of 
+shear in accordance with 8.4.4.2.
+8.4.3 Factored one-way shear
+8.4.3.1 For slabs built integrally with supports, Vu at the 
+support shall be permitted to be calculated at the face of 
+support.
+8.4.3.2 Sections between the face of support and a critical 
+section located d from the face of support for nonprestressed 
+slabs and h/2 from the face of support for prestressed slabs 
+shall be permitted to be designed for Vu at that critical section 
+if (a) through (c) are satisfied:
+(a) Support reaction, in direction of applied shear, intro -
+duces compression into the end regions of the slab.
+(b) Loads are applied at or near the top surface of the slab.
+(c) No concentrated load occurs between the face of 
+support and critical section.
+8.4.4 Factored two-way shear
+8.4.4.1 Critical section
+8.4.4.1.1 Slabs shall be evaluated for two-way shear in the 
+vicinity of columns, concentrated loads, and reaction areas 
+at critical sections in accordance with 22.6.4.
+8.4.4.1.2 Slabs reinforced with stirrups or headed shear 
+stud reinforcement shall be evaluated for two-way shear at 
+critical sections in accordance with 22.6.4.2.
+8.4.4.2 Factored two-way shear stress due to shear and 
+factored slab moment resisted by the column
+8.4.4.2.1 For two-way shear with factored slab moment 
+resisted by the column, factored shear stress vu shall be 
+calculated at critical sections in accordance with 8.4.4.1. 
+Factored shear stress vu corresponds to a combination of vuv 
+and the shear stress produced by γvMsc, where γv is given in 
+8.4.4.2.2 and Msc is given in 8.4.2.2.1
+8.4.4.2.2 The fraction of Msc transferred by eccentricity 
+of shear, γvMsc, shall be applied at the centroid of the critical 
+section in accordance with 8.4.4.1, where:
+ γ v = 1 – γf (8.4.4.2.2)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 119 (doc p.119) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 119
+ Most of the data in Hanson and Hanson (1968) were 
+obtained from tests of square columns. Limited informa -
+tion is available for round columns; however, these can be 
+approximated as square columns having the same cross-
+sectional area. 
+R8.4.4.2.3 The shear stress distribution is assumed as illus-
+trated in Fig. R8.4.4.2.3 for an interior or exterior column. 
+The perimeter of the critical section, ABCD, is determined in 
+accordance with 22.6.4.1. The factored shear stress vuv and 
+factored slab moment resisted by the column Msc are deter-
+mined at the centroidal axis c-c of the critical section. The 
+maximum factored shear stress may be calculated from:
+  vu,AB = vuv +     
+γvMsccAB
+ _ Jc
+   
+or
+   v  u,CD   =  v  uv   −     
+γvMsccCD
+ _ Jc
+   
+where γv is given by Eq. (8.4.4.2.2).
+For an interior column, Jc may be calculated by:
+Jc = property of assumed critical section analogous to 
+polar moment of inertia
+  =   d (c1 + d) 3
+ ___ 6   +    (c1 + d) d3
+ ___ 6   +   d (c2 + d)  (c1 + d) 2
+  ________ 2    
+Similar equations may be developed for Jc for columns 
+located at the edge or corner of a slab.
+The fraction of Msc not transferred by eccentricity of shear 
+should be transferred by flexure in accordance with 8.4.2.2. 
+A conservative method assigns the fraction transferred by 
+flexure over an effective slab width defined in 8.4.2.2.3. 
+Often, column strip reinforcement is concentrated near 
+the column to resist Msc. Available test data ( Hanson and 
+Hanson 1968) indicate that this practice does not increase 
+shear strength but may increase stiffness of the slab-column 
+junction.
+Test data ( Hawkins 1981 ) indicate prestressed slab-
+to-column connections can possess adequate strength to 
+transfer the fractions of slab moment resisted by the column 
+as required by 8.4.2.2 and 8.4.4.2.
+Where shear reinforcement has been used, the critical 
+section beyond the shear reinforcement generally has a 
+polygonal shape (Fig. R8.7.6(d) and (e)). Equations for 
+calculating shear stresses on such sections are given in 
+ACI PRC-421.1.
+8.4.4.2.3 The factored shear stress resulting from γvMsc 
+shall be assumed to vary linearly about the centroid of the 
+critical section in accordance with 8.4.4.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 120 (doc p.120) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+120 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.5—Design strength
+R8.5.1 General
+R8.5.1.1 Refer to R9.5.1.1.
+8.5—Design strength
+8.5.1 General
+8.5.1.1 For each applicable factored load combination, 
+design strength shall satisfy ϕSn ≥ U, including (a) through 
+(d). Interaction between load effects shall be considered.
+(a) ϕMn ≥ Mu at all sections along the span in each direction
+(b) ϕMn ≥ γfMsc within bslab as defined in 8.4.2.2.3
+(c) ϕVn ≥ Vu at all sections along the span in each direction 
+for one-way shear
+(d) ϕvn ≥ vu at the critical sections defined in 8.4.4.1 for 
+two-way shear
+8.5.1.2 ϕ shall be in accordance with 21.2.
+8.5.2 Moment
+8.5.2.1 Mn shall be calculated in accordance with 22.3.
+8.5.2.2 In calculating Mn for nonprestressed slabs with 
+a drop panel, the thickness of the drop panel below the 
+slab shall not be assumed to be greater than one-fourth the 
+distance from the edge of drop panel to the face of column 
+or column capital.
+D A
+BC
+c
+c
+c
+c
+c
+c
+c
+c
+D
+C
+A
+B
+Col.
+Col.
+ c2 + d
+ c2 + d
+ c1 + d
+ cCD  cAB
+ cCD  cAB
+ c1 + d /2
+Critical
+section
+Critical
+section
+(a) Interior column
+(b) Edge column
+ Vu,CD  Vu,AB
+ Vug
+Shear 
+stress
+Shear 
+stress
+ V
+ Msc
+ V
+ Msc
+ Vu,CD  Vu,AB
+ Vug
+/uni2104
+/uni2104
+        Fig. R8.4.4.2.3—Assumed distribution of shear stress.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 121 (doc p.121) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 121
+R8.5.3 Shear
+R8.5.3.1 Differentiation should be made between a narrow 
+slab acting as a beam, and a slab subject to two-way action 
+where failure may occur by punching along a truncated cone 
+or pyramid around a concentrated load or reaction area. 
+R8.6—Reinforcement limits
+R8.6.1 Minimum flexural reinforcement in nonprestressed 
+slabs
+8.5.2.3 In calculating Mn for prestressed slabs, external 
+tendons shall be considered as unbonded unless the external 
+tendons are effectively bonded to the slab along its entire 
+length.
+8.5.3 Shear
+8.5.3.1 Design shear strength of slabs in the vicinity of 
+columns, concentrated loads, or reaction areas shall be the 
+more severe of 8.5.3.1.1 and 8.5.3.1.2.
+8.5.3.1.1 For one-way shear, where each critical section 
+to be investigated extends in a plane across the entire slab 
+width, Vn shall be calculated in accordance with 22.5.
+8.5.3.1.2 For two-way shear, vn shall be calculated in 
+accordance with 22.6.
+8.5.3.2 For composite concrete slabs, horizontal shear 
+strength Vnh shall be calculated in accordance with 16.4.
+8.5.4 Openings in slab systems
+8.5.4.1 Openings of any size shall be permitted in slab 
+systems if shown by analysis that all strength and service -
+ability requirements, including the limits on deflections, are 
+satisfied.
+8.5.4.2 As an alternative to 8.5.4.1, openings shall be 
+permitted in slab systems without beams in accordance with 
+(a) through (d).
+(a) Openings of any size shall be permitted in the area 
+common to intersecting middle strips, but the total quan -
+tity of reinforcement in the panel shall be at least that 
+required for the panel without the opening.
+(b) At two intersecting column strips, not more than one-
+eighth the width of column strip in either span shall be 
+interrupted by openings. A quantity of reinforcement 
+at least equal to that interrupted by an opening shall be 
+added on the sides of the opening.
+(c) At the intersection of one column strip and one middle 
+strip, not more than one-fourth of the reinforcement in 
+either strip shall be interrupted by openings. A quantity 
+of reinforcement at least equal to that interrupted by an 
+opening shall be added on the sides of the opening.
+(d) If an opening is located closer than 4 h from the 
+periphery of a column, concentrated load or reaction area, 
+22.6.4.3 shall be satisfied.
+8.6—Reinforcement limits
+8.6.1 Minimum flexural reinforcement in nonprestressed 
+slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 122 (doc p.122) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+122 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.6.1.1 The required area of deformed or welded wire 
+reinforcement used as minimum flexural reinforcement is 
+the same as that required for shrinkage and temperature in 
+24.4.3.2. However, whereas shrinkage and temperature rein-
+forcement is permitted to be distributed between the two 
+faces of the slab as deemed appropriate for specific condi -
+tions, minimum flexural reinforcement should be placed as 
+close as practicable to the face of the concrete in tension due 
+to applied loads.
+Figure R8.6.1.1 illustrates the arrangement of minimum 
+reinforcement required near the top of a two-way slab 
+supporting uniform gravity load. The bar cutoff points are 
+based on the requirements shown in Fig. 8.7.4.1.3.
+To improve crack control and to intercept potential 
+punching shear cracks with tension reinforcement, the 
+licensed design professional should consider specifying 
+continuous reinforcement in each direction near both faces 
+of thick two-way slabs, such as transfer slabs, podium slabs, 
+and mat foundations. Also refer to R8.7.4.1.3.
+Centerline bay
+Fig. R8.6.1.1—Arrangement of minimum reinforcement near 
+the top of a two-way slab.
+R8.6.1.2 Tests on interior column-to-slab connections with 
+and without shear reinforcement, where the slabs are lightly 
+reinforced for flexure (Peiris and Ghali 2012 ; Hawkins and 
+Ospina 2017 ; Widianto et al. 2009 ; Muttoni 2008 ; Dam 
+et al. 2017 ), have shown that yielding of the slab flexural 
+tension reinforcement in the vicinity of the column or loaded 
+area leads to increased local rotations and opening of any 
+inclined crack existing within the slab. In such cases, sliding 
+along the inclined crack can cause a flexure-driven punching 
+failure. As,min is intended to prevent a brittle punching failure 
+if the maximum factored two-way shear stress is less than 
+the stress corresponding to the design strength calculated 
+8.6.1.1 A minimum area of flexural reinforcement, As,min 
+of 0.0018Ag, or as defined in 8.6.1.2, shall be provided near 
+the tension face of the slab in the direction of the span under 
+consideration.
+8.6.1.2 If vuv > ϕ0.17  √ 
+_
+ fc′   λsλ on the critical section for 
+two-way shear surrounding a column, concentrated load, 
+or reaction area, As,min, provided over the width bslab, shall 
+satisfy Eq. (8.6.1.2)
+  As,min  =   5vuvbslabbo
+ _ ϕαsfy
+    (8.6.1.2)
+where bslab is the width specified in 8.4.2.2.3, αs is given in 
+22.6.5.3, ϕ is the value for shear, and λs is given in 22.5.5.1.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 123 (doc p.123) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 123
+by the two-way shear equations of Table 22.6.5.2 for slabs 
+without shear reinforcement and less than vc + vs with vc 
+calculated in accordance with Table 22.6.6.1 for slabs with 
+shear reinforcement.
+To derive Eq. (8.6.1.2), the shear force associated with 
+local yielding around the column, taken as 8As,minfyd/bslab for 
+an interior column connection ( Hawkins and Ospina 2017 ) 
+and generalized as ( αs/5)As,minfyd/bslab to account for edge 
+and corner conditions, was set equal to the factored shear on 
+the slab critical section. As,min also needs to be provided at the 
+periphery of drop panels and shear caps.
+Commentary on size effect factor is provided in R22.5.5.1 
+and R22.6.5.2.
+R8.6.2 Minimum flexural reinforcement in prestressed slabs
+R8.6.2.1 The minimum average effective prestress of 
+125 psi was used in two-way test panels in the early 1970s to 
+address punching shear concerns of lightly reinforced slabs. 
+For this reason, the minimum effective prestress is required 
+to be provided at every cross section.
+If the slab thickness varies along the span of a slab or 
+perpendicular to the span of a slab, resulting in a varying 
+slab cross section, the 125 psi minimum effective prestress 
+and maximum tendon spacing is required at every cross 
+section tributary to the tendon or group of tendons along the 
+span, considering both the thinner and thicker slab sections. 
+This may result in higher than the minimum fpc in thinner 
+cross sections, and tendons spaced at less than the maximum 
+in thicker cross sections along a span with varying thickness, 
+due to the practical aspects of tendon placement in the field.
+R8.6.2.2 Minimum flexural reinforcement is required for 
+reasons similar to those discussed in R9.6.1.1 for nonpre -
+stressed beams.
+R8.6.2.3 Some bonded reinforcement is required by the 
+Code in prestressed slabs to limit crack width and spacing at 
+service-level  load when concrete tensile stresses exceed the 
+modulus of rupture and, for slabs with unbonded tendons, 
+to ensure flexural  behavior at nominal strength, rather than 
+tied-arch behavior. Providing the minimum bonded rein -
+forcement as stipulated in this provision helps to ensure the 
+desired behavior. 
+The minimum amount of bonded reinforcement in 
+two-way flat slab systems is based on reports by Joint ACI-
+ASCE Committee 423 (1958) and ACI PRC-423.3. Limited 
+research available for two-way flat slabs with drop panels 
+(Odello and Mehta 1967 ) indicates that behavior of these 
+particular systems is similar to the behavior of flat plates.
+8.6.2 Minimum flexural reinforcement in prestressed slabs
+8.6.2.1 For prestressed slabs, the effective prestress force 
+Apsfse shall provide a minimum average compressive stress of 
+125 psi on the slab section tributary to the tendon or tendon 
+group. For slabs with varying cross section along the slab 
+span, either parallel or perpendicular to the tendon or tendon 
+group, the minimum average effective prestress of 0.9 MPa 
+is required at every cross section tributary to the tendon or 
+tendon group along the span.
+8.6.2.2 For slabs with bonded prestressed reinforcement, 
+total quantity of As and Aps shall be adequate to develop a 
+factored load at least 1.2 times the cracking load calculated 
+on the basis of fr defined in 19.2.3.
+8.6.2.2.1 For slabs with both flexural and shear design 
+strength at least twice the required strength, 8.6.2.2 need not 
+be satisfied.
+8.6.2.3 For prestressed slabs, a minimum area of bonded 
+deformed longitudinal reinforcement, As,min, shall be 
+provided in the precompressed tension zone in the direction 
+of the span under consideration in accordance with Table 
+8.6.2.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 124 (doc p.124) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+124 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+For usual loads and span lengths, flat plate tests (Joint ACI-
+ASCE Committee 423 (1958))  indicate satisfactory perfor-
+mance without bonded reinforcement in positive moment 
+regions where ft ≤ 0.17  √ 
+__
+   f  c   ′     . In positive moment regions 
+where 0.17  √ 
+__
+   f  c   ′      ≤  ft ≤ 0.5  √ 
+__
+   f  c   ′     , a minimum bonded reinforce -
+ment area proportioned to resist Nc according to Eq. (8.6.2.3(b)) 
+is required. The tensile force Nc is calculated at service load on 
+the basis of an uncracked, homogeneous section.
+Research on unbonded post-tensioned two-way flat slab 
+systems (Joint ACI-ASCE Committee 423 [1958], [1974]; 
+ACI PRC-423.3 ; Odello and Mehta [1967 ]) shows that 
+bonded reinforcement in negative moment regions, propor -
+tioned on the basis of 0.075 percent of the cross-sectional 
+area of the slab-beam strip reduces crack width and spacing. 
+The same area of bonded reinforcement is required in slabs 
+with either bonded or unbonded tendons. The minimum 
+bonded reinforcement area required by Eq. (8.6.2.3(c)) is 
+a minimum area independent of grade of reinforcement or 
+design yield strength. To account for different adjacent tribu-
+tary spans, this equation is given on the basis of slab-beam 
+strips as defined in 2.3. For rectangular slab panels, this 
+equation is conservatively based on the greater of the cross-
+sectional areas of the two intersecting slab-beam strips at 
+the column. This ensures that the minimum percentage of 
+reinforcement recommended by research is provided in both 
+directions. Concentration of this reinforcement in the top of 
+the slab directly over and immediately adjacent to the column 
+is important. Research also shows that where low tensile 
+stresses occur at service loads, satisfactory behavior has been 
+achieved at factored loads without bonded reinforcement. 
+However, the Code requires minimum bonded reinforcement 
+regardless of service load stress levels to help ensure flexural 
+continuity and ductility, and to limit crack widths and spacing 
+due to overload, temperature, or shrinkage. Research on 
+post-tensioned flat plate-to-column connections is reported 
+in Smith and Burns (1974) , Burns and Hemakom (1977) , 
+Hawkins (1981), PTI TAB.1, and Foutch et al. (1990).
+Unbonded post-tensioned members do not inherently 
+provide large capacity for energy dissipation under severe 
+earthquake loadings because the member response is 
+primarily elastic. For this reason, unbonded post-tensioned 
+structural members reinforced in accordance with the provi-
+sions of this section should be assumed to resist only vertical 
+loads and to act as horizontal diaphragms between energy-
+dissipating elements under earthquake loadings of the 
+magnitude defined in 18.2.1.
+R8.7—Reinforcement detailing
+Table 8.6.2.3—Minimum bonded deformed 
+longitudinal reinforcement As,min in two-way slabs 
+with bonded or unbonded tendons
+Region
+Calculated ft afterall 
+losses, psi As,min, in.2
+Positive 
+moment
+ft ≤ 0.17  √ 
+__
+   f  c   ′     Not required (a)
+ 0.17  √ 
+__
+   f  c   ′      < ft ≤ 0.5  √ 
+__
+   f  c   ′           N  c   ____ 0.5 f  y       (b)[1],[2]
+Negative 
+moment at 
+columns
+ft ≤ 0.5  √ 
+__
+   f  c   ′     0.00075Acf (c)[2]
+[1]The value of fy shall not exceed 420 MPa.
+[2]For slabs with bonded tendons, it shall be permitted to reduce As,min by the area of 
+the bonded prestressed reinforcement located within the area used to determine Nc 
+for positive moment, or within the width of slab defined in 8.7.5.3(a) for negative 
+moment.
+8.7—Reinforcement detailing
+8.7.1 General
+8.7.1.1 Concrete cover for reinforcement shall be in accor-
+dance with 20.5.1.
+8.7.1.2 Development lengths of deformed and prestressed 
+reinforcement shall be in accordance with 25.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 125 (doc p.125) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 125
+R8.7.2 Flexural reinforcement spacing
+R8.7.2.2 The requirement that center-to-center spacing of 
+longitudinal reinforcement be not more than twice the slab 
+thickness at critical sections applies only to reinforcement 
+in solid slabs, and not to reinforcement in joists or waffle 
+slabs. This limit is to ensure uniform flexural action, control 
+cracking, and provide strength for loads concentrated on 
+small areas of the slab. Refer also to R24.3.
+R8.7.2.3 This section provides spacing of tendonsin one 
+direction that will permit use of banded tendon distributions 
+in the perpendicular direction, based on results reported by 
+Burns and Hemakom (1977).
+R8.7.3 Corner restraint in slabs
+R8.7.3.1 Unrestrained corners of two-way slabs tend to 
+lift when loaded. If this lifting tendency is restrained by 
+edge walls, columns, or stiff beams, bending moments will 
+develop in the corner of the slab. This section requires rein -
+forcement, equivalent to that required for positive moment 
+in the primary direction, to resist these moments and control 
+cracking. Refer to Fig. R8.7.3.1.
+8.7.1.3 Splice lengths of deformed reinforcement shall be 
+in accordance with 25.5.
+8.7.1.4 Bundled bars shall be detailed in accordance with 
+25.6.
+8.7.2 Flexural reinforcement spacing
+8.7.2.1 Minimum spacing s shall be in accordance with 
+25.2.
+8.7.2.2 For nonprestressed solid slabs, maximum spacing 
+s of deformed longitudinal reinforcement shall be the lesser 
+of 2h and 450 mm at critical sections, and the lesser of 3 h 
+and 450 mm at other sections.
+8.7.2.3 For prestressed slabs with uniformly distributed 
+loads, maximum spacing s of tendons or groups of tendons 
+in at least one direction shall be the lesser of 8h and 1.5 m.
+8.7.2.4 Concentrated loads and openings shall be consid -
+ered in determining tendon spacing.
+8.7.3 Corner restraint in slabs
+8.7.3.1 At exterior corners of slabs supported by edge 
+walls or where one or more edge beams have a value of αf 
+greater than 1.0, reinforcement at top and bottom of slab 
+shall be designed to resist Mu per unit width due to corner 
+effects equal to the maximum positive Mu per unit width in 
+the slab panel.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 126 (doc p.126) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+126 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+(LLong)/5
+LLong
+LShort
+(LLong)/5
+(LLong)/5
+LLong
+LShort
+(LLong)/5
+As top per 8.7.3
+B-1
+B-1
+B-2
+As bottom per 8.7.3
+As per 8.7.3
+top and bottom
+OPTION 1
+OPTION 2
+Notes:
+1. Applies where B-1 or B-2 has αf > 1.0
+2. Max. bar spacing 2h, where h = slab thickness
+B-2
+Fig. R8.7.3.1—Slab corner reinforcement.
+8.7.3.1.1 Factored moment due to corner effects, Mu, shall 
+be assumed to be about an axis perpendicular to the diag -
+onal from the corner in the top of the slab and about an axis 
+parallel to the diagonal from the corner in the bottom of the 
+slab.
+8.7.3.1.2 Reinforcement shall be provided for a distance in 
+each direction from the corner equal to one-fifth the longer 
+span.
+8.7.3.1.3 Reinforcement shall be placed parallel to the 
+diagonal in the top of the slab and perpendicular to the diag-
+onal in the bottom of the slab. Alternatively, reinforcement 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 127 (doc p.127) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 127
+R8.7.4 Flexural reinforcement in nonprestressed slabs
+R8.7.4.1 Termination of reinforcement
+R8.7.4.1.1 If spandrel beams are built solidly into walls, 
+the slab edge support approaches complete fixity. Without an 
+integral wall, the slab edge support could approach being a 
+free edge or simply supported, depending on the flexural and 
+torsional rigidity of the spandrel beam. These requirements 
+provide for unknown edge support conditions that might 
+occur in a structure.
+R8.7.4.1.2 If spandrel beams are built solidly into walls, 
+the slab edge support approaches complete fixity. Without an 
+integral wall, the slab edge support could approach being a 
+free edge or simply supported, depending on the flexural and 
+torsional rigidity of the spandrel beam. These requirements 
+provide for unknown edge support conditions that might 
+occur in a structure.
+R8.7.4.1.3 The minimum lengths and extensions of rein -
+forcement expressed as a fraction of the clear span in Fig. 
+8.7.4.1.3 were developed for slabs of ordinary proportions 
+supporting gravity loads. These minimum lengths and 
+extensions of bars may not be sufficient to intercept poten -
+tial punching shear cracks in thick two-way slabs such as 
+transfer slabs, podium slabs, and mat foundations. Therefore, 
+the Code requires extensions for at least half of the column 
+strip top bars to be at least 5 d. For slabs with drop panels, 
+d is the effective depth within the drop panel. In these thick 
+two-way slabs, continuous reinforcement in each direction 
+near both faces is desirable to improve structural integrity, 
+control cracking, and reduce creep deflections. As illustrated 
+in Fig. R8.7.4.1.3, punching shear cracks, which can develop 
+at angles as low as approximately 20 degrees, may not be 
+intercepted by the tension reinforcement in thick slabs if this 
+reinforcement does not extend to at least 5d beyond the face 
+of the support. For moments resulting from combined lateral 
+and gravity loadings, these minimum lengths and extensions 
+may not be sufficient.
+Bent bars are seldom used and are difficult to place prop -
+erly. Bent bars, however, are permitted provided they comply 
+with 8.7.4.1.3(c). Guidance on the use of bent bar systems 
+can be found in 13.4.8 of the 1983 Code.
+shall be placed in two layers parallel to the sides of the slab 
+in both the top and bottom of the slab.
+8.7.4 Flexural reinforcement in nonprestressed slabs
+8.7.4.1 Termination of reinforcement
+8.7.4.1.1 Where a slab is supported on spandrel beams, 
+columns, or walls, reinforcement perpendicular to a discon -
+tinuous edge shall satisfy (a) and (b):
+(a) Positive moment reinforcement shall extend to the 
+edge of slab and have embedment, straight or hooked, 
+at least 150 mm into spandrel beams, columns, or walls
+(b) Negative moment reinforcement shall be bent, 
+hooked, or otherwise embedded into spandrel beams, 
+columns, or walls, to develop fy in tension at the face 
+of support
+8.7.4.1.2 Where a slab is not supported by a spandrel beam 
+or wall at a discontinuous edge, or where a slab cantilevers 
+beyond the support, it shall be permitted to develop the rein-
+forcement within the slab.
+8.7.4.1.3 For slabs without beams, reinforcement exten -
+sions shall be in accordance with (a) through (c):
+(a) Reinforcement lengths shall be at least in accordance 
+with Fig. 8.7.4.1.3, and if slabs act as primary members 
+resisting lateral loads, reinforcement lengths shall be at 
+least those required by analysis.
+(b) If adjacent spans are unequal, extensions of nega -
+tive moment reinforcement beyond the face of support 
+in accordance with Fig. 8.7.4.1.3 shall be based on the 
+longer span.
+(c) Bent bars shall be permitted only where the depth-to-
+span ratio permits use of bends of 45 degrees or less.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 128 (doc p.128) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+128 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Minimum
+As at
+section
+50%
+50%
+100%
+100%
+Remainder
+Remainder
+0.30ℓn 0.33ℓn
+0.20ℓn 0.20ℓn
+6 in.
+At least two 
+bars or wires 
+shall conform 
+to 8.7.4.2
+0.20ℓn 0.20ℓn
+Not less
+than 5d
+0.30ℓn 0.33ℓn
+6 in.
+c1 c1 c1
+6 in.
+Not 
+less
+than 
+5d
+Strip
+Column
+strip
+Location
+Middle
+strip
+Without drop panels With drop panels
+Top
+Bottom
+0.22ℓn 0.22ℓn0.22ℓn 0.22ℓn
+6 in.
+Max. 0.15ℓn Max. 0.15ℓn 6 in.
+Center to center span
+Exterior support
+(No slab continuity)
+Face of support
+Clear span - ℓn
+Center to center span
+Face of support
+Clear span - ℓn
+Exterior support
+(No slab continuity)
+Interior support
+(Continuity provided)
+Top
+Bottom
+Continuous 
+bars
+Splices shall be
+  permitted in this region
+/uni2104/uni2104/uni2104
+Fig. 8.7.4.1.3—Minimum extensions for deformed reinforcement in two-way slabs without beams.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 129 (doc p.129) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 129
+8.7.4.2 Structural integrity
+8.7.4.2.1 All bottom deformed bars or deformed wires 
+within the column strip, in each direction, shall be contin -
+uous or spliced using mechanical or welded splices in accor-
+dance with 25.5.7 or Class B tension lap splices in accor -
+dance with 25.5.2. Splices shall be located in accordance 
+with Fig. 8.7.4.1.3.
+8.7.4.2.2 At least two of the column strip bottom bars or 
+wires in each direction shall pass within the region bounded 
+by the longitudinal reinforcement of the column and shall be 
+developed in tension in accordance with 25.4 by substituting 
+a bar stress of 1.25fy for fy at exterior supports.
+8.7.5 Flexural reinforcement in prestressed slabs
+8.7.5.1 External tendons shall be attached to the slab in a 
+manner that maintains the specified eccentricity between the 
+tendons and the concrete centroid through the full range of 
+anticipated member deflections.
+h
+0.3ℓn
+5d
+0.3ℓn
+5d
+h
+Potential punching shear 
+crack is intercepted by 
+top reinforcement 
+terminating 0.3ℓn
+from column face (a) Ordinary Slab
+Extension of top reinforcement
+beyond 0.3ℓn to 5d from column 
+is required to intercept potential 
+punching shear crack
+(b) Thick Slab
+Fig. R8.7.4.1.3—Punching shear cracks in ordinary and thick slabs.
+R8.7.4.2 Structural integrity
+R8.7.4.2.1 The continuous column strip bottom rein -
+forcement provides the slab some residual ability to span to 
+adjacent supports should a single support be damaged. The 
+two continuous column strip bottom bars or wires through 
+the column are termed “integrity reinforcement,” and give 
+the slab some residual strength following a punching shear 
+failure at a single support ( Mitchell and Cook 1984 ). Joint 
+ACI-ASCE Committee 352 ( ACI PRC-352.1 ) provides 
+further guidance on design of integrity reinforcement at 
+slab-column connections. Similar provisions for slabs with 
+unbonded tendons are provided in 8.7.5.6.
+R8.7.5 Flexural reinforcement in prestressed slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 130 (doc p.130) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+130 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R8.7.5.2 Bonded reinforcement should be developed for 
+the required strength to resist factored loads. The require -
+ments of 7.7.3 are intended to develop bonded reinforce -
+ment for tensile or compressive forces resulting from flexure 
+under factored loads in accordance with 22.3.2, or by tensile 
+stresses at service load in accordance with Eq. (8.6.2.3(b)).
+R8.7.5.5 Termination of deformed reinforcement in slabs 
+with unbonded tendons
+R8.7.5.5.1 The minimum lengths apply to bonded rein -
+forcement required by 8.6.2.3, but not required for flexural 
+strength in accordance with 22.3.2. Research ( Odello and 
+Mehta 1967) on continuous spans shows that these minimum 
+lengths provide adequate behavior under service load and 
+factored load conditions.
+R8.7.5.6 Structural integrity
+R8.7.5.6.1 Prestressing tendons that pass through the slab-
+column joint at any location over the depth of the slab are 
+assumed to suspend the slab following a punching shear 
+failure, provided the tendons are continuous through or 
+anchored within the region bounded by the longitudinal rein-
+forcement of the column and are prevented from bursting 
+through the top surface of the slab (ACI PRC-352.1).
+R8.7.5.6.2 Outside of column and shear cap faces, struc -
+tural integrity tendons should pass below orthogonal tendons 
+from adjacent spans so that vertical movements of the integ-
+rity tendons are restrained by the orthogonal tendons. Where 
+tendons are distributed in one direction and banded in the 
+orthogonal direction, this requirement can be satisfied by first 
+8.7.5.2 If bonded deformed longitudinal reinforcement 
+is required to satisfy flexural strength or for tensile stress 
+conditions in accordance with Eq. (8.6.2.3(b)), the detailing 
+requirements of 7.7.3 shall be satisfied.
+8.7.5.3 Bonded longitudinal reinforcement required by 
+Eq. (8.6.2.3(c)) shall be placed in the top of the slab, and 
+shall be in accordance with (a) through (c):
+(a) Reinforcement shall be distributed between lines that 
+are 1.5h outside opposite faces of the column support.
+(b) At least four deformed bars, deformed wires, or bonded 
+strands shall be provided in each direction.
+(c) Maximum spacing s between bonded longitudinal 
+reinforcement shall not exceed 300 mm.
+8.7.5.4 Termination of prestressed reinforcement
+8.7.5.4.1 Post-tensioned anchorage zones shall be 
+designed and detailed in accordance with 25.9.
+8.7.5.4.2 Post-tensioning anchorages and couplers shall be 
+designed and detailed in accordance with 25.8.
+8.7.5.5 Termination of deformed reinforcement in slabs 
+with unbonded tendons
+8.7.5.5.1 Length of deformed reinforcement required by 
+8.6.2.3 shall be in accordance with (a) and (b):
+(a) In positive moment areas, length of reinforcement 
+shall be at least ℓn/3 and be centered in those areas
+(b) In negative moment areas, reinforcement shall extend 
+at least ℓn/6 on each side of the face of support
+8.7.5.6 Structural integrity
+8.7.5.6.1 Except as permitted in 8.7.5.6.3, at least two 
+tendons with 12.7 mm diameter or larger strand shall be placed 
+in each direction at columns in accordance with (a) or (b):
+(a) Tendons shall pass through the region bounded by the 
+longitudinal reinforcement of the column.
+(b) Tendons shall be anchored within the region bounded 
+by the longitudinal reinforcement of the column, and the 
+anchorage shall be located beyond the column centroid 
+and away from the anchored span.
+8.7.5.6.2 Outside of the column and shear cap faces, the 
+two structural integrity tendons required by 8.7.5.6.1 shall 
+pass under any orthogonal tendons in adjacent spans.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 131 (doc p.131) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 131
+placing the integrity tendons for the distributed tendon direc-
+tion and then placing the banded tendons. Where tendons are 
+distributed in both directions, weaving of tendons is neces -
+sary and use of 8.7.5.6.3 may be an easier approach.
+R8.7.5.6.3 In some prestressed slabs, tendon layout 
+constraints make it difficult to provide the structural integ -
+rity tendons required by 8.7.5.6.1. In such situations, the 
+structural integrity tendons can be replaced by deformed bar 
+bottom reinforcement. The equations given in 8.7.5.6.3.1 are 
+the equivalent of 1.5 times the minimum flexural reinforce -
+ment area required for nonprestressed beams (9.6.1.2).
+R8.7.6 Shear reinforcement – stirrups
+Research ( Hawkins 1974 ; Broms 1990 ; Yamada et al. 
+1991; Hawkins et al. 1975 ; ACI PRC-421.1 ) has shown 
+that shear reinforcement consisting of properly anchored 
+bars or wires and single- or multiple-leg stirrups, or closed 
+stirrups, can increase punching shear resistance of slabs. 
+Spacing limits given in 8.7.6.3 correspond to slab shear 
+reinforcement details that have been shown to be effec -
+tive. Anchorage requirements for stirrup-type shear rein -
+forcement, which should also be applied for bars or wires 
+used as slab shear reinforcement, are given in 25.7.1. It is 
+essential that this shear reinforcement engage longitudinal 
+reinforcement at both the top and bottom of the slab, as 
+shown for typical details in Fig. R8.7.6(a) to (d). Anchorage 
+of shear reinforcement with hooks according to 25.7.1 is 
+difficult in slabs thinner than 250 mm. Shear reinforcement 
+consisting of headed studs in accordance with 8.7.7 has been 
+used successfully (ACI PRC-421.1). Heads conforming to 
+20.2.1.6 are permitted in 25.7.1 as an alternative to hooks 
+8.7.5.6.3 Slabs with tendons not satisfying 8.7.5.6.1 shall 
+be permitted if bonded bottom deformed reinforcement is 
+provided in each direction in accordance with 8.7.5.6.3.1 
+through 8.7.5.6.3.3.
+8.7.5.6.3.1 Minimum bottom deformed reinforcement As 
+in each direction shall be the larger of (a) and (b). The value 
+of fy shall be limited to a maximum of 550 MPa: 
+(a)   A  s   =   
+ 0.37 
+ 
+ √ 
+_
+ fc'  c2d
+ ____ fy
+     (8.7.5.6.3.1a)
+(b)   A  s   =    2.1c2d _ fy
+    (8.7.5.6.3.1b)
+where c2 is measured at the column faces through which the 
+reinforcement passes.
+8.7.5.6.3.2 Bottom deformed reinforcement calculated 
+in 8.7.5.6.3.1 shall pass within the region bounded by the 
+longitudinal reinforcement of the column and shall be  
+developed in tension in accordance with 25.4 by substituting 
+a bar stress of 1.25fy for fy at exterior supports.
+8.7.5.6.3.3 Bottom deformed reinforcement shall be devel-
+oped in tension in accordance with 25.4 by substituting a bar 
+stress of 1.25fy for fy beyond the column or shear cap face.
+8.7.6 Shear reinforcement – stirrups
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 132 (doc p.132) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+132 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+at one or both ends for anchorage of shear reinforcement in 
+slabs.
+In a slab-column connection for which moment transfer is 
+negligible, the shear reinforcement should be symmetrical 
+about the centroid of the critical section (Fig. R8.7.6(e)). 
+Spacing limits defined in 8.7.6.3 are also shown in 
+Fig. R8.7.6(e) and (f).
+At exterior connections or for interior connections where 
+moment transfer is significant, closed stirrups are recom -
+mended in a pattern as symmetrical as possible. Although 
+the average shear stresses on faces AD and BC of the exte -
+rior connection in Fig. R8.7.6(f) are lower than on face AB, 
+the closed stirrups extending from faces AD and BC provide 
+some torsional strength along the edge of the slab.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 133 (doc p.133) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 133
+6db (75 mm min.)
+45 deg max.
+Refer to 25.3
+Refer to 25.3
+≤ 2d
+≥ 12db
+Refer to 25.3
+(a) single-leg stirrup or bar
+(c) multiple-leg stirrup or bar
+(d) closed stirrup
+(b) single-leg stirrup or bar with heads
+Fig. R8.7.6(a)-(d)— Single- or multiple-leg stirrup-type slab 
+shear reinforcement.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 134 (doc p.134) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+134 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+d/2d/2
+d/2
+d/2
+Critical section 
+through slab shear 
+reinforcement 
+(first line of 
+stirrup legs)
+Critical section 
+outside slab shear 
+reinforcement 
+Plan
+≤ 2d
+≤ d/2
+Elevation
+Column
+d
+Slab
+s ≤ d/2
+Fig. R8.7.6(e)—Arrangement of stirrup shear reinforce -
+ment, interior connection.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 135 (doc p.135) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 135
+d/2
+Plan
+≤ 2d
+≤ d/2
+Elevation
+Column
+d
+Slab
+s ≤ d/2
+AD
+BC
+d/2
+Slab edge
+Critical section 
+outside slab shear 
+reinforcement 
+Critical section 
+through slab shear 
+reinforcement (first 
+line of stirrup legs)
+d/2
+Fig. R8.7.6(f)—Arrangement of stirrup shear reinforcement, 
+edge connection.
+8.7.6.1 Single-leg, simple-U, multiple-U, and closed stir -
+rups shall be permitted as shear reinforcement.
+8.7.6.2 Stirrup anchorage and geometry shall be in accor-
+dance with 25.7.1.
+8.7.6.3 If stirrups are provided, location and spacing shall 
+be in accordance with Table 8.7.6.3.
+Table 8.7 .6.3—First stirrup location and spacing 
+limits
+Direction of 
+measurement
+Description of 
+measurement
+Maximum distance 
+or spacing, in.
+Perpendicular to 
+column face
+Distance from column face 
+to first stirrup d/2
+Spacing between stirrups d/2
+Parallel to 
+column face
+Spacing between vertical 
+legs of stirrups 2d
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 136 (doc p.136) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+136 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+8.7.7 Shear reinforcement – headed studs R8.7.7 Shear reinforcement – headed studs
+Using headed stud assemblies as shear reinforcement in 
+slabs requires specifying the stud shank diameter, spacing 
+of the studs, and height of the assemblies for the particular 
+applications.
+Tests ( ACI PRC-421.1 ) have shown that vertical studs 
+mechanically anchored close to the top and bottom of slabs 
+are effective in resisting punching shear. The specified height 
+to achieve this objective while providing a reasonable toler-
+ance in specifying the height, as shown in Fig. R20.5.1.3.6.
+Compared with a leg of a stirrup having bends at the ends, 
+in a thin slab a stud head exhibits smaller slip and results 
+in smaller shear crack widths. The improved performance 
+results in increased limits for shear strength and spacing 
+between peripheral lines of headed shear stud reinforcement. 
+Typical arrangements of headed shear stud reinforcement 
+are shown in Fig. R8.7.7. The critical section beyond the 
+shear reinforcement generally has a polygonal shape. Equa-
+tions for calculating shear stresses on such sections are given 
+in ACI PRC-421.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 137 (doc p.137) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 137
+d/ 2 ≤ d/ 2
+(typ.) ≤ 2d
+(typ.)
+s
+d/ 2 d/ 2
+d/ 2
+≤2 d
+(typ.)
+≤ 2d
+(typ.)
+s
+s
+d/ 2
+d/ 2
+≤ d /2
+(typ.)
+≤ d /2
+(typ.)
+A A
+Studs with
+base rail
+Av = cross-sectional
+area of studs on any
+peripheral line
+Av = cross-sectional area of 
+studs on a peripheral line
+Interior column
+Shear 
+critical 
+sections
+Outermost
+peripheral
+line of studs
+Shear 
+critical 
+sections
+Shear 
+critical 
+sections
+Section A-A
+Edge column
+Corner column
+Outermost
+peripheral
+line of studs
+Outermost peripheral 
+line of studs
+Slab
+edges
+Fig. R8.7.7—Typical arrangements of headed shear stud reinforcement and critical sections.
+8.7.7.1 Headed shear stud reinforcement shall be permitted 
+if placed perpendicular to the plane of the slab.
+8.7.7.1.1 The overall height of the shear stud assembly 
+shall be at least the thickness of the slab minus the sum of 
+(a) through (c):
+(a) Concrete cover on the top flexural reinforcement
+(b) Concrete cover on the base rail
+(c) One-half the bar diameter of the flexural tension 
+reinforcement
+8.7.7.1.2 Headed shear stud reinforcement location and 
+spacing shall be in accordance with Table 8.7.7.1.2.
+R8.7.7.1.2 The specified spacings between peripheral 
+lines of shear reinforcement are justified by experiments 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 138 (doc p.138) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+138 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+(ACI PRC-421.1). Clear spacing between the heads of studs 
+should be adequate to permit placing flexural reinforcement.
+R8.8—Nonprestressed two-way joist systems
+R8.8.1 General
+The empirical limits established for nonprestressed rein -
+forced concrete joist floors are based on successful past 
+performance of joist construction using common joist 
+forming systems. For prestressed joist construction, these 
+limits may be used as a guide.
+R8.8.1.4 A limit on maximum spacing of ribs is required 
+because of the provisions permitting higher shear strengths 
+and less concrete cover for the reinforcement for these rela -
+tively small, repetitive members.
+R8.8.1.5 The increase in shear strength is justified on 
+the basis of: 1) satisfactory performance of joist construc -
+tion designed with higher calculated shear strengths; and 
+2) potential for redistribution of local overloads to adjacent 
+joists.
+Table 8.7 .7 .1.2—Shear stud location and spacing limits
+Direction of 
+measurement
+Description of 
+measurement Condition
+Maximum distance or 
+spacing, in.
+Perpendicular to 
+column face
+Distance from column face 
+to first peripheral line of 
+shear studs
+All d/2
+Constant spacing between 
+peripheral lines of shear 
+studs
+Nonprestressed slab with vu ≤ ϕ0.5  √ 
+__
+   f  c   ′     3d/4
+Nonprestressed slab with vu > ϕ0.5  √ 
+__
+   f  c   ′     d/2
+Prestressed slabs conforming to 22.6.5.4 3d/4
+Parallel to column face
+Spacing between adjacent 
+shear studs on peripheral 
+line nearest to column face
+All 2d
+8.8—Nonprestressed two-way joist systems
+8.8.1 General
+8.8.1.1 Nonprestressed two-way joist construction consists 
+of a monolithic combination of regularly spaced ribs and a 
+top slab designed to span in two orthogonal directions.
+8.8.1.2 Width of ribs shall be at least 100 mm at any loca-
+tion along the depth.
+8.8.1.3 Overall depth of ribs, excluding slab thickness, 
+shall not exceed 3.5 times the minimum width.
+8.8.1.4 Clear spacing between ribs shall not exceed 750 mm.
+8.8.1.5 Vc shall be permitted to be taken as 1.1 times the 
+values calculated in 22.5.
+8.8.1.6 For structural integrity, at least one bottom bar 
+in each joist shall be continuous and shall be developed in 
+tension in accordance with 25.4 by substituting a bar stress 
+of 1.25fy for fy at the face of supports.
+8.8.1.7 Reinforcement area perpendicular to the ribs shall 
+satisfy slab moment strength requirements, considering 
+load concentrations, and shall be at least the shrinkage and 
+temperature reinforcement area in accordance with 24.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 139 (doc p.139) ---
+CODE COMMENTARY
+8  Two-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 139
+8.8.1.8 Two-way joist construction not satisfying the limi-
+tations of 8.8.1.1 through 8.8.1.4 shall be designed as slabs 
+and beams.
+8.8.2 Joist systems with structural fillers
+8.8.2.1 If permanent burned clay or concrete tile fillers of 
+material having a unit compressive strength at least equal to 
+fc′ in the joists are used, 8.8.2.1.1 and 8.8.2.1.2 shall apply.
+8.8.2.1.1 Slab thickness over fillers shall be at least the 
+greater of one-twelfth the clear distance between ribs and 
+40 mm.
+8.8.2.1.2 For calculation of shear and negative moment 
+strength, it shall be permitted to include the vertical shells of 
+fillers in contact with the ribs. Other portions of fillers shall 
+not be included in strength calculations.
+8.8.3 Joist systems with other fillers
+8.8.3.1 If fillers not complying with 8.8.2.1 or removable 
+forms are used, slab thickness shall be at least the greater of 
+one-twelfth the clear distance between ribs and 50 mm.
+8.9—Lift-slab construction
+8.9.1 In slabs constructed with lift-slab methods where it 
+is impractical to pass the tendons required by 8.7.5.6.1 or 
+the bottom bars required by 8.7.4.2 or 8.7.5.6.3 through the 
+column, at least two post-tensioned tendons or two bonded 
+bottom bars or wires in each direction shall pass through the 
+lifting collar as close to the column as practicable, and be 
+continuous or spliced using mechanical or welded splices 
+in accordance with 25.5.7 or Class B tension lap splices in 
+accordance with 25.5.2. At exterior columns, the reinforce -
+ment shall be anchored at the lifting collar.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 140 (doc p.140) ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+140 ACI 318-25: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+Notes
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

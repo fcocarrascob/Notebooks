@@ -1,0 +1,1082 @@
+--- PDF idx 83 (doc p.83) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 83
+R6.4.3.3 The use of only 75% of the full factored live load 
+for maximum moment loading patterns is based on the fact 
+that maximum negative and maximum positive live load 
+moments cannot occur simultaneously and that redistribu -
+tion of maximum moments is thus possible before failure 
+occurs. This procedure, in effect, permits some local over -
+stress under the full factored live load if it is distributed 
+in the prescribed manner, but still ensures that the design 
+strength of the slab system after redistribution of moment is 
+not less than that required to resist the full factored dead and 
+live loads on all panels.
+R6.4.4 If large or closely-spaced embedments are created 
+within slabs, maximum bending and shear stresses may 
+occur near the void. In these cases, the designer should 
+consider the effect of applying the live load to only a portion 
+of the slab (example Fig. R6.4.4) to determine if localized 
+bending and shear behavior controls the design. Effects of 
+concentrated live loads should also be considered. 
+Live load
+Void within slab
+Shear due to live load
+~
+Fig. R6.4.4—Example of applying live load to a portion 
+of the slab to calculate localized shear at the internal void  
+R6.5—Simplified method of analysis for 
+nonprestressed continuous beams and one-way 
+slabs
+6.4.3.2 If L is variable and does not exceed 0.75 D, or the 
+nature of L is such that all panels will be loaded simultane -
+ously, it shall be permitted to assume that maximum Mu at 
+all sections occurs with factored L applied simultaneously 
+to all panels.
+6.4.3.3 For loading conditions other than those defined in 
+6.4.3.1 or 6.4.3.2, it shall be permitted to assume (a) and (b):
+(a) Maximum positive Mu near midspan of panel occurs 
+with 75% of factored L on the panel and alternate panels
+(b) Maximum negative Mu at a support occurs with 75% of 
+factored L on adjacent panels only
+ 6.4.4 For embedments creating voids parallel to the slab 
+plane with cross-section dimension larger than one-third the 
+slab thickness, or spaced closer than three void diameters 
+or widths on center, the arrangement of live load on only a 
+portion of the slab shall be considered. 
+6.5—Simplified method of analysis for 
+nonprestressed continuous beams and one-way 
+slabs
+6.5.1 It shall be permitted to calculate Mu and Vu due to 
+gravity loads in accordance with this section for continuous 
+beams and one-way slabs satisfying (a) through (e):
+(a) Members are prismatic
+(b) Loads are uniformly distributed
+(c) L≤ 3D
+(d) There are at least two spans
+(e) The longer of two adjacent spans does not exceed the 
+shorter by more than 20%
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 84 (doc p.84) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+84 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R6.5.2 The approximate moments and shears give reason-
+able values for the stated conditions if the continuous 
+beams and one-way slabs are part of a frame or continuous 
+construction. Because the load patterns that produce critical 
+values for moments in columns of frames differ from those 
+for maximum negative moments in beams, column moments 
+should be evaluated separately.
+R6.5.5 This section is provided to make certain that 
+moments are included in column design. The moment refers 
+to the difference between the end moments of the members 
+framing into the column and exerted at the column centerline.
+R6.6—Linear elastic first-order analysis
+R6.6.1 General
+R6.6.1.1 When using linear elastic first-order analysis, 
+slenderness effects are calculated using the moment magni -
+fier approach ( MacGregor et al. 1970 ; MacGregor 1993 ; 
+Ford et al. 1981).
+6.5.2 Mu due to gravity loads shall be calculated in accor-
+dance with Table 6.5.2.
+Table 6.5.2—Approximate moments for nonprestressed continuous beams and one-way slabs
+Moment Location Condition Mu
+Positive
+End span
+Discontinuous end integral with 
+support wuℓn2/14
+Discontinuous end unrestrained wuℓn2/11
+Interior spans All wuℓn2/16
+Negative[1]
+Interior face of exterior support
+Member built integrally with 
+supporting spandrel beam wuℓn2/24
+Member built integrally with 
+supporting column wuℓn2/16
+Exterior face of first interior support
+Two spans wuℓn2/9
+More than two spans wuℓn2/10
+Face of other supports All wuℓn2/11
+Face of all supports satisfying (a) 
+or (b)
+(a) slabs with spans not exceeding 
+3 m
+(b) beams where ratio of sum of 
+column stiffnesses to beam stiffness 
+exceeds 8 at each end of span
+wuℓn2/12
+[1]To calculate negative moments, ℓn shall be the average of the adjacent clear span lengths.
+6.5.3 Moments calculated in accordance with 6.5.2 shall 
+not be redistributed.
+6.5.4 Vu due to gravity loads shall be calculated in accor -
+dance with Table 6.5.4.
+Table 6.5.4—Approximate shears for 
+nonprestressed continuous beams and one-way 
+slabs
+Location Vu
+Exterior face of first interior support 1.15wuℓn/2
+Face of all other supports wuℓn/2
+6.5.5 Floor or roof level moments shall be resisted by 
+distributing the moment between columns immediately 
+above and below the given floor in proportion to the relative 
+column stiffnesses considering conditions of restraint.
+6.6—Linear elastic first-order analysis
+6.6.1 General
+6.6.1.1 Slenderness effects shall be considered in accor -
+dance with 6.6.4, unless they are allowed to be neglected by 
+6.2.5.1.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 85 (doc p.85) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 85
+R6.6.2 Modeling of members and structural systems
+R6.6.2.1 This section is provided to make certain that 
+moments are included in column design if members have 
+been proportioned using 6.5.1 and 6.5.2. The moment refers 
+to the difference between the end moments of the members 
+framing into the column and exerted at the column centerline.
+R6.6.2.3 A common feature of modern frame analysis 
+software is the assumption of rigid connections. Section 
+6.6.2.3(b) is intended to apply to intersecting elements in 
+frames, such as beam-column joints.
+R6.6.3 Section properties
+R6.6.3.1 Factored load analysis
+R6.6.3.1.1 The values of I and A have been chosen from 
+the results of frame tests and analyses, and include an allow-
+ance for the variability of the calculated deflections. The 
+moments of inertia are taken from MacGregor and Hage 
+(1977), which are multiplied by a stiffness reduction factor 
+ϕK = 0.875 (refer to R6.6.4.5.2). For example, the moment of 
+inertia for columns is 0.875(0.80Ig) = 0.70Ig.
+ The moment of inertia of T-beams should be based on 
+the effective flange width defined in 6.3.2.1 or 6.3.2.2. It is 
+generally sufficiently accurate to take Ig of a T-beam as 2 Ig 
+for the web, 2(bwh3/12).
+ If the factored moments and shears from an analysis 
+based on the moment of inertia of a wall, taken equal to 
+0.70Ig, indicate that the wall will crack in flexure, based on 
+the modulus of rupture, the analysis should be repeated with 
+I = 0.35Ig in those stories where cracking is predicted using 
+factored loads.
+ The values of the moments of inertia were derived for 
+nonprestressed members. For prestressed members, the 
+moments of inertia may differ depending on the amount, 
+location, and type of reinforcement, and the degree of 
+6.6.1.2 Redistribution of moments calculated by an elastic 
+first-order analysis shall be permitted in accordance with 
+6.6.5.
+6.6.2 Modeling of members and structural systems
+6.6.2.1 Floor or roof level moments shall be resisted by 
+distributing the moment between columns immediately 
+above and below the given floor in proportion to the relative 
+column stiffnesses and considering conditions of restraint.
+6.6.2.2 For frames or continuous construction, consider -
+ation shall be given to the effect of floor and roof load patterns 
+on transfer of moment to exterior and interior columns, and 
+of eccentric loading due to other causes.
+6.6.2.3 It shall be permitted to simplify the analysis model 
+by the assumptions of (a), (b), or both:
+(a) Solid slabs or one-way joist systems built integrally 
+with supports, with clear spans not more than 10 ft, shall 
+be permitted to be analyzed as continuous members on 
+knife-edge supports with spans equal to the clear spans 
+of the member and width of support beams otherwise 
+neglected.
+(b) For frames or continuous construction, it shall be 
+permitted to assume the intersecting member regions are 
+rigid.
+6.6.3 Section properties
+6.6.3.1 Factored load analysis
+6.6.3.1.1 Moment of inertia and cross-sectional area 
+of members shall be calculated in accordance with Tables 
+6.6.3.1.1(a) or 6.6.3.1.1(b), unless a more rigorous analysis 
+is used. If sustained lateral loads are present, I for columns 
+and walls shall be divided by (1 + βds), where βds is the ratio 
+of maximum factored sustained shear within a story to the 
+maximum factored shear in that story associated with the 
+same load combination.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 86 (doc p.86) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+86 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+cracking prior to reaching ultimate load. The stiffness values 
+for prestressed concrete members should include an allow -
+ance for the variability of the stiffnesses.
+ Shear area Ashear is used to calculate shear deformations. 
+Ashear depends on the shape of the gross cross section, the 
+amount of concrete degradation the member has sustained, 
+and is generally less than the gross cross-sectional area. For 
+a rectangular cross section, Ashear ≤ 5/6Ag. 
+ The equations in Table 6.6.3.1.1(b) provide more refined 
+values of I considering axial load, eccentricity, reinforce -
+ment ratio, and concrete compressive strength as presented 
+in Khuntia and Ghosh (2004a ,b). The stiffnesses provided 
+in these references are applicable for all levels of loading, 
+including service and ultimate, and consider a stiffness 
+reduction factor ϕK comparable to that for the moment of 
+inertias included in Table 6.6.3.1.1(a). For use at load 
+levels other than ultimate, Pu and Mu should be replaced 
+with their appropriate values at the desired load level.  For 
+factored lateral load deflection analysis if inelastic behavior 
+is expected, stiffnesses should be calculated according to 
+6.6.3.1.2. 
+Table 6.6.3.1.1(a)—Moments of inertia and cross-sectional areas permitted for elastic analysis at factored 
+load level
+Member and condition Moment of inertia
+Cross-sectional area for 
+axial deformations
+Cross-sectional area for 
+shear deformations
+Columns 0.70Ig
+1.0Ag 1.0Ashear
+Walls
+Uncracked 0.70Ig
+Cracked 0.35Ig
+Beams 0.35Ig
+Flat plates and flat slabs 0.25Ig
+Table 6.6.3.1.1(b)—Alternative moments of inertia for elastic analysis at factored load
+Member
+Alternative value of I for elastic analysis
+Minimum I Maximum
+Columns and walls 0.35Ig    (  0.80 + 25   A  st   _  A  g     )    (  1 −    M  u   __  P  u  h   − 0.5   P  u   _  P  o     )   I  g   0.875Ig
+Beams, flat plates, and flat slabs 0.25Ig  (0.10 + 25ρ )   (  1.2 − 0.2   b  w   _ d   )    I  g   0.5Ig
+Notes: For continuous flexural members, I shall be permitted to be taken as the average of values obtained for the critical positive and negative moment sections. Pu and Mu shall be 
+calculated from the load combination under consideration, or the combination of Pu and Mu that produces the least value of I.
+6.6.3.1.2 For calculation of deflections under factored 
+lateral loads, if inelastic response is expected, member effec-
+tive stiffness shall be calculated in accordance with (a), (b), 
+or (c) except for two-way slab systems without beams desig-
+nated as part of the seismic-force-resisting system, where 
+I for slab members shall be defined by a model that is in 
+substantial agreement with results of comprehensive tests 
+and analysis. For all cases, it shall be permitted to calculate 
+cross-sectional area as indicated in Table 6.6.3.1.1(a). 
+(a) Section properties defined in Table 6.6.3.1.1(a) 
+(b) I = 0.5Ig for all members
+(c) I by a more detailed analysis, considering the effective 
+stiffness of all members under the loading conditions. 
+R6.6.3.1.2 The lateral deflection of a structure under 
+factored lateral loads can be substantially different from 
+that calculated using linear analysis, in part because of the 
+inelastic response of the members and the decrease in effec-
+tive stiffness. Selection of the appropriate effective stiffness 
+for reinforced concrete frame members has dual purposes: 1) 
+to provide realistic estimates of lateral deflection; and 2) to 
+determine deflection-imposed actions on the gravity system 
+of the structure. A detailed nonlinear analysis of the struc -
+ture would adequately capture these two effects. A simple 
+way to estimate an equivalent nonlinear lateral deflection 
+using linear analysis is to reduce the modeled stiffness of 
+the concrete members in the structure. The type of lateral 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 87 (doc p.87) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 87
+load analysis affects the selection of appropriate effective 
+stiffness values. For analyses with wind loading, where it is 
+desirable to prevent nonlinear action in the structure, effec -
+tive stiffnesses representative of pre-yield behavior may be 
+appropriate. For earthquake-induced loading, the level of 
+nonlinear deformation depends on the intended structural 
+performance and earthquake recurrence interval. 
+Varying degrees of confidence can be obtained from a 
+simple linear analysis based on the computational rigor 
+used to define the effective stiffness of each member. This 
+stiffness can be based on the secant stiffness to a point at or 
+beyond yield or, if yielding is not expected, to a point before 
+yield occurs. 
+Options (a) and (b) use values that approximate the stiff -
+ness for reinforced concrete building systems loaded to 
+near or beyond the yield level, and have been shown to 
+produce reasonable correlation with both experimental and 
+detailed analytical results ( Moehle 1992 ; Lepage 1998 ). 
+For earthquake-induced loading, the use of option (a) or 
+(b) may require a deflection amplification factor to account 
+for inelastic deformations. In general, for effective section 
+properties, Ec may be calculated or specified in accordance 
+with 19.2.2, the shear modulus maybe taken as 0.4 Ec, 
+and cross-sectional areas may be taken as given in Table 
+6.6.3.1.1(a).
+Analysis of buildings with two-way slab systems without 
+beams requires that the model represents the transfer of 
+lateral loads between vertical members. The model should 
+result in prediction of stiffness in substantial agreement with 
+results of comprehensive tests and analysis. Several accept -
+able models have been proposed to accomplish this objec -
+tive ( Dovich and Wight 2005 ; Hwang and Moehle 2000 ; 
+Vanderbilt and Corley 1983). 
+R6.6.3.2 Service load analysis
+R6.6.3.2.2 Analyses of deflections, vibrations, and 
+building periods are needed at various service (unfactored) 
+load levels (Grossman 1987, 1990) to determine the perfor-
+mance of the structure in service. The moments of inertia of 
+the structural members in the service load analyses should 
+be representative of the degree of cracking at the various 
+service load levels investigated. Unless a more accurate 
+estimate of the degree of cracking at service load level is 
+available, it is satisfactory to use 1.0/0.70 = 1.4 times the 
+moments of inertia provided in 6.6.3.1, not to exceed Ig, 
+for service load analyses. Serviceability considerations for 
+vibrations are discussed in R24.1.
+6.6.3.2 Service load analysis
+6.6.3.2.1 Immediate and time-dependent deflections due 
+to gravity loads shall be calculated in accordance with 24.2.
+6.6.3.2.2 It shall be permitted to calculate immediate 
+lateral deflections using a moment of inertia of 1.4 times I 
+defined in 6.6.3.1.2, or using a more detailed analysis, but 
+the value shall not exceed Ig.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 88 (doc p.88) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+88 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R6.6.4 Slenderness effects, moment magnification method
+R6.6.4.1 This section describes an approximate design 
+procedure that uses the moment magnifier concept to account 
+for slenderness effects. Moments calculated using a first-
+order frame analysis are multiplied by a moment magnifier 
+that is a function of the factored axial load Pu and the crit -
+ical buckling load Pc for the column. For the sway case, the 
+moment magnifier is a function of the sum of Pu of the story 
+and the sum of Pc of the sway-resisting columns in the story 
+considered. Nonsway and sway frames are treated sepa -
+rately. A first-order frame analysis is an elastic analysis that 
+excludes the internal force effects resulting from deflections.
+The moment magnifier design method requires the 
+designer to distinguish between nonsway frames, which are 
+designed according to 6.6.4.5, and sway frames, which are 
+designed according to 6.6.4.6. Frequently this can be done by 
+comparing the total lateral stiffness of the columns in a story 
+to that of the bracing elements. A compression member, such 
+as a column, wall, or brace, may be assumed nonsway if it is 
+located in a story in which the bracing elements (structural 
+walls, shear trusses, or other types of lateral bracing) have 
+such substantial lateral stiffness to resist the lateral deflec -
+tions of the story that any resulting lateral deflection is not 
+large enough to affect the column strength substantially. If 
+not readily apparent without calculations, 6.6.4.3 provides 
+two possible ways of determining if sway can be neglected.
+R6.6.4.3 In 6.6.4.3(a), a story in a frame is classified as 
+nonsway if the increase in the lateral load moments resulting 
+from PΔ effects does not exceed 5% of the first-order 
+moments ( MacGregor and Hage 1977 ). Section 6.6.4.3(b) 
+provides an alternative method of determining if a frame is 
+classified as nonsway based on the stability index for a story, 
+Q. In calculating Q, ∑ Pu should correspond to the lateral 
+loading case for which ∑Pu is greatest. A frame may contain 
+both nonsway and sway stories.
+If the lateral load deflections of the frame are calcu -
+lated using service loads and the service load moments of 
+inertia given in 6.6.3.2.2, it is permissible to calculate Q in 
+Eq. (6.6.4.4.1) using 1.2 times the sum of the service gravity 
+loads, the service load story shear, and 1.4 times the first-
+order service load story deflections.
+6.6.4 Slenderness effects, moment magnification method
+6.6.4.1 Unless 6.2.5.1 is satisfied, columns and stories in 
+structures shall be designated as being nonsway or sway. 
+Analysis of columns in nonsway frames or stories shall be 
+in accordance with 6.6.4.5. Analysis of columns in sway 
+frames or stories shall be in accordance with 6.6.4.6.
+6.6.4.2 The cross-sectional dimensions of each member 
+used in an analysis shall be within 10% of the specified 
+member dimensions in construction documents or the anal -
+ysis shall be repeated. If the stiffnesses of Table 6.6.3.1.1(b) 
+are used in an analysis, the assumed member reinforcement 
+ratio shall also be within 10% of the specified member rein-
+forcement in construction documents.
+6.6.4.3 It shall be permitted to analyze columns and stories 
+in structures as nonsway frames if (a) or (b) is satisfied:
+(a) The increase in column end moments due to second-
+order effects does not exceed 5% of the first-order end 
+moments
+(b) Q in accordance with 6.6.4.4.1 does not exceed 0.05
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 89 (doc p.89) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 89
+R6.6.4.4 Stability properties
+R6.6.4.4.2 In calculating the critical axial buckling load, 
+the primary concern is the choice of a stiffness ( EI)eff that 
+reasonably approximates the variations in stiffness due to 
+cracking, creep, and nonlinearity of the concrete stress-strain 
+curve. Section 6.6.4.4.4 may be used to calculate (EI)eff.
+R6.6.4.4.3 The effective length factor for a compres -
+sion member, such as a column, wall, or brace, considering 
+braced behavior, ranges from 0.5 to 1.0. It is recommended 
+that a k value of 1.0 be used. If lower values are used, the 
+calculation of k should be based on analysis of the frame 
+using I values given in 6.6.3.1.1. The Jackson and Moreland 
+Alignment Charts (Fig. R6.2.5.1) can be used to estimate 
+appropriate values of k (ACI SP-17(09); Column Research 
+Council 1966).
+R6.6.4.4.4 The numerators of Eq. (6.6.4.4.4a) to 
+(6.6.4.4.4c) represent the short-term column stiffness. Equa-
+tion (6.6.4.4.4b) was derived for small eccentricity ratios and 
+high levels of axial load. Equation (6.6.4.4.4a) is a simplified 
+approximation to Eq. (6.6.4.4.4b) and is less accurate (Mirza 
+1990). For improved accuracy, ( EI)eff can be approximated 
+using Eq. (6.6.4.4.4c).
+Creep due to sustained loads will increase the lateral 
+deflections of a column and, hence, the moment magnifica -
+tion. Creep effects are approximated in design by reducing 
+the stiffness ( EI)eff used to calculate Pc and, hence, δ, by 
+dividing the short-term EI provided by the numerator of 
+Eq. (6.6.4.4.4a) through (6.6.4.4.4c) by (1 + βdns). For 
+simplification, it can be assumed that βdns = 0.6. In this case, 
+Eq. (6.6.4.4.4a) becomes (EI)eff = 0.25EcIg.
+In reinforced concrete columns subject to sustained loads, 
+creep transfers some of the load from the concrete to the 
+longitudinal reinforcement, increasing the reinforcement 
+stresses. In the case of lightly reinforced columns, this load 
+transfer may cause the compression reinforcement to yield 
+prematurely, resulting in a loss in the effective EI. Accord-
+ingly, both the concrete and longitudinal reinforcement 
+terms in Eq. (6.6.4.4.4b) are reduced to account for creep.
+6.6.4.4 Stability properties
+6.6.4.4.1 The stability index for a story, Q, shall be calcu-
+lated by:
+  Q =   ∑ P  u   Δ  o   _____  V  us   ℓ  c      (6.6.4.4.1)
+where ∑Pu and Vus are the total factored vertical load and 
+horizontal story shear, respectively, in the story being eval -
+uated, and ∆ o is the first-order relative lateral deflection 
+between the top and the bottom of that story due to Vus.
+6.6.4.4.2 The critical buckling load Pc shall be calculated by:
+   P  c   =   
+ π   2   (EI)   eff  
+ ______   (k ℓ  u  )    2     (6.6.4.4.2)
+6.6.4.4.3 The effective length factor k shall be calculated 
+using Ec in accordance with 19.2.2 and I in accordance with 
+6.6.3.1.1. For nonsway members, k shall be permitted to be 
+taken as 1.0, and for sway members, k shall be at least 1.0.
+6.6.4.4.4 For columns, (EI)eff shall be calculated in accor-
+dance with (a), (b), or (c):
+(a)  (EI  )  eff   =   
+0.4 E  c   I  g  
+ ______ 1 +  β  dns      (6.6.4.4.4a)
+(b)  (EI  )  eff   =   
+ (0.2 E  c   I  g   +  E  s   I  se  ) 
+  ___________ 1 +  β  dns      (6.6.4.4.4b)
+(c)  (EI  )  eff   =    E  c  I ___ 1 +  β  dns      (6.6.4.4.4c)
+where βdns shall be the ratio of maximum factored sustained 
+axial load to maximum factored axial load associated with 
+the same load combination and I in Eq. (6.6.4.4.4c) is calcu-
+lated according to Table 6.6.3.1.1(b) for columns and walls.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 90 (doc p.90) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+90 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R6.6.4.5 Moment magnification method: Nonsway frames
+R6.6.4.5.2 The 0.75 factor in Eq. (6.6.4.5.2) is the stiff -
+ness reduction factor ϕK, which is based on the probability 
+of understrength of a single isolated slender column. Studies 
+reported in Mirza et al. (1987)  indicate that the stiffness 
+reduction factor ϕK and the cross-sectional strength reduction 
+ϕ factors do not have the same values. These studies suggest 
+the stiffness reduction factor ϕK for an isolated column should 
+be 0.75 for both tied and spiral columns. In the case of a 
+multistory frame, the column and frame deflections depend 
+on the average concrete strength, which is higher than the 
+strength of the concrete in the critical single understrength 
+column. For this reason, the value of ϕK implicit in I values 
+in 6.6.3.1.1 is 0.875.
+R6.6.4.5.3 The factor Cm is a correction factor relating the 
+actual moment diagram to an equivalent uniform moment 
+diagram. The derivation of the moment magnifier assumes 
+that the maximum moment is at or near midheight of the 
+column. If the maximum moment occurs at one end of the 
+column, design should be based on an equivalent uniform 
+moment CmM2 that leads to the same maximum moment at or 
+near midheight of the column when magnified ( MacGregor 
+et al. 1970).
+The sign convention for M1/M2 has been updated to follow 
+the right hand rule convention; hence, M1/M2 is negative 
+if bent in single curvature and positive if bent in double  
+curvature. This reflects a sign convention change from the 
+2011 Code.
+In the case of columns that are subjected to transverse 
+loading between supports, it is possible that the maximum 
+moment will occur at a section away from the end of the 
+member. If this occurs, the value of the largest calculated 
+moment occurring anywhere along the member should be 
+used for the value of M2 in Eq. (6.6.4.5.1). Cm is to be taken 
+as 1.0 for this case.
+R6.6.4.5.4 In the Code, slenderness is accounted for by 
+magnifying the column end moments. If the factored column 
+moments are small or zero, the design of slender columns 
+should be based on the minimum eccentricity provided in 
+Eq. (6.6.4.5.4). It is not intended that the minimum eccen -
+tricity be applied about both axes simultaneously.
+The factored column end moments from the structural 
+analysis are used in Eq. (6.6.4.5.3a) in determining the 
+ratio M1/M2 for the column when the design is based on 
+the minimum eccentricity. This eliminates what would 
+6.6.4.5 Moment magnification method: Nonsway frames
+6.6.4.5.1 The factored moment used for design of columns 
+and walls, Mc, shall be the first-order factored moment M2 
+amplified for the effects of member curvature.
+ M c = δM2 (6.6.4.5.1)
+6.6.4.5.2 Magnification factor δ shall be calculated by:
+  δ =    C  m   _______ 
+1 –    P  u   _____ 0.75 P  c    
+   ≥ 1.0  (6.6.4.5.2)
+6.6.4.5.3 Cm shall be in accordance with (a) or (b):
+(a) For columns without transverse loads applied between 
+supports
+   C  m   = 0.6 − 0.4    M  1   ___  M  2      (6.6.4.5.3a)
+where M1/M2 is negative if the column is bent in single 
+curvature, and positive if bent in double curvature. M1 corre-
+sponds to the end moment with the lesser absolute value.
+(b) For columns with transverse loads applied between 
+supports.
+ C m = 1.0 (6.6.4.5.3b)
+6.6.4.5.4 M2 in Eq. (6.6.4.5.1) shall be at least M2,min calcu-
+lated according to Eq. (6.6.4.5.4) about each axis separately.
+ M2,min = Pu(15 mm + 0.03h) (6.6.4.5.4)
+If M2,min exceeds M2, Cm shall be taken equal to 1.0 or 
+calculated based on the ratio of the calculated end moments 
+M1/M2, using Eq. (6.6.4.5.3a).
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 91 (doc p.91) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 91
+otherwise be a discontinuity between columns with calcu -
+lated eccentricities less than the minimum eccentricity and 
+columns with calculated eccentricities equal to or greater 
+than the minimum eccentricity.
+R6.6.4.6 Moment magnification method: Sway frames
+R6.6.4.6.1 The analysis described in this section deals only 
+with plane frames subjected to loads causing deflections in 
+that plane. If the lateral load deflections involve significant 
+torsional displacement, the moment magnification in the 
+columns farthest from the center of twist may be underesti -
+mated by the moment magnifier procedure. In such cases, a 
+three-dimensional second-order analysis should be used.
+R6.6.4.6.2 Three different methods are allowed for calcu-
+lating the moment magnifier. These approaches include the 
+Q method, the sum of P concept, and second-order elastic 
+analysis.
+(a) Q method: 
+The iterative P∆ analysis for second-order moments 
+can be represented by an infinite series. The solution of 
+this series is given by Eq. (6.6.4.6.2a) ( MacGregor and 
+Hage 1977 ). Lai and MacGregor (1983)  show that Eq. 
+(6.6.4.6.2a) closely predicts the second-order moments in 
+a sway frame until δs exceeds 1.5.
+The PΔ moment diagrams for deflected columns are 
+curved, with ∆ related to the deflected shape of the 
+columns. Equation (6.6.4.6.2a) and most commercially 
+available second-order frame analyses have been derived 
+assuming that the PΔ moments result from equal and 
+opposite forces of PΔ/ℓc applied at the bottom and top of 
+the story. These forces give a straight-line PΔ moment 
+diagram. The curved PΔ moment diagrams lead to lateral 
+displacements on the order of 15% larger than those from 
+the straight-line PΔ moment diagrams. This effect can be 
+included in Eq. (6.6.4.6.2a) by writing the denominator as 
+(1 – 1.15Q) rather than (1 – Q). The 1.15 factor has been 
+omitted from Eq. (6.6.4.6.2a) for simplicity.
+If deflections have been calculated using service loads, 
+Q in Eq. (6.6.4.6.2a) should be calculated in the manner 
+explained in R6.6.4.3.
+The Q factor analysis is based on deflections calculated 
+using the I values from 6.6.3.1.1, which include the equiv-
+alent of a stiffness reduction factor ϕK. These I values 
+lead to a 20 to 25% over-estimation of the lateral deflec -
+tions that corresponds to a stiffness reduction factor ϕK 
+between 0.80 and 0.85 on the PΔ moments. As a result, 
+no additional ϕ factor is needed. Once the moments are 
+established using Eq. (6.6.4.6.2a), selection of the cross 
+sections of the columns involves the strength reduction 
+factors ϕ from 21.2.2.
+(b) Sum of P concept: 
+6.6.4.6 Moment magnification method: Sway frames
+6.6.4.6.1 Moments M1 and M2 at the ends of an individual 
+column shall be calculated by (a) and (b).
+(a) M1 = M1ns + δsM1s (6.6.4.6.1a)
+(b) M2 = M2ns + δsM2s (6.6.4.6.1b)
+6.6.4.6.2 The moment magnifier δs shall be calculated 
+by (a), (b), or (c). If δs exceeds 1.5, only (b) or (c) shall be 
+permitted:
+(a)   δ  s   =   1 _ 1 – Q   ≥ 1  (6.6.4.6.2a)
+(b)   δ  s   =   1 ________  
+1 –   ∑ P  u   ______ 0.75∑ P  c   
+  
+   ≥ 1  (6.6.4.6.2b)
+(c) Second-order elastic analysis
+where ∑Pu is the summation of all the factored vertical loads 
+in a story and ∑ Pc is the summation for all sway-resisting 
+columns in a story. Pc is calculated using Eq. (6.6.4.4.2) with 
+k determined for sway members from 6.6.4.4.3 and ( EI)eff 
+from 6.6.4.4.4 with βds substituted for βdns.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 92 (doc p.92) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+92 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+To check the effects of story stability, δs is calculated as 
+an averaged value for the entire story based on use of 
+∑Pu/∑Pc. This reflects the interaction of all sway-resisting 
+columns in the story on the PΔ effects because the lateral 
+deflection of all columns in the story should be equal in 
+the absence of torsional displacements about a vertical 
+axis. In addition, it is possible that a particularly slender 
+individual column in a sway frame could have substantial 
+midheight deflections, even if adequately braced against 
+lateral end deflections by other columns in the story. Such 
+a column is checked using 6.6.4.6.4.
+The 0.75 in the denominator of Eq. (6.6.4.6.2b) is a stiff -
+ness reduction factor ϕ, as explained in R6.6.4.5.2.
+In the calculation of (EI)eff, βds will normally be zero for a 
+sway frame because the lateral loads are generally of short 
+duration. Sway deflections due to short-term loads, such 
+as wind or earthquake, are a function of the short-term 
+stiffness of the columns following a period of sustained 
+gravity load.
+For this case, the definition of βds in 6.6.3.1.1 gives βds = 
+0. In the unusual case of a sway frame where the lateral 
+loads are sustained, βds will not be zero. This might occur 
+if a building on a sloping site is subjected to earth pressure 
+on one side but not on the other.
+R6.6.4.6.3 The strength of a sway frame is governed 
+by stability of the columns and the degree of end restraint 
+provided by the beams in the frame. If plastic hinges form 
+in the restraining beam, as the structure approaches a failure 
+mechanism, its axial strength is drastically reduced. This 
+section requires the restraining flexural members to have 
+enough strength to resist the total magnified column end 
+moments at the joint.
+R6.6.4.6.4 The maximum moment in a compression 
+member, such as a column, wall, or brace, may occur 
+between its ends. While second-order computer analysis 
+programs may be used to evaluate magnification of the 
+end moments, magnification between the ends may not be 
+accounted for unless the member is subdivided along its 
+length. The magnification may be evaluated using the proce-
+dure outlined in 6.6.4.5.
+R6.6.5 Redistribution of moments in continuous flexural 
+members
+Redistribution of moments is dependent on adequate 
+ductility in plastic hinge regions. These plastic hinge regions 
+develop at sections of maximum positive or negative 
+moment and cause a shift in the elastic moment diagram. 
+The usual result is a reduction in the values of maximum 
+negative moments in the support regions and an increase in 
+the values of positive moments between supports from those 
+calculated by elastic analysis. However, because negative 
+moments are typically determined for one loading arrange -
+6.6.4.6.3 Flexural members shall be designed for the total 
+magnified end moments of the columns at the joint.
+6.6.4.6.4 Second-order effects shall be considered along 
+the length of columns in sway frames. It shall be permitted 
+to account for these effects using 6.6.4.5, where Cm is calcu-
+lated using M1 and M2 from 6.6.4.6.1.
+6.6.5 Redistribution of moments in continuous flexural 
+members
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 93 (doc p.93) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 93
+ment and positive moments for another (6.4.3 provides an 
+exception for certain loading conditions), economies in rein-
+forcement can sometimes be realized by reducing maximum 
+elastic positive moments and increasing negative moments, 
+thus narrowing the envelope of maximum negative and 
+positive moments at any section in the span ( Bondy 2003). 
+Plastic hinges permit utilization of the full capacity of more 
+cross sections of a flexural member at ultimate loads.
+The Code permissible redistribution is shown in Fig. 
+R6.6.5. Using conservative values of limiting concrete 
+strains and lengths of plastic hinges derived from exten -
+sive tests, flexural members with small rotation capacities 
+were analyzed for redistribution of moments up to 20%, 
+depending on the reinforcement ratio. As shown, the permis-
+sible redistribution percentages are conservative relative to 
+the calculated percentages available for both fy = 420 MPa 
+and 550 MPa. Studies by Cohn (1965) and Mattock (1959) 
+support this conclusion and indicate that cracking and deflec-
+tion of beams designed for redistribution of moments are not 
+significantly greater at service loads than for beams designed 
+by the distribution of moments according to elastic theory. 
+Also, these studies indicate that adequate rotational capacity 
+for the redistribution of moments allowed by the Code is 
+available if the members satisfy 6.6.5.1. The provisions 
+for redistribution of moments apply equally to prestressed 
+members ( Mast 1992 ). The elastic deformations caused 
+by a nonconcordant tendon change the amount of inelastic 
+rotation required to obtain a given amount of redistribution 
+of moments. Conversely, for a beam with a given inelastic 
+rotational capacity, the amount by which the moment at the 
+support may be varied is changed by an amount equal to 
+the secondary moment at the support due to prestressing. 
+Thus, the Code requires that secondary moments caused by 
+reactions generated by prestressing forces be included in 
+determining design moments. Redistribution of moments 
+as permitted by 6.6.5 is not appropriate where approximate 
+values of bending moments are used, such as provided by the 
+simplified method of 6.5. Redistribution of moments is also 
+not appropriate for two-way slab systems that are analyzed 
+using the pattern loadings given in 6.4.3.3. These loadings 
+use only 75% of the full factored live load, which is based 
+on considerations of moment redistribution.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 94 (doc p.94) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+94 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Percent change in moment
+Net tensile strain, εt
+0.0150 0.005 0.010 0.020 0.025
+0
+5
+10
+15
+20
+25
+Calculated 
+percentage 
+available
+fy = 550 MPa
+Permissible 
+redistribution 
+allowed by 
+6.6.5.3Minimum 
+permissible 
+net tensile 
+strain = 0.0075
+fy = 420 MPa
+ℓ/d = 23
+b/ d = 1/5
+Fig. R6.6.5—Permissible redistribution of moments for 
+minimum rotation capacity.
+6.6.5.1 Except where approximate values for moments 
+are used in accordance with 6.5, where moments have been 
+calculated in accordance with 6.8, or where moments in 
+two-way slabs are determined using pattern loading speci -
+fied in 6.4.3.3, reduction of moments at sections of maximum 
+negative or maximum positive moment calculated by elastic 
+theory shall be permitted for any assumed loading arrange -
+ment if (a) and (b) are satisfied:
+(a) Flexural members are continuous
+(b) εt ≥ 0.0075 at the section at which moment is reduced
+6.6.5.2 For prestressed members, moments include those 
+due to factored loads and those due to reactions induced by 
+prestressing.
+6.6.5.3 At the section where the moment is reduced, redis-
+tribution shall not exceed the lesser of 1000 εt percent and 
+20%. 
+6.6.5.4 The reduced moment shall be used to calculate 
+redistributed moments at all other sections within the spans 
+such that static equilibrium is maintained after redistribution 
+of moments for each loading arrangement.
+6.6.5.5 Shears and support reactions shall be calculated in 
+accordance with static equilibrium considering the redistrib-
+uted moments for each loading arrangement 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 95 (doc p.95) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 95
+R6.7—Linear elastic second-order analysis
+R6.7.1 General
+In linear elastic second-order analyses, the deformed 
+geometry of the structure is included in the equations of 
+equilibrium so that PΔ effects are determined. The structure 
+is assumed to remain elastic, but the effects of cracking and 
+creep are considered by using an effective stiffness EI. In 
+contrast, linear elastic first-order analysis satisfies the equa-
+tions of equilibrium using the original undeformed geom -
+etry of the structure and estimates PΔ effects by magnifying 
+the column-end sway moments using Eq. (6.6.4.6.2a) or 
+(6.6.4.6.2b).
+R6.7.1.1 The stiffnesses EI used in an analysis for strength 
+design should represent the stiffnesses of the members 
+immediately prior to failure. This is particularly true for a 
+second-order analysis that should predict the lateral deflec -
+tions at loads approaching ultimate. The EI values should 
+not be based solely on the moment-curvature relationship 
+for the most highly loaded section along the length of each 
+member. Instead, they should correspond to the moment-end 
+rotation relationship for a complete member.
+To allow for variability in the actual member properties in 
+the analysis, the member properties used in analysis should 
+be multiplied by a stiffness reduction factor ϕK less than 
+1. The cross-sectional properties defined in 6.7.2 already 
+include this stiffness reduction factor. The stiffness reduc -
+tion factor ϕK may be taken as 0.875. Note that the overall 
+stiffness is further reduced considering that the modulus 
+of elasticity of the concrete, Ec, is based on the specified 
+concrete compressive strength, while the sway deflections 
+are a function of the average concrete strength, which is 
+typically higher.
+R6.7.1.2 The maximum moment in a compression 
+member may occur between its ends. In computer analysis 
+programs, columns may be subdivided using nodes along 
+their length to evaluate slenderness effects between the ends. 
+If the column is not subdivided along its length, slenderness 
+effects may be evaluated using the nonsway moment magni-
+fier method specified in 6.6.4.5 with member-end moments 
+from the second-order elastic analysis as input. Second-
+order analysis already accounts for the relative displacement 
+of member ends.
+6.7—Linear elastic second-order analysis
+6.7.1 General
+6.7.1.1 A linear elastic second-order analysis shall 
+consider the influence of axial loads, presence of cracked 
+regions along the length of the member, and effects of load 
+duration. These considerations are satisfied using the cross-
+sectional properties defined in 6.7.2.
+6.7.1.2 Slenderness effects along the length of a column 
+shall be considered. It shall be permitted to calculate these 
+effects using 6.6.4.5 
+6.7.1.3 The cross-sectional dimensions of each member 
+used in an analysis to calculate slenderness effects shall be 
+within 10% of the specified member dimensions in construc-
+tion documents or the analysis shall be repeated.
+6.7.1.4 Redistribution of moments calculated by an elastic 
+second-order analysis shall be permitted in accordance with 
+6.6.5.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 96 (doc p.96) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+96 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R6.7.2 Section properties
+R6.7.2.2 Service load analysis
+R6.7.2.2.2 Refer to R6.6.3.2.2.
+R6.8—Inelastic analysis
+R6.8.1 General
+R6.8.1.1 Material nonlinearity may be affected by multiple 
+factors including duration of loads, shrinkage, and creep.
+R6.8.1.2 Substantial agreement should be demonstrated 
+at characteristic points on the reported response. The char -
+acteristic points selected should depend on the purpose of 
+the analysis, the applied loads, and the response phenomena 
+exhibited by the component, subassemblage, or structural 
+system. For nonlinear analysis to support design under 
+service-level loading, characteristic points should represent 
+loads and deformations less than those corresponding to 
+yielding of reinforcement. For nonlinear analysis to support 
+design or assess response under design-level loading, char -
+acteristic points should represent loads and deformations 
+less than those corresponding to yielding of reinforcement 
+as well as points corresponding to yielding of reinforce -
+ment and onset of strength loss. Strength loss need not be 
+represented if design loading does not extend the response 
+into the strength-loss range. Typically, inelastic analysis to 
+support design should employ specified material strengths 
+and mean values of other material properties and component 
+stiffnesses. Nonlinear response history analysis to verify the 
+design of earthquake-resistant concrete structures should 
+employ expected material strengths, expected material prop-
+erties, and expected component stiffnesses, as specified in 
+A.6.2.
+R6.8.1.3 Refer to R6.7.1.2.
+6.7.2 Section properties
+6.7.2.1 Factored load analysis
+6.7.2.1.1 It shall be permitted to use section properties 
+calculated in accordance with 6.6.3.1.
+6.7.2.2 Service load analysis
+6.7.2.2.1 Immediate and time-dependent deflections due 
+to gravity loads shall be calculated in accordance with 24.2.
+6.7.2.2.2 Alternatively, it shall be permitted to calculate 
+immediate deflections using a moment of inertia of 1.4 times 
+I given in 6.6.3.1, or calculated using a more detailed 
+analysis, but the value shall not exceed Ig.
+6.8—Inelastic analysis
+6.8.1 General
+6.8.1.1 An inelastic analysis shall consider material 
+nonlinearity. An inelastic first-order analysis shall satisfy 
+equilibrium in the undeformed configuration. An inelastic 
+second-order analysis shall satisfy equilibrium in the 
+deformed configuration.
+6.8.1.2 An inelastic analysis procedure shall have been 
+shown to result in calculation of strength and deformations 
+that are in substantial agreement with results of physical 
+tests of reinforced concrete components, subassemblages, or 
+structural systems exhibiting response mechanisms consis -
+tent with those expected in the structure being designed.
+6.8.1.3 Unless slenderness effects are permitted to be 
+neglected in accordance with 6.2.5.1, an inelastic analysis 
+shall satisfy equilibrium in the deformed configuration. It 
+shall be permitted to calculate slenderness effects along the 
+length of a column using 6.6.4.5.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 97 (doc p.97) ---
+CODE COMMENTARY
+6 Analysis
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 2: LOADS & ANALYSIS 97
+R6.8.1.5 Section 6.6.5 allows for redistribution of moments 
+calculated using elastic analysis to account for inelastic 
+response of the system. Moments calculated by inelastic 
+analysis explicitly account for inelastic response; therefore, 
+further redistribution of moments is not appropriate.
+R6.9—Acceptability of finite element analysis
+R6.9.2 The element types used should be capable of repre-
+senting the response required. The model mesh size selected 
+should be capable of determining the structural response in 
+sufficient detail. The use of any set of reasonable assump -
+tions for member stiffness is allowed.
+R6.9.3 For an inelastic finite element analysis, the rules 
+of linear superposition do not apply. To determine the ulti -
+mate member inelastic response, for example, it is not correct 
+to analyze for service loads and subsequently combine the 
+results linearly using load factors. A separate inelastic analysis 
+should be performed for each factored load combination.
+6.8.1.4 The cross-sectional dimensions of each member 
+used in an analysis to calculate slenderness effects shall be 
+within 10% of the specified member dimensions in construc-
+tion documents or the analysis shall be repeated.
+6.8.1.5 Redistribution of moments calculated by an 
+inelastic analysis shall not be permitted.
+6.9—Acceptability of finite element analysis
+6.9.1 Finite element analysis to determine load effects 
+shall be permitted.
+6.9.2 The finite element model shall be appropriate for its 
+intended purpose.
+6.9.3 For inelastic analysis, a separate analysis shall be 
+performed for each factored load combination. 
+6.9.4 The licensed design professional shall confirm that 
+the results are appropriate for the purposes of the analysis.
+6.9.5 The cross-sectional dimensions of each member used 
+in an analysis shall be within 10% of the specified member 
+dimensions in construction documents or the analysis shall 
+be repeated.
+6.9.6 Redistribution of moments calculated by an inelastic 
+analysis shall not be permitted.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

@@ -1,0 +1,662 @@
+--- PDF idx 99 (doc p.99) ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 3: MEMBERS 99
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 7—ONE-WAY SLABS
+R7 .1—Scope
+R7.1.1 Design and construction of composite concrete 
+slabs on steel deck is described in “Standard for Steel Deck” 
+(SD).
+Provisions for one-way joist systems are provided in 
+Chapter 9.
+R7 .2—General
+R7.2.1 Concentrated loads and slab openings create local 
+moments and shears and may cause regions of one-way slabs 
+to have two-way behavior. One-way slabs with concentrated 
+loading may be susceptible to two-way punching shear 
+failure and localized flexural yielding around the loaded 
+area. The influence of openings through the slab and voids 
+within the slab (for example, those created forducts) and 
+development of additional critical sections for flexural and 
+shear strengths, as well as deflections, are to be considered.
+R7 .3—Design limits
+R7.3.1 Minimum slab thickness
+R7.3.1.1 The basis for minimum thickness for one-way 
+slabs is the same as that for beams. Refer to R9.3.1 for addi-
+tional information.
+7 .1—Scope
+7.1.1 This chapter shall apply to the design of nonpre -
+stressed and prestressed slabs reinforced for flexure in one 
+direction, including:
+(a) Solid slabs
+(b) Slabs cast on stay-in-place, noncomposite steel deck
+(c) Composite slabs of concrete elements constructed in 
+separate placements but connected so that all elements 
+resist loads as a unit
+(d) Precast, prestressed hollow-core slabs
+7 .2—General
+7.2.1 The effects of concentrated loads, slab openings, and 
+voids within the slab shall be considered in design.
+7.2.2 Materials
+7.2.2.1 Design properties for concrete shall be selected to 
+be in accordance with Chapter 19.
+7.2.2.2 Design properties for steel reinforcement shall be 
+selected to be in accordance with Chapter 20.
+7.2.2.3 Materials, design, and detailing requirements for 
+embedments in concrete shall be in accordance with 20.6.
+7.2.3 Connection to other members
+7.2.3.1 For cast-in-place construction, joints shall satisfy 
+Chapter 15.
+7.2.3.2 For precast construction, connections shall satisfy 
+the force transfer requirements of 16.2.
+7 .3—Design limits
+7.3.1 Minimum slab thickness
+7.3.1.1 For solid nonprestressed slabs not supporting 
+or attached to partitions or other construction likely to be 
+damaged by large deflections, overall slab thickness h shall 
+not be less than the limits in Table 7.3.1.1, unless the calcu-
+lated deflection limits of 7.3.2 are satisfied.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 100 (doc p.100) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+100 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R7.3.2 Calculated deflection limits
+R7.3.2.1 The basis for calculated deflections for one-way 
+slabs is the same as that for beams. Refer to R9.3.2 for addi-
+tional information.
+R7.3.3 Reinforcement strain limit in nonprestressed slabs
+R7.3.3.1 The basis for a reinforcement strain limit for 
+one-way slabs is the same as that for beams. Refer to R9.3.3 
+for additional information.
+Table 7 .3.1.1—Minimum thickness of solid 
+nonprestressed one-way slabs
+Support condition Minimum h[1]
+Simply supported ℓ/20
+One end continuous ℓ/24
+Both ends continuous ℓ/28
+Cantilever ℓ/10
+[1]Expression applicable for normalweight concrete and fy = 420 MPa. For other 
+cases, minimum h shall be modified in accordance with 7.3.1.1.1 through 7.3.1.1.3, 
+as appropriate.
+7.3.1.1.1 For fy other than 420 MPa, the expressions in 
+Table 7.3.1.1 shall be multiplied by (0.4 + fy/700).
+7.3.1.1.2 For nonprestressed slabs made of lightweight 
+concrete having wc in the range of 1440 to 1840 kg/m 3, 
+the expressions in Table 7.3.1.1 shall be multiplied by the 
+greater of (a) and (b):
+(a) 1.65 – 0.0003wc
+(b) 1.09
+7.3.1.1.3 For nonprestressed composite concrete slabs 
+made of a combination of lightweight and normalweight 
+concrete, shored during construction, and where the light -
+weight concrete is in compression, the modifier of 7.3.1.1.2 
+shall apply.
+7.3.1.2 The thickness of a concrete floor finish shall be 
+permitted to be included in h if it is placed monolithically 
+with the floor slab or if the floor finish is designed to be 
+composite with the floor slab in accordance with 16.4.
+7.3.2 Calculated deflection limits
+7.3.2.1 For nonprestressed slabs not satisfying 7.3.1 and 
+for prestressed slabs, immediate and time-dependent deflec-
+tions shall be calculated in accordance with 24.2 and shall 
+not exceed the limits in 24.2.2.
+7.3.2.2 For nonprestressed composite concrete slabs satis-
+fying 7.3.1, deflections occurring after the member becomes 
+composite need not be calculated. Deflections occurring 
+before the member becomes composite shall be investigated, 
+unless the precomposite thickness also satisfies 7.3.1.
+7.3.3 Reinforcement strain limit in nonprestressed slabs
+7.3.3.1 Nonprestressed slabs shall be tension-controlled in 
+accordance with Table 21.2.2.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 101 (doc p.101) ---
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 101
+R7 .4—Required strength
+R7.4.3 Factored shear
+R7.4.3.2 Requirements for the selection of the critical 
+section for shear in one-way slabs are the same as those for 
+beams. Refer to R9.4.3.2 for additional information.
+R7 .5—Design strength
+R7.5.1 General
+R7.5.1.1 Refer to R9.5.1.1.
+7.3.4 Stress limits in prestressed slabs
+7.3.4.1 Prestressed slabs shall be classified as Class U, T, 
+or C in accordance with 24.5.2. 
+7.3.4.2 Stresses in prestressed slabs immediately after 
+transfer and at service loads shall not exceed the permissible 
+stresses in 24.5.3 and 24.5.4.
+7 .4—Required strength
+7.4.1 General
+7.4.1.1 Required strength shall be calculated in accor -
+dance with the factored load combinations in Chapter 5. 
+7.4.1.2 Required strength shall be calculated in accor -
+dance with the analysis procedures in Chapter 6.
+7.4.1.3 For prestressed slabs, effects of reactions induced 
+by prestressing shall be considered in accordance with 
+5.3.14.
+7.4.2 Factored moment
+7.4.2.1 For slabs built integrally with supports, Mu at the 
+support shall be permitted to be calculated at the face of 
+support.
+7.4.3 Factored shear
+7.4.3.1 For slabs built integrally with supports, Vu at the 
+support shall be permitted to be calculated at the face of 
+support.
+7.4.3.2 Sections between the face of support and a critical 
+section located d from the face of support for nonprestressed 
+slabs or h/2 from the face of support for prestressed slabs 
+shall be permitted to be designed for Vu at that critical section 
+if (a) through (c) are satisfied:
+(a) Support reaction, in direction of applied shear, intro -
+duces compression into the end region of the slab
+(b) Loads are applied at or near the top surface of the slab
+(c) No concentrated load occurs between the face of 
+support and critical section
+7 .5—Design strength
+7.5.1 General
+7.5.1.1 For each applicable factored load combina -
+tion, design strength at all sections shall satisfy ϕSn ≥ U 
+including (a) and (b). Interaction between load effects shall 
+be considered.
+(a) ϕMn ≥ Mu
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 102 (doc p.102) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+102 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R7.5.2 Moment
+R7.5.2.3 This provision applies only where a T-beam is 
+parallel to the span of a one-way slab. Such a beam might 
+be used to support a wall or concentrated load that the slab 
+alone cannot support. Reinforcement required by this provi-
+sion is intended to consider “unintended” negative moments 
+that may develop over the beam that exceed requirements 
+for temperature and shrinkage reinforcement alone.
+R7 .6—Reinforcement limits
+R7.6.1 Minimum flexural reinforcement in nonprestressed 
+slabs
+R7.6.1.1 Required area of deformed or welded wire rein -
+forcement used as minimum flexural reinforcement is the 
+same as provided for shrinkage and temperature in 24.4.3.2. 
+However, whereas shrinkage and temperature reinforce -
+ment is permitted to be distributed between the two faces 
+of the slab as deemed appropriate for specific conditions, 
+minimum flexural reinforcement should be placed as close 
+as practicable to the face of the concrete in tension due to 
+applied loads.
+R7.6.2 Minimum flexural reinforcement in prestressed slabs
+R7.6.2.1 The minimum flexural reinforcement for 
+prestressed one-way slabs is the same as the minimum 
+for prestressed beams. Refer to R9.6.2 for additional 
+information.
+(b) ϕVn ≥ Vu
+7.5.1.2 ϕ shall be determined in accordance with 21.2.
+7.5.2 Moment
+7.5.2.1 Mn shall be calculated in accordance with 22.3.
+7.5.2.2 For prestressed slabs, external tendons shall be 
+considered as unbonded tendons in calculating flexural 
+strength, unless the external tendons are effectively bonded 
+to the concrete section along the entire length. 
+7.5.2.3 If primary flexural reinforcement in a slab that is 
+considered to be a T-beam flange is parallel to the longitu -
+dinal axis of the beam, reinforcement perpendicular to the 
+longitudinal axis of the beam shall be provided in the top of 
+the slab in accordance with (a) and (b). This provision does 
+not apply to joist construction.
+(a) Slab reinforcement perpendicular to the beam shall be 
+designed to resist the factored load on the overhanging 
+slab width assumed to act as a cantilever.
+(b) Only the effective overhanging slab width in accor -
+dance with 6.3.2 need be considered.
+7.5.3 Shear
+7.5.3.1 Vn shall be calculated in accordance with 22.5.
+7.5.3.2 For composite concrete slabs, horizontal shear 
+strength Vnh shall be calculated in accordance with 16.4. 
+7 .6—Reinforcement limits
+7.6.1 Minimum flexural reinforcement in nonprestressed 
+slabs
+7.6.1.1 A minimum area of flexural reinforcement, As,min, 
+of 0.0018Ag shall be provided.
+7.6.2 Minimum flexural reinforcement in prestressed slabs
+7.6.2.1 For slabs with bonded prestressed reinforcement, 
+total quantity of As and Aps shall be adequate to develop a 
+factored load at least 1.2 times the cracking load calculated 
+on the basis of fr as given in 19.2.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 103 (doc p.103) ---
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 103
+R7.6.3 Minimum shear reinforcement
+R7.6.3.1 The basis for minimum shear reinforcement for 
+one-way slabs is the same as that for beams. Refer to R9.6.3 
+for additional information.
+The ratio Vu/Vc at which minimum shear reinforcement 
+is required is generally greater for solid slabs and footings 
+than for beams because, in solid slabs and footings, there is 
+a possibility of load sharing.
+Results of tests on precast, prestressed hollow-core 
+units ( Becker and Buettner 1985 ; Anderson 1978 ) with h 
+≤ 12.5 in. have shown shear strengths greater than those 
+calculated by Eq. (22.5.6.2.1a) and Eq. (22.5.6.2.2). Results 
+of tests on hollow-core units with h > 12.5 in. have shown 
+that web-shear strengths in end regions can be less than 
+strengths calculated by Eq. (22.5.6.2.2) (Hawkins and Ghosh 
+2006). In contrast, the test results indicated that flexure-
+shear strengths in the deeper hollow-core units equaled or 
+exceeded strengths calculated by Eq. (22.5.6.2.1a).
+R7.6.3.2 The basis for the testing-based strength evalua -
+tion for one-way slabs is the same as that for beams. Refer to 
+R9.6.3.3 for additional information.
+R7.6.4 Minimum shrinkage and temperature reinforcement
+R7.6.4.2 In prestressed monolithic beam-and-slab 
+construction, at least one shrinkage and temperature tendon 
+is required between beams, even if the beam tendons alone 
+provide at least 0.7  MPa  average compressive stress as 
+required by 24.4.4.1 on the gross concrete area as defined in 
+7.6.4.2.1. A tendon of any size is permissible as long as all 
+other requirements of 7.6.4.2 and 7.7.6.3 are satisfied. Appli-
+7.6.2.2 For slabs with both flexural and shear design 
+strength at least twice the required strength, 7.6.2.1 need not 
+be satisfied.
+7.6.2.3 For slabs with unbonded tendons, the minimum 
+area of bonded deformed longitudinal reinforcement, As,min, 
+shall be:
+ A s,min ≥ 0.004Act (7.6.2.3)
+where Act is the area of that part of the cross section between 
+the flexural tension face and the centroid of the gross section.
+7.6.3 Minimum shear reinforcement
+7.6.3.1 A minimum area of shear reinforcement, Av,min, 
+shall be provided in all regions where Vu > ϕVc. For precast 
+prestressed hollow-core slabs with untopped h > 315 mm, 
+Av,min shall be provided in all regions where Vu > 0.5ϕVcw.
+7.6.3.2 If shown by testing that the required Mn and Vn can 
+be developed, 7.6.3.1 need not be satisfied. Such tests shall 
+simulate effects of differential settlement, creep, shrinkage, 
+and temperature change, based on a realistic assessment of 
+these effects occurring in service. 
+7.6.3.3 If shear reinforcement is required, Av,min shall be in 
+accordance with 9.6.3.4.
+7.6.4 Minimum shrinkage and temperature reinforcement
+7.6.4.1 Reinforcement shall be provided to resist shrinkage 
+and temperature stresses in accordance with 24.4.
+7.6.4.2 If prestressed shrinkage and temperature reinforce-
+ment in accordance with 24.4.4 is used, 7.6.4.2.1 through 
+7.6.4.2.3 shall apply.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 104 (doc p.104) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+104 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+cation of the provisions of 7.6.4.2 and 7.7.6.3 to monolithic, 
+cast-in-place, post-tensioned, beam-and-slab construction is 
+illustrated in Fig. R7.6.4.2.
+Tendons used for shrinkage and temperature reinforce -
+ment should be positioned as close as practicable to the mid-
+depth of the slab. In cases where the shrinkage and tempera-
+ture tendons are used for supporting the principal tendons, 
+variations from the slab centroid are permissible; however, 
+the centroid of the shrinkage and temperature tendons should 
+not fall outside the middle third of the slab thickness.
+The effects of slab shortening should be evaluated to ensure 
+the effectiveness of the prestressing. In most cases, the low 
+level of prestressing recommended should not cause difficul-
+ties in a properly detailed structure. Additional attention may 
+be required where thermal effects become significant.
+7.6.4.2.1 For monolithic, cast-in-place, post-tensioned 
+beam-and-slab construction, gross concrete area shall 
+consist of the total beam area including the slab thickness 
+and the slab area within half the clear distance to adjacent 
+1.8 m maximum per 7.7.6.3.1 (typ.). Refer to 7.7.6.3.2
+for additional reinforcement required 
+when spacing exceeds 1.4 m.
+Beam tendons
+L1/2
+L1 L2
+L2/2
+Beam web width
+Beam and slab tendons within the orange area must provide 0.7 MPa
+minimum average compressive stress in the orange area (gross area 
+tributary to each beam).
+Plan
+Section A-A
+A A
+Slab shrinkage and 
+temperature tendons
+Fig. R7.6.4.2—Section through beams cast monolithically with slab.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 105 (doc p.105) ---
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 105
+R7 .7—Reinforcement detailing
+R7.7.2 Reinforcement spacing
+R7.7.2.3 Class T and C slabs prestressed with unbonded 
+tendons rely solely on deformed reinforcement for crack 
+control. Consequently, the requirements of 7.7.2.3 apply to 
+Class T and C slabs prestressed with unbonded tendons.
+R7.7.2.4 Spacing limitations for slab reinforcement are 
+based on flange thickness, which for tapered flanges can be 
+taken as the average thickness.
+R7.7.3 Flexural reinforcement in nonprestressed slabs
+R7.7.3.1 Requirements for development of reinforcement 
+in one-way slabs are similar to those for beams. Refer to 
+R9.7.3 for additional information.
+beam webs. It shall be permitted to include the effective 
+force in beam tendons in the calculation of total prestress 
+force acting on gross concrete area.
+7.6.4.2.2 If slabs are supported on walls or not cast mono-
+lithically with beams, gross concrete area is the slab section 
+tributary to the tendon or tendon group.
+7.6.4.2.3 At least one tendon is required in the slab 
+between faces of adjacent beams or walls.
+7 .7—Reinforcement detailing
+7.7.1 General
+7.7.1.1 Concrete cover for reinforcement shall be in accor-
+dance with 20.5.1.
+7.7.1.2 Development lengths of deformed and prestressed 
+reinforcement shall be in accordance with 25.4.
+7.7.1.3 Splices of deformed reinforcement shall be in 
+accordance with 25.5.
+7.7.1.4 Bundled bars shall be in accordance with 25.6.
+7.7.2 Reinforcement spacing
+7.7.2.1 Minimum spacing s shall be in accordance with 
+25.2.
+7.7.2.2 For nonprestressed and Class C prestressed slabs, 
+spacing of bonded longitudinal reinforcement closest to the 
+tension face shall not exceed s given in 24.3.
+7.7.2.3 For nonprestressed and Class T and C prestressed 
+slabs with unbonded tendons, maximum spacing s of 
+deformed longitudinal reinforcement shall be the lesser of 
+3h and 450 mm.
+7.7.2.4 Maximum spacing, s, of reinforcement required by 
+7.5.2.3 shall be the lesser of 5h and 450 mm.
+7.7.3 Flexural reinforcement in nonprestressed slabs
+7.7.3.1 Calculated tensile or compressive force in rein -
+forcement at each section of the slab shall be developed on 
+each side of that section.
+7.7.3.2 Critical locations for development of reinforce -
+ment are points of maximum stress and points along the span 
+where bent or terminated tension reinforcement is no longer 
+required to resist flexure.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 106 (doc p.106) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+106 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R7.7.3.8 Termination of reinforcement
+R7.7.3.8.1 Requirements for termination of reinforcement 
+in one-way slabs are similar to those for beams. Refer to 
+R9.7.3.8 for additional information.
+7.7.3.3 Reinforcement shall extend beyond the point at 
+which it is no longer required to resist flexure for a distance 
+at least the greater of d and 12 db, except at supports of 
+simply-supported spans and at free ends of cantilevers. 
+7.7.3.4 Continuing flexural tension reinforcement shall 
+have an embedment length at least ℓd beyond the point 
+where bent or terminated tension reinforcement is no longer 
+required to resist flexure.
+7.7.3.5 Flexural tension reinforcement shall not be termi -
+nated in a tension zone unless (a), (b), or (c) is satisfied:
+(a) Vu ≤ (2/3)ϕVn at the cutoff point.
+(b) For No. 36 bars and smaller, continuing reinforcement 
+provides double the area required for flexure at the cutoff  
+point and Vu ≤ (3/4)ϕVn .
+(c) Stirrup area in excess of that required for shear is 
+provided along each terminated bar or wire over a distance 
+3/4d from the cutoff point. Excess stirrup area shall be not 
+less than 0.41bws/fyt. Spacing s shall not exceed d/(8βb).
+7.7.3.6 Adequate anchorage shall be provided for tension 
+reinforcement where reinforcement stress is not directly 
+proportional to moment, such as in sloped, stepped, or 
+tapered slabs, or where tension reinforcement is not parallel 
+to the compression face.
+7.7.3.7 In slabs with spans not exceeding 3 m, welded 
+wire reinforcement, with wire size not exceeding MW30 or 
+MD30, shall be permitted to be curved from a point near the 
+top of slab over the support to a point near the bottom of slab 
+at midspan, provided such reinforcement is continuous over, 
+or developed at, the support.
+7.7.3.8 Termination of reinforcement
+7.7.3.8.1 At simple supports, at least one-third of the 
+maximum positive moment reinforcement shall extend 
+along the slab bottom into the support, except for precast 
+slabs where such reinforcement shall extend at least to the 
+center of the bearing length.
+7.7.3.8.2 At other supports, at least one-fourth of the 
+maximum positive moment reinforcement shall extend 
+along the slab bottom into the support at least 150 mm.
+7.7.3.8.3 At simple supports and points of inflection, db 
+for positive moment tension reinforcement shall be limited 
+such that ℓd for that reinforcement satisfies (a) or (b). If rein-
+forcement terminates beyond the centerline of supports by a 
+standard hook or a mechanical anchorage at least equivalent 
+to a standard hook, (a) or (b) need not be satisfied.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 107 (doc p.107) ---
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 107
+R7.7.4 Flexural reinforcement in prestressed slabs
+R7.7.4.4 Termination of deformed reinforcement in slabs 
+with unbonded tendons
+R7.7.4.4.1 Requirements for termination of deformed 
+reinforcement in one-way slabs with unbonded tendons are 
+the same as those for beams. Refer to R9.7.4.4 for additional 
+information.
+R7.7.6 Shrinkage and temperature reinforcement
+(a) ℓd ≤ (1.3Mn/Vu + ℓa) if end of reinforcement is confined 
+by a compressive reaction
+(b) ℓd ≤ (Mn/Vu + ℓa) if end of reinforcement is not confined 
+by a compressive reaction
+Mn is calculated assuming all reinforcement at the section 
+is stressed to fy and Vu is calculated at the section. At a 
+support, ℓa is the embedment length beyond the center of the 
+support. At a point of inflection, ℓa is the embedment length 
+beyond the point of inflection, limited to the greater of d and 
+12db.
+7.7.3.8.4 At least one-third of the negative moment rein -
+forcement at a support shall have an embedment length 
+beyond the point of inflection at least the greatest of d, 12db, 
+and ℓn/16.
+7.7.4 Flexural reinforcement in prestressed slabs
+7.7.4.1 External tendons shall be attached to the member 
+in a manner that maintains the specified eccentricity between 
+the tendons and the concrete centroid through the full range 
+of anticipated member deflections.
+7.7.4.2 If nonprestressed reinforcement is required to 
+satisfy flexural strength, the detailing requirements of 7.7.3 
+shall be satisfied.
+7.7.4.3 Termination of prestressed reinforcement
+7.7.4.3.1 Post-tensioned anchorage zones shall be 
+designed and detailed in accordance with 25.9.
+7.7.4.3.2 Post-tensioning anchorages and couplers shall be 
+designed and detailed in accordance with 25.8.
+7.7.4.4 Termination of deformed reinforcement in slabs 
+with unbonded tendons
+7.7.4.4.1 Length of deformed reinforcement required by 
+7.6.2.3 shall be in accordance with (a) and (b):
+(a) At least ℓn/3 in positive moment areas and be centered 
+in those areas
+(b) At least ℓn/6 on each side of the face of support
+7.7.5 Shear reinforcement
+7.7.5.1 If shear reinforcement is required, transverse rein-
+forcement shall be detailed according to 9.7.6.2. 
+7.7.6 Shrinkage and temperature reinforcement
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 108 (doc p.108) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+108 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R7.7.6.3 Prestressed reinforcement
+R7.7.6.3.2 Widely spaced tendons result in non-uniform 
+compressive stresses near slab edges. Additional deformed 
+reinforcement is used to reinforce regions near the slab edge 
+that may be inadequately compressed. Placement of this 
+reinforcement is illustrated in Fig. R7.7.6.3.2.
+7.7.6.1 Shrinkage and temperature reinforcement in accor-
+dance with 7.6.4 shall be placed perpendicular to flexural 
+reinforcement.
+7.7.6.2 Nonprestressed reinforcement
+7.7.6.2.1 Spacing of deformed shrinkage and temperature 
+reinforcement shall not exceed the lesser of 5h and 450 mm.
+7.7.6.3 Prestressed reinforcement
+7.7.6.3.1 Spacing of slab tendons required by 7.6.4.2 and 
+the distance between face of beam or wall to the nearest slab 
+tendon shall not exceed 1.8 m.
+7.7.6.3.2 If spacing of slab tendons exceeds 1.4 m, addi -
+tional deformed shrinkage and temperature reinforcement 
+conforming to 24.4.3 shall be provided parallel to the 
+tendons, except 24.4.3.4 need not be satisfied. In calculating 
+the area of additional reinforcement, it shall be permitted 
+to take the gross concrete area in 24.4.3.2 as the slab area 
+between faces of beams. This shrinkage and temperature 
+reinforcement shall extend from the slab edge for a distance 
+not less than the slab tendon spacing.
+s
+> 1.4 m
+ss
+Length ≥ sAdded shrinkage and temperature 
+deformed reinforcement
+A A
+Plan
+Section A-A
+Beam
+Tendon 
+Shrinkage and temperature 
+tendon
+Fig. R7.7.6.3.2—Plan view at slab edge showing added shrinkage and temperature deformed 
+reinforcement.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 109 (doc p.109) ---
+CODE COMMENTARY
+7 One-way Slabs
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 109
+R7.7.7 Structural integrity reinforcement in cast-in-place 
+one-way slabs
+R7.7.7.1 Positive moment structural integrity reinforce -
+ment for one-way slabs is intended to be similar to that for 
+beams. Refer to R9.7.7 for a discussion of structural integ -
+rity reinforcement for beams.
+7.7.7 Structural integrity reinforcement in cast-in-place 
+one-way slabs
+7.7.7.1 Longitudinal structural integrity reinforcement 
+consisting of at least one-fourth of the maximum positive 
+moment reinforcement shall be continuous.
+7.7.7.2 Longitudinal structural integrity reinforcement 
+at noncontinuous supports shall be developed in tension in 
+accordance with 25.4 by substituting a bar stress of 1.25fy for 
+fy at the face of the support.
+7.7.7.3 If splices are necessary in continuous structural 
+integrity reinforcement, the reinforcement shall be spliced 
+near supports. Splices shall be mechanical or welded in 
+accordance with 25.5.7 or Class B tension lap splices in 
+accordance with 25.5.2.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 110 (doc p.110) ---
+Notes
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+110 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

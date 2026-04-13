@@ -1,0 +1,1017 @@
+--- PDF idx 497 (doc p.497) ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 7: STRENGTH & SERVICEABILITY 497
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+R24.1—Scope
+R24.1.1 This chapter prescribes serviceability require -
+ments that are referenced by other chapters of the Code to 
+provide adequate performance of structural members. This 
+chapter does not stand on its own as a complete and cohesive 
+compilation of serviceability requirements for the design of 
+structural members. This chapter has no specific require -
+ments for vibrations.
+Cast-in-place floor systems designed in accordance with the 
+minimum thickness and deflection requirements of 7.3, 8.3, 
+9.3, and 24.2 have generally been found, through experience, to 
+provide vibration performance suitable for human comfort under 
+typical service conditions. However, there may be situations 
+where serviceability conditions are not satisfied, for example:
+(a) Long spans and open floor plans
+(b) Floors with strict vibration performance requirements 
+such as precision manufacturing and laboratory spaces
+(c) Facilities subject to rhythmic loadings or vibrating 
+mechanical equipment
+Prestressed floor systems are not subject to the minimum 
+thickness requirements of 7.3, 8.3, and 9.3, and if precast 
+they are frequently simple span systems. Consequently, 
+these floor systems can be more susceptible to vibration.
+Guidance on the consideration of vibrations in the design 
+of floor systems and the evaluation of vibration frequency 
+and amplitude for concrete floor systems is contained in 
+the PCI Design Handbook  ( PCI MNL 120 ), ATC Design 
+Guide 1 (Applied Technology Council 1999), Mast (2001), 
+Fanella and Mota (2014), and Wilford and Young (2006). An 
+example application is described by West et al. (2008).
+R24.2—Deflections due to service-level gravity 
+loads
+R24.2.1 This section is concerned only with deflections 
+or deformations that may occur at service load levels. When 
+time-dependent deflections are calculated, only the dead 
+load and those portions of other loads that are sustained need 
+be considered.
+For nonprestressed one-way slabs and beams, including 
+composite concrete members, the minimum overall thick -
+ness required by 7.3.1 and 9.3.1 is considered to satisfy the 
+requirements of the Code for members not supporting or 
+attached to nonstructural elements likely to be damaged by 
+large deflections. For nonprestressed two-way construction, 
+the minimum thickness required by 8.3.1 is considered to 
+satisfy the requirements of the Code.
+For nonprestressed members that do not meet these 
+minimum thickness requirements, for nonprestressed 
+one-way members that support or are attached to nonstruc -
+tural elements likely to be damaged by large deflections, and 
+for prestressed flexural members, deflections are required to 
+be calculated by 24.2.3 through 24.2.5. Calculated deflec -
+tions are limited to the values in Table 24.2.2.
+24.1—Scope
+24.1.1 This chapter shall apply to member design for 
+minimum serviceability, including (a) through (d):
+(a) Deflections due to service-level gravity loads (24.2)
+(b) Distribution of flexural reinforcement in one-way slabs 
+and beams to control cracking (24.3)
+(c) Shrinkage and temperature reinforcement (24.4)
+(d) Permissible stresses in prestressed flexural members 
+(24.5)
+24.2—Deflections due to service-level gravity 
+loads
+24.2.1 Members subjected to flexure shall be designed 
+with adequate stiffness to limit deflections or deformations 
+that adversely affect strength or serviceability of a structure.
+CHAPTER 24—SERVICEABILITY
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 498 (doc p.498) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+498 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R24.2.2 The limitations given in Table 24.2.2 relate only 
+to supported or attached nonstructural elements. For those 
+structures in which structural members are likely to be 
+affected by deflection or deformation of members to which 
+they are attached in such a manner as to affect adversely the 
+strength of the structure, these deflections and the resulting 
+forces should be considered explicitly in the analysis and 
+design of the structures as required by 24.2.1 (ACI PRC-209). 
+When time-dependent deflections are calculated, the 
+portion of the deflection before attachment of the nonstruc -
+tural elements may be deducted. In making this correction, 
+use may be made of the curve in Fig. R24.2.4.1 for members 
+of usual sizes and shapes.
+R24.2.3 Calculation of immediate deflections
+R24.2.3.1 For calculation of immediate deflections 
+of uncracked prismatic members, the usual methods or 
+formulas for elastic deflections may be used with a constant 
+value of EcIg along the length of the member. However, if the 
+member is expected to crack at one or more sections, or if 
+its depth varies along the span, a more rigorous calculation 
+becomes necessary.
+R24.2.3.3 For immediate deflections, the values of Ec and 
+Ie specified in 24.2.3.4 and 24.2.3.5, respectively, may be 
+used (ACI PRC-209). However, other procedures and other 
+values of the stiffness EcIe may be used if they result in 
+predictions of deflection in reasonable agreement with the 
+results of comprehensive tests. Additional information on 
+24.2.2 Deflections calculated in accordance with 24.2.3 
+through 24.2.5 shall not exceed the limits in Table 24.2.2.
+Table 24.2.2—Maximum permissible calculated deflections
+Member Condition Deflection to be considered Deflection limitation[1]
+Flat roofs
+Not supporting or attached to nonstructural elements likely 
+to be damaged by large deflections
+Immediate deflection due to 
+maximum of Lr, S, and R ℓ/180[2]
+Floors Immediate deflection due 
+to L ℓ/360
+Roof or floors Supporting or attached to 
+nonstructural elements
+Likely to be damaged by 
+large deflections
+That part of the total 
+deflection occurring after 
+attachment of nonstructural 
+elements, which is the 
+sum of the time-dependent 
+deflection due to all 
+sustained loads and the 
+immediate deflection due to 
+any additional live load[3]
+ℓ/480[4]
+Not likely to be damaged by 
+large deflections ℓ/240[5]
+[1]For cantilevered members, ℓ shall be taken as twice the clear projection of the cantilever.
+[2]Limit not intended to safeguard against ponding. Ponding shall be checked by calculations of deflection, including added deflections due to ponded water, and considering time-
+dependent effects of sustained loads, camber, construction tolerances, and reliability of provisions for drainage.
+[3]Time-dependent deflection shall be calculated in accordance with 24.2.4, but shall be permitted to be reduced by amount of deflection calculated to occur before attachment of 
+nonstructural elements. This amount shall be calculated on basis of accepted engineering data relating to time-deflection characteristics of members similar to those being considered.
+[4]Limit shall be permitted to be exceeded if measures are taken to prevent damage to supported or attached elements.
+[5]Limit shall not exceed tolerance provided for nonstructural elements.
+24.2.3 Calculation of immediate deflections
+24.2.3.1 Immediate deflections shall be calculated using 
+methods or formulas for elastic deflections, considering 
+effects of cracking and reinforcement on member stiffness.
+24.2.3.2 Effect of variation of cross-sectional properties, 
+such as haunches, shall be considered when calculating 
+deflections.
+24.2.3.3 Deflections in two-way slab systems shall be calcu-
+lated taking into account size and shape of the panel, conditions 
+of support, and nature of restraints at the panel edges.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 499 (doc p.499) ---
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 499
+deflection of nonprestressed concrete structures is provided 
+in ACI PRC-435.
+R24.2.3.5 The effective moment of inertia approximation, 
+developed by Bischoff (2005), has been shown to result in 
+calculated deflections that have sufficient accuracy for a wide 
+range of reinforcement ratios ( Bischoff and Scanlon 2007). 
+Mcris multiplied by two-thirds to consider restraint that can 
+reduce the effective cracking moment as well as to account 
+for reduced tensile strength of concrete during construction 
+that can lead to cracking that later affects service deflections 
+(Scanlon and Bischoff 2008).
+Before 2019, ACI 318 used a different equation (Branson 
+1965) to calculate Ie. The previous equation has subsequently 
+been shown to underestimate deflections for members with 
+low reinforcement ratios, which often occur in slabs, and 
+does not consider the effects of restraint. For members with 
+greater than 1 percent reinforcement and a service moment 
+at least twice the cracking moment, there is little difference 
+between deflections calculated using Branson (1965) or 
+Bischoff and Scanlon (2007). Refer to ACI PRC-435.
+R24.2.3.7 The use of the midspan section properties for 
+continuous prismatic members is considered satisfactory 
+in approximate calculations primarily because the midspan 
+stiffness (including the effect of cracking) has the dominant 
+effect on deflections, as shown by ACI PRC-435.5 , ACI 
+Committee 435 (1978), and Sabnis et al. (1974).
+R24.2.3.8 Immediate deflections of Class U prestressed 
+concrete members may be calculated by the usual methods or 
+formulas for elastic deflections using the moment of inertia 
+of the gross (uncracked) concrete section and the modulus of 
+elasticity for concrete specified in 19.2.2.1.
+R24.2.3.9 The effective moment of inertia equation in 
+24.2.3.5 was revised in the 2019 Code. The revision is not 
+applicable to prestressed members. Equation (24.2.3.9a) 
+maintains the provisions of previous editions of the Code 
+for these types of members. The PCI Design Handbook  
+(PCI MNL 120) gives information on deflection calculations 
+using a bilinear moment-deflection relationship and using 
+an effective moment of inertia. Mast (1998) gives additional 
+information on deflection of cracked prestressed concrete 
+members.
+Shaikh and Branson (1970)  shows that the Ie method 
+can be used to calculate deflections of Class C and Class 
+T prestressed members loaded above the cracking load. For 
+24.2.3.4 Modulus of elasticity, Ec, shall be permitted to be 
+calculated in accordance with 19.2.2.
+24.2.3.5 For nonprestressed members, unless obtained by 
+a more comprehensive analysis, effective moment of inertia, 
+Ie, shall be calculated in accordance with Table 24.2.3.5 
+using: 
+   M  cr   =   
+ f  r   I  g  
+ ___  y  t      (24.2.3.5)
+Table 24.2.3.5—Effective moment of inertia, Ie
+Service moment Effective moment of inertia, Ie, in.4
+Ma ≤ (2/3)Mcr Ig (a)
+Ma > (2/3)Mcr
+    I  cr   _________________  
+1 –   (   (2/3)  M  cr   ______  M  a    )    
+2
+  (1 –    I  cr   __  I  g    ) 
+     (b)
+24.2.3.6 For continuous one-way slabs and beams, Ie shall 
+be permitted to be taken as the average of values obtained 
+from Table 24.2.3.5 for the critical positive and negative 
+moment sections.
+24.2.3.7 For prismatic one-way slabs and beams, Ie shall 
+be permitted to be taken as the value obtained from Table 
+24.2.3.5 at midspan for simple and continuous spans, and at 
+the support for cantilevers.
+24.2.3.8 For prestressed Class U slabs and beams as 
+defined in 24.5.2, it shall be permitted to calculate deflec -
+tions based on Ig.
+24.2.3.9 For prestressed Class T and Class C slabs and 
+beams as defined in 24.5.2, deflection calculations shall be 
+based on a cracked transformed section analysis. It shall 
+be permitted to base deflection calculations on a bilinear 
+moment-deflection relationship or Ie in accordance with Eq. 
+(24.2.3.9a)
+   I  e   =   (     M  cr   ___  M  a     )     
+3
+   I  g   +   [  1 −   (     M  cr   ___  M  a     )     
+3
+  ]    I  cr    (24.2.3.9a)
+where Mcr is calculated as
+   M  cr   =   
+ ( f  r   +  f  pe  )  I  g  
+ ________  y  t      (24.2.3.9b)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 500 (doc p.500) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+500 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+this case, the cracking moment should take into account the 
+effect of prestress as provided in Eq. (24.2.3.9).
+A method for predicting the effect of nonprestressed 
+tension reinforcement in reducing creep camber is also given 
+in Shaikh and Branson (1970) , with approximate forms 
+given in ACI PRC-209 and Branson (1970).
+R24.2.4 Calculation of time-dependent deflections
+R24.2.4.1 Nonprestressed members
+Shrinkage and creep cause time-dependent deflections in addi-
+tion to the elastic deflections that occur when loads are first placed 
+on the structure. Such deflections are influenced by temperature, 
+humidity, curing conditions, age at time of loading, amount of 
+compression reinforcement, and magnitude of the sustained 
+load. The expression given in this section is considered satis-
+factory for use with the Code procedures for the calculation of 
+immediate deflections, and with the limits given in Table 24.2.2. 
+The deflection calculated in accordance with this section is the 
+additional time-dependent deflection due to the dead load and 
+those portions of other loads that will be sustained for a sufficient 
+period to cause significant time-dependent deflections.
+Equation (24.2.4.1.1) was developed in Branson (1971). In 
+Eq. (24.2.4.1.1), the term (1 + 50ρ′) accounts for the effect of 
+compression reinforcement in reducing time-dependent deflec-
+tions. ξ = 2.0 represents a nominal time-dependent factor for a 
+5-year duration of loading. The curve in Fig. R24.2.4.1 may be 
+used to estimate values of ξ for loading periods less than 5 years.
+If it is desired to consider creep and shrinkage separately, 
+approximate equations provided in Branson ( 1965, 1971, 
+1977) and ACI Committee 435 (1966) may be used.
+Because available data on time-dependent deflections 
+of two-way slabs are too limited to justify more elaborate 
+procedures, calculation of the additional time-dependent 
+deflection for two-way construction in accordance with 
+Eq. (24.2.4.1.1) is required to use the multipliers given in 
+24.2.4.1.3.
+2.0
+1.5
+1.0
+0.5
+0
+Duration of load, months
+ξ
+01 31 21 8 24 30 36 48 606
+Fig. R24.2.4.1—Multipliers for time-dependent deflections.
+24.2.4 Calculation of time-dependent deflections
+24.2.4.1 Nonprestressed members
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 501 (doc p.501) ---
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 501
+R24.2.4.2 Prestressed members
+R24.2.4.2.1 Calculations should consider not only the 
+increased deflections due to flexural stresses, but also the 
+time-dependent deflections resulting from time-dependent 
+shortening of the flexural member.
+Prestressed concrete members are susceptible to increased 
+time-dependent deflections. Prestressed concrete members 
+shorten more with time than similar nonprestressed members 
+due to the precompression in the slab or beam, which causes 
+creep. Creep combined with concrete shrinkage can result in 
+significant shortening of flexural members that continues for 
+several years after construction. This shortening can reduce 
+the tension in the prestressed reinforcement and increase 
+time-dependent deflections.
+Another factor that can influence time-dependent deflec -
+tions of prestressed flexural members is adjacent concrete 
+or masonry that is nonprestressed in the direction of the 
+prestressed member. This can be a slab nonprestressed in the 
+beam direction adjacent to a prestressed beam or a nonpre -
+stressed slab system. As the prestressed member tends to 
+shrink and creep more than the adjacent nonprestressed 
+concrete, the structure will tend to reach a compatibility of the 
+shortening effects. This results in a reduction of the precom-
+pression in the prestressed member as the adjacent concrete 
+absorbs the compression. This reduction in precompression 
+of the prestressed member can occur over a period of years 
+and will result in additional time-dependent deflections and an 
+increase in tensile stresses in the prestressed member.
+24.2.4.1.1 Unless obtained from a more comprehensive 
+analysis, additional time-dependent deflection resulting 
+from creep and shrinkage of flexural members shall be 
+calculated as the product of the immediate deflection caused 
+by sustained load and the factor λΔ
+   λ  Δ   =   ξ ______ 1 + 50 ρ ′      (24.2.4.1.1)
+24.2.4.1.2 In Eq. (24.2.4.1.1), ρ′ shall be calculated at 
+midspan for simple and continuous spans, and at the support 
+for cantilevers.
+24.2.4.1.3 In Eq. (24.2.4.1.1), values of the time-depen -
+dent factor for sustained loads, ξ, shall be in accordance with 
+Table 24.2.4.1.3.
+Table 24.2.4.1.3—Time-dependent factor for 
+sustained loads
+Sustained load duration, months Time-dependent factor ξ
+3 1.0
+6 1.2
+12 1.4
+60 or more 2.0
+24.2.4.2 Prestressed members
+24.2.4.2.1 Additional time-dependent deflection of 
+prestressed concrete members shall be calculated consid -
+ering stresses in concrete and reinforcement under sustained 
+load, and the effects of creep and shrinkage of concrete and 
+relaxation of prestressed reinforcement.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 502 (doc p.502) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+502 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Any suitable method for calculating time-dependent 
+deflections of prestressed members may be used, provided 
+all effects are considered. Guidance may be found in ACI 
+PRC-209, ACI Committee 435 (1963), Branson et al. (1970), 
+and Ghali and Favre (1986).
+R24.2.5 Calculation of deflections of composite concrete 
+construction
+R24.2.5.1 Composite concrete members are designed to 
+meet the horizontal shear strength requirements of 16.4. 
+Because few tests have been made to study the immediate 
+and time-dependent deflections of composite members, the 
+requirements given in this section are based on the judgment 
+of ACI Committee 318 and on experience.
+In 22.3.3.3, it is stated that distinction need not be made 
+between shored and unshored members. This refers to 
+strength calculations, not to deflections. Construction docu-
+ments should indicate whether composite concrete design 
+is based on shored or unshored construction, as required by 
+26.11.1.1.
+R24.3—Distribution of flexural reinforcement in 
+one-way slabs and beams
+R24.3.1 Where service loads result in high stresses in the 
+reinforcement, visible cracks should be expected, and steps 
+should be taken in detailing of the reinforcement to control 
+cracking. For reasons of durability and appearance, many 
+fine cracks are preferable to a few wide cracks. Detailing 
+practices limiting bar spacing will usually lead to adequate 
+crack control where Grade 60 reinforcement is used. 
+Extensive laboratory experiments ( Gergely and Lutz 
+1968; Kaar 1966; Base et al. 1966) involving deformed bars 
+demonstrated that crack width at service loads is propor -
+tional to reinforcement stress. The significant variables 
+reflecting reinforcement detailing were found to be thick -
+ness of concrete cover and the spacing of reinforcement.
+Crack width is inherently subject to wide scatter even 
+in careful laboratory experiments and is influenced by 
+shrinkage and other time-dependent effects. Improved crack 
+control is obtained where the reinforcement is well distrib -
+uted over the zone of maximum concrete tension. Several 
+bars at moderate spacing are much more effective in control-
+ling cracking than one or two larger bars of equivalent area.
+24.2.5 Calculation of deflections of composite concrete 
+construction
+24.2.5.1 If composite concrete flexural members are 
+shored during construction so that, after removal of tempo -
+rary supports, the dead load is resisted by the full composite 
+section, it shall be permitted to consider the composite 
+member equivalent to a monolithically cast member for 
+calculation of deflections.
+24.2.5.2 If composite concrete flexural members are not 
+shored during construction, the magnitude and duration of 
+load before and after composite action becomes effective shall 
+be considered in calculating time-dependent deflections.
+24.2.5.3 Deflections resulting from differential shrinkage 
+of precast and cast-in-place components, and of axial creep 
+effects in prestressed members, shall be considered.
+24.3—Distribution of flexural reinforcement in one-
+way slabs and beams
+24.3.1 Bonded reinforcement shall be distributed to 
+control flexural cracking in tension zones of nonprestressed 
+and Class C prestressed slabs and beams reinforced for 
+flexure in one direction only.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 503 (doc p.503) ---
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 503
+R24.3.2 The spacing of reinforcement is limited to control 
+cracking ( Beeby 1979 ; Frosch 1999 ; ACI Committee 318 
+1999). For the case of beams with Grade 420 reinforcement 
+and 50 mm clear cover to the primary reinforcement, with 
+fs = 280 MPa, the maximum bar spacing is 250 mm. 
+Crack widths in structures are highly variable. The Code 
+provisions for spacing are intended to limit surface cracks to 
+a width that is generally acceptable in practice but may vary 
+widely in a given structure.
+The role of cracks in the corrosion of reinforcement is 
+controversial. Research (Darwin et al. 1985; Oesterle 1997) 
+shows that corrosion is not clearly correlated with surface 
+crack widths in the range normally found with reinforcement 
+stresses at service load levels. For this reason, the Code does 
+not differentiate between interior and exterior exposures.
+Only tension reinforcement nearest the tension face need 
+be considered in selecting the value of cc used in calculating 
+spacing requirements. To account for prestressed reinforce -
+ment, such as strand, having bond characteristics less effec-
+tive than deformed reinforcement, a two-thirds effectiveness 
+factor is used in Table 24.3.2.
+For post-tensioned members designed as cracked 
+members, it will usually be advantageous to provide crack 
+control by the use of deformed reinforcement, for which the 
+provisions in Table 24.3.2 for deformed bars or wires may 
+be used. Bonded reinforcement required by other provisions 
+of the Code may also be used as crack control reinforcement.
+R24.3.2.1 For applications in which crack control is crit -
+ical, the designer should consider reducing the value of fs to 
+help control cracking. Research by Frosch et al. (2014) and 
+Puranam (2018) supports the use of these design provisions 
+for Grade 100 reinforcement.
+R24.3.2.2 It is conservative to take the decompression 
+stress fdc equal to fse, the effective stress in the prestressed 
+reinforcement. The maximum limitation of 250 MPa for Δfps 
+is intended to be similar to the maximum allowable stress 
+in Grade 420 reinforcement (fs = 280 MPa). The exemption 
+for members with Δfps less than 140 MPa reflects that many 
+structures designed by working stress methods and with low 
+reinforcement stress served their intended functions with 
+very limited flexural cracking.
+R24.3.4 In a T-beam, distribution of the negative moment 
+reinforcement for control of cracking should take into 
+account two considerations: 1) wide spacing of the reinforce-
+ment across the full effective width of flange may cause some 
+wide cracks to form in the slab near the web; and 2) close 
+spacing near the web leaves the outer regions of the flange 
+24.3.2 Spacing of bonded reinforcement closest to the 
+tension face shall not exceed the limits in Table 24.3.2, 
+where cc is the least distance from surface of deformed or 
+prestressed reinforcement to the tension face. Calculated 
+stress in deformed reinforcement, fs, and calculated change 
+in stress in bonded prestressed reinforcement, Δ fps, shall be 
+in accordance with 24.3.2.1 and 24.3.2.2, respectively.
+Table 24.3.2—Maximum spacing of bonded 
+reinforcement in nonprestressed and Class C 
+prestressed one-way slabs and beams
+Reinforcement type Maximum spacing s
+Deformed bars or 
+wires Lesser of:
+ 380  (    280 _____  f  s     )    − 2.5  c  c   
+ 300  (    280  _____  f  s     )    
+Bonded prestressed 
+reinforcement Lesser of:
+   (    2 _ 3   )     [  380  (    280 _____ Δ f  ps     )    − 2.5  c  c   ]    
+   (    2 _ 3   )     [  300  (    280 _____ Δ f  ps     )    ]    
+Combined deformed 
+bars or wires and 
+bonded prestressed 
+reinforcement
+Lesser of:
+   (    5 _ 6   )     [  380  (    280 _____ Δ f  ps     )    − 2.5  c  c   ]    
+   (    5 _ 6   )     [  300  (    280  _____ Δ f  ps     )    ]    
+24.3.2.1 Stress fs in deformed reinforcement closest to the 
+tension face at service loads shall be calculated based on the 
+unfactored moment, or it shall be permitted to take fs as (2/3)fy.
+24.3.2.2 Change in stress, Δ fps, in bonded prestressed 
+reinforcement at service loads shall be equal to the calcu -
+lated stress based on a cracked section analysis minus the 
+decompression stress fdc. It shall be permitted to take fdc 
+equal to the effective stress in the prestressed reinforcement 
+fse. The value of Δfps shall not exceed 250 MPa. If Δ fps does 
+not exceed 140 MPa, the spacing limits in Table 24.3.2 need 
+not be satisfied.
+24.3.3 If there is only one bonded bar, pretensioned strand, 
+or bonded tendon nearest to the extreme tension face, the 
+width of the extreme tension face shall not exceed s deter-
+mined in accordance with Table 24.3.2
+24.3.4 If the flange of a T-beam is in tension, the portion of 
+the bonded flexural tension reinforcement not located over the 
+beam web shall be distributed within the lesser of the effective 
+flange width, as defined in accordance with 6.3.2 and ℓn/10. If 
+ℓn/10 controls, additional bonded longitudinal reinforcement 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 504 (doc p.504) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+504 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+unprotected. The one-tenth limitation is to guard against a 
+spacing that is too wide, with some additional reinforcement 
+required to protect the outer portions of the flange.
+For T-beams designed to resist negative moments due to 
+gravity and wind loads, all tensile reinforcement required for 
+strength is located within the lesser of the effective flange 
+width and ℓn/10. Common practice is to place more than 
+half of the reinforcement over the beam web. For T-beams 
+resisting load combinations including earthquake effects, all 
+reinforcement placed within the effective flange width may 
+contribute to the beam flexural strength for the anticipated 
+drift (refer to 18.7.3).
+R24.3.5 Although a number of studies have been 
+conducted, clear experimental evidence is not available 
+regarding the crack width beyond which a corrosion danger 
+exists (ACI PRC-222). Exposure tests indicate that concrete 
+quality, adequate consolidation, and ample concrete cover 
+may be of greater importance for corrosion protection than 
+crack width at the concrete surface ( Schieβl and Raupach 
+1997).
+Provisions related to increased concrete cover and dura -
+bility of reinforcement is covered in 20.5, while durability 
+of concrete is covered in 19.3.
+R24.4—Shrinkage and temperature reinforcement
+R24.4.1 Shrinkage and temperature reinforcement is 
+provided at right angles to the principal reinforcement to 
+control cracking and to tie the structure together. The provi-
+sions of this section are not intended for slabs-on-ground, 
+unless the slab-on-ground is designed as a structural 
+diaphragm.
+R24.4.2 The area of shrinkage and temperature rein -
+forcement required by 24.4.3.2 has been satisfactory where 
+shrinkage and temperature movements are permitted to 
+occur. Where structural walls or columns provide signifi -
+cant restraint to shrinkage and temperature movements, the 
+restraint of volume changes causes tension in slabs, as well as 
+displacements, shear forces, and flexural moments in columns 
+or walls. In these cases, it may be necessary to increase the 
+amount of slab reinforcement required by 24.4.3.2 due to the 
+shrinkage and thermal effects in both principal directions (PCI 
+MNL 120; Gilbert 1992). Top and bottom reinforcement are 
+both effective in controlling cracks. Control strips during the 
+construction period, which permit initial shrinkage to occur 
+without causing an increase in stress, are also effective in 
+reducing cracks caused by restraint.
+Topping slabs also experience tension due to restraint of 
+differential shrinkage between the topping and the precast 
+elements or metal deck (which has zero shrinkage) that 
+should be considered in reinforcing the slab. Consideration 
+should be given to strain demands on reinforcement crossing 
+joints of precast elements where most of the restraint is 
+likely to be relieved.
+satisfying 24.4.3.1 shall be provided in the outer portions of 
+the flange.
+24.3.5 The spacing of bonded flexural reinforcement in 
+nonprestressed and Class C prestressed one-way slabs and 
+beams subject to fatigue, designed to be watertight, or 
+exposed to corrosive environments, shall be selected based 
+on investigations and precautions specific to those condi -
+tions and shall not exceed the limits of 24.3.2.
+24.4—Shrinkage and temperature reinforcement
+24.4.1 Reinforcement to resist shrinkage and tempera -
+ture stresses shall be provided in accordance with 24.4.3 or 
+24.4.4.
+24.4.2 If shrinkage and temperature movements are 
+restrained, the effects of T shall be considered in accordance 
+with 5.3.6.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 505 (doc p.505) ---
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 505
+R24.4.3 Nonprestressed reinforcement
+R24.4.3.2 The minimum ratio of deformed bar or welded 
+wire reinforcement area to gross concrete area of 0.0018 is 
+empirical but has been used satisfactorily for many years. 
+The resulting area of reinforcement may be distributed 
+within the member as deemed appropriate for specific condi-
+tions. Previous editions of the Code permitted a reduction 
+in shrinkage and temperature reinforcement for reinforce -
+ment with yield strength greater than 420 MPa. However, 
+the mechanics of cracking suggest that increased yield 
+strength provides no benefit for the control of cracking. If 
+crack width or leakage prevention is a design limit state, 
+refer to ACI PRC-224 or ACI CODE-350 for recommended 
+reinforcement ratios.
+R24.4.3.4 Splices and end anchorages of shrinkage and 
+temperature reinforcement are to be designed to develop the 
+specified yield strength of the reinforcement in accordance 
+with Chapter 25.
+R24.4.3.5 For precast, prestressed concrete members not 
+wider than 3.6 m, such as hollow-core slabs, solid slabs, or 
+slabs with closely spaced ribs, there is usually no need to 
+provide reinforcement to withstand shrinkage and tempera -
+ture stresses in the short direction. This is generally also true 
+for precast, nonprestressed floor and roof slabs. The 3.6  m 
+width is less than that in which shrinkage and temperature 
+stresses can build up to a magnitude requiring reinforce -
+ment. In addition, much of the shrinkage occurs before the 
+members are tied into the structure. Once in the final struc -
+ture, the members are usually not as rigidly connected trans-
+versely as monolithic concrete, thus, the transverse restraint 
+stresses due to both shrinkage and temperature change are 
+significantly reduced. 
+The waiver does not apply where reinforcement is required 
+to resist flexural stresses, such as in thin flanges of precast 
+single and double tees.
+R24.4.4 Prestressed reinforcement
+R24.4.4.1 Prestressed reinforcement requirements have 
+been selected to provide an effective force on the slab approx-
+imately equal to the force required to yield nonprestressed 
+shrinkage and temperature reinforcement. This amount of 
+prestressing—0.7 MPa on the gross concrete area—has been 
+used successfully on a large number of projects.
+24.4.3 Nonprestressed reinforcement
+24.4.3.1 Deformed reinforcement to resist shrinkage and 
+temperature stresses shall conform to Table 20.2.2.4(a) and 
+shall be in accordance with 24.4.3.2 through 24.4.3.5.
+24.4.3.2 The ratio of deformed shrinkage and temperature 
+reinforcement area to gross concrete area shall be greater 
+than or equal to 0.0018.
+24.4.3.3 The spacing of deformed shrinkage and temperature 
+reinforcement shall not exceed the lesser of 5h and 450 mm.
+24.4.3.4 At all sections where required, deformed rein -
+forcement used to resist shrinkage and temperature stresses 
+shall develop fy in tension.
+24.4.3.5 For one-way precast slabs and one-way precast, 
+prestressed wall panels, shrinkage and temperature rein -
+forcement is not required in the direction perpendicular to 
+the flexural reinforcement if (a) through (c) are satisfied.
+(a) Precast members are not wider than 3.6 m
+(b) Precast members are not mechanically connected to 
+cause restraint in the transverse direction
+(c) Reinforcement is not required to resist transverse flex-
+ural stresses
+24.4.4 Prestressed reinforcement
+24.4.4.1 Prestressed reinforcement to resist shrinkage and 
+temperature stresses shall conform to Table 20.3.2.2, and 
+the effective prestress after losses shall provide an average 
+compressive stress of at least 0.7 MPa on gross concrete 
+area.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 506 (doc p.506) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+506 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+The effects of slab shortening should be evaluated to 
+ensure serviceable behavior of the structure. In most cases, 
+the low level of prestressing recommended should not cause 
+difficulties in a properly detailed structure. Additional atten-
+tion may be required where thermal effects or restraint 
+become significant.
+R24.5—Permissible stresses in prestressed 
+concrete flexural members
+R24.5.1 General
+R24.5.1.1 Permissible stresses in concrete address service-
+ability but do not ensure adequate design strength, which should 
+be checked in accordance with other Code requirements.
+A mechanism is provided such that Code limits on stress 
+need not inhibit the development of new products, mate -
+rials, and techniques in prestressed concrete construction. 
+Approvals for the design should be in accordance with 1.10 
+of the Code.
+R24.5.2 Classification of prestressed flexural members
+R24.5.2.1 Three classes of behavior of prestressed flex -
+ural members are defined. Class U members are assumed 
+to behave as uncracked members. Class C members are 
+assumed to behave as cracked members. The behavior of 
+Class T members is assumed to be in transition between 
+uncracked and cracked. These classes apply to both bonded 
+and unbonded prestressed flexural members, but prestressed 
+two-way slab systems are required to be designed as Class 
+U with ft ≤ 0.5  √ 
+__
+   f  c   ′     .
+The serviceability requirements for each class are summa-
+rized in Table R24.5.2.1. For comparison, Table R24.5.2.1 
+also shows corresponding requirements for nonprestressed 
+members. Due to lack of strain compatibility, it is inap -
+propriate to include the area of unbonded prestressed rein -
+forcement in the calculation of gross or cracked section 
+properties, although the effective prestress force should be 
+considered when determining the location of the neutral 
+axis. Conversely, the calculation of section properties should 
+account for the area of the voids created by the sheathing or 
+duct for unbonded prestressed reinforcement. A method for 
+evaluating stresses, deflections, and crack control in cracked 
+prestressed members is given in Mast (1998).
+The precompressed tension zone is that portion of a 
+prestressed member where flexural tension, calculated using 
+gross section properties, would occur under unfactored 
+dead and live loads if the prestress force was not present. 
+24.5—Permissible stresses in prestressed 
+concrete flexural members
+24.5.1 General
+24.5.1.1 Concrete stresses in prestressed flexural members 
+shall be limited in accordance with 24.5.2 through 24.5.4 
+unless it is shown by test or analysis that performance will 
+not be impaired.
+24.5.1.2 For calculation of stresses at transfer of prestress, 
+at service loads, and at cracking loads, elastic theory shall be 
+used with assumptions (a) and (b):
+(a) Strains vary linearly with distance from neutral axis in 
+accordance with 22.2.1.
+(b) At cracked sections, concrete resists no tension.
+24.5.2 Classification of prestressed flexural members
+24.5.2.1 Prestressed flexural members shall be classi -
+fied as Class U, T, or C in accordance with Table 24.5.2.1, 
+based on the extreme fiber stress in tension ft in the precom-
+pressed tension zone calculated at service loads assuming an 
+uncracked section.
+Table 24.5.2.1—Classification of prestressed 
+flexural members based on ft
+Assumed behavior Class Limits of ft
+Uncracked U[1] ft ≤ 0.62  √ 
+__
+   f  c   ′     
+Transition between 
+uncracked and 
+cracked
+T 0.62  √ 
+__
+   f  c   ′      < ft ≤ 1.0  √ 
+__
+   f  c   ′       
+Cracked C ft > 1.0  √ 
+__
+   f  c   ′     
+[1]Prestressed two-way slabs shall be designed as Class U with ft ≤ 0.5  √ 
+__
+   f  c   ′     .
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 507 (doc p.507) ---
+CODE COMMENTARY
+24 Serviceability
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 7: STRENGTH & SERVICEABILITY 507
+Prestressed concrete is usually designed so that the prestress 
+force introduces compression into this zone, thus effectively 
+reducing the magnitude of the tensile stress.
+For corrosive environments, defined as an environment in 
+which chemical attack (such as seawater, corrosive indus -
+trial atmosphere, or sewer gas) is encountered, cracking at 
+service loads becomes more critical to long-term perfor -
+mance. For these conditions, cover should be increased in 
+accordance with 20.5.1.4, and tensile stresses in the concrete 
+reduced to minimize possible cracking at service loads.
+R24.5.2.3 Prestressed members are classified based on the 
+magnitude of the stress in the precompressed tension zone, 
+calculated assuming the section remains uncracked. Once it 
+is determined that a member is Class C, with ft > 1.0  √ 
+__
+   f  c   ′     , 
+subsequent calculations of service load stresses are based on 
+the cracked transformed section.
+R24.5.3 Permissible concrete stresses at transfer of prestress
+The concrete stresses at this stage are caused by the 
+weight of the member and the force in the prestressed rein -
+forcement after jacking reduced by the losses due to seating 
+of the prestressed reinforcement and elastic shortening of 
+the concrete. Shrinkage, creep, and relaxation effects are 
+generally not included at this stage. These stresses apply to 
+both pretensioned and post-tensioned concrete with proper 
+modifications of the losses at transfer. Minimum values of 
+fci′ are provided in 19.2.1.4 for pretensioned members and 
+25.9.4.5.4 for post-tensioning.
+24.5.2.2 For Class U and T members, stresses at service 
+loads shall be permitted to be calculated using the uncracked 
+section.
+24.5.2.3 For Class C members, stresses at service loads 
+shall be calculated using the cracked transformed section.
+24.5.3 Permissible concrete stresses at transfer of prestress
+Table R24.5.2.1—Serviceability design requirements
+Prestressed
+NonprestressedClass U Class T Class C
+Assumed behavior Uncracked Transition between 
+uncracked and cracked Cracked Cracked
+Section properties for stress 
+calculation at service loads Gross section 24.5.2.2 Gross section 
+24.5.2.2
+Cracked section 
+24.5.2.3 No requirement
+Allowable stress at transfer 24.5.3 24.5.3 24.5.3 No requirement
+Allowable compressive 
+stress based on uncracked 
+section properties
+24.5.4 24.5.4 No requirement No requirement
+Tensile stress at service 
+loads 24.5.2.1 ≤ 0.62  √ 
+__
+   f  c   ′     0.62  √ 
+__
+   f  c   ′      < ft ≤ 1.0  √ 
+__
+   f  c   ′     No requirement No requirement
+Deflection calculation basis 24.2.3.8, 24.2.4.2 
+Gross section
+24.2.3.9, 24.2.4.2 
+Cracked section, bilinear
+24.2.3.9, 24.2.4.2
+Cracked section, bilinear
+24.2.3, 24.2.4.1
+Effective moment of inertia
+Crack control No requirement No requirement 24.3 24.3
+Computation of Δfps or fs for 
+crack control — — Cracked section analysis M/(As × lever arm), or 2/3fy
+Side skin reinforcement No requirement No requirement 9.7.2.3 9.7.2.3
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 508 (doc p.508) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+508 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R24.5.3.1 The permissible concrete compressive stresses 
+at transfer of prestress are higher at ends of simply supported 
+members than at other locations based on research in the 
+precast, prestressed concrete industry ( Castro et al. 2004 ; 
+Dolan and Krohn 2007; Hale and Russell 2006).
+R24.5.3.2 The tensile stress limits of 0.25  √ 
+__
+   f  ci   ′      and  
+0.5  √ 
+__
+   f  ci   ′      refer to tensile stresses at transfer of prestress at 
+locations other than the precompressed tension zone. Where 
+tensile stresses exceed the permissible values, the total force 
+in the tensile stress zone may be calculated and reinforce -
+ment proportioned on the basis of this force at a stress of 
+0.6fy, but not more than 210 MPa. The effects of creep and 
+shrinkage begin to reduce the tensile stress almost immedi -
+ately; however, some tension remains in these locations after 
+allowance is made for all prestress losses. 
+R24.5.4 Permissible concrete compressive stresses at 
+service loads
+R24.5.4.1 The compressive stress limit of 0.45fc′ was orig-
+inally established to decrease the probability of failure of 
+prestressed concrete members due to repeated loads. This 
+limit also seemed reasonable to preclude excessive creep 
+deformation. At higher values of stress, creep strains tend to 
+increase more rapidly as applied stress increases.
+Fatigue tests of prestressed concrete beams have shown 
+that concrete compressive failures are not the controlling 
+criterion. Therefore, the stress limit of 0.60fc′ permits a one-
+third increase in allowable compressive stress for members 
+subject to transient loads.
+Sustained live load is any portion of the service live load 
+that will be sustained for a sufficient period to cause signifi-
+cant time-dependent deflections. Thus, when the sustained 
+live and dead loads are a large percentage of the total service 
+load, the 0.45fc′ limit of Table 24.5.4.1 typically controls. On 
+the other hand, when a large portion of the total service load 
+consists of a transient or temporary service live load, the 
+increased stress limit of 0.60fc′ typically controls.
+The compression limit of 0.45fc′ for prestress plus sustained 
+loads will continue to control the time-dependent behavior 
+of prestressed members.
+24.5.3.1 Calculated extreme concrete fiber stress in 
+compression immediately after transfer of prestress, but 
+before time-dependent prestress losses, shall not exceed the 
+limits in Table 24.5.3.1.
+Table 24.5.3.1—Concrete compressive stress 
+limits immediately after transfer of prestress
+Location
+Concrete compressive stress 
+limits
+End of simply-supported members 0.70fci′
+All other locations 0.60fci′
+24.5.3.2 Calculated extreme concrete fiber stress in 
+tension immediately after transfer of prestress, but before 
+time-dependent prestress losses, shall not exceed the limits 
+in Table 24.5.3.2, unless permitted by 24.5.3.2.1.
+Table 24.5.3.2—Concrete tensile stress limits 
+immediately after transfer of prestress, without 
+additional bonded reinforcement in tension zone
+Location Concrete tensile stress limits
+Ends of simply-supported 
+members 0.5  √ 
+__
+   f  ci   ′     
+All other locations 0.25  √ 
+__
+   f  ci   ′       
+24.5.3.2.1 The limits in Table 24.5.3.2 shall be permitted 
+to be exceeded where additional bonded reinforcement in 
+the tension zone resists the total tensile force in the concrete 
+calculated with the assumption of an uncracked section.
+24.5.4 Permissible concrete compressive stresses at 
+service loads
+24.5.4.1 For Class U and T members, the calculated 
+extreme concrete fiber stress in compression at service loads, 
+after allowance for all prestress losses, shall not exceed the 
+limits in Table 24.5.4.1.
+Table 24.5.4.1—Concrete compressive stress 
+limits at service loads
+Load condition
+Concrete compressive stress 
+limits
+Prestress plus sustained load 0.45fc′
+Prestress plus total load 0.60fc′
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

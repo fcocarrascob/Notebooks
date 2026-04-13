@@ -10,6 +10,26 @@ Registro cronológico append-only de operaciones sobre la wiki.
 
 ---
 
+## [2026-04-13] ingest | ACI 318-25_SI.pdf — Ingesta de capítulos de losas (Ch. 7 y 8)
+
+**Operación:** Extracción e ingesta de los capítulos de losas del PDF `raw/pdf/ACI 318-25_SI.pdf` (702 páginas, edición 2025 SI). Offset de páginas = 0 (doc_page = pdf_idx).
+
+**Archivos de extracción intermedios:**
+- `raw/references/ACI318_extract/Cap7_LosaUnidireccional.txt` — 12 páginas (doc p.99–110)
+- `raw/references/ACI318_extract/Cap8_LosaBidireccional.txt` — 30 páginas (doc p.111–140)
+- `raw/references/ACI318_extract/Cap6_Sec65_MetodoSimplificado.txt` — 15 páginas (doc p.83–97)
+- `raw/references/ACI318_extract/Cap24_Serviciabilidad.txt` — 12 páginas (doc p.497–508)
+
+**Páginas creadas:**
+- `formulas/ACI-318-Ch7-OneWaySlabs.md` — Losas unidireccionales: espesores mínimos (Tabla 7.3.1.1), modificadores por fy y wc, refuerzo mínimo flexural (As = 0.0018Ag), refuerzo de retracción (ρ = 0.0018), espaciado máximo, terminación de barras
+- `formulas/ACI-318-Ch8-TwoWaySlabs.md` — Losas bidireccionales: Tablas 8.3.1.1 y 8.3.1.2 de espesores mínimos, definiciones de franjas de columna/media, transferencia de momento γf/γv, punzonamiento, refuerzo mínimo (8.6.1.2), espaciado, restricción de esquina, aberturas, deflexiones (Ie e λΔ)
+
+**Páginas actualizadas:**
+- `standards/ACI-318-25.md` — Agregadas referencias a Ch7 y Ch8 losas en `related` y en sección "Fórmulas Relacionadas"
+- `index.md` — Agregadas filas para ACI-318-Ch7-OneWaySlabs y ACI-318-Ch8-TwoWaySlabs
+
+---
+
 ## [2026-04-10] ingest | NCh2369-2025.pdf — Ingesta del estándar completo
 
 **Operación:** Ingesta del PDF oficial `raw/pdf/NCh2369-2025.pdf` (248 páginas, edición 2025).
