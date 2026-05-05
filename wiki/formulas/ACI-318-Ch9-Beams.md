@@ -15,7 +15,7 @@ related:
   - ../materials/Steel-Reinforcing.md
 created: 2026-04-10
 updated: 2026-04-10
----
+--- 
 
 # ACI 318-25 Cap. 9 — Diseño de Vigas
 
