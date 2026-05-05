@@ -1,0 +1,654 @@
+--- PDF idx 179 (doc p.179) ---
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+ PART 3: MEMBERS 179
+CODE COMMENTARY
+11  Walls
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 11—WALLS
+R11.1—Scope
+R11.1.1 This chapter applies to walls as vertical and lateral 
+force-resisting members. Provisions for in-plane lateral 
+loads in ordinary structural walls are included in this chapter. 
+R11.1.2 Requirements for special structural walls are 
+in 18.10. Requirements for intermediate precast structural 
+walls and special structural walls constructed using precast 
+concrete are in 18.5 and 18.11, respectively.
+ASCE/SEI 7 defines a structural wall as a wall that meets 
+the definition for a bearing wall or a shear wall. A bearing 
+wall is defined as a wall that supports vertical load beyond 
+a certain threshold value. A shear wall is defined as a wall, 
+bearing or nonbearing, designed to resist lateral forces acting 
+in the plane of the wall.
+R11.1.6 Cast-in-place walls with insulating forms should 
+be designed in accordance with the Code. Specific design 
+recommendations can be found in ACI PRC-560.
+The licensed design professional should specify require -
+ments to verify consolidation of concrete cast in insulated 
+concrete forms (ICF) as provided in 26.5.2.1.
+R11.2—General
+11.1—Scope
+11.1.1 This chapter shall apply to the design of nonpre -
+stressed and prestressed walls including (a) through (c):
+(a) Cast-in-place
+(b) Precast in-plant
+(c) Precast on-site including tilt-up
+11.1.2 Design of special structural walls shall be in accor-
+dance with Chapter 18.
+11.1.3 Design of plain concrete walls shall be in accor -
+dance with Chapter 14.
+11.1.4 Design of cantilever retaining walls shall be in 
+accordance with Chapter 13.
+11.1.5 Design of walls as grade beams shall be in accor -
+dance with 13.3.5.
+11.1.6 Cast-in-place walls with insulating forms shall be 
+permitted by this Code.
+11.2—General
+11.2.1 Materials
+11.2.1.1 Design properties for concrete shall be selected to 
+be in accordance with Chapter 19.
+11.2.1.2 Design properties for steel reinforcement shall be 
+selected to be in accordance with Chapter 20.
+11.2.1.3 Materials, design, and detailing requirements for 
+embedments in concrete shall be in accordance with 20.6.
+11.2.2 Connection to other members
+11.2.2.1 For precast walls, connections shall be designed 
+in accordance with 16.2.
+11.2.2.2 Connections of walls to foundations shall satisfy 
+16.3.
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 180 (doc p.180) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+180 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R11.2.4 Intersecting elements
+R11.2.4.1 Walls that do not depend on intersecting 
+elements for support, do not have to be connected to those 
+elements. It is not uncommon to separate massive retaining 
+walls from intersecting walls to accommodate differences in 
+deformations.
+R11.2.4.2 The 0.8 factor reflects reduced confinement in 
+floor-wall joints compared with floor-column joints under 
+gravity loads.
+R11.4—Required strength
+R11.4.1 General
+11.2.3 Load distribution
+11.2.3.1 Unless otherwise demonstrated by an analysis, 
+the horizontal length of wall considered as effective for 
+resisting each concentrated load shall not exceed the lesser 
+of the center-to-center distance between loads, and the 
+bearing width plus four times the wall thickness. Effec -
+tive horizontal length for bearing shall not extend beyond 
+vertical wall joints unless design provides for transfer of 
+forces across the joints.
+11.2.4 Intersecting elements
+11.2.4.1 Walls shall be anchored to intersecting elements, 
+such as floors and roofs; columns, pilasters, buttresses, or 
+intersecting walls; and to footings.
+11.2.4.2 For cast-in-place walls having Pu > 0.2 fc′Ag, the 
+portion of the wall within the thickness of the floor system 
+shall have specified compressive strength at least 0.8 fc′ of 
+the wall.
+11.3—Design limits
+11.3.1 Minimum solid wall thickness
+11.3.1.1 Minimum solid wall thicknesses shall be in 
+accordance with Table 11.3.1.1. Thinner walls are permitted 
+if adequate strength and stability can be demonstrated by 
+structural analysis.
+Table 11.3.1.1—Minimum solid wall thickness h
+Wall type Minimum thickness h
+Bearing[1] Greater of:
+100 mm (a)
+1/25 the lesser of 
+unsupported length and 
+unsupported height
+(b)
+Nonbearing Greater of:
+100 mm (c)
+1/30 the lesser of 
+unsupported length and 
+unsupported height
+(d)
+Exterior 
+basement and 
+foundation[1]
+190 mm (e)
+[1]Only applies to walls designed in accordance with the simplified design method of 
+11.5.3.
+11.4—Required strength
+11.4.1 General
+11.4.1.1 Required strength shall be calculated in accor -
+dance with the factored load combinations in Chapter 5.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 181 (doc p.181) ---
+CODE COMMENTARY
+11  Walls
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 181
+R11.4.1.3 The forces typically acting on a wall are illus -
+trated in Fig. R11.4.1.3.
+Out-of-plane
+shear
+Self-weight
+Axial force
+In-plane
+shear
+In-plane
+moment
+Out-of-plane
+moment
+Fig. R11.4.1.3—In-plane and out-of-plane forces.
+11.4.1.2 Required strength shall be calculated in accor -
+dance with the analysis procedures in Chapter 6.
+11.4.1.3 Slenderness effects shall be calculated in accor -
+dance with 6.6.4, 6.7, or 6.8. Alternatively, out-of-plane 
+slenderness analysis shall be permitted using 11.8 for walls 
+meeting the requirements of that section.
+11.4.1.4 Walls shall be designed for eccentric axial loads 
+and any lateral or other loads to which they are subjected.
+11.4.1.5 Design of basement walls to resist out-of-plane 
+lateral earth pressure shall be in accordance with Section 
+13.3.7. 
+11.4.2 Factored axial force and moment
+11.4.2.1 Walls shall be designed for the maximum factored 
+moment Mu that can accompany the factored axial force for 
+each applicable load combination. The factored axial force 
+Pu at given eccentricity shall not exceed ϕPn,max, where Pn,max 
+shall be as given in 22.4.2.1 and strength reduction factor ϕ 
+shall be that for compression-controlled sections in 21.2.2. 
+The maximum factored moment Mu shall be magnified for 
+slenderness effects in accordance with 6.6.4, 6.7, or 6.8.
+11.4.3 Factored shear
+11.4.3.1 Walls shall be designed for the maximum in-plane 
+Vu and out-of-plane Vu.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 182 (doc p.182) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+182 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R11.5—Design strength
+R11.5.2 Axial load and in-plane or out-of-plane flexure
+R11.5.2.2 Nonbearing walls, by definition, are not subject 
+to any significant axial force; therefore, flexural strength is 
+not a function of axial force.
+R11.5.3 Axial load and out-of-plane flexure – simplified 
+design method
+R11.5.3.1 The simplified design method applies only to 
+solid rectangular cross sections; all other shapes should be 
+designed in accordance with 11.5.2.
+Eccentric axial loads and moments due to out-of-plane 
+forces are used to determine the maximum total eccentricity 
+of the factored axial force Pu. When the resultant axial force 
+for all applicable load combinations falls within the middle 
+third of the wall thickness (eccentricity not greater than 
+h/6) at all sections along the length of the undeformed wall, 
+no tension is induced in the wall and the simplified design 
+method may be used. The design is then carried out consid -
+ering Pu as a concentric axial force. 
+Equation (11.5.3.1) results in strengths comparable to those 
+determined in accordance with 11.5.2 for members loaded at 
+the middle third of the thickness with different braced and 
+restrained end conditions. Refer to Fig. R11.5.3.1.
+11.5—Design strength
+11.5.1 General
+11.5.1.1 For each applicable factored load combination, 
+design strength at all sections shall satisfy ϕSn ≥ U, including 
+(a) through (c). Interaction between axial load and moment 
+shall be considered.
+(a) ϕPn ≥ Pu
+(b) ϕMn ≥ Mu
+(c) ϕVn ≥ Vu
+11.5.1.2 ϕ shall be determined in accordance with 21.2.
+11.5.2 Axial load and in-plane or out-of-plane flexure
+11.5.2.1 For bearing walls, Pn and Mn (in-plane or out-of-
+plane) shall be calculated in accordance with 22.4. Alterna-
+tively, axial load and out-of-plane flexure shall be permitted 
+to be considered in accordance with 11.5.3.
+11.5.2.2 For nonbearing walls, Mn shall be calculated in 
+accordance with 22.3.
+11.5.3 Axial load and out-of-plane flexure – simplified 
+design method
+11.5.3.1 If the resultant of all factored loads is located 
+within the middle third of the thickness of a solid wall with 
+a rectangular cross section, Pn shall be permitted to be calcu-
+lated by:
+   P  n   = 0.55 fc' A  g    [  1 −   (    k ℓ  c   ___ 32h   )     
+2
+  ]     (11.5.3.1)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 183 (doc p.183) ---
+CODE COMMENTARY
+11  Walls
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 183
+25
+Pn
+fc′ Ag
+ℓc
+h
+k = 0.8 C
+m = 0.
+6
+Cm = 0.8
+k = 0.8
+k = 1 .0
+Section
+11.5.2
+k = 2.0
+20151050
+0.6
+0
+0.5
+0.4
+0.3
+0.2
+0.1
+Section
+11.5.2
+k = 2.0  C
+m = 1 .0
+fc’ = 28 MPa
+eccentricity = h/6
+Eq.
+(11.5.3.1)
+k = 1 .0  C
+m = 1 .0
+Section 11.5.2
+Fig. R11.5.3.1—Simplified design of walls, Eq. (11.5.3.1) 
+versus 11.5.2.
+R11.5.4 In-plane shear
+R11.5.4.1 In-plane shear is primarily of importance for 
+structural walls with a small height-to-length ratio (hw/ℓw< 2). 
+The design of taller walls, particularly walls with uniformly 
+distributed reinforcement, will likely be controlled by flex -
+ural considerations. Possible exceptions may occur in tall 
+structural walls subject to strong earthquake excitation.
+11.5.3.2 Effective length factor k for use with Eq. (11.5.3.1) 
+shall be in accordance with Table 11.5.3.2.
+Table 11.5.3.2—Effective length factor k for walls
+Boundary conditions k
+Walls braced top and bottom against lateral translation and:
+(a) Restrained against rotation at one or both ends (top, 
+bottom, or both) 0.8
+(b) Unrestrained against rotation at both ends 1.0
+Walls not braced against lateral translation 2.0
+11.5.3.3 Pn from Eq. (11.5.3.1) shall be reduced by ϕ for 
+compression-controlled sections in 21.2.2.
+11.5.3.4 Wall reinforcement shall be at least that required 
+by 11.6.
+11.5.4 In-plane shear
+11.5.4.1 Vn shall be calculated in accordance with 11.5.4.2 
+through 11.5.4.4. Alternatively, for walls with hw/ℓw < 2, it 
+shall be permitted to design for in-plane shear in accordance 
+with the strut-and-tie method of Chapter 23 . In all cases, 
+reinforcement shall satisfy the limits of 11.6, 11.7.2, and 
+11.7.3.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 184 (doc p.184) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+184 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R11.5.4.2 This limit is imposed to guard against diagonal 
+compression failure in structural walls. 
+R11.5.4.4 For structural walls where a net axial tension 
+force is calculated for the entire wall section, the shear 
+strength contribution attributed to the concrete is reduced 
+and may be negligible. For these members, wall transverse 
+reinforcement must be designed to resist most, if not all, of 
+the factored shear force.
+R11.6—Reinforcement limits
+R11.6.1 Both horizontal and vertical shear reinforcement 
+are required for all walls. The distributed reinforcement is 
+identified as being oriented parallel to either the longitu -
+dinal or transverse axis of the wall. Therefore, for vertical 
+wall segments, the notation used to describe the horizontal 
+distributed reinforcement ratio is ρt, and the notation used 
+to describe the vertical distributed reinforcement ratio is ρℓ.
+The reduced minimum reinforcement for precast walls 
+recognizes that precast members have less restraint to 
+shrinkage during curing and are usually not as rigidly 
+connected as monolithic concrete, resulting in reduced 
+restraint stresses due to both shrinkage and temperature 
+change ( PCI Committee on Precast Concrete Bearing 
+Wall Buildings 1976 ; Portland Cement Association 1980 ). 
+Reduced minimum reinforcement and greater spacings in 
+11.7.2.2 are allowed because precast wall panels have very 
+little restraint at their edges during early stages of curing and 
+develop less shrinkage stress than comparable cast-in-place 
+walls.
+Transverse reinforcement is not required in precast, 
+prestressed walls equal to or less than 3.6 m wide because 
+this width is less than that in which shrinkage and tempera -
+ture stresses can build up to a magnitude requiring trans -
+verse reinforcement. In addition, much of the shrinkage 
+occurs before the members are connected into the struc -
+ture. Once in the final structure, the members are usually 
+not as rigidly connected transversely as monolithic 
+concrete; thus, the transverse restraint stresses due to both 
+shrinkage and temperature change are significantly reduced. 
+11.5.4.2 Vn at any horizontal section shall not exceed  
+0.66  √ 
+_
+ fc'   Acv.
+11.5.4.3 Vn shall be calculated by:
+   V  n   =   (    α  c   λ  √ 
+_
+ fc'   +  ρ  t    f  yt   )    A  cv    (11.5.4.3)
+where:
+αc = 0.25 for hw/ℓw ≤ 1.5
+αc = 0.17 for hw/ℓw ≥ 2.0
+αc varies linearly between 0.25 and 0.17 for 1.5 < hw/ℓw < 2.0
+11.5.4.4 For walls subject to a net axial tension, αc in 
+Eq. (11.5.4.3) shall be taken as:
+   α  c   = 2  (  1 +    N  u   _____ 3 .5A  g     )    ≥ 0.0  (11.5.4.4)
+where Nu is negative for tension.
+11.5.5 Out-of-plane shear
+11.5.5.1 Vn shall be calculated in accordance with 22.5.
+11.6—Reinforcement limits
+11.6.1 If in-plane Vu ≤ 0.5 ϕαcλ  √ 
+_____
+ fc′   Acv, minimum ρℓ and 
+minimum ρt shall be in accordance with Table 11.6.1. These 
+limits need not be satisfied if adequate strength and stability 
+can be demonstrated by structural analysis.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 185 (doc p.185) ---
+CODE COMMENTARY
+11  Walls
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 185
+R11.6.2 For monotonically loaded walls with low height-
+to-length ratios, test data ( Barda et al. 1977 ) indicate that 
+horizontal shear reinforcement becomes less effective for 
+shear resistance than vertical reinforcement. This change in 
+effectiveness of the horizontal versus vertical reinforcement 
+is recognized in Eq. (11.6.2); if hw/ℓw is less than 0.5, the 
+amount of vertical reinforcement is equal to the amount of 
+horizontal reinforcement. If hw/ℓw is greater than 2.5, only 
+a minimum amount of vertical reinforcement is required 
+(0.0025sh).
+Table 11.6.1—Minimum reinforcement for walls with in-plane Vu ≤ 0.5ϕαcλ​ √ 
+_
+ fc'   Acv
+Wall type
+Type of nonprestressed 
+reinforcement Bar/wire size fy, MPa
+Minimum longitudinal[1], 
+ρℓ
+Minimum transverse, 
+ρt
+Cast-in-place
+Deformed bars
+≤ No. 16
+≥ 420 MPa 0.0012 0.0020
+< 420 MPa 0.0015 0.0025
+> No. 16 Any 0.0015 0.0025
+Welded-wire 
+reinforcement ≤ MW200 or MD200 Any 0.0012 0.0020
+Precast[2]
+Deformed bars 
+or welded-wire 
+reinforcement
+Any Any 0.0010 0.0010
+[1]Walls with an average compressive stress, due to effective prestress force only, of at least 1.6 MPa need not meet the requirement for minimum longitudinal reinforcement ρℓ. 
+[2]In one-way precast, prestressed walls not wider than 3.6 m and not mechanically connected to cause restraint in the transverse direction, the minimum reinforcement requirement 
+in the direction normal to the flexural reinforcement need not be satisfied.
+11.6.2 If in-plane Vu > 0.5ϕαcλ  √ 
+_____
+ fc′   Acv, (a) and (b) shall be 
+satisfied:
+(a) ρℓ shall be at least the greater of the value calculated by 
+Eq. (11.6.2) and 0.0025, but need not exceed ρt required 
+for strength by 11.5.4.3.
+ ρ ℓ ≥ 0.0025 + 0.5(2.5 – hw/ℓw)(ρt – 0.0025)  (11.6.2)
+(b) ρt shall be at least 0.0025.
+11.7—Reinforcement detailing
+11.7.1 General
+11.7.1.1 Concrete cover for reinforcement shall be in 
+accordance with 20.5.1.
+11.7.1.2 Development lengths of deformed and prestressed 
+reinforcement shall be in accordance with 25.4.
+11.7.1.3 Splice lengths of deformed reinforcement shall be 
+in accordance with 25.5.
+11.7.2 Spacing of longitudinal reinforcement
+11.7.2.1 Spacing s of longitudinal bars in cast-in-place 
+walls shall not exceed the lesser of 3h and 450 mm. If shear 
+reinforcement is required for in-plane strength, spacing of 
+longitudinal reinforcement shall not exceed ℓw/3.
+11.7.2.2 Spacing s of longitudinal bars in precast walls 
+shall not exceed the lesser of (a) and (b):
+(a) 5h
+(b) 450 mm for exterior walls or 750 mm for interior walls
+If shear reinforcement is required for in-plane strength, s 
+shall not exceed the smallest of 3h, 450 mm, and ℓw/3.
+11.7.2.3 For walls with thickness greater than 250 mm, 
+except single story basement walls and cantilever retaining 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 186 (doc p.186) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+186 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R11.8—Alternative method for out-of-plane slender 
+wall analysis
+R11.8.1 General
+R11.8.1.1 This procedure is presented as an alternative to 
+the requirements of 11.5.2.1 for the out-of-plane design of 
+slender wall panels, where the panels are restrained against 
+overturning at the top.
+Panels that have windows or other large openings are not 
+considered to have constant cross section over the height of 
+walls, distributed reinforcement in each direction shall be 
+placed in at least two curtains, one near each face.
+11.7.2.4 Flexural tension reinforcement shall be well 
+distributed and placed as close as practicable to the tension 
+face.
+11.7.3 Spacing of transverse reinforcement
+11.7.3.1 Spacing s of transverse reinforcement in cast-in-
+place walls shall not exceed the lesser of 3h and 450 mm. If 
+shear reinforcement is required for in-plane strength, s shall 
+not exceed ℓw/5.
+11.7.3.2 Spacing s of transverse bars in precast walls shall 
+not exceed the lesser of (a) and (b):
+(a) 5h
+(b) 450 mm for exterior walls or 750 mm for interior walls
+If shear reinforcement is required for in-plane strength, s 
+shall not exceed the least of 3h, 450 mm, and ℓw/5.
+11.7.4 Through-thickness shear reinforcement 
+11.7.4.1 Shear reinforcement required for out-of-plane 
+strength shall extend as close to the extreme compression 
+and tension surfaces of the wall as practicable, and satisfy 
+the requirements of 25.7.1.3 or 25.7.1.8. 
+11.7.5 Lateral support of longitudinal reinforcement
+11.7.5.1 If longitudinal reinforcement is required for 
+compression and if Ast exceeds 0.01 Ag, longitudinal rein -
+forcement shall be laterally supported by transverse ties.
+11.7.6 Reinforcement around openings
+11.7.6.1 In addition to the minimum reinforcement 
+required by 11.6, at least two No. 16 bars in walls having two 
+layers of reinforcement in both directions and one No. 16 bar 
+in walls having a single layer of reinforcement in both direc-
+tions shall be provided around window, door, and similarly 
+sized openings. Such bars shall develop fy in tension at the 
+corners of the openings.
+11.8—Alternative method for out-of-plane slender 
+wall analysis
+11.8.1 General
+11.8.1.1 It shall be permitted to analyze out-of-plane slen-
+derness effects in accordance with this section for walls 
+satisfying (a) through (e):
+(a) Cross section is constant over the height of the wall
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 187 (doc p.187) ---
+CODE COMMENTARY
+11  Walls
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 3: MEMBERS 187
+the panel. Such walls are to be designed taking into account 
+the effects of openings.
+Many aspects of the design of tilt-up walls and build -
+ings are discussed in ACI PRC-551.2, ACI PRC-551.3, and 
+Carter et al. (1993).
+R11.8.3 Factored moment
+R11.8.3.1 The neutral axis depth c in Eq. (11.8.3.1c) 
+corresponds to the following effective area of longitudinal 
+reinforcement. 
+   A  se,w   =  A  s   +   Pu 
+ _ fy
+   (  h/2 _ d  )  
+(b) Wall is tension-controlled for out-of-plane moment 
+effect
+(c) ϕMn is at least Mcr, where Mcr is calculated using fr as 
+provided in 19.2.3
+(d) Pu at the midheight section does not exceed 0.06fc′Ag
+(e) Calculated out-of-plane deflection due to service loads, 
+Δs, including PΔ effects, does not exceed ℓc/150
+11.8.2 Modeling
+11.8.2.1 The wall shall be analyzed as a simply supported, 
+axially loaded member subject to an out-of-plane uniformly 
+distributed lateral load, with maximum moments and deflec-
+tions occurring at midheight.
+11.8.2.2 Concentrated gravity loads applied to the wall 
+above any section shall be assumed to be distributed over a 
+width equal to the bearing width, plus a width on each side 
+that increases at a slope of 2 vertical to 1 horizontal, but not 
+extending beyond (a) or (b):
+(a) The spacing of the concentrated loads
+(b) The edges of the wall panel
+11.8.3 Factored moment
+11.8.3.1 Mu at midheight of wall due to combined flexure 
+and axial loads shall include the effects of wall deflection in 
+accordance with (a) or (b):
+(a) By iterative calculation using
+ M u = Mua + PuΔu (11.8.3.1a)
+where Mua is the maximum factored moment at midheight of 
+wall due to lateral and eccentric vertical loads, not including 
+PΔ effects. Δu shall be calculated by:
+   Δ  u   =   5 M  u   ℓ  c  2  _________  (0.75) 48 E  c   I  cr      (11.8.3.1b)
+where Icr shall be calculated by:
+   I  cr   =    E  s   __  E  c      (    A  s   +    P  u   __  f  y       h _ 2d   )   (d − c  )   2  +    ℓ  w   c   3  ___ 3    (11.8.3.1c)
+and the value of Es/Ec shall be at least 6.
+(b) By direct calculation using:
+   M  u   =    M  ua   ____________  
+ (1 –   5 P  u   ℓ  c  2  _________  (0.75) 48 E  c   I  cr    ) 
+    (11.8.3.1d)
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 188 (doc p.188) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+188 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R11.8.4 Out-of-plane deflection – service loads
+R11.8.4.1 Test data ( Athey 1982 ) demonstrate that out-
+of-plane deflections increase rapidly when the service-level 
+moment exceeds 2/3 Mcr. A linear interpolation between 
+Δu and Δu is used to determine Δ s to simplify the design of 
+slender walls if Ma > 2/3Mcr.
+Service-level load combinations are not defined in 
+Chapter 5 of the Code but are discussed in Appendix C of 
+ASCE/SEI 7. Appendices to ASCE/SEI 7 are not considered 
+mandatory parts of that standard. For calculating service-
+level lateral deflections of structures, Appendix C of ASCE/
+SEI 7 recommends using the following load combination:
+ D + 0.5L + Wa
+in which Wa is wind load based on serviceability wind speeds 
+provided in the commentary to Appendix C of ASCE/SEI 7. 
+If the slender wall is designed to resist earthquake effects 
+E, and E is based on strength-level earthquake effects, the 
+following load combination is considered to be appropriate 
+for evaluating service-level lateral deflections 
+ D + 0.5L + 0.7E
+11.8.4 Out-of-plane deflection – service loads
+11.8.4.1 Out-of-plane deflection due to service loads, Δ s, 
+shall be calculated in accordance with Table 11.8.4.1, where 
+Ma is calculated by 11.8.4.2.
+Table 11.8.4.1—Calculation of  Δ s
+Ma Δs
+≤(2/3)Mcr   Δ  s   =   (     M  a   ___  M  cr     )    Δ  cr   (a)
+>(2/3)Mcr   Δ  s   =   2 _ 3    Δ  cr   +   
+ ( M  a   –   2 _ 3   M  cr  ) 
+ ________  ( M  n   –   2 _ 3   M  cr  )     (    Δ  n   −   2 _ 3    Δ  cr   )    (b)
+11.8.4.2 The maximum moment Ma at midheight of wall 
+due to service lateral and eccentric vertical loads, including 
+PsΔs effects, shall be calculated by Eq. (11.8.4.2) with itera-
+tion of deflections.
+ M a = Msa + PsΔs (11.8.4.2)
+11.8.4.3 Δcr and Δn shall be calculated by (a) and (b):
+(a)   Δ  cr   =   5 M  cr   ℓ  c  2  _____ 48 E  c   I  g      (11.8.4.3a)
+(b)   Δ  n   =   5 M  n   ℓ  c  2  _____ 48 E  c   I  cr       (11.8.4.3b)
+11.8.4.4 Icr shall be calculated by Eq. (11.8.3.1c).
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

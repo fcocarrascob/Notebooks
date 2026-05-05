@@ -1,0 +1,1953 @@
+--- PDF idx 346 (doc p.346) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+346 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+a design procedure, validated by analysis and laboratory 
+tests, for such frames. The design procedure should iden -
+tify the load path or mechanism by which the frame resists 
+gravity and earthquake effects. The tests should be config -
+ured to investigate critical behaviors, and the measured 
+quantities should establish upper-bound acceptance values 
+for components of the load path, which may be in terms 
+of limiting stresses, forces, strains, or other quantities. The 
+design procedure used for the structure should not deviate 
+from that used to design the test specimens, and acceptance 
+values should not exceed values that were demonstrated by 
+the tests to be acceptable. Materials and components used 
+in the structure should be similar to those used in the tests. 
+Deviations may be acceptable if the licensed design profes -
+sional can demonstrate that those deviations do not adversely 
+affect the behavior of the framing system.
+ACI CODE-550.3  defines design requirements for one 
+type of special precast concrete moment frame for use in 
+accordance with 18.9.2.3.
+R18.10—Special structural walls
+R18.10.1 Scope
+This section contains requirements for the dimensions 
+and details of special structural walls and all components 
+including coupling beams and wall piers. Wall piers are 
+defined in Chapter 2 . Design provisions for vertical wall 
+segments depend on the aspect ratio of the wall segment 
+in the plane of the wall ( hw/ℓw), and the aspect ratio of the 
+horizontal cross section ( ℓw/bw), and generally follow the 
+descriptions in Table R18.10.1. The limiting aspect ratios for 
+wall piers are based on engineering judgment. It is intended 
+that flexural yielding of the vertical reinforcement in the pier 
+should limit shear demand on the pier.
+Bearing wall systems utilizing special structural walls 
+with hwcs/ℓw ≥ 2.0 that are designed and detailed according 
+to these provisions are expected to meet the seismic perfor -
+mance objectives of Building Frame Systems: Special rein -
+forced concrete shear walls as defined by ASCE/SEI 7.
+Table R18.10.1—Governing design provisions for 
+vertical wall segments[1]
+Clear height 
+of vertical wall 
+segment/length 
+of vertical wall 
+segment (hw/ℓw)
+Length of vertical wall segment/wall thickness 
+(ℓw/bw)
+(ℓw/bw) ≤ 2.5 2.5 < (ℓw/bw) ≤ 6.0 (ℓw/bw) > 6.0
+hw/ℓw < 2.0 Wall Wall Wall
+hw/ℓw ≥ 2.0
+Wall pier 
+required 
+to satisfy 
+specified 
+column design 
+requirements; 
+refer to 
+18.10.8.1
+Wall pier required 
+to satisfy specified 
+column design 
+requirements 
+or alternative 
+requirements; refer 
+to 18.10.8.1
+Wall
+[1]hwis the clear height, ℓw is the horizontal length, and bw is the width of the web of 
+the wall segment.
+(b) Details and materials used in the test specimens shall 
+be representative of those used in the structure
+(c) The design procedure used to proportion the test speci-
+mens shall define the mechanism by which the frame 
+resists gravity and earthquake effects, and shall establish 
+acceptance values for sustaining that mechanism. Portions 
+of the mechanism that deviate from Code requirements 
+shall be contained in the test specimens and shall be tested 
+to determine upper bounds for acceptance values.
+18.10—Special structural walls
+18.10.1 Scope
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 347 (doc p.347) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 347
+R18.10.2 Reinforcement
+Minimum reinforcement requirements in 18.10.2.1 follow 
+from preceding Codes. The requirement for distributed shear 
+reinforcement is related to the intent to control the width of 
+inclined cracks. The requirement for two layers of reinforce-
+ment in walls resisting substantial design shears in 18.10.2.2 
+is based on the observation that, under ordinary construction 
+conditions, the probability of maintaining a single layer of 
+reinforcement near the middle of the wall section is quite 
+low. Furthermore, presence of reinforcement close to the 
+surface tends to inhibit fragmentation of the concrete in the 
+event of severe cracking during an earthquake. The require-
+ment for two layers of vertical reinforcement in more slender 
+walls is to improve lateral stability of the compression zone 
+under cyclic loads following yielding of vertical reinforce -
+ment in tension.
+R18.10.2.3 Requirements are based on provisions in 
+Chapter 25 , with modifications to address issues specific 
+to structural walls, as well as to the use of high-strength 
+reinforcement. Because actual forces in longitudinal rein -
+forcement of structural walls may exceed calculated forces, 
+reinforcement should be developed or spliced to reach the 
+yield strength of the bar in tension. Termination of longi -
+tudinal (vertical) reinforcement in structural walls should 
+be specified so that bars extend above elevations where 
+they are no longer required to resist design flexure and 
+axial force; extending bars ℓd above the next floor level is 
+a practical approach to achieving this requirement. A limit 
+of 3.6 m is included for cases with large story heights. Bar 
+terminations should be accomplished gradually over a wall 
+height and should not be located close to critical sections 
+where yielding of longitudinal reinforcement is expected, 
+18.10.1.1 This section shall apply to special structural 
+walls, including ductile coupled walls, and all components 
+of special structural walls including coupling beams and 
+wall piers forming part of the seismic-force-resisting system.
+18.10.1.2 Special structural walls constructed using 
+precast concrete shall be in accordance with 18.11 in addi -
+tion to 18.10.
+18.10.2 Reinforcement
+18.10.2.1 The distributed web reinforcement ratios, ρℓ and 
+ρt, for structural walls shall be at least 0.0025, except that if 
+Vu does not exceed 0.083λ  √ 
+_
+  f  c  ′   Acv, ρt shall be permitted to be 
+reduced to the values in 11.6. Reinforcement spacing each 
+way in structural walls shall not exceed 450 mm. Reinforce-
+ment contributing to Vn shall be continuous and shall be 
+distributed across the shear plane.
+18.10.2.2 At least two curtains of reinforcement shall be 
+used in a wall if Vu > 0.17λ  √ 
+_
+  f  c  ′   Acv or hw/ℓw ≥ 2.0, in which hw 
+and ℓw refer to height and length of entire wall, respectively.
+18.10.2.3 Reinforcement in structural walls shall be devel-
+oped or spliced for fy in tension in accordance with 25.4, 
+25.5, and (a) through (d):
+(a) Except at the top of a wall, longitudinal reinforcement 
+shall extend at least 3.6 m above the point at which it is no 
+longer required to resist flexure but need not extend more 
+than ℓd above the next floor level.
+ (b) At locations where yielding of longitudinal reinforce -
+ment is likely to occur as a result of lateral displacements, 
+longitudinal reinforcement shall develop 1.25 fy in tension 
+in accordance with 25.4 by substituting a bar stress of 
+1.25fy for fy.
+(c) Lap splices of longitudinal reinforcement within 
+boundary regions shall not be permitted over a height 
+equal to hsx above, and ℓd below, critical sections where 
+yielding of longitudinal reinforcement is likely to occur 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 348 (doc p.348) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+348 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+which typically occurs at the base of a wall with a uniform, 
+or nearly uniform, cross section over the building height. 
+Strain hardening of reinforcement results in spread of plas -
+ticity away from critical sections as lateral deformations 
+increase. Research (Aaleti et al. 2013; Hardisty et al. 2015) 
+shows that lap splices should be avoided in walls where flex-
+ural yielding is anticipated, for example at the base of walls, 
+because they may lead to large localized strains and bar frac-
+tures. Figure R18.10.2.3 illustrates boundary regions where 
+lap splices are not permitted.
+At locations where yielding of longitudinal reinforce -
+ment is expected, the reinforcement is developed for 1.25 fy 
+to account for the likelihood that the actual yield strength 
+exceeds the specified yield strength of the bar, as well as 
+the influence of strain hardening and cyclic load rever -
+sals. Where transverse reinforcement is used, development 
+lengths for straight and hooked bars may be reduced as 
+permitted in 25.4.2 and 25.4.3, respectively, because closely 
+spaced transverse reinforcement improves the performance 
+of splices and hooks subjected to repeated inelastic demands 
+(ACI PRC-408.2).
+as a result of lateral displacements. The value of hsx need 
+not exceed 6 m. Boundary regions include those within 
+lengths specified in 18.10.6.4(a) and within a length equal 
+to the wall thickness measured beyond the intersecting 
+region(s) of connected walls.
+(d) Mechanical splices of reinforcement shall conform to 
+18.2.7 and welded splices of reinforcement shall conform 
+to 18.2.8.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 349 (doc p.349) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 349
+R18.10.2.4 This provision is based on the assumption that 
+inelastic response of the wall is dominated by flexural action 
+at a critical, yielding section. The wall should be propor -
+ℓbe
+Wall intersection
+boundary region
+Boundary region
+y
+ℓbe
+ℓbex
+y
+xx
+≥ ℓd
+≥
+Critical section
+min.
+Longitudinal bar
+at boundary region
+No splice region6 m
+hsxCritical section for
+flexure and axial loads
+Floor slab
+Note: For clarity, only the required reinforcement is shown
+(a) Elevation
+(b) Section A-A
+AA
+Fig. R18.10.2.3—Wall boundary regions within heights where lap splices are not permitted.
+18.10.2.4 Walls or wall piers with hw/ℓw ≥ 2.0 that are 
+effectively continuous from the base of structure to top of 
+wall and are designed to have a single critical section for 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 350 (doc p.350) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+350 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+tioned so that the critical section occurs where intended. 
+If there is potential for more than one critical section, it is 
+prudent to provide the minimum boundary reinforcement at 
+all such sections. 
+The requirement for minimum longitudinal reinforce -
+ment in the ends of the wall is to promote the formation of 
+well-distributed secondary flexural cracks in the wall plastic 
+hinge region to achieve the required deformation capacity 
+during earthquakes ( Lu et al. 2017 ; Sritharan et al. 2014 ). 
+Furthermore, significantly higher in-place concrete strengths 
+than used in design calculations may be detrimental to the 
+distribution of cracking. 18.10.2.4(a) specifies the required 
+reinforcement ratio in the end tension zones, as shown for 
+different wall sections in Fig. R18.10.2.4.
+The longitudinal reinforcement required by 18.10.2.4(a) 
+should be located at a critical section where concentrated 
+yielding of longitudinal reinforcement is expected (typically 
+the base of a cantilever wall) and must continue to a suffi -
+cient elevation of the wall to avoid a weak section adjacent 
+to the intended plastic hinge region. A height above or below 
+the critical section of Mu/3Vu is used to identify the length 
+over which yielding is expected.
+flexure and axial loads shall have longitudinal reinforce -
+ment at the ends of a vertical wall segment that satisfies (a) 
+through (c).
+(a) Longitudinal reinforcement ratio within 0.15 ℓw from 
+the end of a vertical wall segment, and over a width equal 
+to the wall thickness, shall be at least 0.5  √ 
+_
+  f  c  ′     /fy.
+(b) The longitudinal reinforcement required by 18.10.2.4(a) 
+shall extend vertically above and below the critical section 
+at least the greater of ℓw and Mu/3Vu.
+(c) No more than 50% of the reinforcement required by 
+18.10.2.4(a) shall be terminated at any one section.
+ℓw
+0.15ℓw 0.15ℓw 0.15ℓw
+0.15ℓw
+0.15ℓw
+0.15ℓ'w
+0.15ℓw
+0.15ℓ'w
+0.15ℓ'w
+0.15ℓw
+ℓ'w ℓ'w
+(a) (b) (c) (d) (e)
+Fig. R18.10.2.4—Locations of longitudinal reinforcement required by 18.10.2.4(a) in different configurations of wall sections.
+18.10.2.5 Reinforcement in coupling beams shall develop 
+fy in tension in accordance with 25.4, 25.5, and (a) and (b):
+ (a) If coupling beams are reinforced according to 18.6.3.1, 
+longitudinal reinforcement shall develop 1.25fy in tension 
+in accordance with 25.4.
+ (b) If coupling beams are reinforced according to 
+18.10.7.4, diagonal reinforcement shall develop 1.25 fy in 
+tension in accordance with 25.4.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 351 (doc p.351) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 351
+R18.10.3 Design forces
+Numerous studies (Priestley et al. 2007; Pugh et al. 2017; 
+Rodriguez et al. 2002) have shown that the actual shear expe-
+rienced by a structural wall subjected to a design-basis earth-
+quake may be greater than the shear obtained from linear 
+analysis of the structure under code-prescribed earthquake-
+induced forces. The procedures of 18.10.3 may amplify wall 
+shear for some walls designed by linear analysis methods. The 
+amplification factors do not apply to wall piers (refer to 2.3 
+and Table R18.10.1) or horizontal wall segments including 
+coupling beams because alternative approaches to determine 
+design shears for those components are specified in 18.10.7, 
+18.10.8, and 21.2.4.1. Design shears determined by linear 
+analysis procedures of the general building code are increased 
+to account for (i) flexural overstrength at critical sections 
+where yielding of longitudinal reinforcement is anticipated, 
+as represented by the factor Ω v, and (ii) dynamic amplifica-
+tion due to higher-mode effects, as represented by the factor 
+ωv (refer to Fig. R18.10.3.3). The factors apply only to the 
+portion of wall shear VuEh due to the horizontal seismic load 
+effect Eh specified in the general building code. Design shear 
+generally will be controlled by load combinations 5.3.1(e) or 
+5.3.1(g) in Table 5.3.1, whichever produces the greater value 
+of design shear Ve.
+18.10.3 Design forces
+18.10.3.1 Design shear forces for horizontal wall 
+segments, including coupling beams, shall be in accordance 
+with 18.10.7. 
+18.10.3.2 Design shear forces for wall piers shall be in 
+accordance with 18.10.8.
+18.10.3.3 Design shear forces for parts of walls not 
+covered by 18.10.3.1 or 18.10.3.2 shall be in accordance 
+with the requirements of 18.10.3.3.1 through 18.10.3.3.5.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 352 (doc p.352) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+352 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+R18.10.3.3.3 The factor Ωv is intended to approximate the 
+flexural overstrength ratio Mpr/Mu of the wall critical section, 
+with Mpr based on axial forces due to E and expected gravity 
+loads as specified in ASCE/SEI 7. While it is permitted to 
+calculate this ratio directly from analysis of the wall critical 
+section, Table 18.10.3.3.3 provides a simpler alternative. For 
+walls with hwcs/ℓw ≤ 1.0, a value of Ωv = 1 is permitted because 
+low-aspect-ratio walls are unlikely to develop extensive flex-
+ural yielding. For walls with hwcs/ℓw ≥ 2.0, yielding of the wall 
+critical section is likely to produce flexural overstrength. The 
+value of Ω v = 1.5 assumes that the wall is proportioned for 
+moment strength using a strength reduction factor ϕ = 0.9, 
+that the provided moment strength ϕMn closely matches the 
+required moment strength Mu, and that longitudinal reinforce-
+ment reaches a tensile stress of 1.25fy under earthquake shaking.
+The dynamic amplification factor ωv is derived from 
+the similar factor in New Zealand Standard 3101 (2006) . 
+Dynamic amplification is not significant in walls with hwcs/
+ℓw < 2. 
+Design shear forces are amplified over the entire wall height, 
+including portions of the wall below the critical section. 
+Moments from load
+combination, Mu
+Ampli/f_ied moments, /uni03A9vMu
+(d) Moment(c) Shear(b) Wall
+elevation
+(a) Lateral 
+forces
+Critical
+Section (CS)
+Mpr,CS
+Mu,CS 
+Vu,CS
+Vu,CS
+Vu,CS
+Vu,CS
+Mu,CSMu,CS
+Mu,CS
+Mpr,CSVe,CS
+Ve,CS
+/uni03A9v =
+Heff =
+(b)
+(a) L
+Lateral 
+f
+tical
+ction (CS)
+ V
+u,CS
+V
+V
+V
+u,CS
+V
+V
+V
+u,CS
+V
+V
+M
+u,CS
+M
+CS
+Vu
+ΣFu,i = Vu
+{
+Ve
+  Fig. R18.10.3.3—Determination of shear demand for walls with hw/ℓw ≥ 2.0 (Moehle et al. 2011).
+18.10.3.3.1 If the wall design actions are determined in 
+accordance with nonlinear dynamic analysis procedures satis-
+fying Appendix A, design shear forces shall be as determined 
+in Appendix A.
+18.10.3.3.2 If VuEh is determined by linear analysis proce-
+dures of the general building code, it shall be amplified by 
+the product Ωvωv, where Ωv and ωv are defined in 18.10.3.3.3 
+through 18.10.3.3.5. 
+18.10.3.3.3 Ωv and ωv shall be in accordance with 
+Table 18.10.3.3.3. Alternatively, it shall be permitted to 
+calculate Ωv = Mpr/Mu at the critical section for flexure, where 
+Mpr is calculated for axial force that includes the effects of E 
+and the expected gravity loads, with expected gravity loads 
+in accordance with ASCE/SEI 7 Section 16.3.2.
+ Table 18.10.3.3.3—Factors Ω v and ωωv
+ Condition Ωv ωv
+hwcs/ℓw ≤ 1.0  1.0 
+ 1.0 
+ 1.0 < hwcs/ℓw < 2.0 
+ Linear interpolation 
+ permitted between 
+ 1.0 and 1.5 
+hwcs/ℓw ≥ 2.0  1.5  0.8 + 0.09  h  n  1/3   ≥ 1.0
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 353 (doc p.353) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 353
+R18.10.3.3.5 Consistent with ASCE/SEI 7, it is permitted 
+to take the redundancy factor as 1.0 where member design is 
+for seismic load effects including the overstrength factor Ωo.
+R18.10.4 Shear strength
+Equation (18.10.4.1) recognizes the higher shear strength 
+of walls with lower moment-to-shear ratios (Hirosawa 1977; 
+Joint ACI-ASCE Committee 326 [1962]; Barda et al. 1977; 
+Rojas-Leon et al. 2024). The nominal shear strength is given 
+in terms of the gross area of the section resisting shear, Acv. 
+For a rectangular section without openings, the term Acv 
+refers to the gross area of the cross section rather than to the 
+product of the width and the effective depth.
+In ACI CODE-318-19 Section 18.10.4, no limit was speci-
+fied on the value of   √ 
+_
+  f  c  ′   . The limit on fc′ of 85 MPa is based 
+on review of test data for walls subjected to cyclic loading 
+by Rojas-Leon et al. (2024).
+A vertical wall segment refers to a part of a wall bounded 
+horizontally by openings or by an opening and an edge. For an 
+isolated wall or a vertical wall segment, ρt refers to horizontal 
+reinforcement and ρℓ refers to vertical reinforcement.
+The ratio hw/ℓw may refer to overall dimensions of a wall, 
+or of a segment of the wall bounded by two openings, or an 
+opening and an edge. The intent of 18.10.4.2 is to make certain 
+that any segment of a wall is not assigned a unit strength 
+greater than that for the entire wall. However, a wall segment 
+with a ratio of hw/ℓw higher than that of the entire wall should 
+be proportioned for the unit strength associated with the ratio 
+hw/ℓw based on the dimensions for that segment.
+To restrain the inclined cracks effectively, reinforcement 
+included in ρt and ρℓ should be appropriately distributed 
+along the length and height of the wall (refer to 18.10.4.3). 
+Chord reinforcement provided near wall edges in concen -
+trated amounts for resisting bending moment is not to be 
+included in determining ρt and ρℓ. Within practical limits, 
+shear reinforcement distribution should be uniform and at a 
+small spacing.
+If the factored shear force at a given level in a structure is 
+resisted by several walls or several vertical wall segments of 
+a perforated wall, the average unit shear strength assumed 
+for the total available cross-sectional area is limited to the 
+sum of αsh0.66  √ 
+_
+  f  c  ′    for those walls or wall segments with the 
+additional requirement that the unit shear strength assigned 
+to any single wall or vertical wall segment does not exceed 
+αsh0.83  √ 
+_
+  f  c  ′    (refer to 18.10.4.4). The upper limit of strength 
+to be assigned to any one member is imposed to limit the 
+degree of redistribution of shear force. The term αsh accounts 
+for the higher unit shear stress that develops prior to diag -
+onal compression failure in a wall with a compression flange 
+18.10.3.3.4 If the general building code includes provi -
+sions to account for overstrength of the seismic-force-
+resisting system, it shall be permitted to take Ω vωv equal to 
+Ωo. 
+18.10.3.3.5 If Ωvωv = Ωo, it shall be permitted to take the 
+redundancy factor contained in the general building code 
+equal to 1.0 for determination of VuEh.
+18.10.4 Shear strength
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 354 (doc p.354) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+354 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+(Rojas-Leon et al. 2024). If the term bcftcf is different at each 
+edge (boundary) of a wall or if a flange does not exist at 
+one end (for example, a T-shaped wall cross section), then 
+the wall shear stress limit is evaluated independently for 
+each load combination depending on the direction of the 
+shear demand or the wall shear stress limit may be based on 
+the smaller value of bcf tcf. For a barbell-shaped wall cross 
+section, bcf is the width of the boundary column minus the 
+web width bw and tcf is the depth of the boundary column.
+Horizontal wall segments in 18.10.4.5 refer to wall 
+sections between two vertically aligned openings (refer 
+to Fig. R18.10.4.5). It is, in effect, a vertical wall segment 
+rotated through 90 degrees. A horizontal wall segment is also 
+referred to as a coupling beam when the openings are aligned 
+vertically over the building height. When designing a hori -
+zontal wall segment or coupling beam, ρt refers to vertical 
+reinforcement and ρℓ refers to horizontal reinforcement.
+18.10.4.1 Vn shall be calculated by:
+ Vn = (αcλ  √ 
+_
+  f  c  ′      + ρtfyt)Acv (18.10.4.1)
+where
+αc = 0.25 for hw/ℓw ≤ 1.5
+αc = 0.17 for hw/ℓw ≥ 2.0
+It shall be permitted to linearly interpolate the value of αc 
+between 0.25 and 0.17 for 1.5 < hw/ℓw < 2.0. The value of fc′ 
+used in Eq. (18.10.4.1) and in 18.10.4.4 and 18.10.4.5 shall 
+not exceed 85 MPa. 
+18.10.4.2 In 18.10.4.1, the value of ratio hw/ℓw used to 
+calculate Vn for segments of a wall shall be the greater of the 
+ratios for the entire wall and the segment of wall considered.
+18.10.4.3 Walls shall have distributed shear reinforcement 
+in two orthogonal directions in the plane of the wall. If hw/ℓw 
+does not exceed 2.0, reinforcement ratio ρℓ shall be at least 
+the reinforcement ratio ρt.
+18.10.4.4 Vn shall not be taken greater than the sum of  
+αsh0.66  √ 
+_
+  f  c  ′   Acv for all vertical wall segments sharing a 
+common lateral force. For any one of the individual 
+vertical wall segments, Vn shall not be taken greater than  
+αsh0.83  √ 
+_
+  f  c  ′     Acw, where Acw is the area of concrete section of the 
+individual vertical wall segment considered. The term αsh is 
+determined as
+         0.7  (1 +   
+ (bw + bcf) tcf
+ ___ Acx
+   )    
+2
+  ≤ 1.2  (18.10.4.4) 
+where bcf is determined according to 18.10.5.2 and Acx shall 
+be taken as Acv or Acw, as applicable. The value of αsh need 
+not be taken less than 1.0. It shall be permitted to take αsh = 
+1.0. 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 355 (doc p.355) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 355
+Horizontal
+wall segment
+Vertical 
+wall segment
+Fig. R18.10.4.5—Wall with openings.
+R18.10.5 Design for flexure and axial force
+R18.10.5.1 Flexural strength of a wall or wall segment 
+is determined according to procedures commonly used for 
+columns. Strength should be determined considering the 
+applied axial and lateral forces. Reinforcement concentrated 
+in boundary elements and distributed in flanges and webs 
+should be included in the strength calculations based on a 
+strain compatibility analysis. The foundation supporting the 
+wall should be designed to resist the wall boundary and web 
+forces. For walls with openings, the influence of the opening 
+or openings on flexural and shear strengths is to be consid -
+ered and a load path around the opening or openings should 
+be verified. Capacity-design concepts and the strut-and-tie 
+method may be useful for this purpose (Taylor et al. 1998).
+R18.10.5.2 Where wall sections intersect to form L-, 
+T-, C-, or other cross-sectional shapes, the influence of the 
+flange on the behavior of the wall should be considered by 
+selecting appropriate flange widths. Tests ( Wallace 1996) 
+show that effective flange width increases with increasing 
+drift level and the effectiveness of a flange in compression 
+differs from that for a flange in tension. The value used for 
+the effective compression flange width has little effect on 
+the strength and deformation capacity of the wall; therefore, 
+to simplify design, a single value of effective flange width 
+based on an estimate of the effective tension flange width is 
+used in both tension and compression.
+R18.10.6 Boundary elements of special structural walls
+R18.10.6.1 Two design approaches for evaluating 
+detailing requirements at wall boundaries are included in 
+18.10.6.1. Provision 18.10.6.2 allows the use of displace -
+ment-based design of walls, in which the structural details 
+are determined directly on the basis of the expected lateral 
+18.10.4.5 For horizontal wall segments and coupling 
+beams, Vn shall not be taken greater than 0.83  √ 
+_
+  f  c  ′   Acw, where 
+Acw is the area of concrete section of a horizontal wall 
+segment or coupling beam.
+18.10.5 Design for flexure and axial force
+18.10.5.1 Structural walls and portions of such walls 
+subject to combined flexure and axial loads shall be designed 
+in accordance with 22.4. Concrete and developed longitu -
+dinal reinforcement within effective flange widths, boundary 
+elements, and the wall web shall be considered effective. 
+The effects of openings shall be considered.
+18.10.5.2 Unless a more detailed analysis is performed, 
+effective flange widths of flanged sections shall extend from 
+the face of the web a distance equal to the lesser of one-half 
+the distance to an adjacent wall web and 25% of the total 
+wall height above the section under consideration.
+18.10.6 Boundary elements of special structural walls
+18.10.6.1 The need for special boundary elements at the 
+edges of structural walls shall be evaluated in accordance 
+with 18.10.6.2 or 18.10.6.3. The requirements of 18.10.6.4 
+and 18.10.6.5 shall also be satisfied.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 356 (doc p.356) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+356 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+displacements of the wall. The provisions of 18.10.6.3 are 
+similar to those of the 1995 Code, and have been retained 
+because they are conservative for assessing required trans -
+verse reinforcement at wall boundaries for many walls. 
+Provisions 18.10.6.4 and 18.10.6.5 apply to structural walls 
+designed by either 18.10.6.2 or 18.10.6.3.
+R18.10.6.2 This section is based on the assumption that 
+inelastic response of the wall is dominated by flexural action 
+at a critical, yielding section. The wall should be propor -
+tioned and reinforced so that the critical section occurs 
+where intended.
+Equation (18.10.6.2a) follows from a displacement-
+based approach (Moehle 1992; Wallace and Orakcal 2002). 
+The approach assumes that special boundary elements are 
+required to confine the concrete where the strain at the 
+extreme compression fiber of the wall exceeds a critical 
+value when the wall is displaced to 1.5 times the design 
+displacement. Consistent with a displacement-based design 
+approach, the design displacement in Eq. (18.10.6.2a) is 
+taken at the top of the wall, and the wall height is taken as 
+the height above the critical section. The multiplier of 1.5 
+on design displacement was added to Eq. (18.10.6.2) in the 
+2014 Code to produce detailing requirements more consis -
+tent with the building code performance intent of a low prob-
+ability of collapse in Maximum Considered Earthquake level 
+shaking. The lower limit of 0.005 on the quantity δu/hwcs 
+requires special boundary elements if wall boundary longi -
+tudinal reinforcement tensile strain does not reach approxi -
+mately twice the limit used to define tension-controlled 
+beam sections according to 21.2.2. The lower limit of 0.005 
+on the quantity δu/hwcs requires moderate wall deformation 
+capacity for stiff buildings.
+The neutral axis depth c in Eq. (18.10.6.2) is the depth 
+calculated according to 22.2 corresponding to development 
+of nominal flexural strength of the wall when displaced in 
+the same direction as δu. The axial load is the factored axial 
+load that is consistent with the design load combination that 
+produces the design displacement δu.
+The height of the special boundary element is based on 
+estimates of plastic hinge length and extends beyond the 
+zone over which yielding of tension reinforcement and 
+spalling of concrete are likely to occur.
+Equation (18.10.6.2b) is based on the mean top-of-wall 
+drift capacity at 20% loss of lateral strength proposed by 
+Abdullah and Wallace (2019) . The requirement that drift 
+capacity exceed 1.5 times the drift demand results in a low 
+probability of strength loss for the design earthquake. The 
+expression for b in (ii) is derived from Eq. (18.10.6.2b), 
+assuming values of Vu/(0.66Acv  √ 
+_
+  f  c  ′   ) and δu/hwcs of approx -
+imately 1.0 and 0.015, respectively. If b varies over c, an 
+average or representative value of b should be used. For 
+example, at the flanged end of a wall, b should be taken equal 
+to the effective flange width defined in 18.10.5.2, unless c 
+extends into the web, then a weighted average should be 
+18.10.6.2 Walls or wall piers with hwcs/ℓw ≥ 2.0 that are 
+effectively continuous from the base of structure to top of 
+wall and are designed to have a single critical section for 
+flexure and axial loads shall satisfy (a) and (b):
+(a) Compression zones shall be reinforced with special 
+boundary elements where
+     1.5δu   _ hwcs
+   ≥    ℓw _ 600c       (18.10.6.2a)
+and c corresponds to the largest neutral axis depth calculated 
+for the factored axial force and nominal moment strength 
+consistent with the direction of the design displacement δu. 
+Ratio δu/hwcs shall not be taken less than 0.005.
+(b) If special boundary elements are required by (a), then 
+(i) and either (ii) or (iii) shall be satisfied.
+(i) Special boundary element transverse reinforcement 
+shall extend vertically above and below the critical 
+section at least the greater of ℓw and Mu/4Vu, except as 
+permitted in 18.10.6.4(j).
+(ii)  b ≥  √ 
+_
+ c  ℓ  w   / 40   
+(iii) δc/hwcs ≥ 1.5δu/hwcs, where:
+     δc _ hwcs
+   =   1 _ 100   (  4 –   1 _ 50    – (   ℓw _ b   )  (  c _ b  )  –    Ve ___ 0.66 √ 
+_
+ fc′Acv     )    
+(18.10.6.2b)
+The value of δc/hwcs in Eq. (18.10.6.2b) need not be taken 
+less than 0.015.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 357 (doc p.357) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 357
+used for b. At the end of a wall without a flange, b should be 
+taken equal to the wall thickness. If the drift capacity does 
+not exceed the drift demand for a trial design, then changes 
+to the design are required to increase wall drift capacity, 
+reduces wall drift demand, or both, such that drift capacity 
+exceeds drift demand for each wall in a given building.
+R18.10.6.3 By this procedure, the wall is considered to 
+be acted on by gravity loads and the maximum shear and 
+moment induced by earthquake in a given direction. Under 
+this loading, the compressed boundary at the critical section 
+resists the tributary gravity load plus the compressive resul-
+tant associated with the bending moment.
+Recognizing that this loading condition may be repeated 
+many times during the strong motion, the concrete is to be 
+confined where the calculated compressive stresses exceed 
+a nominal critical value equal to 0.2 fc′. The stress is to be 
+calculated for the factored forces on the section assuming 
+linear response of the gross concrete section. The compres -
+sive stress of 0.2 fc′ is used as an index value and does not 
+necessarily describe the actual state of stress that may 
+develop at the critical section under the influence of the 
+actual inertia forces for the anticipated earthquake intensity.
+R18.10.6.4 The horizontal dimension of the special 
+boundary element is intended to extend at least over the 
+length where the concrete compressive strain exceeds the 
+critical value. For flanged wall sections, including box 
+shapes, L-shapes, and C-shapes, the calculation to deter -
+mine the need for special boundary elements should include 
+a direction of lateral load consistent with the orthogonal 
+combinations defined in ASCE/SEI 7. The value of c/2 in 
+18.10.6.4(a) is to provide a minimum length of the special 
+boundary element. Good detailing practice is to arrange the 
+longitudinal reinforcement and the confinement reinforce -
+ment such that all primary longitudinal reinforcement at the 
+wall boundary is supported by transverse reinforcement.
+A slenderness limit is introduced into the 2014 edition 
+of the Code  based on lateral instability failures of slender 
+wall boundaries observed in recent earthquakes and tests 
+(Wallace 2012; Wallace et al. 2012 ). For walls with large 
+cover, where spalling of cover concrete would lead to a 
+significantly reduced section, increased boundary element 
+thickness should be considered.
+A value of c/ℓw ≥ 3/8 is used to define a wall critical 
+section that is not tension-controlled according to 21.2.2. A 
+minimum wall thickness of 300 mm is imposed to reduce the 
+likelihood of lateral instability of the compression zone after 
+spalling of cover concrete.
+Where flanges are highly stressed in compression, the 
+web-to-flange interface is likely to be highly stressed and 
+may sustain local crushing failure unless special boundary 
+element transverse reinforcement extends into the web 
+(Fig. R18.10.6.4.4b).
+18.10.6.3 Structural walls not designed in accordance with 
+18.10.6.2 shall have special boundary elements at bound -
+aries and edges around openings of structural walls where 
+the maximum extreme fiber compressive stress, corre -
+sponding to load combinations including earthquake effects 
+E, exceeds 0.2 fc′. The special boundary element shall be 
+permitted to be discontinued where the calculated compres -
+sive stress is less than 0.15fc′. Stresses shall be calculated for 
+the factored loads using a linearly elastic model and gross 
+section properties. For walls with flanges, an effective flange 
+width as given in 18.10.5.2 shall be used.
+18.10.6.4 If special boundary elements are required by 
+18.10.6.2 or 18.10.6.3, (a) through (k) shall be satisfied:
+(a) The boundary element shall extend horizontally from 
+the extreme compression fiber a distance at least the 
+greater of c – 0.1ℓw and c/2, where c is the largest neutral 
+axis depth calculated for the factored axial force and 
+nominal moment strength consistent with δu.
+(b) Width of the flexural compression zone, b, over the 
+horizontal distance calculated by 18.10.6.4(a), including 
+flange if present, shall be at least hu/16.
+(c) For walls or wall piers with hw/ℓw ≥ 2.0 that are effec-
+tively continuous from the base of structure to top of 
+wall, designed to have a single critical section for flexure 
+and axial loads, and with c/ℓw ≥ 3/8, width of the flex -
+ural compression zone b over the length calculated in 
+18.10.6.4(a) shall be greater than or equal to 300 mm.
+(d) In flanged sections, the boundary element shall include 
+the effective flange width in compression and shall extend 
+at least 300 mm into the web.
+(e) The boundary element transverse reinforcement shall 
+satisfy 18.7.5.2(a) through (d) and 18.7.5.3, except the 
+transverse reinforcement spacing limit of 18.7.5.3(a) 
+shall be one-third of the least dimension of the boundary 
+element. The maximum vertical spacing of transverse 
+reinforcement in the boundary element shall also not 
+exceed that in Table 18.10.6.5(b).
+ (f) Spacing hx between laterally supported longitudinal 
+bars around the perimeter of the boundary element shall 
+not exceed the lesser of 350 mm and (2/3) b. Lateral 
+support shall be provided by a seismic hook of a crosstie 
+or corner of a hoop. Unless (i) or (ii) is satisfied, the length 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 358 (doc p.358) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+358 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Required transverse reinforcement at wall bound -
+aries is based on column provisions. Expression (a) of 
+Table 18.10.6.4(g) was applied to wall special boundary 
+elements prior to the 1999 edition of the Code. It is reinstated 
+in the 2014 edition of the Code due to concerns that expres-
+sion (b) of Table 18.10.6.4(g) by itself does not provide 
+adequate transverse reinforcement for thin walls where 
+concrete cover accounts for a significant portion of the wall 
+thickness. For wall special boundary elements having rect -
+angular cross section, Ag and Ach in expressions (a) and (c) 
+in Table 18.10.6.4(g) are defined as Ag= ℓbeb and Ach= bc1bc2, 
+where dimensions are shown in Fig. R18.10.6.4a. This 
+considers that concrete spalling is likely to occur only on 
+the exposed faces of the confined boundary element. Tests 
+(Thomsen and Wallace 2004 ) show that adequate perfor -
+mance can be achieved using vertical spacing greater than 
+that permitted by 18.7.5.3(a). The limits on spacing between 
+laterally supported longitudinal bars are intended to provide 
+more uniform spacing of hoops and crossties for thin walls.
+Configuration requirements for boundary element trans -
+verse reinforcement and crossties for web longitudinal rein-
+forcement are summarized in Fig. R18.10.6.4a. Multiple 
+overlapping hoops at elongated boundary elements are 
+more effective in restraining bar buckling and confining the 
+concrete than a single, elongated hoop with multiple cross -
+ties that have alternating 90- and 135-degree hooks ( Segura 
+and Wallace 2018; Welt et al. 2017 ; Arteta 2015).Overlap-
+ping hoops are not required if the drift demand for antici -
+pated design-level earthquake shaking is low relative to the 
+drift capacity, δc. Out-of-plane, lateral instability failure is 
+more likely to occur at the boundaries of planar walls with 
+relatively slender, deep compression zones—for example, 
+where (c/b)(ℓw/b) is greater than approximately 40, or at the 
+web boundary opposite a flanged boundary for a wall with 
+a T-,C-, or L-shaped cross section ( Abdullah and Wallace 
+2020). At a wall boundary where a web and flange inter -
+sect, use of overlapping hoops is not required in either the 
+flange or web (Fig. R18.10.6.4b) because the flange provides 
+lateral support to the wall web. A web hoop, however, may 
+overlap with a flange hoop at the web-flange intersection. 
+The geometric limits in 18.10.6.4f(ii) are based on judgment 
+from observed damage of wall boundaries. 
+These tests also show that loss of axial load-carrying 
+capacity of a wall can occur immediately following damage 
+to the wall boundary elements if web vertical reinforcement 
+within the plastic hinge region is not restrained. Use of web 
+crossties outside of boundary elements also results in a less 
+abrupt transition in transverse reinforcement used to provide 
+concrete confinement and restrain buckling of longitudinal 
+reinforcement, which addresses potential increases in the 
+neutral axis depth due to shear (diagonal compression) and 
+uncertainties in axial load.
+Requirements for vertical extensions of boundary elements 
+are summarized in Fig. R18.10.6.4d (Moehle et al. 2011).
+of the hoop legs shall not exceed 2 bc, and adjacent hoops 
+shall overlap at least the lesser of 150 mm and (2/3)b: 
+ (i) b ≥   √ 
+_
+  ℓ  w   c / 40    and δu/hwcs < 0.012
+ (ii) A flange is provided within depth c with a total 
+width at least 2bw and a thickness tf at least bw/2
+(g) The amount of transverse reinforcement shall be in 
+accordance with Table 18.10.6.4(g).
+Table 18.10.6.4(g)—Transverse reinforcement for 
+special boundary elements
+Transverse 
+reinforcement Applicable expressions
+Ash/sbc for 
+rectilinear hoop Greater of
+0.3  (  
+Ag
+ _ Ach
+    – 1)   
+fc′
+ _  fyt
+     (a)
+ 0.09   
+fc′
+ _  fyt
+   (b)
+ρs for spiral or 
+circular hoop Greater of
+0.45  (  
+Ag
+ _ Ach
+   – 1)      
+fc′
+ _ fyt
+   (c)
+0.12    
+fc′
+ _ fyt
+   (d)
+(h) Concrete within the thickness of the floor system at 
+the special boundary element location shall have specified 
+compressive strength at least 0.7 times fc′ of the wall.
+ (i) For a distance above and below the critical section speci-
+fied in 18.10.6.2(b), web vertical reinforcement shall have 
+lateral support provided by the corner of a hoop or by a 
+crosstie with seismic hooks at each end. Hoops and cross-
+ties shall have a vertical spacing not to exceed 300 mm 
+and diameter satisfying 25.7.2.2. Alternatively, it shall be 
+permitted to use crossties with a 90-degree hook at one end 
+and a seismic hook at the other end, with the crossties alter-
+nated end for end along the length and the height of the web 
+if vertical spacing of crossties does not exceed 230 mm. 
+(j) Where the critical section occurs at the wall base, the 
+boundary element transverse reinforcement at the wall 
+base shall extend into the support at least ℓd, in accordance 
+with 18.10.2.3, of the largest longitudinal reinforcement in 
+the special boundary element. Where the special boundary 
+element terminates on a footing, mat, or pile cap, special 
+boundary element transverse reinforcement shall extend 
+at least 300 mm into the footing, mat, or pile cap, unless a 
+greater extension is required by 18.13.2.4.
+ (k) Horizontal reinforcement in the wall web shall extend 
+to within 150 mm of the end of the wall. Reinforcement 
+shall develop fy in tension at the face of the confined core 
+of the boundary element using standard hooks or heads. 
+Where the confined boundary element has sufficient length 
+to develop the horizontal web reinforcement, and As fy/s of 
+the horizontal web reinforcement does not exceed As fyt/s 
+of the boundary element transverse reinforcement parallel 
+to the horizontal web reinforcement, it shall be permitted 
+to terminate the horizontal web reinforcement without a 
+standard hook or head.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 359 (doc p.359) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 359
+The horizontal reinforcement in a structural wall with low 
+shear-to-moment ratio resists shear through truss action, 
+with the horizontal bars acting like the stirrups in a beam. 
+Thus, the horizontal bars provided for shear reinforcement 
+must be developed within the confined core of the boundary 
+element and extended as close to the end of the wall as cover 
+requirements and proximity of other reinforcement permit. 
+The requirement that the horizontal web reinforcement be 
+anchored within the confined core of the boundary element 
+and extended to within 150 mm from the end of the wall 
+applies to all horizontal bars whether straight, hooked, or 
+headed, as illustrated in Fig. R18.10.6.4c.
+The requirements in 18.10.2.4 apply to the minimum 
+longitudinal reinforcement in the ends of walls, including 
+those with special boundary elements.
+b
+bc1 ≤ 2bc2
+bc2
+ℓbe
+Horizontal web 
+reinforcement, Av
+Thr ough web cr osstie at 
+300 mm ve r tical spacing 
+with seismic hooks at each 
+end
+Supplemental cr osstiesPe r imet er hoop Longitudinal web r einf or cement
+(a) Perimeter hoop with supplemental 135-degree crossties and 135-degree crossties 
+supporting distributed web longitudinal reinforcement
+(b) Overlapping hoops with supplemental 135-degree crossties and 135-degree crossties 
+supporting distributed web longitudinal reinforcement
+ℓbe
+Hor iz ontal web 
+r einf or cement, A v
+Thr ough web cr osstie
+at 230 mm ve r tical 
+spacing with a 90-
+degr ee hook at one 
+end and a seismic 
+hook at the other
+Hoop #2
+Hoop Ov er lap
+at least min.  of
+(150 mm and 2 b/3 )Hoop #1
+Supplemental cr ossties
+ℓ1 ≤ 2bc2
+ℓ2 ≤ 2bc2
+b bc2
+Longitudinal web r einf or cement
+Fig. R18.10.6.4a—Configurations of boundary transverse reinforcement and web crossties.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 360 (doc p.360) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+360 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Special Boundar y Element 
+r equir ed, b ut o ve r lapping 
+hoops not r equir ed
+Min 300 mm per 
+1 8.1 0.6.4(d)
+bf = Ef fectiv e /f_l ange
+width per 1 8.1 0.5.2
+bw
+ℓw
+Fig. R18.10.6.4b—Example configuration for a case if a 
+special boundary element is required for a flanged wall
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 361 (doc p.361) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 361
+Ties not 
+required
+Ties per
+18.10.6.5
+Special 
+boundary 
+element
+≥ 300 mm
+ρ < fy
+2.8
+ρ ≥ fy
+2.8
+Max.≥
+ℓw
+Mu
+( )4Vuc ritical
+section
+Boundary element near edge 
+of footing or other support
+Critical section per 18.10.6.2
+Boundary element not 
+near edge of footing
+≥ ℓd  for 1.25fy
+(or hook as req’d.)
+(a) Wall with hw /ℓw ≥ 2.0 and a single critical section controlled by flexure and 
+axial load designed using 18.10.6.2, 18.10.6.4, and 18.10.6.5
+Develop for fy past opening, 
+top and bottom
+σ ≥ 0.2f’c
+Special boundary
+element required
+σ ≤ 0.2f’c
+ρ > fy
+2.8
+Ties per 18.10.6.5
+σ < 0.15f’c
+ρ ≤ fy
+2.8
+Ties not required
+σ < 0.15f’c
+ρ > fy
+2.8
+Ties per 18.10.6.5
+b ≥ hu
+16
+σ > 0.2f’c Special boundary
+element required,
+See Notes.
+Notes: Requirement for special boundary element is triggered if maximum extreme fiber
+compressive stress σ ≥ 0.2f’c. Once triggered, the special boundary element extends
+until σ < 0.15f’c. Since hw /ℓw ≤ 2.0, 18.10.6.4(c) does not apply.
+(b) Wall and wall pier designed using 18.10.6.3, 18.10.6.4, and 18.10.6.5.
+b ≥ hu
+16
+If c
+ℓw
+≥ 3
+8
+then b ≥ 300 mm
+,
+;
+Fig. R18.10.6.4c—Summary of boundary element requirements for special walls.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 362 (doc p.362) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+362 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+≤ 150 mm
+≥ ℓdh or ℓdt
+as appropriate
+bc1
+ℓbe
+bc2b
+≤ 150 mm
+≥ ℓd of the horizontal
+web reinforcement
+Option with standard hooks or headed reinforcement
+(a)
+Option with straight developed reinforcement
+(b)
+Confined 
+core
+Horizontal web reinforcement, Av
+Horizontal web 
+reinforcement, Av
+Boundary element
+reinforcement, Ash
+Fig. R18.10.6.4d—Development of wall horizontal rein -
+forcement in confined boundary element.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 363 (doc p.363) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 363
+18.10.6.5 Where special boundary elements are not required 
+by 18.10.6.2 or 18.10.6.3, (a) and (b) shall be satisfied:
+ (a) Except where ωvΩvVu in the plane of the wall is less 
+than 0.083λ  √ 
+_
+  fc′       Acv, horizontal reinforcement terminating 
+at the edges of structural walls without boundary elements 
+shall have a standard hook engaging the edge reinforce -
+ment or the edge reinforcement shall be enclosed in U-stir-
+rups having the same size and spacing as, and spliced to, 
+the horizontal reinforcement.
+ (b) If the maximum longitudinal reinforcement ratio at 
+the wall boundary exceeds 2.8 /fy, boundary transverse 
+reinforcement shall satisfy 18.7.5.2(a) through (e) over 
+the length calculated in accordance with 18.10.6.4(a). At 
+corners where a wall web and flange intersect, boundary 
+transverse reinforcement shall extend into the web and the 
+flange at least 300 mm. The vertical spacing of transverse 
+reinforcement at the wall boundary shall be in accordance 
+with Table 18.10.6.5(b).
+Table 18.10.6.5(b)—Maximum vertical spacing of 
+transverse reinforcement at wall boundary
+Grade of 
+primary flexural 
+reinforcement
+Transverse 
+reinforcement required
+Maximum vertical 
+spacing of transverse 
+reinforcement[1]
+420
+Within the greater of ℓw 
+and Mu/4Vu above and 
+below critical sections[2]
+Lesser of:
+6db
+150 mm
+Other locations Lesser of:
+8db
+200 mm
+550
+Within the greater of ℓw 
+and Mu/4Vu above and 
+below critical sections[2]
+Lesser of:
+5db
+150 mm
+Other locations Lesser of:
+6db
+150 mm
+690
+Within the greater of ℓw 
+and Mu/4Vu above and 
+below critical sections[2]
+Lesser of:
+4db
+150 mm
+Other locations Lesser of:
+6db
+150 mm
+[1]In this table, db is the diameter of the smallest primary flexural reinforcing bar.  
+[2]Critical sections are defined as locations where yielding of longitudinal reinforce -
+ment is likely to occur as a result of lateral displacements.
+R18.10.6.5 Cyclic load reversals may lead to buck -
+ling of boundary longitudinal reinforcement even in cases 
+where the demands on the boundary of the wall do not 
+require special boundary elements. For walls with moderate 
+amounts of boundary longitudinal reinforcement, ties are 
+required to inhibit buckling. The longitudinal reinforcement 
+ratio is intended to include only the reinforcement at the 
+wall boundary, as indicated in Fig. R18.10.6.5a. A greater 
+spacing of ties relative to 18.10.6.4(e) is allowed due to the 
+lower deformation demands on the walls. Requirements of 
+18.10.6.5 apply over the entire wall height and are summa -
+rized in Fig. R18.10.6.4c for cases where special boundary 
+elements are required (Moehle et al. 2011).
+The addition of hooks or U-stirrups at the ends of hori -
+zontal wall reinforcement provides anchorage so that the 
+reinforcement will be effective in resisting shear forces. It 
+will also tend to inhibit the buckling of the vertical edge 
+reinforcement. In walls with low in-plane shear, the devel -
+opment of horizontal reinforcement is not necessary.
+Limits on spacing of transverse reinforcement are intended 
+to prevent bar buckling until reversed cyclic strains extend 
+well into the inelastic range. To achieve similar performance 
+capability, smaller spacing is required for higher-strength 
+longitudinal reinforcement.
+ To address potential significant tensile or compressive 
+strain demands under biaxial loading, transverse reinforce -
+ment is required at corners where a wall web and flange 
+intersect, as shown in Fig. R18.10.6.5b.
+h
+h
+xa x
+14 boundary 
+longitudinal bars
+Distributed 
+bars
+Ab ρ = 14Ab
+h(2x + a)
+s
+Distributed bars, Ab, at equal spacing s
+ρ = 2Ab
+hs
+Fig. R18.10.6.5a—Longitudinal reinforcement ratios for 
+typical wall boundary conditions.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 364 (doc p.364) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+364 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Required boundary 
+transverse reinforce-
+ment at corners if the 
+maximum longitudinal 
+reinforcement ratio 
+exceeds 2.8/fy
+tf
+bw
+ ≥ bw + 300 mm
+≥ bf + 300 mm
+Fig. R18.10.6.5b—Transverse reinforcement at the intersec-
+tion of a wall web and flange. 
+R18.10.7 Coupling beams
+Coupling beams connecting structural walls can provide 
+stiffness and energy dissipation. In many cases, geometric 
+limits result in coupling beams that are deep in relation to 
+their clear span. Deep coupling beams may be controlled by 
+shear and may be susceptible to strength and stiffness dete -
+rioration under earthquake loading. Test results (Paulay and 
+Binney 1974; Barney et al. 1980) have shown that confined 
+diagonal reinforcement provides adequate resistance in deep 
+coupling beams.
+Experiments show that diagonally oriented reinforcement 
+is effective only if the bars are placed with a large inclina -
+tion. Therefore, diagonally reinforced coupling beams are 
+restricted to beams having aspect ratio ℓn/h < 4. The 2008 
+edition of the Code  was changed to clarify that coupling 
+beams of intermediate aspect ratio can be reinforced 
+according to 18.6.3 through 18.6.5.
+Diagonal bars should be placed approximately symmetri -
+cally in the beam cross section, in two or more layers. The 
+diagonally placed bars are intended to provide the entire shear 
+and corresponding moment strength of the beam. Designs 
+deriving their moment strength from combinations of diag -
+onal and longitudinal bars are not covered by these provisions.
+Two confinement options are described. According to 
+18.10.7.4(c), each diagonal element consists of a cage of 
+longitudinal and transverse reinforcement, as shown in 
+Fig. R18.10.7a. Each cage contains at least four diagonal 
+18.10.7 Coupling beams
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 365 (doc p.365) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 365
+bars and confines a concrete core. The requirement on side 
+dimensions of the cage and its core is to provide adequate 
+stability to the cross section when the bars are loaded beyond 
+yielding. The minimum dimensions and required reinforce -
+ment clearances may control the wall width. Revisions 
+were made in the 2008 Code to relax spacing of transverse 
+reinforcement confining the diagonal bars, to clarify that 
+confinement is required at the intersection of the diagonals, 
+and to simplify design of the longitudinal and transverse 
+reinforcement around the beam perimeter; beams with these 
+new details are expected to perform acceptably. The expres-
+sions for transverse reinforcement Ash are based on ensuring 
+compression capacity of an equivalent column section is 
+maintained after spalling of cover concrete.
+Limits on transverse reinforcement spacing in Table 
+18.10.7.4 are intended to provide adequate support of diagonal 
+and primary flexural reinforcement to control bar buckling.
+Section 18.10.7.4(d) describes a second option for 
+confinement of the diagonals introduced in the 2008 Code 
+(refer to Fig. R18.10.7b). This second option is to confine 
+the entire beam cross section instead of confining the indi -
+vidual diagonals. This option can considerably simplify field 
+placement of hoops, which can otherwise be especially chal-
+lenging where diagonal bars intersect each other or enter the 
+wall boundary.
+For coupling beams not used as part of the lateral-force-
+resisting system, the requirements for diagonal reinforce -
+ment may be waived.
+Test results (Barney et al. 1980 ) demonstrate that beams 
+reinforced as described in 18.10.7 have adequate ductility at 
+shear forces exceeding 0.83  √ 
+_
+  f  c  ′   bwd. Consequently, the use 
+of a limit of 0.83  √ 
+_
+  f  c  ′   Acw provides an acceptable upper limit.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 366 (doc p.366) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+366 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+h
+α
+Line of
+symmetry
+A
+A
+ℓn
+Wall boundary
+reinforcement
+Avd = total area of reinforcement in 
+          each group of diagonal bars
+Maximum spacing 
+in accordance with 
+Table 18.10.7.4
+Horizontal beam 
+reinforcement at wall
+does not develop fy
+Note: 
+For clarity, only part of the 
+required reinforcement is 
+shown on each side of the 
+line of symmetry.
+Elevation
+Transverse reinforcement spacing 
+measured perpendicular to the axis of 
+the diagonal bars not to exceed 350 mm
+Transverse reinforcement spacing 
+measured perpendicular to the axis of 
+the diagonal bars not to exceed 350 mm
+≥ bw /2
+bw
+Section A-A
+db
+Fig. R18.10.7a—Confinement of individual diagonals in coupling beams with diagonally oriented reinforcement. Wall boundary 
+reinforcement shown on one side only for clarity.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 367 (doc p.367) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 367
+Section B-B
+Transverse reinforcement 
+spacing not to exceed 200 mm
+Transverse reinforcement 
+spacing not to exceed 200 mm
+Note: 
+Consecutive crossties engaging the 
+same longitudinal bar have their 
+90-degree hooks on opposite sides 
+of beam.
+h
+α
+Line of
+symmetry
+B
+B
+ℓn
+Wall boundary
+reinforcement
+Avd = total area of reinforcement in 
+          each group of diagonal bars
+Maximum spacing in accordance 
+with Table 18.10.7.4
+Horizontal beam 
+reinforcement at wall
+does not develop fy
+Note: 
+For clarity, only part of the 
+required reinforcement is 
+shown on each side of the 
+line of symmetry.
+Elevation
+db
+Fig. R18.10.7b—Full confinement of diagonally reinforced concrete beam section in coupling beams with diagonally oriented 
+reinforcement. Wall boundary reinforcement shown on one side only for clarity.
+18.10.7.1 Coupling beams with (ℓn/h) ≥ 4 shall satisfy the 
+requirements of 18.6, with the wall boundary interpreted as 
+being a column. The provisions of 18.6.2.1(b) and (c) need 
+not be satisfied if it can be shown by analysis that the beam 
+has adequate lateral stability.
+18.10.7.2 Coupling beams with ( ℓn/h) < 2 and with Vu ≥ 
+0.33λ  √ 
+_
+  f  c  ′   Acw shall be reinforced with two intersecting groups 
+of diagonally placed bars symmetrical about the midspan, 
+unless it can be shown that loss of stiffness and strength of 
+the coupling beams will not impair the vertical load-carrying 
+ability of the structure, the egress from the structure, or the 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 368 (doc p.368) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+368 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+integrity of nonstructural components and their connections 
+to the structure.
+18.10.7.3 Coupling beams not governed by 18.10.7.1 or 
+18.10.7.2 shall be reinforced in accordance with (a) or (b):
+ (a) Two intersecting groups of diagonally placed bars 
+symmetrical about the midspan
+ (b) Longitudinal and transverse reinforcement satisfying 
+(i) through (iii):
+  (i) 18.6.3 and 18.6.4, with the wall boundary inter-
+preted as being a column.
+  (ii) Transverse reinforcement proportioned to 
+satisfy the shear strength requirements of 18.6.5.
+  (iii) Spacing of transverse reinforcement not 
+exceeding the limits in Table 18.10.7.4.
+18.10.7.4 Coupling beams reinforced with two inter -
+secting groups of diagonally placed bars symmetrical about 
+the midspan shall satisfy (a), (b), and either (c) or (d), and 
+the requirements of 9.9 need not be satisfied:
+(a) Vn shall be calculated by
+ V n = 2Avd fysinα ≤ 0.83  √ 
+_
+  f  c  ′   Acw (18.10.7.4)
+where α is the angle between the diagonal bars and the longi-
+tudinal axis of the coupling beam.
+(b) Each group of diagonal bars shall consist of a minimum 
+of four bars provided in two or more layers.
+ (c) Each group of diagonal bars shall be enclosed by recti-
+linear transverse reinforcement having out-to-out dimen -
+sions of at least bw/2 in the direction parallel to bw and bw/5 
+along the other sides, where bw is the web width of the 
+coupling beam. The transverse reinforcement shall be in 
+accordance with 18.7.5.2(a) through (c) and shall provide 
+lateral support to the diagonal reinforcement in accor -
+dance with 25.7.2.2 and 25.7.2.3. Reinforcement shall 
+be arranged such that spacing of diagonal bars laterally 
+supported by the corner of a crosstie or a hoop leg shall 
+not exceed 350 mm around the perimeter of each group 
+of diagonal bars, with Ash not less than the greater of (i) 
+and (ii):
+(i)   0.09sbc     
+fc′
+ _ fyt
+   
+(ii)  0.3sbc (  
+Ag
+ _ Ach
+   – 1)   
+fc′
+ _ fyt
+   
+In calculating Ag for each group of diagonal bars, the 
+concrete cover in 20.5.1 shall be assumed on all four 
+sides of each group of diagonal bars. The transverse 
+reinforcement shall have spacing measured parallel 
+to the diagonal bars satisfying 18.7.5.3(d) and not 
+exceeding the limits in Table 18.10.7.4, and shall have 
+spacing of crossties or legs of hoops measured perpen-
+dicular to the diagonal bars not exceeding 350 mm. 
+The transverse reinforcement shall continue through 
+the intersection of the diagonal bars. At the intersec -
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 369 (doc p.369) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 369
+R18.10.7.5 Redistribution of coupling beam shear 
+demands determined from linear analysis is permitted 
+because coupling beams designed in accordance with 
+18.10.7 have significant plastic rotational capacity and are 
+expected to be a primary yielding mechanism. For coupling 
+beams designed in accordance with 18.6 as allowed by 
+18.10.7.1 and 18.10.7.3, the redistribution of earthquake 
+beam moments in proportion to the redistributed shears is 
+necessary to maintain internal equilibrium.
+Redistributing demands in vertically aligned coupling 
+beams generally creates more economical and construct -
+ible design details. Although precise vertical alignment of 
+coupling beams sharing coupling demands is not necessary, 
+coupling beams with similar stiffnesses more predictably 
+and evenly share redistributed demands. The presence of one 
+or more coupling beams or horizontal wall segments signifi-
+cantly deeper than coupling beams aligned above or below 
+inhibits redistribution and should be avoided.
+tion, it is permitted to modify the arrangement of the 
+transverse reinforcement provided the spacing and 
+volume ratio requirements are satisfied. Additional 
+longitudinal and transverse reinforcement shall be 
+distributed around the beam perimeter with total area 
+in each direction of at least 0.002 bws and spacing not 
+exceeding 300 mm.
+(d) Transverse reinforcement shall be provided for the 
+entire beam cross section in accordance with 18.7.5.2(a) 
+through (e) with Ash not less than the greater of (i) and (ii):
+ 
+(i)   0.09sbc     
+fc′
+ _ fyt
+   
+(ii)  0.3sbc (  
+Ag
+ _ Ach
+   – 1)   
+fc′
+ _ fyt
+   
+Longitudinal spacing of transverse reinforcement 
+shall not exceed the limits in Table 18.10.7.4. Spacing 
+of crossties or legs of hoops both vertically and hori-
+zontally in the plane of the beam cross section shall 
+not exceed 200 mm. Each crosstie and each hoop leg 
+shall engage a longitudinal bar of equal or greater 
+diameter. It shall be permitted to configure hoops as 
+specified in 18.6.4.3. 
+Table 18.10.7 .4—Maximum spacing of transverse 
+reinforcement in coupling beams
+Grade of diagonal or primary 
+flexural reinforcement
+Maximum spacing of 
+transverse reinforcement[1]
+420 Lesser of:
+6db
+150 mm
+550 Lesser of:
+5db
+150 mm
+690 Lesser of:
+4db
+150 mm
+[1]db is the diameter of the smallest diagonal bar or primary flexural reinforcing bar.
+18.10.7.5 Design shear force Ve of coupling beams shall be 
+permitted to be redistributed to coupling beams at adjacent 
+floor levels provided (a) through (d) are satisfied:
+ (a) Coupling beams sharing redistributed forces shall be 
+vertically aligned within a special structural wall.
+ (b) Coupling beams sharing redistributed forces shall have 
+ℓn/h ≥ 2.
+ (c) The maximum redistribution of Ve from any beam shall 
+not exceed 20% of the value determined from analysis.
+ (d) The sum of ϕVn of coupling beams sharing redistrib -
+uted demands shall be equal to or greater than the sum of 
+Ve in those beams.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 370 (doc p.370) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+370 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Redistribution of coupling beam demands relies upon 
+beam end rotations beyond the elastic range. Vertically 
+aligned coupling beams with close proximity are more likely 
+to experience similar end rotations, and thus more reliably 
+share redistributed forces. Consideration should be given to 
+redistribute demands to coupling beams within reasonable 
+proximity.
+R18.10.7.6 Penetrations through diagonally reinforced 
+coupling beams are at times unavoidable due to the routing 
+of plumbing, electrical, and other building services. Penetra-
+tions should be avoided where possible or otherwise mini -
+mized. Penetrations with excessive size or located in critical 
+regions of a beam have the potential to compromise the 
+ductility capacity of the beam.
+Test results ( Abdullah et al. 2023 ) have shown that the 
+shear resistance and rotational capacity of diagonally rein -
+forced coupling beams are not appreciably affected by pene-
+trations meeting the limitations of 18.10.7.6. Tests cited were 
+conducted with circular openings; rectangular openings are 
+to be avoided because corners can cause stress concentra -
+tions under dynamic loads that have not been evaluated 
+experimentally. Figure R18.10.7.6 illustrates these limita -
+tions for a coupling beam with a typical ℓn/h aspect ratio. 
+h
+Diagonal bar group
++50 mm each side
+Locations 
+for potential
+cylindrical 
+penetrations
+ℓn
+100 mm
+h/4
+Fig. R18.10.7.6—Coupling beam elevation showing prohibited penetration regions 
+shaded. Note that four potential locations for penetrations are shown although only two 
+are permitted in any one beam. 
+18.10.7.6 Penetrations in a coupling beam designed 
+according to 18.10.7.4 shall satisfy (a) through (d):
+ (a) The number of penetrations shall not exceed two. 
+ (b) Each penetration shall comprise a cast-in horizontal 
+cylindrical void oriented transverse to the plane of the 
+coupling beam, with diameter not exceeding the larger of 
+h/6 and 150 mm.
+ (c) Penetrations shall be located at least 50 mm clear from 
+diagonally placed bars, at least h/4 clear from the ends 
+of the coupling beam, at least 100 mm clear from the top 
+and bottom of the coupling beam, and at least a dimension 
+equal to the larger penetration diameter from an adjacent 
+penetration.
+ (d) Penetrations shall not cause transverse reinforcement 
+to violate requirements of 18.10.7.4(d). 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 371 (doc p.371) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 371
+R18.10.8 Wall piers
+Door and window placements in structural walls some -
+times lead to narrow vertical wall segments that are consid -
+ered to be wall piers. The dimensions defining wall piers are 
+given in Chapter 2. Shear failures of wall piers have been 
+observed in previous earthquakes. The intent of this section 
+is to provide sufficient shear strength to wall piers such that 
+inelastic response, if it occurs, will be primarily in flexure. 
+The provisions apply to wall piers designated as part of the 
+seismic-force-resisting system. Provisions for wall piers not 
+designated as part of the seismic-force-resisting system are 
+given in 18.14. The effect of all vertical wall segments on 
+the response of the structural system, whether designated 
+as part of the seismic-force-resisting system or not, should 
+be considered as required by 18.2.2. Wall piers having ( ℓw/
+bw) ≤ 2.5 behave essentially as columns. Provision 18.10.8.1 
+requires that such members satisfy reinforcement and shear 
+strength requirements of 18.7.4 through 18.7.6. Alternative 
+provisions are provided for wall piers having (ℓw/bw) > 2.5.
+The design shear force determined according to 18.7.6.1 
+may be unrealistically large in some cases. As an alternative, 
+18.10.8.1(a) permits the design shear force to be determined 
+using factored load combinations in which the earthquake 
+effect has been amplified to account for system overstrength. 
+Documents such as the NEHRP provisions ( FEMA P-749), 
+ASCE/SEI 7 , and the 2021 IBC  represent the amplified 
+earthquake effect using the factor Ωo.
+Section 18.10.8.2 addresses wall piers at the edge of a 
+wall. Under in-plane shear, inclined cracks can propagate into 
+segments of the wall directly above and below the wall pier. 
+Unless there is sufficient reinforcement in the adjacent wall 
+segments, shear failure within the adjacent wall segments can 
+occur. The length of embedment of the provided reinforce -
+ment into the adjacent wall segments should be determined 
+considering both development length requirements and shear 
+strength of the wall segments (refer to Fig. R18.10.8).
+18.10.8 Wall piers
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 372 (doc p.372) ---
+CODE COMMENTARY
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+372 ACI CODE-318-25: BUILDING CODE FOR STRUCTURAL CONCRETE—CODE REQUIREMENTS AND COMMENTARY
+Direction of
+earthquake forces
+Direction of
+earthquake forces
+Required 
+horizontal 
+reinforcement
+Edge 
+of wall
+hw for 
+wall pier
+ℓw for wall pier
+Wall pier
+Edge 
+of wall
+Wall pier
+Required 
+horizontal 
+reinforcement
+hw for 
+wall pier
+ℓw for wall pier
+Fig. R18.10.8—Required horizontal reinforcement in wall 
+segments above and below wall piers at the edge of a wall.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---
+
+--- PDF idx 373 (doc p.373) ---
+CODE COMMENTARY
+18  Seismic
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CODE COMMENTARY
+ PART 5: EARTHQUAKE RESISTANCE 373
+R18.10.9 Ductile coupled walls
+The aspect ratio limits and development length require -
+ments for ductile coupled walls are intended to induce an 
+energy dissipation mechanism associated with inelastic 
+deformation reversal of coupling beams. Wall stiffness and 
+strength at each end of coupling beams should be sufficient 
+to develop this intended behavior.
+18.10.8.1 Wall piers shall satisfy the special moment frame 
+requirements for columns of 18.7.4, 18.7.5, and 18.7.6, with 
+joint faces taken as the top and bottom of the clear height of 
+the wall pier. Alternatively, wall piers with (ℓw/bw) > 2.5 shall 
+satisfy (a) through (f):
+(a) Design shear force shall be calculated in accordance 
+with 18.7.6.1 with joint faces taken as the top and bottom 
+of the clear height of the wall pier. If the general building 
+code includes provisions to account for overstrength of 
+the seismic-force-resisting system, the design shear force 
+need not exceed Ωo times the factored shear calculated by 
+analysis of the structure for earthquake load effects.
+(b) Vn and distributed shear reinforcement shall satisfy 
+18.10.4.
+(c) Transverse reinforcement shall be hoops except it shall 
+be permitted to use single-leg horizontal reinforcement 
+parallel to ℓw where only one curtain of distributed shear 
+reinforcement is provided. Single-leg horizontal rein -
+forcement shall have 180-degree bends at each end that 
+engage wall pier boundary longitudinal reinforcement.
+(d) Vertical spacing of transverse reinforcement shall not 
+exceed 150 mm.
+(e) Transverse reinforcement shall extend at least 300 mm 
+above and below the clear height of the wall pier.
+(f) Special boundary elements shall be provided if required 
+by 18.10.6.3.
+18.10.8.2 For wall piers at the edge of a wall, horizontal 
+reinforcement shall be provided in adjacent wall segments 
+above and below the wall pier and be designed to transfer 
+the design shear force from the wall pier into the adjacent 
+wall segments.
+18.10.9 Ductile coupled walls
+18.10.9.1 Ductile coupled walls shall satisfy the require -
+ments of this section.
+18.10.9.2 Individual walls shall satisfy hwcs/ℓw ≥ 2 and the 
+applicable provisions of 18.10 for special structural walls.
+18.10.9.3 Coupling beams shall satisfy 18.10.7 and (a) 
+through (c) in the direction considered.
+(a) Coupling beams shall have ℓn/h ≥ 2 at all levels of the 
+building.
+(b) All coupling beams at a floor level shall have ℓn/h ≤ 5 
+in at least 90% of the levels of the building.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+Copyright American Concrete Institute 
+Provided by Accuris under license with ACI 
+Licensee=University of Texas Revised Sub Account/5620001114, User=Chen, Chang-Jui
+Not for Resale, 07/09/2025 15:21:12 MDT
+No reproduction or networking permitted without license from Accuris
+--``,```,,,```````,,`,,`,``,`-``,,`,,,,-``,,`,,,,---

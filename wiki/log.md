@@ -10,6 +10,24 @@ Registro cronológico append-only de operaciones sobre la wiki.
 
 ---
 
+## [2026-05-05] ingest | ACI 318-25_SI.pdf — Muros de hormigón armado (Cap. 11 y §18.10)
+
+**Operación:** Extracción e ingesta de capítulos de muros del PDF `raw/pdf/ACI 318-25_SI.pdf` (702 páginas, edición 2025 SI). Offset = 0.
+
+**Páginas creadas:**
+- `wiki/formulas/ACI-318-Ch11-Walls.md` — Muros generales: espesores mínimos, método simplificado (Ec. 11.5.3.1), corte en plano (Ec. 11.5.4.3), cuantías mínimas (Tabla 11.6.1), refuerzo con alta demanda de corte (Ec. 11.6.2), detallado, muros esbeltos (§11.8)
+- `wiki/formulas/ACI-318-Ch18-SpecialWalls.md` — Muros estructurales especiales: cuantías mínimas (§18.10.2), amplificación de corte Ωv·ωv (Tabla 18.10.3.3.3), resistencia al corte (Ec. 18.10.4.1), elementos de borde por desplazamiento (Ec. 18.10.6.2a) y por tensión (§18.10.6.3), confinamiento (Tabla 18.10.6.4(g))
+
+**Páginas actualizadas:**
+- `wiki/standards/ACI-318-25.md` — Agregados links a Cap. 11 y §18.10 en sección "Fórmulas Relacionadas" y frontmatter `related`
+- `wiki/index.md` — Agregadas dos filas en tabla Formulas
+
+**Archivos de extracción intermedios:**
+- `raw/references/ACI318_extract/Cap11_Walls.txt` — 10 páginas (doc p.179–188)
+- `raw/references/ACI318_extract/Cap18_SpecialStructuralWalls.txt` — 28 páginas (doc p.346–373)
+
+
+
 ## [2026-04-13] ingest | ACI 318-25_SI.pdf — Ingesta de capítulos de losas (Ch. 7 y 8)
 
 **Operación:** Extracción e ingesta de los capítulos de losas del PDF `raw/pdf/ACI 318-25_SI.pdf` (702 páginas, edición 2025 SI). Offset de páginas = 0 (doc_page = pdf_idx).

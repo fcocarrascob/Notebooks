@@ -25,6 +25,8 @@ Catálogo de todas las páginas de la wiki, organizado por categoría.
 | [ACI-318-Ch8-TwoWaySlabs](formulas/ACI-318-Ch8-TwoWaySlabs.md) | Losas bidireccionales — espesores mínimos, punzonamiento, transferencia M losa-columna, detallado |
 | [ACI-318-Ch9-Beams](formulas/ACI-318-Ch9-Beams.md) | Diseño de vigas — profundidades mínimas, flexión, corte, torsión |
 | [ACI-318-Ch10-Columns](formulas/ACI-318-Ch10-Columns.md) | Diseño de columnas — flexo-compresión, esbeltez, refuerzo |
+| [ACI-318-Ch11-Walls](formulas/ACI-318-Ch11-Walls.md) | Muros generales — espesores mínimos, método simplificado, corte en plano, refuerzo mínimo, muros esbeltos |
+| [ACI-318-Ch18-SpecialWalls](formulas/ACI-318-Ch18-SpecialWalls.md) | Muros estructurales especiales (sísmicos) — amplificación de corte, elementos de borde, confinamiento |
 | [ACI-318-Ch21-PhiFactors](formulas/ACI-318-Ch21-PhiFactors.md) | Factores φ de reducción — tabla completa, zonas de transición |
 | [ACI-318-Ch22-SectionalStrength](formulas/ACI-318-Ch22-SectionalStrength.md) | Resistencia seccional — bloque β1, Vc, Vs, Po, interacción |
 | [API-650-Seismic](formulas/API-650-Seismic.md) | Análisis sísmico de estanques — masas, alturas, períodos |
