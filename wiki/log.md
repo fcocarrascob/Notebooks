@@ -10,6 +10,15 @@ Registro cronológico append-only de operaciones sobre la wiki.
 
 ---
 
+## [2026-05-11] update | ACI-318-Ch10-Columns.md — Adición de refuerzo de corte en columnas
+
+**Operación:** Revisión y actualización de la página de columnas ACI 318-25 para incluir diseño al corte. Fuentes: `raw/references/ACI318_extract/Cap10.txt`, `Cap22.txt`, `Cap25.txt`.
+
+**Páginas actualizadas:**
+- `wiki/formulas/ACI-318-Ch10-Columns.md` — Agregadas secciones: Resistencia al Corte (§10.5.3, §22.5: Vn=Vc+Vs, Tabla 22.5.5.1 con efecto de Nu, factor de tamaño λs, Vs, límite dimensional, corte biaxial), Refuerzo Mínimo al Corte (§10.6.2: Av,min), Detallado del Refuerzo Transversal (§10.7.6.5: espaciados máximos Tabla 10.7.6.5.2, §25.7.2: estribas, §25.7.3: espiral mínima). Frontmatter actualizado con nuevas variables y secciones.
+
+---
+
 ## [2026-05-05] ingest | ACI 318-25_SI.pdf — Muros de hormigón armado (Cap. 11 y §18.10)
 
 **Operación:** Extracción e ingesta de capítulos de muros del PDF `raw/pdf/ACI 318-25_SI.pdf` (702 páginas, edición 2025 SI). Offset = 0.
